@@ -18,36 +18,36 @@ Ta książka to kompleksowy przewodnik po ADHD (Attention-Deficit/Hyperactivity 
 ## Struktura Książki
 
 ### Część I: Zrozumieć ADHD (Rozdziały 1-5)
-1. Co to właściwie jest ADHD?
-2. Neurobiologia ADHD - Jak Działa Mózg
-3. Genetyka i Czynniki Środowiskowe
-4. Diagnoza ADHD
-5. Współwystępujące Zaburzenia
+1. [Co to właściwie jest ADHD?](chapters/czesc-1-zrozumiec-adhd/rozdzial-01-co-to-jest-adhd.md)
+2. [Neurobiologia ADHD - Jak Działa Mózg](chapters/czesc-1-zrozumiec-adhd/rozdzial-02-neurobiologia.md)
+3. [Genetyka i Czynniki Środowiskowe](chapters/czesc-1-zrozumiec-adhd/rozdzial-03-genetyka-i-czynniki-srodowiskowe.md)
+4. [Diagnoza ADHD](chapters/czesc-1-zrozumiec-adhd/rozdzial-04-diagnostyka.md)
+5. [Współwystępujące Zaburzenia](chapters/czesc-1-zrozumiec-adhd/rozdzial-05-komorbiditety.md)
 
 ### Część II: Leczenie Farmakologiczne (Rozdziały 6-8)
-6. Stymulujące Leki (Methylphenidate, Amphetamines)
-7. Leki Niestymulujące (Atomoxetine, Guanfacine, Bupropion)
-8. Personalizacja Farmakoterapii
+6. [Stymulujące Leki (Methylphenidate, Amphetamines)](chapters/czesc-2-leczenie-farmakologiczne/rozdzial-06-leki-stymulujace.md)
+7. [Leki Niestymulujące (Atomoxetine, Guanfacine, Bupropion)](chapters/czesc-2-leczenie-farmakologiczne/rozdzial-07-leki-niestymulujace.md)
+8. [Personalizacja Farmakoterapii](chapters/czesc-2-leczenie-farmakologiczne/rozdzial-08-personalizacja-farmakoterapii.md)
 
 ### Część III: Psychologia i Terapia (Rozdziały 9-11)
-9. Funkcje Wykonawcze - Rdzeń Problemu
-10. Terapia Poznawczo-Behawioralna (CBT)
-11. Inne Podejścia Terapeutyczne
+9. [Funkcje Wykonawcze - Rdzeń Problemu](chapters/czesc-3-psychologia-i-terapia/rozdzial-09-funkcje-wykonawcze.md)
+10. [Terapia Poznawczo-Behawioralna (CBT)](chapters/czesc-3-psychologia-i-terapia/rozdzial-10-cbt-dla-adhd.md)
+11. [Inne Podejścia Terapeutyczne](chapters/czesc-3-psychologia-i-terapia/rozdzial-11-inne-podejscia-terapeutyczne.md)
 
 ### Część IV: Praktyczne Strategie (Rozdziały 12-14)
-12. Systemy i Organizacja
-13. Zarządzanie Energią i Uwagą
-14. Emocje, Relacje, Komunikacja
+12. [Systemy i Organizacja](chapters/czesc-4-praktyczne-strategie/rozdzial-12-systemy-i-organizacja.md)
+13. [Zarządzanie Energią i Uwagą](chapters/czesc-4-praktyczne-strategie/rozdzial-13-zarzadzanie-energia-i-uwaga.md)
+14. [Emocje, Relacje, Komunikacja](chapters/czesc-4-praktyczne-strategie/rozdzial-14-emocje-relacje-komunikacja.md)
 
 ### Część V: Biohacking i Optymalizacja (Rozdziały 15-18)
-15. Dieta i Odżywianie
-16. Aktywność Fizyczna
-17. Sen i Rytmy Dobowe
-18. Nootropiki i Suplementy
+15. [Dieta i Odżywianie](chapters/czesc-5-biohacking-i-optymalizacja/rozdzial-15-dieta-i-odzywianie.md)
+16. [Aktywność Fizyczna](chapters/czesc-5-biohacking-i-optymalizacja/rozdzial-16-aktywnosc-fizyczna.md)
+17. [Sen i Rytmy Dobowe](chapters/czesc-5-biohacking-i-optymalizacja/rozdzial-17-sen-i-rytmy-dobowe.md)
+18. [Nootropiki i Suplementy](chapters/czesc-5-biohacking-i-optymalizacja/rozdzial-18-nootropiki-i-suplementy.md)
 
 ### Część VI: Całościowe Podejście (Rozdziały 19-20)
-19. Integracja - Twój Personalny Protokół
-20. ADHD jako SuperPower?
+19. [Integracja - Twój Personalny Protokół](chapters/czesc-6-calosciowe-podejscie/rozdzial-19-integracja-personalny-protokol.md)
+20. [ADHD jako SuperPower?](chapters/czesc-6-calosciowe-podejscie/rozdzial-20-adhd-jako-superpower.md)
 
 ## Dla Kogo?
 
@@ -58,9 +58,9 @@ Ta książka to kompleksowy przewodnik po ADHD (Attention-Deficit/Hyperactivity 
 
 ## Status Projektu
 
-📝 **W trakcie pisania**
+✅ **UKOŃCZONE - 20/20 rozdziałów**
 
-Postęp: zobacz [claude.md](./claude.md) dla szczegółowego statusu
+Wszystkie rozdziały zostały napisane i są dostępne powyżej poprzez linki.
 
 ## Kluczowe Źródła
 
@@ -102,4 +102,5 @@ Copyright © 2025. Wszystkie prawa zastrzeżone.
 
 ---
 
-**Ostatnia aktualizacja:** 2025-12-28
+**Ostatnia aktualizacja:** 2025-12-29
+**Status:** Wszystkie 20 rozdziałów ukończone ✅
