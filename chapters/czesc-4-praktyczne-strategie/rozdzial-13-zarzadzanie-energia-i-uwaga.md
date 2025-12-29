@@ -54,13 +54,10 @@ Mechanizm neurologiczny jest precyzyjnie zidentyfikowany: mózg z ADHD ma trudno
 
 ### 1. Poznaj Swój Rytm Energii – Energy Mapping
 
-**Krok 1: Śledź energię przez 1-2 tygodnie**
+Pierwszym krokiem do pracy z Twoim naturalnym rytmem jest poznanie tego rytmu. Przez jeden do dwóch tygodni prowadź prosty dziennik energii. Co godzinę - dziewiąta, dziesiąta, jedenasta - oceń swoją energię na skali od jeden do dziesięć. Notuj też co robiłeś w tym czasie i jak się czułeś. Nie musisz być precyzyjny, nie musisz pisać esejów. Tylko liczba i krótka notatka.
 
-Stwórz prosty dziennik:
-- Co godzinę (9:00, 10:00, 11:00...) oceń energię: 1-10
-- Notuj: co robiłeś, jak się czułeś
+Przykładowy dziennik może wyglądać tak:
 
-**Przykład:**
 | Godzina | Energia (1-10) | Aktywność |
 |---------|---------------|-----------|
 | 9:00 | 7 | Praca – kod |
@@ -72,30 +69,17 @@ Stwórz prosty dziennik:
 | 15:00 | 7 | Praca – projekt B |
 | 16:00 | 8 | Hyperfocus – projekt B |
 
-**Krok 2: Znajdź wzorce**
+Po jednym do dwóch tygodni śledzenia przyjdź czas na analizę wzorców. Przejrzyj swoje notatki i szukaj powtarzających się trendów. **Kiedy masz szczyty energii?** Może to dziewiąta do dwunastej rano, może piętnasta do siedemnastej po południu. **Kiedy pojawiają się dołki?** Klasyczny post-lunch dip między trzynastą a czternastą to norma. Wieczorne spadki między osiemnastą a dwudziestą też są powszechne.
 
-Po 1-2 tygodniach zobacz:
-- **Kiedy masz szczyty energii?** (np. 9-12, 15-17)
-- **Kiedy dołki?** (np. 13-14 post-lunch, 18-20 wieczór)
+Teraz kluczowa część: **dopasuj zadania do poziomu energii**. To nie teoria, to praktyczna strategia która radykalnie zmienia produktywność.
 
-**Krok 3: Dopasuj zadania do energii**
+Gdy energia jest na szczycie - osiem do dziesięciu punktów - to czas na **deep work**. Zadania wymagające koncentracji: pisanie, kodowanie, analiza, kreatywność, rozwiązywanie problemów. Trudne decyzje które wymagają jasnego myślenia: planowanie strategii, priorytetyzacja projektów, ważne rozmowy. Nie marnuj tego czasu na banały.
 
-**Szczyt energii (8-10/10):**
-- **Deep work** – zadania wymagające koncentracji (pisanie, kod, analiza, kreatywność)
-- **Trudne decyzje** (planowanie, priorytetyzacja)
+Gdy energia jest średnia - pięć do siedmiu punktów - to dobry moment na **shallow work**. E-maile które nie wymagają głębokiego myślenia. Telefony i spotkania gdzie nie musisz tworzyć, tylko reagować. Rutynowe zadania które znasz na pamięć i możesz wykonać na autopilocie.
 
-**Średnia energia (5-7/10):**
-- **Shallow work** – e-maile, telefony, spotkania, rutynowe zadania
+Gdy energia spada do dołka - jeden do czterech punktów - nie próbuj walczyć. **Zrób przerwę**: spacer, jedzenie, odpoczynek, drzemka. Praca w dołku energii jest nieefektywna i frustrująca. Jeśli absolutnie musisz coś robić, wybierz najprostsze możliwe zadania: porządki na biurku, archiwizowanie plików, bardzo prosty research który nie wymaga myślenia.
 
-**Dołek energii (1-4/10):**
-- **Przerwa** – spacer, jedzenie, odpoczynek (nie próbuj pracować – będzie nieefektywne)
-- **Najprostsze zadania** – jeśli musisz coś robić: porządki, archiwizacja, prosty research
-
-**Przykład praktyczny (na podstawie powyższego dziennika):**
-- 9:00-12:00 (wysoka energia) → Pisanie raportu (trudne zadanie)
-- 13:00-14:00 (dołek) → Lunch + spacer (przerwa, nie praca!)
-- 15:00-17:00 (druga fala energii) → Projekt B (deep work)
-- 18:00+ (spadek) → E-maile, lekkie zadania lub koniec pracy
+Przykład praktyczny bazujący na dzienniku powyżej: od dziewiątej do dwunastej masz wysoką energię - to czas na pisanie raportu, najtrudniejsze zadanie dnia. Od trzynastej do czternastej jest dołek - lunch plus spacer, zero pracy. Od piętnastej do siedemnastej przychodzi druga fala energii - projekt B, deep work znowu. Po osiemnastej energia spada - e-maile, lekkie zadania albo po prostu koniec pracy.
 
 ###  2. Przerwy i Odbudowa – Recovery Jest Częścią Produktywności
 
