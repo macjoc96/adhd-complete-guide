@@ -20,53 +20,33 @@ W tym rozdziale odkryjesz konkretne strategie zarządzania energią i uwagą w A
 
 ### Hyperfocus vs. Distractibility – Dwa Końce Spectrum
 
-**Hyperfocus (nadkoncentracja):**
-- Stan intensywnej, wchłaniającej koncentracji na jednym zadaniu
-- Utrata poczucia czasu ("miały być 30 minut, minęło 6 godzin")
-- Ignorowanie bodźców zewnętrznych (głód, zmęczenie, telefon dzwoni – nie słyszysz)
-- **Kiedy się zdarza:** Gdy zadanie jest:
-  - Interesujące/pasjonujące
-  - Nowatorskie (wysoka stymulacja)
-  - Natychmiastowa gratyfikacja (gry, media społecznościowe, kreatywne projekty)
+**Hyperfocus** to stan intensywnej, totalnie wchłaniającej koncentracji na jednym zadaniu. Kiedy wpadasz w hyperfocus, czas przestaje istnieć - miały być trzydzieści minut, minęło sześć godzin i nie masz pojęcia jak to się stało. Ignorujesz wszystkie bodźce zewnętrzne: głód, zmęczenie, telefon który dzwoni, ludzie którzy do Ciebie mówią - nie słyszysz, nie rejestrujesz. Świat znika, istnieje tylko zadanie przed Tobą.
 
-**Distractibility (rozpraszalność):**
-- Niezdolność do utrzymania uwagi na zadaniu
-- Przeskakiwanie między zadaniami co kilka minut
-- Podatność na każdy bodziec (dźwięk, ruch, myśl)
-- **Kiedy się zdarza:** Gdy zadanie jest:
-  - Nudne/rutynowe
-  - Niska stymulacja
-  - Odległa gratyfikacja ("efekty zobaczę za miesiąc")
+Kiedy się to zdarza? Gdy zadanie jest interesujące i pasjonujące dla Twojego mózgu. Gdy jest nowatorskie i dostarcza wysokiej stymulacji. Gdy oferuje natychmiastą gratyfikację - gry komputerowe, media społecznościowe, kreatywne projekty gdzie widzisz efekt od razu. Wtedy dopamina płynie, mózg jest szczęśliwy i może pracować godzinami.
 
-**Dlaczego tak jest?**
+**Distractibility** to przeciwny biegun - kompletna niezdolność do utrzymania uwagi na zadaniu. Przeskakujesz między zadaniami co kilka minut, czasem co kilka sekund. Jesteś podatny na każdy bodziec - dźwięk za oknem, ruch w polu widzenia, przypadkowa myśl która przeleciała przez głowę - i już nie ma Cię przy zadaniu.
 
-**Dopamina** – neurotransmiter kluczowy dla uwagi i motywacji – jest **niedostateczna w ADHD** (szczególnie w układzie nagrody i PFC). Mózg z ADHD "szuka" dopaminy:
-- Interesujące zadanie = dopamina → hyperfocus
-- Nudne zadanie = brak dopaminy → rozproszenie, poszukiwanie stymulacji gdzie indziej (scrolling, przeskakiwanie zadań)
+Kiedy się to zdarza? Gdy zadanie jest nudne i rutynowe. Gdy dostarcza niskiej stymulacji. Gdy gratyfikacja jest odległa - "efekty zobaczę za miesiąc" nie wystarcza żeby utrzymać mózg zaangażowany. Bez dopaminy mózg desperacko szuka stymulacji gdzie indziej: scrolling social media, sprawdzanie e-maili, przeglądanie artykułów, cokolwiek co da natychmiastowy bodziec.
 
-**Paradoks:** Nie brak uwagi – **brak kontroli nad uwagą**. Mózg z ADHD ma uwagę "all or nothing": albo hiperfokus, albo rozproszenie.
+Dlaczego tak jest? **Dopamina** - neurotransmiter kluczowy dla uwagi i motywacji - jest niedostateczna w ADHD, szczególnie w układzie nagrody i korze przedczołowej. Mózg z ADHD nieustannie "szuka" dopaminy. Interesujące zadanie dostarcza dopaminę, więc dostajesz hyperfocus. Nudne zadanie nie dostarcza dopaminy, więc dostajesz rozproszenie i poszukiwanie stymulacji gdzie indziej.
+
+Paradoks jest jasny: to nie brak uwagi. To **brak kontroli nad uwagą**. Mózg z ADHD ma uwagę typu "wszystko albo nic" - albo totalne wciągnięcie, albo kompletne rozproszenie. Nie ma pośrodku, nie ma regulacji.
 
 ### Ultradian Rhythms – Naturalny Rytm Energii (90-120 min Cykle)
 
-**Badania snu i czuwania** (Nathan Kleitman, 1960s) pokazują, że ludzie działają w **ultradianowych cyklach energii** (~90-120 min):
-- **Faza wzrostu:** Energia i czuwanie rosną (pierwsze 60-90 min) → najlepsza koncentracja
-- **Faza spadku:** Energia opada (następne 20-30 min) → trudność z koncentracją, potrzeba przerwy
+Badania snu i czuwania, zapoczątkowane przez Nathana Kleitmana w latach sześćdziesiątych, odkryły coś fascynującego: ludzie nie funkcjonują na stałym poziomie energii przez cały dzień. Działamy w **ultradianowych cyklach energii** trwających mniej więcej dziewięćdziesiąt do sto dwadzieścia minut.
 
-**W ADHD te cykle są bardziej wyraźne** (większe amplitudy wzlotów/upadków):
-- Szczyt energii → możliwy hyperfocus
-- Dołek energii → nie ma mowy o pracy (paraliż, scrolling, prokrastynacja)
+Każdy cykl ma dwie fazy. **Faza wzrostu** to pierwsze sześćdziesiąt do dziewięćdziesięciu minut, kiedy energia i czuwanie rosną - to moment najlepszej koncentracji, najwyższej wydajności poznawczej, największej siły woli. **Faza spadku** to następne dwadzieścia do trzydziestu minut, kiedy energia naturalnie opada - koncentracja słabnie, myślenie zwalnia, ciało sygnalizuje potrzebę przerwy.
 
-**Kluczowa strategia:** Nie walcz z cyklami – **pracuj z nimi**. Trudne/ważne zadania w szczycie energii, przerwy/rutyny w dołku.
+W ADHD te cykle są bardziej wyraźne - większe amplitudy wzlotów i upadków, ostrzejsze przejścia. Szczyt energii może dać Ci możliwość wejścia w hyperfocus - jeśli trafisz na właściwe zadanie we właściwym momencie. Dołek energii to katastrofa - nie ma mowy o produktywnej pracy, tylko paraliż, scrolling, prokrastynacja, desperackie szukanie stymulacji.
+
+Kluczowa strategia brzmi prosto ale wymaga świadomości: **nie walcz z cyklami, pracuj z nimi**. Trudne i ważne zadania planuj na szczyt energii - tam gdzie masz moc skupienia. Przerwy, rutynowe zadania, odpoczynek zaplanuj na dołek - tam gdzie i tak nie dasz rady się skupić. Walczenie z naturalnym rytmem to strata energii i pewna porażka.
 
 ### Przeciążenie Sensoryczne – Gdy Zbyt Wiele = Paraliż
 
-Osoby z ADHD często mają **niższą tolerancję na bodźce sensoryczne**:
-- Hałas (rozmowy, muzyka, ruch uliczny)
-- Światło (jaskrawe/migające światła)
-- Dotyk (ubrania drapią, etykietki)
-- Wizualne (bałagan, wiele rzeczy w polu widzenia)
+Osoby z ADHD często mają znacząco niższą tolerancję na bodźce sensoryczne niż ludzie neurotypowi. Hałas - rozmowy w tle, muzyka z sąsiedniego pokoju, ruch uliczny za oknem - który inni łatwo ignorują, dla Ciebie jest nie do zniesienia. Światło jaskrawe czy migające wywołuje dyskomfort, czasem fizyczny ból. Dotyk ubrań które drapią, etykietki które uwierają, tekstury które "czujesz źle" mogą pochłaniać uwagę całkowicie. Wizualny bałagan - wiele rzeczy w polu widzenia, nieporządek na biurku - zamiast być neutralnym tłem staje się rozpraszającym szumem.
 
-**Mechanizm:** Mózg z ADHD ma trudności z **filtrowaniem nieistotnych bodźców** (słaba funkcja "gating" w układzie limbicznym). Rezultat: wszystko "wchodzi" → przeciążenie → trudność z koncentracją lub shutdown (paraliż).
+Mechanizm neurologiczny jest precyzyjnie zidentyfikowany: mózg z ADHD ma trudności z **filtrowaniem nieistotnych bodźców**. W układzie limbicznym funkcja "gating" - bramkowania informacji sensorycznych - działa słabo. Normalnie mózg automatycznie "wycisza" bodźce które nie są ważne dla bieżącego zadania. W ADHD ten filtr zawodzi. Rezultat? Wszystko "wchodzi" - każdy dźwięk, każdy ruch, każda zmiana światła dociera do świadomości z pełną siłą. To prowadzi do przeciążenia sensorycznego: za dużo informacji, za mało mocy przetwarzania. Efekt końcowy to albo drastyczna trudność z koncentracją, albo shutdown - całkowity paraliż gdy system nerwowy mówi "dość, wyłączam się".
 
 ---
 
