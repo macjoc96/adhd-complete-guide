@@ -69,8 +69,8 @@ Co możesz zrobić, aby wspierać zdrowy mikrobiom? Dieta odgrywa kluczową rol�
 - Jeśli **nie masz NCGS** – eliminacja glutenu prawdopodobnie nie pomoże (chyba że testujesz i widzisz osobistą poprawę)
 
 **Jak przetestować?**
-- Strict elimination przez 4-6 tygodni
-- Reintroduction i obserwacja objawów (brain fog, impulsiveness, digestive issues)
+- Strict elimination przez cztery do sześciu tygodni
+- Reintroduction i obserwacja objawów (mgła mózgowa, impulsywność, problemy trawienne)
 
 **2. Cukier i Rafinowane Węglowodany**
 
@@ -179,14 +179,14 @@ Dawkowanie to zwykle 10-50 miliardów CFU (jednostek tworzących kolonie) dzienn
 
 ### Protokół 5: Elimination Challenge (jeśli podejrzewasz food sensitivities)
 
-**Krok 1: Baseline (tydzień 1)**
-- Tracking objawów ADHD codziennie (skala 1-10):
-  - Uwaga/focus
+**Krok 1: Baseline (tydzień pierwszy)**
+- Śledzenie objawów ADHD codziennie (skala jeden do dziesięciu):
+  - Uwaga/koncentracja
   - Impulsywność
   - Hiperaktywność
-  - Brain fog
+  - Mgła mózgowa
   - Nastrój
-- Tracking diety: co jesz, kiedy
+- Śledzenie diety: co jesz, kiedy
 
 **Krok 2: Elimination (tygodnie 2-5)**
 
@@ -206,10 +206,10 @@ Wyeliminuj **top allergens/sensitivities**:
 **Krok 3: Reintroduction (tygodnie 6-9)**
 
 **Protokół reintrodukcji (jeden produkt na raz):**
-1. Dzień 1: Wprowadź 1 produkt (np. gluten – jedz chleb przez cały dzień)
-2. Dni 2-4: Obserwuj objawy (brain fog? impulsy worse? digestive issues?)
-3. Dzień 5: Jeśli brak objawów → OK. Jeśli są → sensitivity potwierdzona
-4. Następny produkt po 5 dniach
+1. Dzień pierwszy: Wprowadź jeden produkt (np. gluten – jedz chleb przez cały dzień)
+2. Dni dwa do czterech: Obserwuj objawy (mgła mózgowa? gorsze impulsy? problemy trawienne?)
+3. Dzień piąty: Jeśli brak objawów → OK. Jeśli są → sensitivity potwierdzona
+4. Następny produkt po pięciu dniach
 
 **Kluczowe:** Prowadź **dziennik obserwacji** – często związki nie są oczywiste
 
@@ -218,17 +218,17 @@ Wyeliminuj **top allergens/sensitivities**:
 ### Przykład 1: Tomek – Transformacja przez High-Protein Breakfast
 
 **Przed:**
-- **Śniadanie**: Płatki kukurydziane + mleko + banan (90% carbs)
-- **10:00 AM**: "Brain fog", nie może się skupić w pracy, sięga po kawę + ciastko
+- **Śniadanie**: Płatki kukurydziane + mleko + banan (dziewięćdziesiąt procent węglowodanów)
+- **10:00**: "Mgła mózgowa", nie może się skupić w pracy, sięga po kawę + ciastko
 - **12:00**: Głodny jak wilk, przejada się w lunch
 - **Popołudnie**: Rollercoaster energii, produktywność katastrofalna
 
-**Interwencja:** Zmiana śniadania na 3-egg omelet + awokado + pełnoziarnisty tost
+**Interwencja:** Zmiana śniadania na omlet z trzech jajek + awokado + pełnoziarnisty tost
 
-**Po 2 tygodniach:**
+**Po dwóch tygodniach:**
 - **Stabilna energia** do lunchu (11:30-12:00)
-- **Focus rating**: wzrost z 3/10 do 6-7/10 w godzinach 9-12
-- **Nie potrzebuje** porannej kawy (nadal pije, ale z choice, nie desperacji)
+- **Ocena koncentracji**: wzrost z 3/10 do 6-7/10 w godzinach 9-12
+- **Nie potrzebuje** porannej kawy (nadal pije, ale z wyboru, nie desperacji)
 - **Lunch**: Mniejsze porcje, bez przejadania
 
 **Po 3 miesiącach:**
@@ -251,13 +251,13 @@ Wyeliminuj **top allergens/sensitivities**:
   - Ania: 2000mg EPA+DHA (1:1), rano i wieczorem
 
 **Tydzień 6:**
-- Ania: "Zauważyłam, że łatwiej mi się skupić podczas czytania. Nie muszę wracać do tego samego zdania 5 razy."
+- Ania: "Zauważyłam, że łatwiej mi się skupić podczas czytania. Nie muszę wracać do tego samego zdania pięć razy."
 - Zosia: Nauczycielka zgłasza: "Zosia lepiej siedzi podczas lekcji, mniej impulsywna w odpowiedziach"
 
-**Miesiąc 3:**
+**Miesiąc trzeci:**
 - **Omega-3 index**: Ania 7.1%, Zosia 6.9%
-- **ADHD Rating Scale**: Zosia – spadek z 42 do 31 (26% improvement)
-- **Ania's self-rating**: Focus 5/10 → 7/10, Emotional regulation 4/10 → 6/10
+- **ADHD Rating Scale**: Zosia – spadek z 42 do 31 (dwadzieścia sześć procent poprawy)
+- **Samoocena Ani**: Koncentracja 5/10 → 7/10, Regulacja emocjonalna 4/10 → 6/10
 
 **Miesiąc 6:**
 - Lekarz Zosi redukuje dawkę methylphenidate z 20mg do 15mg
@@ -267,37 +267,37 @@ Wyeliminuj **top allergens/sensitivities**:
 
 ### Przykład 3: Marek – Elimination Diet Revelation
 
-**Sytuacja:** Marek (32, ADHD) od lat "walczy" z ADHD. Leki pomagają, ale:
-- Chroniczny brain fog (szczególnie popołudniami)
+**Sytuacja:** Marek (trzydzieści dwa lata, ADHD) od lat "walczy" z ADHD. Leki pomagają, ale:
+- Chroniczna mgła mózgowa (szczególnie popołudniami)
 - Wzdęcia, dyskomfort jelitowy
 - Częste "crashes" energii
 
 **Przypuszczenie:** "Może to jedzenie?"
 
 **Protokół:**
-- **Tydzień 1**: Baseline tracking → brain fog średnio 7/10, problemy jelitowe 8/10
-- **Tygodnie 2-5**: Strict elimination (gluten, nabiał, cukier, sztuczne dodatki)
-  - Tydzień 2: "Ciężko. Wszystko jest nudne."
-  - Tydzień 3: "Hm, dzisiaj popołudnie byłem produktywny do 16:00. To niezwykłe."
-  - Tydzień 4-5: "Brain fog spadł do 3-4/10. Problemy jelitowe praktycznie zniknęły (2/10)."
+- **Tydzień pierwszy**: Baseline tracking → mgła mózgowa średnio 7/10, problemy jelitowe 8/10
+- **Tygodnie dwa do pięciu**: Strict elimination (gluten, nabiał, cukier, sztuczne dodatki)
+  - Tydzień drugi: "Ciężko. Wszystko jest nudne."
+  - Tydzień trzeci: "Hm, dzisiaj popołudnie byłem produktywny do 16:00. To niezwykłe."
+  - Tydzień czwarty do piątego: "Mgła mózgowa spadła do 3-4/10. Problemy jelitowe praktycznie zniknęły (2/10)."
 
 **Reintrodukcja:**
 - **Ryż, owoce, warzywa**: OK
-- **Gluten** (dzień 1 reintrodukcji): "Wieczorem czuję się jak w mgle. Następnego dnia – fatigue, brain fog 8/10. Wow."
-- **Nabiał**: Lekkie wzdęcia, ale brain fog OK
+- **Gluten** (dzień pierwszy reintrodukcji): "Wieczorem czuję się jak w mgle. Następnego dnia – zmęczenie, mgła mózgowa 8/10. Wow."
+- **Nabiał**: Lekkie wzdęcia, ale mgła mózgowa OK
 - **Cukier**: Spike energii, potem crash
 
 **Wnioski:**
 - Marek ma **non-celiac gluten sensitivity**
-- Eliminacja glutenu → brain fog 2-3/10 (vs 7/10)
-- "To jak noc i dzień. Żałuję, że nie sprawdziłem tego 10 lat temu."
+- Eliminacja glutenu → mgła mózgowa 2-3/10 (wobec 7/10)
+- "To jak noc i dzień. Żałuję, że nie sprawdziłem tego dziesięć lat temu."
 
 **Obecnie (rok później):**
 - Dieta bezglutenowa (90% compliance)
 - Obniżył dawkę lisdexamfetamine z 50mg do 30mg
 - "Czuję, że w końcu rozumiem, co działa dla MOJEGO mózgu"
 
-**Kluczowa lekcja:** Nie każdy ma gluten sensitivity, ale **jeśli masz chroniczny brain fog + digestive issues, warto przetestować**.
+**Kluczowa lekcja:** Nie każdy ma gluten sensitivity, ale **jeśli masz chroniczną mgłę mózgową + problemy trawienne, warto przetestować**.
 
 ## Kluczowe Wnioski
 
@@ -319,8 +319,8 @@ Wyeliminuj **top allergens/sensitivities**:
 
 ### Tydzień 1: Foundation – Stabilizacja Glukozy
 
-- [ ] **Wdróż high-protein breakfast** (25-30g proteiny): Jajka/Greek yogurt/shake proteinowy
-- [ ] **Tracking glukozy emocjonalnej**: Oceń focus & energy co 2h (skala 1-10), zanotuj co jadłeś
+- [ ] **Wdróż śniadanie wysokobiałkowe** (dwadzieścia pięć do trzydziestu gramów proteiny): Jajka/Greek yogurt/shake proteinowy
+- [ ] **Śledzenie glukozy emocjonalnej**: Oceń koncentrację i energię co dwie godziny (skala jeden do dziesięciu), zanotuj co jadłeś
 - [ ] **Eliminuj naked carbs**: Jeśli jesz węglowodany (chleb, owoce), dodaj protein/fat (np. jabłko + masło orzechowe)
 
 ### Tydzień 2: Omega-3 Start
@@ -333,42 +333,42 @@ Wyeliminuj **top allergens/sensitivities**:
 
 - [ ] **Dodaj 1 źródło prebiotycznego błonnika** do każdego posiłku (czosnek, cebula, banany, owies)
 - [ ] **Wprowadź 1 fermented food dziennie**: Greek yogurt / kefir / kimchi / sauerkraut
-- [ ] **Hydratacja**: 2-3L wody dziennie (kluczowe dla gut health i brain function)
+- [ ] **Hydratacja**: Dwa do trzech litrów wody dziennie (kluczowe dla zdrowia jelit i funkcji mózgu)
 
-### Tydzień 4: Meal Prep System
+### Tydzień czwarty: System przygotowywania posiłków
 
-- [ ] **Niedziela: 2h meal prep**:
+- [ ] **Niedziela: dwie godziny przygotowania posiłków**:
   - Ugotuj proteiny na tydzień (kurczak, ryba, jajka na twardo)
-  - Przygotuj 3-4 warzywa (brokuły, sweet potato, sałata)
-  - Ugotuj grains (quinoa, ryż, owsianka na 3 dni)
-- [ ] **Stwórz meal plan template**: 7 śniadań + 7 obiadów + 7 kolacji (rotacja co tydzień)
+  - Przygotuj trzy do czterech warzyw (brokuły, sweet potato, sałata)
+  - Ugotuj grains (quinoa, ryż, owsianka na trzy dni)
+- [ ] **Stwórz szablon planu posiłków**: Siedem śniadań + siedem obiadów + siedem kolacji (rotacja co tydzień)
 
 ### Miesiąc 2-3: Optimization & Testing
 
-- [ ] **Kontynuuj omega-3** (minimum 3 miesiące dla pełnego efektu)
-- [ ] **Oceń efekty**: Czy focus się poprawił? Energy stabilniejsza? Emotional regulation lepsza?
-- [ ] **Jeśli chroniczny brain fog/digestive issues**: Rozważ elimination diet (gluten, nabiał, cukier) na 4 tygodnie
+- [ ] **Kontynuuj omega-3** (minimum trzy miesiące dla pełnego efektu)
+- [ ] **Oceń efekty**: Czy koncentracja się poprawiła? Energia stabilniejsza? Regulacja emocjonalna lepsza?
+- [ ] **Jeśli chroniczna mgła mózgowa/problemy trawienne**: Rozważ elimination diet (gluten, nabiał, cukier) na cztery tygodnie
 
 ### Długoterminowo
 
-- [ ] **Quarterly blood work**: Ferritin, omega-3 index, Mg, Zn – dostosuj suplementację
-- [ ] **Meal prep habit**: Niedzielny ritual przygotowań (upraszcza tydzień)
-- [ ] **80/20 rule**: 80% czasu jedz zgodnie z protokołem, 20% elastyczność (social events, etc.)
+- [ ] **Kwartalne badania krwi**: Ferritin, omega-3 index, Mg, Zn – dostosuj suplementację
+- [ ] **Nawyk przygotowywania posiłków**: Niedzielny rytuał przygotowań (upraszcza tydzień)
+- [ ] **Zasada 80/20**: Osiemdziesiąt procent czasu jedz zgodnie z protokołem, dwadzieścia procent elastyczność (spotkania towarzyskie, etc.)
 
 ## Zasoby
 
-### Aplikacje do Trackingu
+### Aplikacje do śledzenia
 
-**Dieta & Składniki:**
-- **Cronometer** (iOS/Android) – Tracking mikronutrientów (żelazo, Mg, Zn, omega-3)
-- **MyFitnessPal** (iOS/Android) – Prostsze, focus na makronutrientach (proteina, carbs, fat)
+**Dieta i składniki:**
+- **Cronometer** (iOS/Android) – Śledzenie mikronutrientów (żelazo, Mg, Zn, omega-3)
+- **MyFitnessPal** (iOS/Android) – Prostsze, skupione na makronutrientach (proteina, carbs, fat)
 
-**Meal Planning:**
+**Planowanie posiłków:**
 - **Mealime** (iOS/Android) – Personalized meal plans, grocery lists
 - **Paprika** (iOS/Android) – Recipe manager + meal planning
 
-**Symptom Tracking:**
-- **Bearable** (iOS/Android) – Track ADHD symptoms + food + sleep (korelacje)
+**Śledzenie objawów:**
+- **Bearable** (iOS/Android) – Śledź objawy ADHD + jedzenie + sen (korelacje)
 
 ### Testy Laboratoryjne (Do Konsultacji z Lekarzem)
 
@@ -426,7 +426,7 @@ Wyeliminuj **top allergens/sensitivities**:
 - **Mediterranean Living** (mediterraneanliving.com)
 - **Olive Tomato** (olivetomato.com)
 
-**Meal Prep dla ADHD:**
+**Przygotowanie posiłków dla ADHD:**
 - **r/MealPrepSunday** (Reddit) – Inspiracje, zdjęcia, strategie
 - **Budget Bytes** (budgetbytes.com) – Tanie, proste przepisy
 

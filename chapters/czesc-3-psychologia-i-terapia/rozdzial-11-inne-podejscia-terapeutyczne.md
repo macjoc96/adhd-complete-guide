@@ -4,9 +4,9 @@
 
 Siedzisz z psychologiem po trzech miesiącach CBT. "CBT pomaga" - mówisz - "Z organizacją, z negatywnymi myślami, z prokrastynacją. Ale emocje... wciąż są problemem. Wciąż wybucham na partnera z drobnych powodów. Wciąż czuję się przytłoczony małymi rzeczami. Czy jest coś jeszcze co mogę spróbować?"
 
-Psycholog kiwa głową. "CBT to doskonały fundament, ale ADHD to spektrum wyzwań. Dla niektórych osób - szczególnie z intensywnymi emocjami, problemami w relacjach, z chronicznym stresem - dodatkowe podejścia mogą być pomocne. **DBT** dla regulacji emocji. **Mindfulness** dla świadomości tu i teraz. **Coaching ADHD** dla praktycznych strategii życiowych. **Terapia par** dla relacji. Każde z nich adresuje inny aspekt życia z ADHD."
+Psycholog kiwa głową. "CBT to doskonały fundament, ale ADHD to spektrum wyzwań. Dla niektórych osób - szczególnie z intensywnymi emocjami, problemami w relacjach, z chronicznym stresem - dodatkowe podejścia mogą być pomocne. **DBT** dla regulacji emocji. **Praktyki uważności** dla świadomości tu i teraz. **Coaching ADHD** dla praktycznych strategii życiowych. **Terapia par** dla relacji. Każde z nich adresuje inny aspekt życia z ADHD."
 
-Choć **CBT jest złotym standardem psychoterapii w ADHD**, nie jest jedynym narzędziem w arsenale. W tym rozdziale przyjrzymy się **alternatywnym i komplementarnym podejściom terapeutycznym**: od DBT (Dialectical Behavior Therapy) przez mindfulness, coaching ADHD, terapię rodzinną i par, grupy wsparcia, aż po neurofeedback. Zrozumiesz, kiedy każde z nich może być pomocne, jakie mają podstawy naukowe, i jak zdecydować, które podejście (lub kombinacja podejść) jest właściwe dla ciebie.
+Choć **CBT jest złotym standardem psychoterapii w ADHD**, nie jest jedynym narzędziem w arsenale. W tym rozdziale przyjrzymy się **alternatywnym i komplementarnym podejściom terapeutycznym**: od DBT (Dialectical Behavior Therapy) przez praktyki uważności, coaching ADHD, terapię rodzinną i par, grupy wsparcia, aż po neurofeedback. Zrozumiesz, kiedy każde z nich może być pomocne, jakie mają podstawy naukowe, i jak zdecydować, które podejście (lub kombinacja podejść) jest właściwe dla ciebie.
 
 ---
 
@@ -20,21 +20,21 @@ Choć **CBT jest złotym standardem psychoterapii w ADHD**, nie jest jedynym nar
 
 **Kluczowe komponenty DBT:**
 
-1. **Mindfulness (Uważność):** Świadomość "tu i teraz" bez osądzania
-2. **Distress Tolerance (Tolerancja Dystre su):** Jak przetrwać kryzys bez destrukcyjnych zachowań (impulsywność, autodestrukcja)
-3. **Emotion Regulation (Regulacja Emocji):** Jak rozpoznawać, rozumieć i modulować emocje
-4. **Interpersonal Effectiveness (Efektywność Międzyludzka):** Jak komunikować potrzeby, stawiać granice, utrzymywać zdrowe relacje
+1. **Uważność:** Świadomość "tu i teraz" bez osądzania
+2. **Tolerancja dystresu:** Jak przetrwać kryzys bez destrukcyjnych zachowań (impulsywność, autodestrukcja)
+3. **Regulacja emocji:** Jak rozpoznawać, rozumieć i modulować emocje
+4. **Efektywność międzyludzka:** Jak komunikować potrzeby, stawiać granice, utrzymywać zdrowe relacje
 
 #### Dlaczego DBT w ADHD?
 
-- **40-70% osób z ADHD ma deficyty regulacji emocji** (Barkley, 2015)
+- **Czterdzieści do siedemdziesięciu procent osób z ADHD ma deficyty regulacji emocji** (Barkley, 2015)
 - Intensywne, szybkie emocje → impulsywne reakcje → żal i wstyd
 - RSD (Rejection Sensitive Dysphoria) – nadwrażliwość na odrzucenie/krytykę
 - Trudności w relacjach przez impulsywne słowa/działania
 
 **Badania:**
-- **Philipsen et al. (2007):** DBT grupa dla dorosłych z ADHD – **redukcja objawów ADHD o 30%**, znacząca poprawa regulacji emocji
-- **Hirvikoski et al. (2011):** DBT vs. grupa kontrolna – **poprawa objawów emocjonalnych, impulsywności, funkcjonowania społecznego**
+- **Philipsen et al. (2007):** DBT grupa dla dorosłych z ADHD – **redukcja objawów ADHD o trzydzieści procent**, znacząca poprawa regulacji emocji
+- **Hirvikoski et al. (2011):** DBT wobec grupa kontrolna – **poprawa objawów emocjonalnych, impulsywności, funkcjonowania społecznego**
 
 #### Praktyczne Techniki DBT dla ADHD
 
@@ -63,40 +63,40 @@ Choć **CBT jest złotym standardem psychoterapii w ADHD**, nie jest jedynym nar
 
 ---
 
-### 2. Mindfulness (Uważność) i ADHD
+### 2. Praktyki Uważności i ADHD
 
-#### Czym Jest Mindfulness?
+#### Czym Są Praktyki Uważności?
 
-**Mindfulness (uważność)** to praktyka świadomego zwracania uwagi na teraźniejszą chwilę bez osądzania. Wywodzi się z buddyzmu, ale została zaadaptowana do medycyny/psychologii (MBSR – Mindfulness-Based Stress Reduction, MBCT – Mindfulness-Based Cognitive Therapy).
+**Praktyki uważności** to metoda świadomego zwracania uwagi na teraźniejszą chwilę bez osądzania. Wywodzą się z buddyzmu, ale zostały zaadaptowane do medycyny i psychologii (MBSR – Mindfulness-Based Stress Reduction, MBCT – Mindfulness-Based Cognitive Therapy).
 
 **Kluczowe elementy:**
 - **Uwaga na oddech:** Kotwica w "tu i teraz"
 - **Obserwacja myśli/emocji bez osądzania:** "Myśl to tylko myśl, nie fakt"
 - **Powrót do teraźniejszości:** Gdy umysł wędruje (a w ADHD wędruje często), łagodnie wracasz
 
-#### Dlaczego Mindfulness w ADHD?
+#### Dlaczego Praktyki Uważności w ADHD?
 
-**Paradoks:** ADHD = problem z uwagą → Mindfulness = trening uwagi. Czy to ma sens?
+**Paradoks:** ADHD = problem z uwagą → Praktyki uważności = trening uwagi. Czy to ma sens?
 
 **TAK** – i badania to potwierdzają:
-- Mindfulness **wzmacnia kontrolę uwagi** (szczególnie utrzymywanie uwagi, powrót po rozproszeniu)
-- **Redukuje impulsywność** – tworzy "przestrzeń" między bodźcem a reakcją
-- **Poprawia regulację emocji** – obserwujesz emocje zamiast na nie reagować
-- **Zwiększa świadomość ciała** – zauważasz znaki stresu, zmęczenia wcześniej
+- Praktyki uważności **wzmacniają kontrolę uwagi** (szczególnie utrzymywanie uwagi, powrót po rozproszeniu)
+- **Redukują impulsywność** – tworzą "przestrzeń" między bodźcem a reakcją
+- **Poprawiają regulację emocji** – obserwujesz emocje zamiast na nie reagować
+- **Zwiększają świadomość ciała** – zauważasz znaki stresu, zmęczenia wcześniej
 
 **Badania:**
-- **Meta-analiza Cairncross & Miller (2020):** Mindfulness w ADHD – **effect size d=0.43** (średni efekt) na objawy ADHD, **d=0.50** na funkcje wykonawcze
-- **Mitchell et al. (2017):** 8-tygodniowy program mindfulness dla dorosłych z ADHD – **redukcja objawów o 30%**, poprawa regulacji emocji
-- **Zylowska et al. (2008):** MAPs (Mindful Awareness Practices) – **78% uczestników** zgłosiło poprawę uwagi i redukcję impulsywności
+- **Meta-analiza Cairncross & Miller (2020):** Praktyki uważności w ADHD – **wielkość efektu d=0.43** (średni efekt) na objawy ADHD, **d=0.50** na funkcje wykonawcze
+- **Mitchell et al. (2017):** Ośmiotygodniowy program uważności dla dorosłych z ADHD – **redukcja objawów o trzydzieści procent**, poprawa regulacji emocji
+- **Zylowska et al. (2008):** MAPs (Mindful Awareness Practices) – **siedemdziesiąt osiem procent uczestników** zgłosiło poprawę uwagi i redukcję impulsywności
 
-#### Praktyczne Ćwiczenia Mindfulness dla ADHD
+#### Praktyczne ćwiczenia uważności dla ADHD
 
-**A. 3-Minute Breathing Space (3-minutowa przestrzeń oddychania):**
+**A. 3-Minute Breathing Space (trzyminutowa przestrzeń oddychania):**
 - **Minuta 1:** Zauważ co się dzieje (myśli, emocje, sensacje) – "Co czuję teraz?"
 - **Minuta 2:** Skupienie na oddechu – liczyć 10 oddechów
 - **Minuta 3:** Rozszerzenie uwagi na całe ciało
 
-**B. Mindful Walking (uważne chodzenie):**
+**B. Uważne chodzenie:**
 - Spacer w tempie nieco wolniejszym niż normalnie
 - Uwaga na sensacje stóp dotykających ziemi, ruch nóg, oddech
 - Gdy umysł wędruje (a będzie) – łagodnie wracasz do stóp
@@ -107,16 +107,16 @@ Choć **CBT jest złotym standardem psychoterapii w ADHD**, nie jest jedynym nar
 - **I – Investigate:** Badaj z ciekawością ("Gdzie czuję to w ciele? Co myślę?")
 - **N – Non-identification:** Nie utożsamiaj się ("Jestem osobą, która doświadcza złości, nie JESTEM złością")
 
-**Wyzwania Mindfulness w ADHD:**
-- **Trudność z usiedzeniem:** Rozwiązanie: Zacznij od 2-3 minut, nie 20; spróbuj mindful walking zamiast siedzenia
-- **Umysł ciągle wędruje:** To NORMALNE w ADHD (i nie tylko). Mindfulness to praktyka powrotu, nie "idealnej ciszy"
-- **Nuda/Frustracja:** Mindfulness nie musi być "relaksujący" – czasem jest trudny. Ale to trening, jak siłownia dla umysłu
+**Wyzwania praktyk uważności w ADHD:**
+- **Trudność z usiedzeniem:** Rozwiązanie: Zacznij od dwóch do trzech minut, nie dwudziestu; spróbuj uważnego chodzenia zamiast siedzenia
+- **Umysł ciągle wędruje:** To NORMALNE w ADHD (i nie tylko). Praktyka uważności to praktyka powrotu, nie "idealnej ciszy"
+- **Nuda/Frustracja:** Praktyki uważności nie muszą być "relaksujące" – czasem są trudne. Ale to trening, jak siłownia dla umysłu
 
-**Kiedy rozważyć Mindfulness:**
+**Kiedy rozważyć praktyki uważności:**
 - Problemy z "byciem w teraźniejszości" – umysł ciągle w przeszłości/przyszłości
-- Stres, lęk, rumina cje
+- Stres, lęk, ruminacje
 - Trudności z regulacją emocji
-- Chcesz uzupełnić CBT/leki (mindfulness + leki działają synergistycznie)
+- Chcesz uzupełnić CBT/leki (praktyki uważności + leki działają synergistycznie)
 
 ---
 
@@ -126,7 +126,7 @@ Choć **CBT jest złotym standardem psychoterapii w ADHD**, nie jest jedynym nar
 
 **Coaching ADHD** to **nieklini czne** wsparcie skupione na **praktycznych strategiach**, celach i accountability. Coach nie jest terapeutą (nie leczy zaburzeń psychicznych), ale **partnerem w budowaniu systemów życiowych** dla osoby z ADHD.
 
-**Różnice Coach vs. Terapeuta:**
+**Różnice Coach wobec terapeuty:**
 
 | **Terapeuta (CBT/DBT)** | **Coach ADHD** |
 |-------------------------|----------------|
@@ -144,7 +144,7 @@ Choć **CBT jest złotym standardem psychoterapii w ADHD**, nie jest jedynym nar
 
 **Badania:**
 - **Swartz et al. (2005):** Coaching dla dorosłych z ADHD – **poprawa objawów, samooceny, jakości życia**
-- **Ahmann et al. (2018):** Meta-analiza coachingu w ADHD – **effect size d=0.49** (średni efekt) na objawy ADHD, **d=0.57** na funkcjonowanie wykonawcze
+- **Ahmann et al. (2018):** Meta-analiza coachingu w ADHD – **wielkość efektu d=0.49** (średni efekt) na objawy ADHD, **d=0.57** na funkcjonowanie wykonawcze
 
 **Kiedy rozważyć Coaching:**
 - Potrzebujesz praktycznych strategii (organizacja, zarządzanie czasem, produktywność)
@@ -213,7 +213,7 @@ Choć **CBT jest złotym standardem psychoterapii w ADHD**, nie jest jedynym nar
 - **ADDitude Magazine:** Fora online, webinary
 - **Polski:** Fundacja SYNAPSIS (grupy wsparcia w większych miastach), Facebookowe grupy ADHD Polska
 
-**Online vs. Presencyjnie:**
+**Online wobec presencyjnie:**
 - **Online:** Wygodniej (bez dojazdu), większy wybór, ale mniej osobisty kontakt
 - **Presencyjnie:** Głębsze połączenie, lepsza accountability, ale wymaga wyjścia z domu
 
@@ -223,7 +223,7 @@ Choć **CBT jest złotym standardem psychoterapii w ADHD**, nie jest jedynym nar
 
 #### Czym Jest Neurofeedback?
 
-**Neurofeedback (EEG Biofeedback)** to technika treningu mózgu, gdzie osoba uczy się modulować własną aktywność mózgową poprzez real-time feedback (np. gra komputerowa kontrolowana falami mózgowymi).
+**Neurofeedback (EEG Biofeedback)** to technika treningu mózgu, gdzie osoba uczy się modulować własną aktywność mózgową poprzez informację zwrotną w czasie rzeczywistym (np. gra komputerowa kontrolowana falami mózgowymi).
 
 **Teoria:** ADHD = nieprawidłowe wzorce fal mózgowych (nadmiar theta, niedobór beta w PFC). Neurofeedback ma "nauczyć" mózg generować właściwe wzorce.
 
@@ -232,7 +232,7 @@ Choć **CBT jest złotym standardem psychoterapii w ADHD**, nie jest jedynym nar
 **Mieszane wyniki:**
 
 **Badania pozytywne:**
-- **Meta-analiza Arns et al. (2009):** Neurofeedback w ADHD – effect size d=0.59 (średni efekt) na nieuwagę, d=0.69 na impulsywność
+- **Meta-analiza Arns et al. (2009):** Neurofeedback w ADHD – wielkość efektu d=0.59 (średni efekt) na nieuwagę, d=0.69 na impulsywność
 - **Monastra et al. (2002):** Neurofeedback + leki skuteczniejsze niż same leki
 
 **Badania sceptyczne:**
@@ -249,7 +249,7 @@ Choć **CBT jest złotym standardem psychoterapii w ADHD**, nie jest jedynym nar
 **Kiedy rozważyć:**
 - Nieskuteczność/nietolerancja leków
 - Chęć uzupełnienia farmakoterapii/CBT (nie zastępowania)
-- Świadomość, że wymaga czasu i pieniędzy (sesje 2-3x/tydz. przez 3-6 miesięcy)
+- Świadomość, że wymaga czasu i pieniędzy (sesje dwa do trzech razy w tygodniu przez trzy do sześciu miesięcy)
 
 ---
 
@@ -259,9 +259,9 @@ Choć **CBT jest złotym standardem psychoterapii w ADHD**, nie jest jedynym nar
 
 Ewa, 27-letnia nauczycielka, miała ADHD z intensywnymi emocjami. Małe rzeczy wywoływały ogromną złość lub smutek. W kłótni z partnerem mówiła rzeczy, których żałowała. CBT pomagało z organizacją, ale emocje wciąż były problemem. Terapeuta zaproponował DBT.
 
-**Technika:** TIPP – gdy czuła narastającą złość, Ewa kładła zimny kompres na twarzy (Temperature), robiła 20 skoków (Intense exercise), oddychała 4-6-4 (Paced breathing). Emocja opadała z 9/10 do 5/10 w ciągu 2 minut.
+**Technika:** TIPP – gdy czuła narastającą złość, Ewa kładła zimny kompres na twarzy (Temperature), robiła dwadzieścia skoków (Intense exercise), oddychała 4-6-4 (Paced breathing). Emocja opadała z 9/10 do 5/10 w ciągu dwóch minut.
 
-**Wynik:** Po 3 miesiącach DBT, Ewa rzadziej "wybuchała". Nauczyła się rozpoznawać wczesne znaki emocji i interweniować zanim eskalowały. Relacja z partnerem się poprawiła.
+**Wynik:** Po trzech miesiącach DBT, Ewa rzadziej "wybuchała". Nauczyła się rozpoznawać wczesne znaki emocji i interweniować zanim eskalowały. Relacja z partnerem się poprawiła.
 
 ### Przykład 2: Tomek – Coaching dla Produktywności
 
@@ -272,28 +272,28 @@ Tomek, 33-letni freelancer, miał diagnozę ADHD i brał leki, ale produktywnoś
 - **Time blocking:** Kalendarz z blokami pracy (9-11: Projekt A, 11-12: E-maile)
 - **Weekly check-ins:** Co poniedziałek 15 min rozmowa z coachem – cele tygodnia, co zadziałało/nie zadziałało
 
-**Wynik:** Po 2 miesiącach Tomek oddawał projekty na czas, stres spadł, zarobki wzrosły (mniej spóźnionych projektów = więcej klientów).
+**Wynik:** Po dwóch miesiącach Tomek oddawał projekty na czas, stres spadł, zarobki wzrosły (mniej spóźnionych projektów = więcej klientów).
 
 ### Przykład 3: Magda & Piotr – Terapia Par
 
-Magda (ADHD) i Piotr (bez ADHD) byli w związku 5 lat, ale napięcia rosły. Piotr czuł się "samotnym rodzicem" – brał na siebie wszystkie obowiązki (rachunki, zakupy, planowanie). Magda czuła się krytykowana i niedoceniana. Kłótnie były częste.
+Magda (ADHD) i Piotr (bez ADHD) byli w związku pięć lat, ale napięcia rosły. Piotr czuł się "samotnym rodzicem" – brał na siebie wszystkie obowiązki (rachunki, zakupy, planowanie). Magda czuła się krytykowana i niedoceniana. Kłótnie były częste.
 
 **Terapia par z perspektywą ADHD:**
 - **Psychoedukacja:** Piotr zrozumiał, że zapominanie Magdy to deficyt pamięci roboczej (ADHD), nie brak troski
 - **Systemy:** Współdzielony kalendarz Google, automatyczne przypomnienia, jasny podział obowiązków (Magda: gotowanie, Piotr: zakupy)
 - **Komunikacja:** Zamiast "Ty NIGDY nie pomagasz!" → "Czuję się przytłoczony, kiedy muszę robić X sam. Czy możemy razem znaleźć rozwiązanie?"
 
-**Wynik:** Po 6 miesiącach terapii relacja się poprawiła. Piotr czuł się mniej osamotniony, Magda mniej krytykowana. Systemy redukowały codzienne konflikty.
+**Wynik:** Po sześciu miesiącach terapii relacja się poprawiła. Piotr czuł się mniej osamotniony, Magda mniej krytykowana. Systemy redukowały codzienne konflikty.
 
 ---
 
 ## Kluczowe Wnioski
 
-1. **CBT to złoty standard, ale nie jedyna opcja** – DBT (regulacja emocji), mindfulness (świadomość), coaching (strategie praktyczne), terapia par/rodzinna (relacje), grupy wsparcia (społeczność) – każde adresuje inny aspekt ADHD.
+1. **CBT to złoty standard, ale nie jedyna opcja** – DBT (regulacja emocji), praktyki uważności (świadomość), coaching (strategie praktyczne), terapia par/rodzinna (relacje), grupy wsparcia (społeczność) – każde adresuje inny aspekt ADHD.
 
-2. **DBT szczególnie pomocne przy intensywnych emocjach i RSD** – techniki jak TIPP, STOP, Opposite Action pomagają w regulacji emocji; badania pokazują effect size d=0.50-0.60.
+2. **DBT szczególnie pomocne przy intensywnych emocjach i RSD** – techniki jak TIPP, STOP, Opposite Action pomagają w regulacji emocji; badania pokazują wielkość efektu d=0.50-0.60.
 
-3. **Mindfulness może wzmocnić uwagę i regulację emocji w ADHD** – paradoksalnie, mimo problemów z uwagą, mindfulness (praktyka treningu uwagi) działa; effect size d=0.43-0.50; zacznij od krótkich sesji (2-3 min).
+3. **Praktyki uważności mogą wzmocnić uwagę i regulację emocji w ADHD** – paradoksalnie, mimo problemów z uwagą, praktyki uważności (trening uwagi) działają; wielkość efektu d=0.43-0.50; zacznij od krótkich sesji (dwóch do trzech minut).
 
 4. **Coaching ADHD to praktyczne wsparcie, nie terapia** – budowanie systemów (organizacja, time management, accountability); nie leczy zaburzeń psychicznych, ale pomaga w codziennym funkcjonowaniu.
 
@@ -305,24 +305,24 @@ Magda (ADHD) i Piotr (bez ADHD) byli w związku 5 lat, ale napięcia rosły. Pio
 
 1. **Oceń, który obszar jest twoim największym wyzwaniem:**
    - **Emocje intensywne, impulsywne reakcje?** → Rozważ DBT
-   - **Stres, lęk, rumina cje, chcesz wzmocnić uwagę?** → Rozważ mindfulness
+   - **Stres, lęk, ruminacje, chcesz wzmocnić uwagę?** → Rozważ praktyki uważności
    - **Potrzebujesz praktycznych systemów, accountability?** → Rozważ coaching
    - **Problemy w związku/rodzinie związane z ADHD?** → Rozważ terapia par/rodzinną
    - **Izolacja, chcesz społeczności?** → Rozważ grupę wsparcia
 
    **Akcja:** Wybierz jeden obszar i zbadaj opcje w twojej lokalizacji.
 
-2. **Zacznij od jednej prostej praktyki mindfulness przez 2 tygodnie:**
-   - **3-Minute Breathing Space** codziennie (rano lub przed snem)
+2. **Zacznij od jednej prostej praktyki uważności przez dwa tygodnie:**
+   - **Trzyminutowa przestrzeń oddechowa** codziennie (rano lub przed snem)
    - Użyj aplikacji: Headspace (ADHD-specific programs), Calm, Insight Timer (bezpłatne)
 
    **Akcja:** Pobierz aplikację dziś, ustaw codzienne przypomnienie.
 
 3. **Jeśli rozważasz coaching lub terapię dodatkową – zapytaj o kwalifikacje i podejście:**
    - Coaching: "Czy masz certyfikację ACO/ICF? Jak długo pracujesz z ADHD?"
-   - DBT/Mindfulness: "Czy masz doświadczenie z ADHD? Jak adaptujesz techniki dla osób z ADHD?"
+   - DBT/Praktyki uważności: "Czy masz doświadczenie z ADHD? Jak adaptujesz techniki dla osób z ADHD?"
 
-   **Akcja:** Zrób listę 2-3 potencjalnych coachów/terapeutów i umów konsultacje.
+   **Akcja:** Zrób listę dwóch do trzech potencjalnych coachów/terapeutów i umów konsultacje.
 
 ---
 
@@ -333,11 +333,11 @@ Magda (ADHD) i Piotr (bez ADHD) byli w związku 5 lat, ale napięcia rosły. Pio
 - **Książki:** "The Dialectical Behavior Therapy Skills Workbook" – Matthew McKay (praktyczne ćwiczenia)
 - **Online:** DBT-A (DBT for ADHD) – programy online, aplikacje (DBT Coach)
 
-### Mindfulness
+### Praktyki Uważności
 
 - **Aplikacje:** Headspace (ADHD focus programs), Calm, Insight Timer, Waking Up
-- **Książki:** "The Mindful Way Through Depression" – Mark Williams (MBCT – techniki mindfulness)
-- **Programy:** MBSR (Mindfulness-Based Stress Reduction) – 8-tygodniowe programy (szukaj lokalnie)
+- **Książki:** "The Mindful Way Through Depression" – Mark Williams (MBCT – techniki uważności)
+- **Programy:** MBSR (Mindfulness-Based Stress Reduction) – ośmiotygodniowe programy (szukaj lokalnie)
 
 ### Coaching ADHD
 
