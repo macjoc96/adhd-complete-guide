@@ -211,17 +211,11 @@ Zamiast walczyć z ADHD brain żeby robił rzeczy które są dla niego torturą,
 
 #### Framework Decyzyjny
 
-**Rozważ DISCLOSURE (powiedzenie), jeśli:**
-- ✅ Potrzebujesz **formalnych accommodations** (akomodacji prawnych)
-- ✅ Masz **wspierającego szefa** i kulturę otwartości na różnorodność
-- ✅ Twoje objawy są **widoczne** i chcesz zapobiec nieporozumieniom
-- ✅ Pracujesz w środowisku, gdzie **neurodiversity jest normalizowane** (tech, kreatywne branże)
+Decyzja o ujawnieniu ADHD w pracy to analiza ryzyka versus korzyści. Nie ma uniwersalnej odpowiedzi - zależy od konkretnej sytuacji, kultury firmy, relacji z szefem.
 
-**Rozważ NIE MÓWIĆ, jeśli:**
-- ❌ Jesteś w procesie rekrutacji (ryzyko nieświadomych uprzedzeń)
-- ❌ Środowisko pracy jest **ultra-kompetytywne** lub **toksyczne**
-- ❌ Szef ma **negatywne poglądy** na zdrowie psychiczne
-- ❌ Możesz **zarządzać objawami** bez formalnych akomodacji
+**Rozważ disclosure jeśli:** potrzebujesz formalnych accommodations które wymagają medycznej dokumentacji - bez ujawnienia nie dostaniesz prawnej ochrony. Albo jeśli masz wspierającego szefa i kulturę otwartości na różnorodność - w takim środowisku ujawnienie może przynieść wsparcie zamiast stygmatyzacji. Albo jeśli Twoje objawy są widoczne i chcesz zapobiec nieporozumieniom - lepiej wyjaśnić "mam ADHD, dlatego robię notatki podczas rozmów" niż pozwolić ludziom interpretować to jako brak zaangażowania. Albo jeśli pracujesz w środowisku gdzie neurodiversity jest normalizowane - branże tech, kreatywne, startupy często są bardziej otwarte.
+
+**Rozważ nie mówić jeśli:** jesteś w procesie rekrutacji - ryzyko nieświadomych uprzedzeń jest realne, nawet gdy dyskryminacja jest nielegalna. Albo jeśli środowisko pracy jest ultra-kompetytywne czy toksyczne - w takim miejscu każda różnica może być użyta przeciwko Tobie. Albo jeśli szef ma negatywne poglądy na zdrowie psychiczne - ujawnienie nie przyniesie wsparcia, tylko problemy. Albo jeśli możesz zarządzać objawami bez formalnych akomodacji - strategia "potrzebuję jasnych instrukcji pisemnych" działa bez label ADHD.
 
 #### Jak Mówić o ADHD w Pracy (jeśli decydujesz się ujawnić)
 
@@ -231,11 +225,7 @@ Nie mów: "Mam ADHD, więc mogę czasem zapominać o zadaniach i spóźniać si�
 
 Powiedz: "Mam ADHD, co oznacza, że mój mózg przetwarza informacje inaczej. Jestem wyjątkowo dobry w kreatywnym rozwiązywaniu problemów i pracy pod presją. Jednocześnie lepiej mi się pracuje z jasnymi strukturami – na przykład, gdy dostaję zadania pisemnie zamiast ustnie, jestem o 80% bardziej efektywny. Czy moglibyśmy wprowadzić taki system?"
 
-**Formula:**
-1. Co to jest (bez przesadnej szczegółowości)
-2. Moje mocne strony związane z ADHD
-3. Konkretna akomodacja, która zwiększy moją produktywność
-4. Korzyść dla zespołu/firmy
+**Formula ma cztery elementy**. Pierwszy: co to jest ADHD - krótko, bez medycznych detali, skupiony na różnicy w przetwarzaniu informacji. Drugi: moje mocne strony związane z ADHD - kreatywność, praca pod presją, myślenie niesztampowe - cokolwiek co jest prawdą dla Ciebie. Trzeci: konkretna akomodacja która zwiększy moją produktywność - pisemne zadania, elastyczne godziny, cokolwiek czego potrzebujesz. Czwarty: korzyść dla zespołu czy firmy - nie "to mi pomoże", ale "to sprawi że będę bardziej produktywny co oznacza lepsze rezultaty dla projektu".
 
 **Krok 2: Poproś o Konkretne Akomodacje**
 
@@ -251,16 +241,16 @@ Przykłady **rozsądnych akomodacji** w pracy:
 
 **Krok 3: Dokumentuj Uzgodnienia**
 
-Po rozmowie z szefem:
-1. Wyślij podsumowanie emailem:
-   "Dziękuję za dzisiejszą rozmowę. Potwierdzam, że ustaliśmy:
-   - Zadania będą wysyłane pisemnie przez Slack
-   - Mogę korzystać ze słuchawek w open space
-   - Będziemy mieli krótkie check-iny w połowie tygodnia
+Po rozmowie z szefem nie polegaj na pamięci - ani swojej, ani jego. Wyślij podsumowanie emailem tego samego dnia:
 
-   Dziękuję za wsparcie!"
+"Dziękuję za dzisiejszą rozmowę. Potwierdzam, że ustaliśmy:
+- Zadania będą wysyłane pisemnie przez Slack
+- Mogę korzystać ze słuchawek w open space
+- Będziemy mieli krótkie check-iny w połowie tygodnia
 
-2. Zachowaj tego emaila (może być przydatny, jeśli w przyszłości pojawią się problemy)
+Dziękuję za wsparcie!"
+
+Zachowaj tego emaila. Jeśli w przyszłości pojawią się problemy - zmiana szefa, spór o akomodacje, potrzeba formalnej dokumentacji - masz pisemny dowód uzgodnień.
 
 ### 5. Parenting z ADHD
 
@@ -334,17 +324,11 @@ Jak w samolocie: załóż maskę najpierw sobie.
 
 #### Problem: Paradoks Społeczny ADHD
 
-Osoby z ADHD często są:
-- Charyzmatyczne, zabawne, pełne energii
-- Kochają ludzi, potrzebują połączenia społecznego
+Osoby z ADHD często są charyzmatyczne, zabawne, pełne zaraźliwej energii. Kochają ludzi, potrzebują głębokiego połączenia społecznego, mają niesamowitą empatię i spontaniczność która sprawia że czas z nimi jest intensywny i prawdziwy.
 
-Ale jednocześnie:
-- Zapominają odpisać na wiadomości
-- Spóźniają się lub zapominają o spotkaniach
-- Przerywają w rozmowach
-- Mają tendencję do nadmiernego dzielenia się (oversharing)
+Ale jednocześnie te same osoby zapominają odpisać na wiadomości - widzą wiadomość, myślą "odpiszę zaraz", i nagle minęły trzy tygodnie. Spóźniają się na spotkania albo w ogóle o nich zapominają mimo najlepszych intencji. Przerywają w rozmowach bo myśl która przyszła musi być powiedziana TERAZ albo zniknie. Mają tendencję do oversharing - dzielą się zbyt dużo, zbyt szybko, zbyt głęboko z ludźmi których dopiero poznają.
 
-**Rezultat:** Przyjaźnie zaczynają się łatwo, ale trudno je utrzymać.
+**Rezultat to frustrujący paradoks**: przyjaźnie zaczynają się łatwo - pierwsze spotkanie jest magiczne, połączenie natychmiastowe - ale trudno je utrzymać. Przyjaciele powoli się wycofują, zranieni brakiem odpowiedzi, zmęczeni ciągłym czekaniem, niepewni czy naprawdę na nich zależy.
 
 #### Strategia "Friendship Maintenance System"
 
