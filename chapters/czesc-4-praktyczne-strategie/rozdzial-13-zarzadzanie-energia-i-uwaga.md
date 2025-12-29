@@ -83,42 +83,27 @@ Przykład praktyczny bazujący na dzienniku powyżej: od dziewiątej do dwunaste
 
 ###  2. Przerwy i Odbudowa – Recovery Jest Częścią Produktywności
 
-**Problem:** ADHD + praca = "pójdę bez przerwy 8 godzin" → wyczerpanie → crash.
-
-**Prawda:** **Mózg potrzebuje przerw, aby regenerować uwagę**. W ADHD szczególnie.
+Problem który prawdopodobnie znasz: ADHD plus praca równa się "pójdę na full bez przerwy przez osiem godzin, dam radę". Rezultat? Totalne wyczerpanie i crash do końca dnia, albo tygodnia. Prawda którą musisz zaakceptować brzmi inaczej: **mózg potrzebuje przerw żeby regenerować uwagę**. W ADHD szczególnie, bo Twoje zasoby uwagi wyczerpują się szybciej niż u neurotypowych.
 
 #### A. **Mikro-przerwy (5 min co 25-50 min)**
 
-**Zasada Pomodoro:** 25 min pracy → 5 min przerwy.
+Zasada Pomodoro to nie tylko narzędzie produktywności - to system ochrony mózgu. Dwadzieścia pięć minut pracy, pięć minut przerwy. Kluczowe pytanie: co robić w te pięć minut? **Nie scrolling social media** - to krytyczne.
 
-**Co robić w 5-minutowej przerwie (NIE scrolling!):**
-- **Ruch:** Stretch, 10 skoków, spacer po pokoju (aktywuje dopaminę, redukuje sztywność)
-- **Woda:** Pij wodę (odwodnienie = spadek koncentracji)
-- **Oddech:** 5 głębokich oddechów (4 sek wdech, 6 sek wydech – aktywuje układ przywspółczulny)
-- **Oczy:** Patrz na coś dalekiego (20/20/20 rule: co 20 min, patrz na coś 20 stóp daleko przez 20 sek – redukuje zmęczenie oczu)
+Rób ruch fizyczny: stretch, dziesięć skoków w miejscu, spacer po pokoju czy korytarzu. Ruch aktywuje dopaminę i redukuje fizyczną sztywność która przychodzi z siedzenia. Pij wodę - odwodnienie nawet o dwa procent powoduje mierzalny spadek koncentracji. Zrób pięć głębokich oddechów: cztery sekundy wdech, sześć sekund wydech - to aktywuje układ przywspółczulny i uspokaja system nerwowy. Daj odpocząć oczom: zasada 20/20/20 mówi że co dwadzieścia minut powinieneś patrzeć na coś dwadzieścia stóp daleko przez dwadzieścia sekund - redukuje zmęczenie wzroku.
 
-**Czego NIE robić:**
-- ❌ Scrolling social media (pochłania więcej uwagi niż regeneruje)
-- ❌ Sprawdzanie e-maili/wiadomości (to nie przerwa, to kolejne zadanie)
-- ❌ Jedzenie przy komputerze (nie oddziela pracy od przerwy)
+Czego absolutnie nie robić? Scrolling social media - pochłania więcej uwagi niż regeneruje, po pięciu minutach jesteś bardziej zmęczony niż przed przerwą. Sprawdzanie e-maili czy wiadomości - to nie przerwa, to kolejne zadanie kognitywne. Jedzenie przy komputerze - nie oddziela fizycznie pracy od przerwy, mózg nie wie że odpoczywasz.
 
 #### B. **Długie przerwy (15-30 min co 2-3h)**
 
-**Po 4 Pomodoro (2 godziny pracy):**
-- Dłuższa przerwa: spacer na zewnątrz (preferowane – natura redukuje mental fatigue), lunch, drzemka (10-20 min power nap)
+Po czterech Pomodoro - dwóch godzinach intensywnej pracy - potrzebujesz dłuższej regeneracji. Spacer na zewnątrz to opcja preferowana: badania Kaplana i Bermana nad "Attention Restoration Theory" pokazują że natura regeneruje uwagę mimowolną, co sprawia że łatwiej wrócić do pracy. Lunch zjedz z dala od biurka. Drzemka power nap - dziesięć do dwudziestu minut - może zresetować mózg kompletnie.
 
-**Dlaczego natura/spacer jest najlepszy:**
-- Badania (Kaplan & Berman, "Attention Restoration Theory"): natura regeneruje uwagę mimowolną → łatwiej wrócić do pracy
-- Ruch = dopamina (ważne w ADHD)
+Dlaczego natura i spacer są najlepsze? Poza regeneracją uwagi, ruch fizyczny bezpośrednio stymuluje produkcję dopaminy - co w ADHD jest na wagę złota.
 
 #### C. **Digital Detox Breaks**
 
-**Ekrany = constant stimulation = mental fatigue.**
+Ekrany dostarczają constant stimulation która prowadzi do mental fatigue. Jeśli pracujesz przez osiem godzin na komputerze, przerwy spędzone scrollując telefon nie regenerują - pogłębiają wyczerpanie.
 
-Jeśli pracujesz na komputerze, w przerwie:
-- Zostaw telefon/laptop → wyjdź na spacer BEZ urządzeń
-- Medytacja/mindfulness (3-minute breathing space)
-- Rozgadaj się z kimś (social connection = dopamina)
+W przerwie zostaw telefon i laptop. Wyjdź na spacer bez urządzeń - niech mózg doświadczy rzeczywistości bez ekranu. Trzy minuty medytacji czy mindfulness - breathing space gdzie tylko oddychasz i obserwujesz. Albo rozgadaj się z kimś twarzą w twarz - social connection bezpośrednio stymuluje dopaminę i daje regenerację której ekrany nie dadzą.
 
 ### 3. Context Switching – Największy Wróg Produktywności w ADHD
 
