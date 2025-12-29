@@ -2,13 +2,17 @@
 
 ## Hook / Opening
 
-Tomek, 32-letni programista, miał dziwny paradoks. W poniedziałek, o 9 rano, siedział przed kodem przez 4 godziny – rozproszony, scrollował Reddit, sprawdzał e-maile co 5 minut, 10 linijek kodu w 4 godziny. We wtorek, o 22:00 wieczorem, włączył komputer "na 30 minut" – i nagle było 4 rano. Projekt skończony, 800 linijek kodu, nie zauważył jak minęło 6 godzin. "Nie rozumiem," powiedział. "Dlaczego czasem nie mogę się skupić przez 10 minut, a czasem tracę poczucie czasu i pracuję 6 godzin non-stop?"
+Poniedziałek, dziewiąta rano. Siadasz przed komputerem do pracy nad kodem. Cztery godziny później masz dziesięć linijek napisanych. Resztę czasu? Scrollowałeś Reddita, sprawdzałeś e-maile co pięć minut, czytałeś artykuły które "mogą się przydać", przeklikiwałeś się przez dokumentację nie zapamiętując ani słowa. Kompletna rozproszenie, zero produktywności.
 
-To **paradoks ADHD**: **Hyperfocus (nadkoncentracja) vs. Distractibility (rozpraszalność)**. Nie "nie potrafię się skupić" – raczej "nie potrafię *kontrolować* na czym się skupiam i kiedy". Uwaga w ADHD nie jest słaba – jest **nieregularna, nieprzewidywalna, zależna od dopaminy i zainteresowania**.
+Wtorek, dziesiąta wieczorem. Włączasz komputer "na trzydzieści minut" żeby dokończyć coś małego. Nagle podniosłeś głowę i jest czwarta rano. Cały projekt skończony. Osiemset linijek kodu. Nie zauważyłeś jak minęło sześć godzin. Nie czułeś głodu, zmęczenia, niczego. Byłeś w strefie.
 
-Ale jest dobra wiadomość: Możesz nauczyć się **pracować Z twoim mózgiem, a nie przeciwko niemu**. Zrozumieć swój naturalny rytm energii. Wykorzystać momenty wysokiej energii. Zarządzać przerwami i odbudową. Minimalizować koszty context switching. Tworzyć warunki dla flow state zamiast walczyć z rozproszeniem siłą woli.
+"Dlaczego czasem nie mogę się skupić przez dziesięć minut, a czasem tracę poczucie czasu i pracuję sześć godzin non-stop?"
 
-W tym rozdziale odkryjesz **strategie zarządzania energią i uwagą w ADHD**: od rozpoznawania swoich szczytów/dołków energetycznych, przez techniki przerw i odbudowy, po projektowanie środowiska i zadań dla maksymalnej koncentracji.
+To fundamentalny paradoks ADHD: **hyperfocus (nadkoncentracja) versus distractibility (rozpraszalność)**. Problem nie brzmi "nie potrafię się skupić". Problem brzmi "nie potrafię kontrolować na czym się skupiam i kiedy". Twoja uwaga nie jest słaba - jest nieregularna, nieprzewidywalna, uzależniona od dopaminy i zainteresowania. Albo totalne wciągnięcie, albo kompletne rozproszenie. Nie ma pośrodku.
+
+Ale jest dobra wiadomość, bardzo dobra. Możesz nauczyć się pracować Z Twoim mózgiem, a nie przeciwko niemu. Zrozumieć swój naturalny rytm energii zamiast walczyć z nim. Wykorzystać momenty wysokiej energii zamiast marnować je na banały. Zarządzać przerwami i odbudową zamiast pracować do całkowitego wyczerpania. Minimalizować koszty context switching zamiast wielozadaniowości która Cię niszczy. Tworzyć warunki dla flow state zamiast walczyć z rozproszeniem siłą woli której i tak nie masz.
+
+W tym rozdziale odkryjesz konkretne strategie zarządzania energią i uwagą w ADHD: od rozpoznawania swoich szczytów i dołków energetycznych, przez techniki przerw i odbudowy, po projektowanie środowiska i zadań dla maksymalnej koncentracji.
 
 ---
 
