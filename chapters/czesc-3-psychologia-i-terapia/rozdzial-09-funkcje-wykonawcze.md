@@ -2,7 +2,7 @@
 
 ## Hook / Opening
 
-Tomek, 32-letni programista, siedział przed komputerem z trzema otwartymi projektami, dwudziestoma zakładkami w przeglądarce i rosnącym poczuciem paniki. Wiedział *dokładnie*, co powinien zrobić – deadline za 3 dni, priorytet jasny. Ale jego mózg nie współpracował. Zamiast skupić się na najważniejszym zadaniu, przeskakiwał między e-mailami, Slackiem, artykułem o nowej bibliotece JavaScript, a nawet zaczął refaktoryzować kod, który wcale nie wymagał poprawy. "Dlaczego nie mogę po prostu... *zrobić* tego, co wiem, że powinienem zrobić?" zapytał sam siebie po raz setny tego dnia.
+Siedzisz przed komputerem z trzema otwartymi projektami, dwudziestoma zakładkami w przeglądarce i rosnącym poczuciem paniki. Wiesz *dokładnie*, co powinieneś zrobić – deadline za trzy dni, priorytet jasny. Ale Twój mózg nie współpracuje. Zamiast skupić się na najważniejszym zadaniu, przeskakujesz między e-mailami, komunikatorem, artykułem o czymś teoretycznie przydatnym, a nawet zaczynasz poprawiać coś, co wcale nie wymaga poprawy teraz. "Dlaczego nie mogę po prostu... *zrobić* tego, co wiem, że powinienem zrobić?" - pytasz sam siebie po raz setny tego dnia.
 
 To pytanie trafia w sedno ADHD. Wielu ludzi myśli, że ADHD to problem z uwagą – że osoby z ADHD "nie potrafią się skupić". Ale prawda jest głębsza i bardziej skomplikowana. **ADHD to przede wszystkim zaburzenie funkcji wykonawczych** – mentalnego "systemu operacyjnego", który pozwala nam planować, organizować, kontrolować impulsy, zarządzać czasem, regulować emocje i realizować cele mimo przeszkód. To jak mieć Ferrari (mózg) z hamulcami od Fiata (funkcje wykonawcze) – motor działa świetnie, ale kontrola nad pojazdem jest problematyczna.
 
@@ -98,27 +98,13 @@ Neuropsycholog **Russell Barkley** i inni badacze zidentyfikowali kluczowe funkc
 
 #### 4. **Planowanie i Organizacja**
 
-**Definicja:** Zdolność do tworzenia planu działania, sekwencjonowania kroków i organizowania zasobów w czasie.
+To zdolność do tworzenia planu działania, sekwencjonowania kroków i organizowania zasobów w czasie. Normalnie kora przedczołowa działa jak wewnętrzny strateg - symuluje przyszłość ("jeśli zrobię A, potem B, osiągnę C"), dzieli duże zadania na mniejsze, wykonalne kroki, szacuje czas potrzebny na każdy krok i alarmuje gdy coś się nie zgadza.
 
-**Jak działa:**
-- PFC symuluje przyszłość – "jeśli zrobię A, potem B, osiągnę C"
-- Dzieli duże zadania na mniejsze kroki
-- Szacuje czas potrzebny na każdy krok
+W ADHD ten wewnętrzny strateg jest dysfunkcyjny. Po pierwsze, pojawia się tzw. **"ślepota czasowa"** - dosłownie nie czujesz upływu czasu. Szacunki czasowe są beznadziejne: myślisz że minęło 30 minut, minęło 60. Deadline za miesiąc nie wydaje się realny, więc nie wywołuje żadnej motywacji do działania. Po drugie, **trudność z rozłożeniem dużego projektu na kroki** - widzisz tylko "wielką, przytłaczającą całość", nie poszczególne, wykonalne fragmenty. To prowadzi do paraliżu. Po trzecie, **chaos w organizacji** - biurko, pliki na komputerze, e-maile, harmonogram - wszystko w nieładzie, bo system organizacyjny wymaga planowania i utrzymania, a to właśnie to co nie działa.
 
-**Jak ADHD to zaburza:**
-- "Ślepota czasowa" – nie czujesz upływu czasu, szacunki są beznadziejne
-- Trudność z rozłożeniem dużego projektu na kroki – widzisz tylko "wielką, przytłaczającą całość"
-- Chaos w organizacji – biurko, pliki, e-maile, harmonogram – wszystko w nieładzie
+Jak to wygląda w życiu? Dostajesz projekt z deadline za miesiąc. Pierwszego dnia jesteś podekscytowany. Potem... cisza. Nic przez trzy tygodnie, bo "mam jeszcze czas". Tydzień przed deadline pierwsze  szarpnięcie niepokoju. Dzień przed deadline kompletna panika i nocny maraton pracy. Albo estymacja: "To zajmie mi 30 minut" - zajmuje trzy godziny, znowu się spóźniasz, znowu rozczarowujesz ludzi. Albo duże zadanie: nie wiesz od czego zacząć, więc... nie zaczynasz wcale, siedząc w paraliżu. Gubisz rzeczy, zapominasz o spotkaniach mimo kalendarzy i dziesiątków list zadań, bo sam system organizacyjny jest zbyt skomplikowany dla Twojego mózgu.
 
-**Przykłady z życia:**
-- Projekt z deadline za miesiąc → nic przez 3 tygodnie → panika i nocny maraton ostatniego dnia
-- "To zajmie 30 minut" (zajmuje 3 godziny)
-- Nie wiesz od czego zacząć duże zadanie, więc... nie zaczynasz wcale
-- Gubisz rzeczy, zapominasz o spotkaniach, mimo kalendarzy i list zadań
-
-**Badania:**
-- Tower of London Test: Osoby z ADHD potrzebują więcej ruchów i popełniają więcej błędów w planowaniu sekwencji
-- Badania czasoocenienia: Osoby z ADHD konsekwentnie niedoszacowują czas (myślą że minęło 30 minut, minęło 60)
+**Tower of London Test** (test planowania sekwencji) pokazuje to wyraźnie: osoby z ADHD potrzebują więcej ruchów i popełniają więcej błędów. Badania szacowania czasu są jeszcze bardziej uderzające: osoby z ADHD konsekwentnie niedoszacowują czas - myślą że minęło 30 minut, faktycznie minęło 60.
 
 #### 5. **Kontrola Emocjonalna (Emotional Regulation)**
 
@@ -166,27 +152,15 @@ Neuropsycholog **Russell Barkley** i inni badacze zidentyfikowali kluczowe funkc
 
 ## Praktyka: Model Barkleya – Dlaczego ADHD to Zaburzenie Funkcji Wykonawczych
 
-Dr Russell Barkley, jeden z czołowych ekspertów ADHD, sformułował **teorię zaburzenia hamowania behawioralnego jako rdzenia ADHD**. Według Barkleya:
+Dr Russell Barkley, jeden z czołowych światowych ekspertów ADHD, sformułował elegancką **teorię zaburzenia hamowania behawioralnego jako rdzenia ADHD**. Jego model wyjaśnia, dlaczego tak wiele różnych funkcji wykonawczych jest zaburzonych jednocześnie.
 
-**1. Problem główny: Deficyt hamowania**
-- Osoby z ADHD mają osłabione hamowanie behawioralne (szczególnie w korze przedczołowej)
-- To "pierwotne uszkodzenie" prowadzi do kaskady problemów w innych funkcjach wykonawczych
+Według Barkleya, **problem główny to deficyt hamowania**. Osoby z ADHD mają osłabione hamowanie behawioralne, szczególnie w korze przedczołowej. To nie jest jeden z wielu problemów - to "pierwotne uszkodzenie", które prowadzi do kaskady problemów w innych funkcjach wykonawczych. Wyobraź sobie, że hamowanie to główny wyłącznik w elektrowni - gdy on nie działa, wszystkie inne systemy zaczynają szwankować.
 
-**2. Konsekwencje deficytu hamowania:**
-- **Pamięć robocza niewerbalną:** Trudność z "widzeniem przyszłości w wyobraźni", antycypacją konsekwencji
-- **Internalizację mowy:** Słabszy "wewnętrzny dialog" (self-talk), który normalnie kieruje zachowaniem
-- **Regulację emocji/motywacji:** Trudność z opóźnianiem gratyfikacji, kontrolą emocji
-- **Rekonstytucję (problem-solving):** Problemy z kreatywnością w rozwiązywaniu problemów, kombinowaniem elementów w nowe rozwiązania
+Konsekwencje tego deficytu rozchodzą się we wszystkich kierunkach. Słabe hamowanie uderza w **pamięć roboczą niewerbalną** - trudność z "widzeniem przyszłości w wyobraźni", z antycypowaniem konsekwencji swoich działań. Uderza w **internalizację mowy** - słabszy "wewnętrzny dialog" (ten głos w głowie mówiący "zastanów się", "przypomnij sobie", "zaplanuj"), który normalnie kieruje zachowaniem. Zaburza **regulację emocji i motywacji** - trudność z opóźnianiem gratyfikacji, kontrolą emocji, cierpliwością. Wreszcie, osłabia **rekonstytucję** (zdolność rozwiązywania problemów) - problemy z kreatywnością, kombinowaniem znanych elementów w nowe rozwiązania.
 
-**3. Rezultat: "Ślepota na czas"**
-- Barkley argumentuje, że ADHD to przede wszystkim **zaburzenie zarządzania czasem i przyszłością**
-- Osoby z ADHD żyją "w teraźniejszości" – przyszłość jest niewyraźna, abstrakcyjna, nierealna
-- "Deadline za miesiąc" = "nigdy" → aktywuje się dopiero gdy "deadline za 6 godzin"
+Rezultat tego wszystkiego to coś, co Barkley nazywa **"ślepotą na czas"**. Argumentuje, że ADHD to przede wszystkim zaburzenie zarządzania czasem i przyszłością. Osoby z ADHD żyją "w teraźniejszości" - przyszłość jest mglistą, abstrakcyjną, nierelaną koncepcją. "Deadline za miesiąc" emocjonalnie równa się "nigdy" i nie wywołuje żadnej motywacji do działania. System aktywuje się dopiero gdy "deadline za 6 godzin" - wtedy przyszłość staje się teraźniejszością, realna i paląca.
 
-**Praktyczne implikacje:**
-- Nie wystarczy "wiedzieć" co zrobić – potrzebujesz *struktury zewnętrznej* zastępującej wewnętrzną
-- Leki (stymulujące/niestymulujące) poprawiają hamowanie → poprawiają wszystkie funkcje wykonawcze
-- Strategie kompensacyjne muszą "externalizować" funkcje wykonawcze (timery, przypomnienia, listy, body doubling)
+Jakie są praktyczne implikacje tego modelu? Po pierwsze, nie wystarczy "wiedzieć" co zrobić - potrzebujesz **struktury zewnętrznej** zastępującej niedziałającą wewnętrzną. Po drugie, leki (stymulujące i niestymulujące) poprawiają hamowanie w korze przedczołowej, co z kolei poprawia wszystkie funkcje wykonawcze - stąd ich skuteczność. Po trzecie, strategie kompensacyjne muszą "externalizować" funkcje wykonawcze: timery zastępują wewnętrzne poczucie czasu, przypomnienia zastępują pamięć roboczą, listy zastępują planowanie, body doubling (praca z kimś obok) zastępuje inicjację.
 
 ---
 
