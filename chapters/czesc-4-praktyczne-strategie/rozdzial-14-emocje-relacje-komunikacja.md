@@ -150,23 +150,21 @@ Gdy RSD się aktywuje, zadaj sobie 5 pytań:
 
 **Zasada 1: Eksternalizuj Uwagę**
 
-Jeśli potrzebujesz rozmawiać o ważnej sprawie:
-- **Zły moment**: Podczas gdy druga osoba gotuje / ogląda serial / scrolluje telefon
-- **Dobry moment**: „Mam ważną sprawę. Czy możemy za 10 minut usiąść razem przy stole, bez telefonów?"
+Klasyczna komunikacja zakłada że ludzie mogą skupić uwagę na rozmowie w dowolnym momencie. ADHD brain tak nie działa.
 
-**Dla osoby z ADHD:**
-- Jasno komunikuj: „To jest ważna rozmowa, chcę, żebyś był/była skupiona/y"
-- Usuń dystrakcje: telewizor wyłączony, telefony odłożone
-- Używaj bodźców taktylnych: trzymanie się za ręce pomaga utrzymać uwagę
+**Zły moment** to gdy druga osoba gotuje, ogląda serial, scrolluje telefon - nawet jeśli mówi "słucham", jej mózg jest gdzie indziej. Pół rozmowy nie dotrze, potem będą nieporozumienia "ale przecież mówiłeś", "nie, nie mówiłem tego".
+
+**Dobry moment** to świadome, zaplanowane skupienie. "Mam ważną sprawę. Czy możemy za dziesięć minut usiąść razem przy stole, bez telefonów?" Dziesięć minut daje czas na zamknięcie bieżącego zadania. Stół bez telefonów to fizyczny sygnał: to jest ważne.
+
+**Dla osoby z ADHD kluczowe jest jasne sygnalizowanie**. Nie zakładaj że partner wie iż rozmowa jest ważna - powiedz to bezpośrednio. "To jest ważna rozmowa, chcę żebyś był skupiony". Usuń dystrakcje fizycznie - telewizor wyłączony, telefony w innym pokoju, nie tylko odwrócone ekranem w dół. Używaj bodźców taktylnych - trzymanie się za ręce podczas rozmowy pomaga utrzymać uwagę i daje kotwicę fizyczną.
 
 **Zasada 2: Pisz Ważne Rzeczy**
 
-ADHD często wpływa na pamięć roboczą podczas rozmów emocjonalnych.
+ADHD często wpływa na pamięć roboczą podczas rozmów emocjonalnych. Stres, emocje, konflikt - wszystko to wyłącza hipokamp i uniemożliwia kodowanie wspomnień. Efekt? "Ale mówiłeś że zrobisz X" - "Nie, powiedziałem Y" - niekończące się spory o to co kto powiedział.
 
-**Protokół:**
-1. Po ważnej rozmowie, **wpisz ustalenia do wspólnej notatki** (Google Doc, Notion)
-2. Nie polega na pamięci – nawet jeśli "oboje pamiętamy"
-3. Przykład:
+**Rozwiązanie jest brutalne w swojej prostocie**: po ważnej rozmowie wpisz ustalenia do wspólnej notatki. Google Doc, Notion, wspólny notes - cokolwiek co oboje możecie zobaczyć. Nie polegaj na pamięci, nawet jeśli "oboje pamiętamy" - nie pamiętacie, albo pamiętacie różnie.
+
+Przykład:
    ```
    Rozmowa 28.12.2024 - Podział obowiązków
 
@@ -177,23 +175,17 @@ ADHD często wpływa na pamięć roboczą podczas rozmów emocjonalnych.
    - Review: co miesiąc sprawdzamy, czy to działa
    ```
 
+To może wydawać się sztywne czy nieromantyczne. Ale w praktyce eliminuje osiemdziesiąt procent konfliktów bazujących na "powiedziałeś", "nie powiedziałem".
+
 **Zasada 3: "Repair Attempts" – Natychmiastowa Naprawa**
 
-Badania Gottmana pokazują, że **skuteczność "prób naprawy" po konflikcie odróżnia pary trwałe od tych, które się rozstają**.
+Badania Johna Gottmana nad tysiącami par pokazują coś fascynującego: **skuteczność "prób naprawy" po konflikcie odróżnia pary trwałe od tych które się rozstają**. Nie częstość konfliktów decyduje o trwałości związku - decyduje zdolność do naprawy po konflikcie.
 
-**Dla osób z ADHD:**
-- RSD + dysregulacja emocjonalna = konflikty eskalują szybko
-- Kluczowe są **natychmiastowe próby naprawy**:
-  - "Hej, widzę, że oboje jesteśmy zdenerwowani. Zróbmy 10-minutową przerwę?"
-  - "Przepraszam, powiedziałem coś w złości. Nie myślę tego tak"
-  - "Kocham cię, nawet jeśli teraz się kłócimy"
+**Dla osób z ADHD problem jest szczególnie ostry**. RSD plus dysregulacja emocjonalna równa się konflikty które eskalują w sekundach - zero do sto w trzy zdania. Dlatego kluczowe są **natychmiastowe próby naprawy**, zanim lawina ruszy.
 
-**Protokół Time-Out:**
-1. Jedna z osób może wywołać "time-out" bez dyskusji
-2. Minimalny czas: 20 minut (tyle trzeba, by poziom kortyzolu spadł)
-3. Maksymalny czas: 24 godziny (nie można uciekać na zawsze)
-4. W tym czasie: zero dyskusji o konflikcie (możesz spacerować, słuchać muzyki, pisać w dzienniku)
-5. Po time-out: wracamy do rozmowy świadomie
+Przykłady repair attempts: "Hej, widzę że oboje jesteśmy zdenerwowani. Zróbmy dziesięciominutową przerwę?" - to przerywa eskalację. "Przepraszam, powiedziałem coś w złości. Nie myślę tego tak" - to uznanie błędu bez defensywności. "Kocham cię, nawet jeśli teraz się kłócimy" - to przypomnienie że konflikt nie oznacza końca relacji.
+
+**Protokół Time-Out** chroni związek przed destrukcyjną eskalacją. Jedna z osób może wywołać "time-out" bez dyskusji - to nie jest ucieczka, to sygnał stop. Minimalny czas to dwadzieścia minut - tyle trzeba żeby poziom kortyzolu spadł i mózg przestał być w trybie walki. Maksymalny czas to dwadzieścia cztery godziny - nie można uciekać na zawsze, konflikt musi być rozwiązany. W czasie time-out zero dyskusji o konflikcie - możesz spacerować, słuchać muzyki, pisać w dzienniku, robić co potrzebujesz żeby się uspokoić. Po time-out wracamy do rozmowy świadomie, nie reaktywnie.
 
 #### ADHD Partnership – Kto Robi Co?
 
@@ -201,28 +193,15 @@ Badania Gottmana pokazują, że **skuteczność "prób naprawy" po konflikcie od
 
 **Rozwiązanie: System Oparty na Mocnych Stronach**
 
-1. **Lista wszystkich zadań domowych** (zróbcie to razem):
-   - Sprzątanie (pokoje, łazienka, kuchnia)
-   - Pranie (sortowanie, pranie, składanie, odkładanie)
-   - Zakupy (lista, zakupy, rozpakowywanie)
-   - Gotowanie (planowanie, gotowanie, zmywanie)
-   - Finanse (śledzenie, opłacanie rachunków)
-   - Planowanie społeczne (organizacja spotkań z rodziną/przyjaciółmi)
-   - Itd.
+Zamiast walczyć z ADHD brain żeby robił rzeczy które są dla niego torturą, zaprojektujcie podział który wykorzystuje mocne strony.
 
-2. **Kategoryzacja według ADHD brain:**
-   - **Zielone (łatwe dla ADHD)**: Nowość, krótki czas, natychmiastowy rezultat (np. zakupy, wynoszenie śmieci)
-   - **Żółte (możliwe)**: Średnia długość, można zrobić przy muzyce/podcastach (np. odkurzanie)
-   - **Czerwone (trudne dla ADHD)**: Długie, powtarzalne, nudne, nie dają natychmiastowego efektu (np. składanie prania, planowanie finansowe)
+**Krok pierwszy: stwórzcie razem listę wszystkich zadań domowych**. I to znaczy wszystkich - sprzątanie pokoi, łazienki, kuchni; pranie z sortowaniem, praniem, składaniem, odkładaniem; zakupy z listą, zakupami, rozpakowywaniem; gotowanie z planowaniem, gotowaniem, zmywaniem; finanse ze śledzeniem i opłacaniem rachunków; planowanie społeczne z organizacją spotkań z rodziną i przyjaciółmi. Każdy drobny element. Dopiero wtedy widzicie pełen obraz pracy domowej.
 
-3. **Przydział:**
-   - Osoba z ADHD bierze więcej "zielonych" zadań
-   - Partner bierze więcej "czerwonych"
-   - Ale: **ogólny czas i wysiłek musi być równy**
+**Krok drugi: kategoryzacja według ADHD brain**. Każde zadanie dostaje kolor. **Zielone** to zadania łatwe dla ADHD - nowość, krótki czas, natychmiastowy rezultat - zakupy, wynoszenie śmieci, szybkie sprzątanie. **Żółte** to zadania możliwe - średnia długość, można zrobić przy muzyce czy podcastach - odkurzanie, zmywanie, gotowanie. **Czerwone** to zadania trudne dla ADHD - długie, powtarzalne, nudne, bez natychmiastowego efektu - składanie prania, planowanie finansowe, systematyczne porządki.
 
-4. **Review co miesiąc:**
-   - Czy to działa?
-   - Co trzeba zmienić?
+**Krok trzeci: przydział bazujący na kolorach**. Osoba z ADHD bierze więcej zadań zielonych i żółtych. Partner bierze więcej zadań czerwonych. Ale - i to kluczowe - **ogólny czas i wysiłek musi być równy**. Nie chodzi o to żeby osoba z ADHD robiła mniej. Chodzi o to żeby robiła rzeczy które jej mózg potrafi obsłużyć bez walki.
+
+**Krok czwarty: review co miesiąc**. Siedzicie razem i zadajecie dwa pytania. Czy to działa? Co trzeba zmienić? System który nie ewoluuje, umiera.
 
 ### 4. ADHD w Pracy – Disclosure i Accommodations
 
