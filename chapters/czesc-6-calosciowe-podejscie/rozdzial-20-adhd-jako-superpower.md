@@ -2,11 +2,11 @@
 
 ## Hook: Dwie Narracje
 
-Karolina przewija TikToka. Jeden filmik: "ADHD to moja SUPER MOC! 🚀 Dzięki ADHD jestem kreatywna, energiczna, widzę rozwiązania których inni nie widzą!". Następny: "ADHD zniszczył mi życie. Nie mogę dokończyć studiów, straciłam pracę, moje związki się rozpadają."
+Przewijasz TikToka. Jeden filmik: "ADHD to moja SUPER MOC! 🚀 Dzięki ADHD jestem kreatywny, energiczny, widzę rozwiązania których inni nie widzą!". Następny: "ADHD zniszczył mi życie. Nie mogę dokończyć studiów, straciłem pracę, moje związki się rozpadają."
 
 Które podejście jest prawdziwe?
 
-Odpowiedź, którą odkryjesz w tym rozdziale: **oba – i żadne**. ADHD nie jest ani super mocą, ani wyrokiem. Jest neurologicznym wariantem, który w połączeniu z właściwym wsparciem, zrozumieniem własnych wzorców i sprzyjającym środowiskiem może pozwolić nie tylko na funkcjonowanie – ale na **flourishing**.
+Odpowiedź którą odkryjesz w tym rozdziale: **oba – i żadne**. ADHD nie jest ani super mocą ani wyrokiem. Jest neurologicznym wariantem który w połączeniu z właściwym wsparciem, zrozumieniem własnych wzorców i sprzyjającym środowiskiem może pozwolić nie tylko na funkcjonowanie - ale na **rozkwit**.
 
 Ten rozdział nie będzie próbował sprzedawać ci złudnej wizji, że ADHD to dar. Ale również nie pozostawi cię z przekonaniem, że to tylko deficyt do zneutralizowania. Zamiast tego, oparty na badaniach naukowych, przedstawi trzecią drogę: **radykalną akceptację rzeczywistości ADHD połączoną z aktywnym tworzeniem warunków do rozkwitu**.
 

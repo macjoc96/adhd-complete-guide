@@ -2,13 +2,13 @@
 
 ## Hook: „18 Rozdziałów Później... I Co Teraz?"
 
-Ania zamyka ostatnią stronę książki. Przez ostatnie 2 tygodnie przeczytała 18 rozdziałów. Głowa pęka od informacji:
+Zamykasz ostatnią stronę książki. Przez ostatnie dwa tygodnie przeczytałeś osiemnaście rozdziałów. Głowa pęka od informacji:
 
-"Powinienem brać omega-3... i magnez... i L-tyrozynę rano? A może rhodiolę? I morning exercise... i light therapy... i CBT... i brain dump wieczorem... i meditation? A ten tracking emotions spreadsheet? I time-blocking system? I Pomodoro? A może najpierw załatwić gluten elimination test?"
+"Powinienem brać omega-3... i magnez... i L-tyrozynę rano? A może rhodiolę? I poranny trening... i light therapy... i CBT... i brain dump wieczorem... i medytacja? A ten arkusz do śledzenia emocji? I system time-blocking? I Pomodoro? A może najpierw załatwić test eliminacji glutenu?"
 
-Czuje się **przytłoczona**.
+Czujesz się **przytłoczony**.
 
-Ma przed sobą listę 47 rzeczy, które "powinien" robić. Wie, że jeśli spróbuje zrobić wszystko naraz, nie zrobi **nic**. To paradoks knowledge overload: Im więcej wiesz, tym trudniej zacząć.
+Masz przed sobą listę czterdziestu siedmiu rzeczy które "powinieneś" robić. Wiesz że jeśli spróbujesz zrobić wszystko naraz, nie zrobisz **nic**. To paradoks knowledge overload: Im więcej wiesz, tym trudniej zacząć.
 
 **Prawda:** Nikt – **absolutnie nikt** – nie robi wszystkiego, co opisaliśmy w tej książce. To byłoby full-time job. I właśnie dlatego potrzebny jest **personalny protokół** – Twoja unikalna kombinacja interventions, które:
 
