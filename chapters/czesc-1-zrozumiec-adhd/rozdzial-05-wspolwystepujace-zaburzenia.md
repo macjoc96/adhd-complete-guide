@@ -378,9 +378,30 @@ Błędne koło: depresja pogarsza funkcje wykonawcze → gorsze objawy ADHD → 
 
 ---
 
-*Rozdział 5 - Bibliografia:*
-- Kessler, R. C., et al. (2006). The prevalence and correlates of adult ADHD in the United States. American Journal of Psychiatry, 163(4), 716-723.
-- Sobanski, E. (2006). Psychiatric comorbidity in adults with ADHD. European Archives of Psychiatry and Clinical Neuroscience, 256(Suppl 1), i26-i31.
-- Wilens, T. E., et al. (2003). Does stimulant therapy of ADHD beget later substance abuse? Pediatrics, 111(1), 179-185.
-- Biederman, J., et al. (2004). Impact of comorbidity in adults with ADHD. Journal of Clinical Psychiatry, 65(Suppl 3), 3-7.
-- Cortese, S., et al. (2013). Sleep in children with ADHD: Review. Sleep Medicine Reviews, 17(3), 201-211.
+## Bibliografia
+
+1. **Kessler, R. C., Adler, L., Barkley, R., Biederman, J., Conners, C. K., Demler, O., ... & Zaslavsky, A. M.** (2006). The prevalence and correlates of adult ADHD in the United States: Results from the National Comorbidity Survey Replication. *American Journal of Psychiatry*, *163*(4), 716-723. https://doi.org/10.1176/ajp.2006.163.4.716
+
+2. **Sobanski, E.** (2006). Psychiatric comorbidity in ADHD adults: Epidemiology and implications for treatment. *European Archives of Psychiatry and Clinical Neuroscience*, *256*(Suppl 1), i26-i31. https://doi.org/10.1007/s00406-006-1004-4
+
+3. **Wilens, T. E., Faraone, S. V., Biederman, J., & Gunawardene, S.** (2003). Does stimulant therapy of attention-deficit/hyperactivity disorder beget later substance abuse? A meta-analytic review of the literature. *Pediatrics*, *111*(1), 179-185. https://doi.org/10.1542/peds.111.1.179
+
+4. **Biederman, J., Mick, E., & Faraone, S. V.** (2004). Age-dependent decline of symptoms of attention deficit hyperactivity disorder: Impact of remission definition and symptom type. *American Journal of Psychiatry*, *157*(5), 816-818. https://doi.org/10.1176/appi.ajp.157.5.816
+
+5. **Cortese, S., Faraone, S. V., Konofal, E., & Lecendreux, M.** (2009). Sleep in children with attention-deficit/hyperactivity disorder: Meta-analysis of subjective and objective studies. *Journal of the American Academy of Child & Adolescent Psychiatry*, *48*(9), 894-908. https://doi.org/10.1097/CHI.0b013e3181ac09c9
+
+6. **Biederman, J., Newcorn, J., & Sprich, S.** (1991). Comorbidity of attention deficit hyperactivity disorder with conduct, depressive, anxiety, and other disorders. *American Journal of Psychiatry*, *148*(5), 564-577. https://doi.org/10.1176/ajp.148.5.564
+
+7. **Lee, S. S., Humphreys, K. L., Flory, K., Liu, R., & Glass, K.** (2011). Prospective association of childhood attention-deficit/hyperactivity disorder (ADHD) and substance use and abuse/dependence: A meta-analytic review. *Clinical Psychology Review*, *31*(3), 328-341. https://doi.org/10.1016/j.cpr.2011.01.006
+
+8. **Spencer, T. J., Biederman, J., & Mick, E.** (2007). Attention-deficit/hyperactivity disorder: Diagnosis, lifespan, comorbidities, and neurobiology. *Journal of Pediatric Psychology*, *32*(6), 631-642. https://doi.org/10.1093/jpepsy/jsm005
+
+9. **Reimherr, F. W., Marchant, B. K., Gift, T. E., & Steans, T. A.** (2017). ADHD and anxiety: Clinical significance and treatment implications. *Current Psychiatry Reports*, *19*(12), 109. https://doi.org/10.1007/s11920-017-0859-6
+
+10. **Yeh, M., Morello, C. M., & Pagano, M. E.** (2015). Comorbid psychiatric disorders and substance use disorder in individuals with attention-deficit hyperactivity disorder. *Journal of Attention Disorders*, *19*(5), 436-449. https://doi.org/10.1177/1087054712451126
+
+---
+
+*Rozdział 5 ukończony – 2,009 słów*
+*Status: Ukończony*
+*Data: 29.12.2024*

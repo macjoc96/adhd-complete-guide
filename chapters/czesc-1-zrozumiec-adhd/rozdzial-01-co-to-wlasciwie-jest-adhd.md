@@ -324,10 +324,30 @@ Jeśli podejrzewasz u siebie ADHD:
 
 ---
 
-*Rozdział 1 - Bibliografia:*
-- American Psychiatric Association. (2013). Diagnostic and Statistical Manual of Mental Disorders (5th ed.)
-- Barkley, R. A. (2010). Taking Charge of Adult ADHD
-- Cortese, S., et al. (2016). Toward Systems Neuroscience of ADHD: Meta-Analysis of fMRI Studies. American Journal of Psychiatry
-- Faraone, S. V., et al. (2006). The age-dependent decline of ADHD: a meta-analysis. Psychological Medicine
-- Faraone, S. V., et al. (2021). The World Federation of ADHD International Consensus Statement. Neuroscience & Biobehavioral Reviews
-- WHO. (2022). ICD-11: International Classification of Diseases (11th Revision)
+## Bibliografia
+
+1. **American Psychiatric Association.** (2013). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed.). American Psychiatric Publishing. https://doi.org/10.1176/appi.books.9780890425596
+
+2. **Barkley, R. A.** (2010). *Taking Charge of Adult ADHD*. Guilford Press.
+
+3. **Cortese, S., Kelly, C., Chabernaud, C., Proal, E., Di Martino, A., Milham, M. P., & Castellanos, F. X.** (2012). Toward systems neuroscience of ADHD: A meta-analysis of 55 fMRI studies. *American Journal of Psychiatry*, *169*(10), 1038-1055. https://doi.org/10.1176/appi.ajp.2012.11101521
+
+4. **Faraone, S. V., Biederman, J., & Mick, E.** (2006). The age-dependent decline of attention deficit hyperactivity disorder: A meta-analysis of follow-up studies. *Psychological Medicine*, *36*(2), 159-165. https://doi.org/10.1017/S003329170500471X
+
+5. **Faraone, S. V., Banaschewski, T., Coghill, D., Zheng, Y., Biederman, J., Bellgrove, M. A., ... & Wang, Y.** (2021). The World Federation of ADHD International Consensus Statement: 208 Evidence-based conclusions about the disorder. *Neuroscience & Biobehavioral Reviews*, *128*, 789-818. https://doi.org/10.1016/j.neubiorev.2021.01.022
+
+6. **Polanczyk, G. V., Willcutt, E. G., Salum, G. A., Kieling, C., & Rohde, L. A.** (2014). ADHD prevalence estimates across three decades: An updated systematic review and meta-regression analysis. *International Journal of Epidemiology*, *43*(2), 434-442. https://doi.org/10.1093/ije/dyt261
+
+7. **Simon, V., Czobor, P., Bálint, S., Mészáros, Á., & Bitter, I.** (2009). Prevalence and correlates of adult attention-deficit hyperactivity disorder: Meta-analysis. *British Journal of Psychiatry*, *194*(3), 204-211. https://doi.org/10.1192/bjp.bp.107.048827
+
+8. **Still, G. F.** (1902). The Goulstonian lectures on some abnormal psychical conditions in children. *The Lancet*, *159*(4102), 1008-1012, 1077-1082, 1163-1168.
+
+9. **World Health Organization.** (2022). *ICD-11: International Classification of Diseases* (11th Revision). https://icd.who.int/
+
+10. **Willcutt, E. G.** (2012). The prevalence of DSM-IV attention-deficit/hyperactivity disorder: A meta-analytic review. *Neurotherapeutics*, *9*(3), 490-499. https://doi.org/10.1007/s13311-012-0135-8
+
+---
+
+*Rozdział 1 ukończony – 2,128 słów*
+*Status: Ukończony*
+*Data: 29.12.2024*

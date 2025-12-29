@@ -412,10 +412,30 @@ Badania pokazują, że efekt palenia tytoniu przez matkę na ADHD dziecka jest *
 
 ---
 
-*Rozdział 3 - Bibliografia:*
-- Braun, J. M., et al. (2006). Exposures to environmental toxicants and ADHD. Environmental Health Perspectives, 114(12), 1904-1909.
-- Demontis, D., et al. (2019). Discovery of the first genome-wide significant risk loci for attention-deficit/hyperactivity disorder. Nature Genetics, 51(1), 63-75.
-- Faraone, S. V., & Larsson, H. (2019). Genetics of attention deficit hyperactivity disorder. Molecular Psychiatry, 24(4), 562-575.
-- Froehlich, T. E., et al. (2009). Association of tobacco and alcohol consumption during pregnancy with ADHD. Pediatrics, 124(4), e1054-e1063.
-- Nigg, J. T., et al. (2012). Meta-Analysis of ADHD symptoms, restriction diet, and synthetic food color additives. Journal of the American Academy of Child & Adolescent Psychiatry, 51(1), 86-97.
-- van Dongen, J., et al. (2015). Epigenome-wide association study of ADHD symptoms in adults. Biological Psychiatry, 78(9), e7-e9.
+## Bibliografia
+
+1. **Faraone, S. V., & Larsson, H.** (2019). Genetics of attention deficit hyperactivity disorder. *Molecular Psychiatry*, *24*(4), 562-575. https://doi.org/10.1038/s41380-018-0070-0
+
+2. **Demontis, D., Walters, R. K., Martin, J., Mattheisen, M., Als, T. D., Agerbo, E., ... & Neale, B. M.** (2019). Discovery of the first genome-wide significant risk loci for attention deficit/hyperactivity disorder. *Nature Genetics*, *51*(1), 63-75. https://doi.org/10.1038/s41588-018-0269-7
+
+3. **Thapar, A., Cooper, M., Eyre, O., & Langley, K.** (2013). What have we learnt about the causes of ADHD? *Journal of Child Psychology and Psychiatry*, *54*(1), 3-16. https://doi.org/10.1111/j.1469-7610.2012.02611.x
+
+4. **Larsson, H., Chang, Z., D'Onofrio, B. M., & Lichtenstein, P.** (2014). The heritability of clinically diagnosed attention deficit hyperactivity disorder across the lifespan. *Psychological Medicine*, *44*(10), 2223-2229. https://doi.org/10.1017/S0033291713002493
+
+5. **Braun, J. M., Kahn, R. S., Froehlich, T., Auinger, P., & Lanphear, B. P.** (2006). Exposures to environmental toxicants and attention deficit hyperactivity disorder in U.S. children. *Environmental Health Perspectives*, *114*(12), 1904-1909. https://doi.org/10.1289/ehp.9478
+
+6. **Froehlich, T. E., Lanphear, B. P., Auinger, P., Hornung, R., Epstein, J. N., Braun, J., & Kahn, R. S.** (2009). Association of tobacco and alcohol consumption during pregnancy with attention-deficit/hyperactivity disorder. *Pediatrics*, *124*(4), e1054-e1063. https://doi.org/10.1542/peds.2009-0526
+
+7. **Nigg, J. T., Lewis, K., Edinger, T., & Falk, M.** (2012). Meta-analysis of attention-deficit/hyperactivity disorder or attention-deficit/hyperactivity disorder symptoms, restriction diet, and synthetic food color additives. *Journal of the American Academy of Child & Adolescent Psychiatry*, *51*(1), 86-97.e8. https://doi.org/10.1016/j.jaac.2011.10.015
+
+8. **van Dongen, J., Nivard, M. G., Willemsen, G., Hottenga, J. J., Helmer, Q., Dolan, C. V., ... & Boomsma, D. I.** (2015). Epigenome-wide association study of attention-deficit/hyperactivity disorder symptoms in adults. *Biological Psychiatry*, *78*(9), e7-e9. https://doi.org/10.1016/j.biopsych.2015.02.040
+
+9. **Sagiv, S. K., Thurston, S. W., Bellinger, D. C., Tolbert, P. E., Altshul, L. M., & Korrick, S. A.** (2010). Prenatal organochlorine exposure and behaviors associated with attention deficit hyperactivity disorder in school-aged children. *American Journal of Epidemiology*, *171*(5), 593-601. https://doi.org/10.1093/aje/kwp427
+
+10. **Nikolas, M. A., & Burt, S. A.** (2010). Genetic and environmental influences on ADHD symptom dimensions of inattention and hyperactivity: A meta-analysis. *Journal of Abnormal Psychology*, *119*(1), 1-17. https://doi.org/10.1037/a0018010
+
+---
+
+*Rozdział 3 ukończony – 2,159 słów*
+*Status: Ukończony*
+*Data: 29.12.2024*

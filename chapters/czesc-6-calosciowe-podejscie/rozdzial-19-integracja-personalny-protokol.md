@@ -532,6 +532,30 @@ Zanim zaczniesz dodawać interventions, musisz wiedzieć:
 
 ---
 
-*Rozdział 19 ukończony – 4,207 słów*
+## Bibliografia
+
+1. **Safren, S. A., Sprich, S., Mimiaga, M. J., Surman, C., Knouse, L., Groves, M., & Otto, M. W.** (2010). Cognitive behavioral therapy vs relaxation with educational support for medication-treated adults with ADHD and persistent symptoms: A randomized controlled trial. *JAMA*, *304*(8), 875-880. https://doi.org/10.1001/jama.2010.1192
+
+2. **Kooij, J. J. S., Bijlenga, D., Salerno, L., Jaeschke, R., Bitter, I., Balázs, J., ... & Asherson, P.** (2019). Updated European Consensus Statement on diagnosis and treatment of adult ADHD. *European Psychiatry*, *56*(1), 14-34. https://doi.org/10.1016/j.eurpsy.2018.11.001
+
+3. **Barkley, R. A., & Murphy, K. R.** (2006). *Attention-Deficit Hyperactivity Disorder: A Clinical Workbook* (3rd ed.). Guilford Press.
+
+4. **Young, S., & Bramham, J.** (2012). *Cognitive-Behavioural Therapy for ADHD in Adolescents and Adults: A Psychological Guide to Practice* (2nd ed.). Wiley-Blackwell. https://doi.org/10.1002/9781119960027
+
+5. **Mitchell, J. T., McIntyre, E. M., English, J. S., Dennis, M. F., Beckham, J. C., & Kollins, S. H.** (2017). A pilot trial of mindfulness meditation training for ADHD in adulthood: Impact on core symptoms, executive functioning, and emotion dysregulation. *Journal of Attention Disorders*, *21*(13), 1105-1120. https://doi.org/10.1177/1087054713513328
+
+6. **Lilienfeld, S. O., Ritschel, L. A., Lynn, S. J., Cautin, R. L., & Latzman, R. D.** (2014). Why ineffective psychotherapies appear to work: A taxonomy of causes of spurious therapeutic effectiveness. *Perspectives on Psychological Science*, *9*(4), 355-387. https://doi.org/10.1177/1745691614535216
+
+7. **Fabiano, G. A., Schatz, N. K., Aloe, A. M., Chacko, A., & Chronis-Tuscano, A.** (2015). A systematic review of meta-analyses of psychosocial treatment for attention-deficit/hyperactivity disorder. *Clinical Child and Family Psychology Review*, *18*(1), 77-97. https://doi.org/10.1007/s10567-015-0178-6
+
+8. **Ramsay, J. R.** (2017). The relevance of cognitive distortions in the psychosocial treatment of adult ADHD. *Professional Psychology: Research and Practice*, *48*(1), 62-69. https://doi.org/10.1037/pro0000101
+
+9. **Knouse, L. E., & Safren, S. A.** (2010). Current status of cognitive behavioral therapy for adult attention-deficit hyperactivity disorder. *Psychiatric Clinics of North America*, *33*(3), 497-509. https://doi.org/10.1016/j.psc.2010.04.001
+
+10. **Solanto, M. V., Marks, D. J., Wasserstein, J., Mitchell, K., Abikoff, H., Alvir, J. M., & Kofman, M. D.** (2010). Efficacy of meta-cognitive therapy for adult ADHD. *American Journal of Psychiatry*, *167*(8), 958-968. https://doi.org/10.1176/appi.ajp.2009.09081123
+
+---
+
+*Rozdział 19 ukończony – 3,214 słów*
 *Status: Ukończony*
 *Data: 29.12.2024*

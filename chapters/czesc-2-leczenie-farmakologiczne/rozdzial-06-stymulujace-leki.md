@@ -452,9 +452,30 @@ To pomoże psychiatrze dostosować dawkę.
 
 ---
 
-*Rozdział 6 - Bibliografia:*
-- Cortese, S., et al. (2018). Comparative efficacy and tolerability of medications for ADHD in children, adolescents, and adults. Lancet Psychiatry, 5(9), 727-738.
-- Faraone, S. V., & Buitelaar, J. (2010). Comparing the efficacy of stimulants for ADHD in children and adolescents using meta-analysis. European Child & Adolescent Psychiatry, 19(4), 353-364.
-- Volkow, N. D., et al. (2012). Methylphenidate-elicited dopamine increases in ventral striatum are associated with long-term symptom improvement in adults with ADHD. Journal of Neuroscience, 32(3), 841-849.
-- Wilens, T. E., et al. (2003). Does stimulant therapy of ADHD beget later substance abuse? A meta-analytic review. Pediatrics, 111(1), 179-185.
-- Biederman, J., et al. (2008). A comparison of once-daily and divided doses of modafinil in children with ADHD. Journal of Clinical Psychiatry, 69(8), 1240-1248.
+## Bibliografia
+
+1. **Cortese, S., Adamo, N., Del Giovane, C., Mohr-Jensen, C., Hayes, A. J., Carucci, S., ... & Cipriani, A.** (2018). Comparative efficacy and tolerability of medications for attention-deficit hyperactivity disorder in children, adolescents, and adults: A systematic review and network meta-analysis. *The Lancet Psychiatry*, *5*(9), 727-738. https://doi.org/10.1016/S2215-0366(18)30269-4
+
+2. **Faraone, S. V., & Buitelaar, J.** (2010). Comparing the efficacy of stimulants for ADHD in children and adolescents using meta-analysis. *European Child & Adolescent Psychiatry*, *19*(4), 353-364. https://doi.org/10.1007/s00787-009-0054-3
+
+3. **Volkow, N. D., Wang, G. J., Tomasi, D., Kollins, S. H., Wigal, T. L., Newcorn, J. H., ... & Swanson, J. M.** (2012). Methylphenidate-elicited dopamine increases in ventral striatum are associated with long-term symptom improvement in adults with attention deficit hyperactivity disorder. *Journal of Neuroscience*, *32*(3), 841-849. https://doi.org/10.1523/JNEUROSCI.4461-11.2012
+
+4. **Wilens, T. E., Faraone, S. V., Biederman, J., & Gunawardene, S.** (2003). Does stimulant therapy of attention-deficit/hyperactivity disorder beget later substance abuse? A meta-analytic review of the literature. *Pediatrics*, *111*(1), 179-185. https://doi.org/10.1542/peds.111.1.179
+
+5. **Spencer, T. J., Brown, A., Seidman, L. J., Valera, E. M., Makris, N., Lomedico, A., ... & Biederman, J.** (2013). Effect of psychostimulants on brain structure and function in ADHD: A qualitative literature review of MRI-based neuroimaging studies. *Journal of Clinical Psychiatry*, *74*(9), 902-917. https://doi.org/10.4088/JCP.12r08287
+
+6. **Biederman, J., Monuteaux, M. C., Spencer, T., Wilens, T. E., & Faraone, S. V.** (2009). Do stimulants protect against psychiatric disorders in youth with ADHD? A 10-year follow-up study. *Pediatrics*, *124*(1), 71-78. https://doi.org/10.1542/peds.2008-3347
+
+7. **Castells, X., Ramos-Quiroga, J. A., Rigau, D., Bosch, R., Nogueira, M., Vidal, X., & Casas, M.** (2011). Efficacy of methylphenidate for adults with attention-deficit hyperactivity disorder: A meta-regression analysis. *CNS Drugs*, *25*(2), 157-169. https://doi.org/10.2165/11539440-000000000-00000
+
+8. **Swanson, J. M., & Volkow, N. D.** (2009). Psychopharmacology: Concepts and opinions about the use of stimulant medications. *Journal of Child Psychology and Psychiatry*, *50*(1-2), 180-193. https://doi.org/10.1111/j.1469-7610.2008.02062.x
+
+9. **Greenhill, L. L., Pliszka, S., & Dulcan, M. K.** (2002). Practice parameter for the use of stimulant medications in the treatment of children, adolescents, and adults. *Journal of the American Academy of Child & Adolescent Psychiatry*, *41*(2 Suppl), 26S-49S. https://doi.org/10.1097/00004583-200202001-00003
+
+10. **Arnsten, A. F., & Pliszka, S. R.** (2011). Catecholamine influences on prefrontal cortical function: Relevance to treatment of attention deficit/hyperactivity disorder and related disorders. *Pharmacology Biochemistry and Behavior*, *99*(2), 211-216. https://doi.org/10.1016/j.pbb.2011.01.020
+
+---
+
+*Rozdział 6 ukończony – 2,321 słów*
+*Status: Ukończony*
+*Data: 29.12.2024*
