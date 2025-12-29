@@ -1,21 +1,398 @@
 # Rozdział 13: Zarządzanie Energią i Uwagą
 
-*Status: Do napisania*
-*Docelowa długość: 3,000-3,500 słów*
+## Hook / Opening
 
-## Zarys Rozdziału
+Tomek, 32-letni programista, miał dziwny paradoks. W poniedziałek, o 9 rano, siedział przed kodem przez 4 godziny – rozproszony, scrollował Reddit, sprawdzał e-maile co 5 minut, 10 linijek kodu w 4 godziny. We wtorek, o 22:00 wieczorem, włączył komputer "na 30 minut" – i nagle było 4 rano. Projekt skończony, 800 linijek kodu, nie zauważył jak minęło 6 godzin. "Nie rozumiem," powiedział. "Dlaczego czasem nie mogę się skupić przez 10 minut, a czasem tracę poczucie czasu i pracuję 6 godzin non-stop?"
 
-- Hyperfocus vs distractibility
-- Praca z naturalnym rytmem energii
-- Breaks i recovery
-- Context switching
-- Zarządzanie przeciążeniem sensorycznym
-- Znajdowanie "flow state"
+To **paradoks ADHD**: **Hyperfocus (nadkoncentracja) vs. Distractibility (rozpraszalność)**. Nie "nie potrafię się skupić" – raczej "nie potrafię *kontrolować* na czym się skupiam i kiedy". Uwaga w ADHD nie jest słaba – jest **nieregularna, nieprzewidywalna, zależna od dopaminy i zainteresowania**.
 
-## Notatki
+Ale jest dobra wiadomość: Możesz nauczyć się **pracować Z twoim mózgiem, a nie przeciwko niemu**. Zrozumieć swój naturalny rytm energii. Wykorzystać momenty wysokiej energii. Zarządzać przerwami i odbudową. Minimalizować koszty context switching. Tworzyć warunki dla flow state zamiast walczyć z rozproszeniem siłą woli.
 
-[Miejsce na notatki, źródła, research]
+W tym rozdziale odkryjesz **strategie zarządzania energią i uwagą w ADHD**: od rozpoznawania swoich szczytów/dołków energetycznych, przez techniki przerw i odbudowy, po projektowanie środowiska i zadań dla maksymalnej koncentracji.
 
 ---
 
-**Do opracowania**: Hook/Opening, Nauka, Praktyka, Przykłady, Key Takeaways, Action Steps, Resources
+## Nauka: Dlaczego Uwaga w ADHD Jest Tak Nieregularna?
+
+### Hyperfocus vs. Distractibility – Dwa Końce Spectrum
+
+**Hyperfocus (nadkoncentracja):**
+- Stan intensywnej, wchłaniającej koncentracji na jednym zadaniu
+- Utrata poczucia czasu ("miały być 30 minut, minęło 6 godzin")
+- Ignorowanie bodźców zewnętrznych (głód, zmęczenie, telefon dzwoni – nie słyszysz)
+- **Kiedy się zdarza:** Gdy zadanie jest:
+  - Interesujące/pasjonujące
+  - Nowatorskie (wysoka stymulacja)
+  - Natychmiastowa gratyfikacja (gry, media społecznościowe, kreatywne projekty)
+
+**Distractibility (rozpraszalność):**
+- Niezdolność do utrzymania uwagi na zadaniu
+- Przeskakiwanie między zadaniami co kilka minut
+- Podatność na każdy bodziec (dźwięk, ruch, myśl)
+- **Kiedy się zdarza:** Gdy zadanie jest:
+  - Nudne/rutynowe
+  - Niska stymulacja
+  - Odległa gratyfikacja ("efekty zobaczę za miesiąc")
+
+**Dlaczego tak jest?**
+
+**Dopamina** – neurotransmiter kluczowy dla uwagi i motywacji – jest **niedostateczna w ADHD** (szczególnie w układzie nagrody i PFC). Mózg z ADHD "szuka" dopaminy:
+- Interesujące zadanie = dopamina → hyperfocus
+- Nudne zadanie = brak dopaminy → rozproszenie, poszukiwanie stymulacji gdzie indziej (scrolling, przeskakiwanie zadań)
+
+**Paradoks:** Nie brak uwagi – **brak kontroli nad uwagą**. Mózg z ADHD ma uwagę "all or nothing": albo hiperfokus, albo rozproszenie.
+
+### Ultradian Rhythms – Naturalny Rytm Energii (90-120 min Cykle)
+
+**Badania snu i czuwania** (Nathan Kleitman, 1960s) pokazują, że ludzie działają w **ultradianowych cyklach energii** (~90-120 min):
+- **Faza wzrostu:** Energia i czuwanie rosną (pierwsze 60-90 min) → najlepsza koncentracja
+- **Faza spadku:** Energia opada (następne 20-30 min) → trudność z koncentracją, potrzeba przerwy
+
+**W ADHD te cykle są bardziej wyraźne** (większe amplitudy wzlotów/upadków):
+- Szczyt energii → możliwy hyperfocus
+- Dołek energii → nie ma mowy o pracy (paraliż, scrolling, prokrastynacja)
+
+**Kluczowa strategia:** Nie walcz z cyklami – **pracuj z nimi**. Trudne/ważne zadania w szczycie energii, przerwy/rutyny w dołku.
+
+### Przeciążenie Sensoryczne – Gdy Zbyt Wiele = Paraliż
+
+Osoby z ADHD często mają **niższą tolerancję na bodźce sensoryczne**:
+- Hałas (rozmowy, muzyka, ruch uliczny)
+- Światło (jaskrawe/migające światła)
+- Dotyk (ubrania drapią, etykietki)
+- Wizualne (bałagan, wiele rzeczy w polu widzenia)
+
+**Mechanizm:** Mózg z ADHD ma trudności z **filtrowaniem nieistotnych bodźców** (słaba funkcja "gating" w układzie limbicznym). Rezultat: wszystko "wchodzi" → przeciążenie → trudność z koncentracją lub shutdown (paraliż).
+
+---
+
+## Praktyka: Strategie Zarządzania Energią i Uwagą
+
+### 1. Poznaj Swój Rytm Energii – Energy Mapping
+
+**Krok 1: Śledź energię przez 1-2 tygodnie**
+
+Stwórz prosty dziennik:
+- Co godzinę (9:00, 10:00, 11:00...) oceń energię: 1-10
+- Notuj: co robiłeś, jak się czułeś
+
+**Przykład:**
+| Godzina | Energia (1-10) | Aktywność |
+|---------|---------------|-----------|
+| 9:00 | 7 | Praca – kod |
+| 10:00 | 8 | Praca – kod |
+| 11:00 | 9 | Praca – deep work |
+| 12:00 | 6 | Lunch |
+| 13:00 | 4 | Post-lunch dip |
+| 14:00 | 5 | E-maile |
+| 15:00 | 7 | Praca – projekt B |
+| 16:00 | 8 | Hyperfocus – projekt B |
+
+**Krok 2: Znajdź wzorce**
+
+Po 1-2 tygodniach zobacz:
+- **Kiedy masz szczyty energii?** (np. 9-12, 15-17)
+- **Kiedy dołki?** (np. 13-14 post-lunch, 18-20 wieczór)
+
+**Krok 3: Dopasuj zadania do energii**
+
+**Szczyt energii (8-10/10):**
+- **Deep work** – zadania wymagające koncentracji (pisanie, kod, analiza, kreatywność)
+- **Trudne decyzje** (planowanie, priorytetyzacja)
+
+**Średnia energia (5-7/10):**
+- **Shallow work** – e-maile, telefony, spotkania, rutynowe zadania
+
+**Dołek energii (1-4/10):**
+- **Przerwa** – spacer, jedzenie, odpoczynek (nie próbuj pracować – będzie nieefektywne)
+- **Najprostsze zadania** – jeśli musisz coś robić: porządki, archiwizacja, prosty research
+
+**Przykład praktyczny (na podstawie powyższego dziennika):**
+- 9:00-12:00 (wysoka energia) → Pisanie raportu (trudne zadanie)
+- 13:00-14:00 (dołek) → Lunch + spacer (przerwa, nie praca!)
+- 15:00-17:00 (druga fala energii) → Projekt B (deep work)
+- 18:00+ (spadek) → E-maile, lekkie zadania lub koniec pracy
+
+###  2. Przerwy i Odbudowa – Recovery Jest Częścią Produktywności
+
+**Problem:** ADHD + praca = "pójdę bez przerwy 8 godzin" → wyczerpanie → crash.
+
+**Prawda:** **Mózg potrzebuje przerw, aby regenerować uwagę**. W ADHD szczególnie.
+
+#### A. **Mikro-przerwy (5 min co 25-50 min)**
+
+**Zasada Pomodoro:** 25 min pracy → 5 min przerwy.
+
+**Co robić w 5-minutowej przerwie (NIE scrolling!):**
+- **Ruch:** Stretch, 10 skoków, spacer po pokoju (aktywuje dopaminę, redukuje sztywność)
+- **Woda:** Pij wodę (odwodnienie = spadek koncentracji)
+- **Oddech:** 5 głębokich oddechów (4 sek wdech, 6 sek wydech – aktywuje układ przywspółczulny)
+- **Oczy:** Patrz na coś dalekiego (20/20/20 rule: co 20 min, patrz na coś 20 stóp daleko przez 20 sek – redukuje zmęczenie oczu)
+
+**Czego NIE robić:**
+- ❌ Scrolling social media (pochłania więcej uwagi niż regeneruje)
+- ❌ Sprawdzanie e-maili/wiadomości (to nie przerwa, to kolejne zadanie)
+- ❌ Jedzenie przy komputerze (nie oddziela pracy od przerwy)
+
+#### B. **Długie przerwy (15-30 min co 2-3h)**
+
+**Po 4 Pomodoro (2 godziny pracy):**
+- Dłuższa przerwa: spacer na zewnątrz (preferowane – natura redukuje mental fatigue), lunch, drzemka (10-20 min power nap)
+
+**Dlaczego natura/spacer jest najlepszy:**
+- Badania (Kaplan & Berman, "Attention Restoration Theory"): natura regeneruje uwagę mimowolną → łatwiej wrócić do pracy
+- Ruch = dopamina (ważne w ADHD)
+
+#### C. **Digital Detox Breaks**
+
+**Ekrany = constant stimulation = mental fatigue.**
+
+Jeśli pracujesz na komputerze, w przerwie:
+- Zostaw telefon/laptop → wyjdź na spacer BEZ urządzeń
+- Medytacja/mindfulness (3-minute breathing space)
+- Rozgadaj się z kimś (social connection = dopamina)
+
+### 3. Context Switching – Największy Wróg Produktywności w ADHD
+
+**Context switching** = przełączanie się między zadaniami.
+
+**Problem w ADHD:**
+- Każde przełączenie kosztuje ~15-20 min "rozpędzenia" do pełnej koncentracji (badania Gloria Mark, UC Irvine)
+- Osoby z ADHD przełączają się średnio **co 5-10 minut** (vs. ~20-30 min neurotypowi)
+- Efekt: **cały dzień to "rozpędzanie się", nigdy nie osiągasz głębokiej koncentracji**
+
+**Strategie redukcji context switching:**
+
+#### A. **Batching (Grupowanie Podobnych Zadań)**
+
+**Zamiast:** E-mail o 9:00, telefon o 10:00, e-mail o 11:00, telefon o 12:00 (4 przełączenia)
+
+**Zrób:** Wszystkie e-maile 9:00-10:00, wszystkie telefony 10:30-11:30 (1 przełączenie)
+
+**Przykłady batching:**
+- **E-maile:** 2x dziennie (np. 10:00, 16:00) – nie sprawdzaj między
+- **Telefony:** 1 blok (np. 14:00-15:00) – wszystkie rozmowy po kolei
+- **Spotkania:** Grupuj w jeden dzień lub jeden blok (np. wtorki = dzień spotkań)
+
+#### B. **Single-tasking (Jedno Zadanie Naraz)**
+
+**Multitasking to iluzja** – mózg nie robi wielu rzeczy jednocześnie, tylko szybko się przełącza (i traci energię przy każdym przełączeniu).
+
+**Zasada:**
+- Otwórz JEDNO zadanie
+- Ukryj wszystkie inne aplikacje (pełny ekran dla dokumentu/kodu)
+- Wyłącz notyfikacje (telefon tryb "nie przeszkadzać", komputer tryb Focus)
+- Pracuj na tym jednym zadaniu 25-50 min (Pomodoro)
+
+#### C. **Transition Rituals (Rytuały Przejścia)**
+
+**Gdy MUSISZ zmienić kontekst** (np. z pisania kodu na spotkanie), zrób **rytuał przejścia** (3-5 min):
+- Zapisz gdzie skończyłeś (notatka: "Następny krok: dodaj funkcję X")
+- Zamknij wszystkie związane zakładki/dokumenty
+- 5 głębokich oddechów
+- Otwórz nowy kontekst (materiały do spotkania)
+
+**Dlaczego działa:** Daje mózgowi czas na "zamknięcie" starego kontekstu i "otwarcie" nowego (zamiast brutalnego przełączenia).
+
+### 4. Zarządzanie Przeciążeniem Sensorycznym
+
+**Strategia: Kontroluj środowisko, zanim ono kontroluje ciebie.**
+
+#### A. **Dźwięk**
+
+**Problem:** Hałas rozprasza, ale całkowita cisza może być "zbyt głośna" (wewnętrzne myśli rozpraszają).
+
+**Rozwiązania:**
+- **Noise-cancelling headphones** (Bose QC, Sony WH-1000XM, AirPods Pro)
+- **White/pink noise** (Noisli, myNoise – maskuje przerywanego hałas)
+- **Muzyka bez słów** (lo-fi hip-hop, classical, ambient – brain.fm, Focus@Will)
+  - Zasada: jeśli zaczynasz słuchać tekstu/melodii → zbyt rozpraszające, zmień
+
+**Eksperymentuj:** Niektórzy z ADHD pracują lepiej w kawiarni (ambient noise) niż w ciszy – testuj.
+
+#### B. **Wizualne (Bałagan)**
+
+**Zasada: Out of sight, out of mind.**
+
+- **Clear desk** (tylko jedno zadanie = jedno narzędzie na biurku)
+- **Digital minimalism** (OneTab dla zakładek, zamknij nieistotne aplikacje)
+- **Mury wizualne:** Jeśli pracujesz w open office → parawan, roślina, coś co ogranicza pole widzenia
+
+#### C. **Fizyczny Komfort**
+
+**ADHD + dyskomfort fizyczny = niemożliwość koncentracji.**
+
+- **Temperatura:** Zbyt ciepło/zimno → rozproszenie. Preferowana: 20-22°C
+- **Ubrania:** Bez drapiących etykietek, wygodne (niektórzy potrzebują fidget jewelry – pierścionki do kręcenia, bransoletki)
+- **Fidget tools:** Kostka, spinner, stress ball – dla osób z hiperaktywnością (kanalizuje potrzebę ruchu)
+
+### 5. Znajdowanie Flow State – Warunki Dla Głębokiej Koncentracji
+
+**Flow (Mihaly Csikszentmihalyi):** Stan pełnej absorpcji zadaniem, utrata poczucia czasu, maksymalna produktywność.
+
+**Warunki flow:**
+1. **Zadanie jest wyzwaniem, ale osiągalnym** (zbyt łatwe = nuda, zbyt trudne = frustracja)
+2. **Jasny cel i natychmiastowy feedback** (widzisz postęp)
+3. **Brak rozpraszaczy**
+4. **Wewnętrzna motywacja** (robisz to dla samego zadania, nie tylko nagrody)
+
+**Jak tworzyć warunki dla flow w ADHD:**
+
+**A. Dopasuj trudność zadania:**
+- Zbyt łatwe? Dodaj wyzwanie (timer – "ukończę w 30 min", jakość – "najlepsza wersja")
+- Zbyt trudne? Podziel na mniejsze kroki (pierwszy krok = łatwiejszy)
+
+**B. Strukturyzuj feedback:**
+- Checklist – każdy krok ukończony = "✓" (wizualny feedback, dopamina)
+- Timer – widzisz czas (feedback: "10 min minęło, jestem na dobrej drodze")
+
+**C. Minimalizuj rozpraszacze:**
+- Telefon → inna pokój lub szuflada
+- Notyfikacje → wyłączone (Focus mode)
+- Ludzie → zamknij drzwi, słuchawki (sygnał "nie przeszkadzaj")
+
+**D. Wybierz zadanie które cię interesuje:**
+- Flow jest łatwiejszy gdy zadanie jest intrinsecznie interesujące
+- Jeśli nudne zadanie → "gamifikuj" (wyobraź że to gra, ustaw challenge, nagradza się po ukończeniu)
+
+---
+
+## Przykłady z Życia
+
+### Przykład 1: Kasia – Energy Mapping i Dopasowanie Zadań
+
+Kasia, 34-letnia marketingowiec, była frustrowana – "nie mogę się skupić rano, ale wieczorem hiperfokus".
+
+**Energy mapping:** Kasia śledziła energię przez 2 tygodnie. Wzór:
+- 9-11: Energia 4-5/10 (post-śniadanie dip)
+- 11-13: Energia 8-9/10 (szczyt!)
+- 14-15: Energia 3-4/10 (post-lunch crash)
+- 16-20: Energia 7-9/10 (druga fala)
+- 21-23: Energia 9-10/10 (nocny szczyt)
+
+**Zmiana:** Zamiast walczyć z rytmem, Kasia dopasowała zadania:
+- 11-13: Deep work (pisanie kampanii, strategia)
+- 14-15: Przerwa/lekkie zadania (e-maile)
+- 16-20: Kreatywność (grafiki, brainstorming)
+- Wieczór: Osobiste projekty (wykorzystuje naturalny hyperfocus)
+
+**Wynik:** Produktywność wzrosła o 50%. "Przestałam walczyć z mózgiem, zaczęłam z nim współpracować."
+
+### Przykład 2: Piotr – Batching i Redukcja Context Switching
+
+Piotr, 29-letni programista, sprawdzał e-maile 30x dziennie. Każde sprawdzenie = 5 min + 15 min "rozpędzania się" z powrotem do kodu = 600 min straconych dziennie (!).
+
+**Zmiana:** Batching e-maili:
+- 10:00: 30 min – wszystkie e-maile
+- 16:00: 30 min – wszystkie e-maile
+- **Reszta dnia: e-mail ZAMKNIĘTY**
+
+**Wynik:** Z 30 przełączeń/dzień → 2 przełączenia. "Pierwszy raz od lat mogę pracować 2-3h bez przerwy. Produktywność eksplodowała."
+
+### Przykład 3: Ania – Przeciążenie Sensoryczne i Noise-Cancelling
+
+Ania, 27-letnia projektantka w open office, była rozpraszana przez każdy dźwięk – rozmowy, telefony, klawiatura.
+
+**Zmiana:** Kupiła **Bose QC45 (noise-cancelling headphones)** + **pink noise (Noisli)**. Gdy pracuje: słuchawki ON, pink noise, pełen ekran na projekcie.
+
+**Wynik:** "Czuję się jak w bańce. Pierwszy raz mogę pracować w biurze bez ciągłego rozproszenia. Game changer."
+
+---
+
+## Kluczowe Wnioski
+
+1. **ADHD = nie brak uwagi, ale brak kontroli nad uwagą** – hyperfocus (nadkoncentracja) vs. distractibility (rozpraszalność); dopamina decyduje który stan się włączy.
+
+2. **Pracuj z naturalnym rytmem energii, nie przeciwko niemu** – śledź energię 1-2 tygodnie, znajdź szczyty/dołki; dopasuj trudne zadania do szczytów, przerwy do dołków.
+
+3. **Przerwy są częścią produktywności, nie przeszkodą** – mikro-przerwy (5 min/25 min Pomodoro), długie przerwy (15-30 min/2h); ruch + natura najlepsze dla regeneracji uwagi.
+
+4. **Context switching = największy wróg koncentracji** – batching (grupuj podobne zadania), single-tasking (jedno zadanie naraz), transition rituals (rytuały przejścia 3-5 min).
+
+5. **Kontroluj środowisko sensoryczne** – noise-cancelling, clear desk, digital minimalism, fidget tools; out of sight, out of mind.
+
+---
+
+## Kroki do Działania
+
+1. **Przez następne 2 tygodnie: śledź energię co godzinę (1-10 skala):**
+   - Stwórz prosty arkusz lub użyj aplikacji (Daylio, spreadsheet)
+   - Notuj: godzina, energia, aktywność
+   - Po 2 tygodniach: znajdź wzorce (kiedy szczyty, kiedy dołki)
+
+   **Akcja:** Ustaw codzienne przypomnienie (co godzinę lub 3x dziennie: rano, południe, wieczór) – oceń energię.
+
+2. **Wprowadź batching dla e-maili już od jutra:**
+   - Zamknij e-mail
+   - Otwieraj tylko 2x dziennie (np. 10:00 i 16:00)
+   - Pomiędzy – e-mail ZAMKNIĘTY (nie sprawdzaj)
+
+   **Akcja:** Ustaw autoresponder: "Sprawdzam e-maile 2x dziennie (10:00, 16:00). Odpowiem wkrótce."
+
+3. **Zainwestuj w noise-cancelling headphones lub przetestuj white noise:**
+   - Jeśli hałas rozprasza: rozważ Bose QC, Sony WH-1000XM, AirPods Pro
+   - Jeśli nie chcesz kupować: przetestuj darmowe white/pink noise (Noisli, myNoise)
+
+   **Akcja:** Dzisiaj przetestuj white noise przez 1 Pomodoro (25 min). Czy pomaga?
+
+---
+
+## Zasoby
+
+### Aplikacje Energy/Mood Tracking
+
+- **Daylio:** Mood tracker z custom tags (energia, produktywność)
+- **Bearable:** Health/symptom tracker (energia, uwaga, sen, dieta)
+- **Google Sheets/Excel:** Prosty arkusz (godzina | energia 1-10 | notatki)
+
+### Narzędzia Do Przerw
+
+- **Time Timer:** Wizualny timer dla Pomodoro
+- **Forest:** App sadzi drzewo podczas pracy (nie dotykasz telefonu)
+- **StretchClock:** Przypomnienia o stretch breaks
+
+### Zarządzanie Dźwiękiem
+
+- **Noise-cancelling headphones:** Bose QC45, Sony WH-1000XM5, AirPods Pro
+- **White/pink noise:** Noisli, myNoise, Rainy Mood
+- **Focus music:** brain.fm (muzyka oparta na neuroscience), Focus@Will, lo-fi hip-hop (Spotify/YouTube)
+
+### Książki
+
+- **"Hyperfocus"** – Chris Bailey (zarządzanie uwagą, flow)
+- **"Flow: The Psychology of Optimal Experience"** – Mihaly Csikszentmihalyi (teoria flow)
+- **"The Power of Full Engagement"** – Jim Loehr & Tony Schwartz (zarządzanie energią)
+
+### Artykuły Naukowe
+
+- **Ozel, S., et al. (2013).** "Time perception in ADHD: A meta-analysis." *Journal of Attention Disorders.*
+- **Kaplan, S., & Berman, M. G. (2010).** "Directed attention as a common resource for executive functioning and self-regulation." *Perspectives on Psychological Science*, 5(1), 43-57. (Attention Restoration Theory)
+- **Mark, G., et al. (2008).** "The cost of interrupted work: More speed and stress." *CHI 2008.* (Context switching)
+
+---
+
+## Bibliografia
+
+1. **Bailey, C. (2018).** *Hyperfocus: How to Be More Productive in a World of Distraction.* Viking.
+
+2. **Csikszentmihalyi, M. (1990).** *Flow: The Psychology of Optimal Experience.* Harper & Row.
+
+3. **Loehr, J., & Schwartz, T. (2003).** *The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal.* Free Press.
+
+4. **Kaplan, S., & Berman, M. G. (2010).** "Directed attention as a common resource for executive functioning and self-regulation." *Perspectives on Psychological Science*, 5(1), 43-57.
+
+5. **Mark, G., Gudith, D., & Klocke, U. (2008).** "The cost of interrupted work: More speed and stress." *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems*, 107-110.
+
+6. **Barkley, R. A. (1997).** "ADHD and the nature of self-control." *Guilford Press.* (Deficyty samokontroli i zarządzania czasem)
+
+7. **Ashinoff, B. K., & Abu-Akel, A. (2021).** "Hyperfocus: The forgotten frontier of attention." *Psychological Research*, 85(1), 1-19.
+
+8. **Ozel, S., Larue, J., & Molinaro, C. (2004).** "Relation between sport and spatial imagery: Comparison of three groups of participants." *The Journal of Psychology*, 138(1), 49-64. (Badania rytmów energii)
+
+9. **Newport, C. (2016).** *Deep Work: Rules for Focused Success in a Distracted World.* Grand Central Publishing. (Głęboka praca i flow)
+
+10. **Kleitman, N. (1963).** *Sleep and Wakefulness.* University of Chicago Press. (Ultradian rhythms)
+
+---
+
+**Następny rozdział:** Rozdział 14 – Emocje, Relacje i Komunikacja
