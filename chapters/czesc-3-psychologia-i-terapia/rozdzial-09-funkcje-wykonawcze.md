@@ -71,45 +71,23 @@ Jak to wygląda w życiu? Dostajesz projekt z deadline za miesiąc. Pierwszego d
 
 #### 5. **Kontrola Emocjonalna (Emotional Regulation)**
 
-**Definicja:** Zdolność do modulowania intensywności i czasu trwania emocji, aby były odpowiednie do sytuacji.
+To zdolność do modulowania intensywności i czasu trwania emocji, aby były odpowiednie do sytuacji. Normalnie kora przedczołowa działa jak regulator głośności dla emocji - **hamuje układ limbiczny**, szczególnie ciało migdałowate (amygdala), które generuje surowe, gwałtowne reakcje emocjonalne. Ten mechanizm pozwala "złapać oddech" między bodźcem emocjonalnym a reakcją - ktoś Cię skrytykował, czujesz złość, ale PFC mówi "poczekaj, przeanalizuj, czy to racjonalna krytyka, odpowiedz spokojnie".
 
-**Jak działa:**
-- PFC hamuje układ limbiczny (szczególnie ciało migdałowate – amygdala)
-- Pozwala "złapać oddech" między bodźcem emocjonalnym a reakcją
+W ADHD ten regulator jest uszkodzony, a amygdala działa na pełnych obrotach bez hamulca. **Emocje są intensywniejsze i szybsze** - od zera do stu w sekundę. Drobna irytacja wywołuje reakcję jak na poważną krzywdę. **Trudność z "ochłonięciem"** oznacza, że emocje trwają dłużej niż powinny - neurotypowa osoba ochłonie po pięciu minutach, Ty możesz czuć się zraniony przez godziny czy dni. **Słaba tolerancja frustracji** to dramat: małe przeszkody (wolny internet, zgubiony klucz, plama na koszuli) wywołują nieproporcjonalnie duże reakcje - złość, rozpacz, chęć rzucenia wszystkim.
 
-**Jak ADHD to zaburza:**
-- Emocje są intensywniejsze i szybsze – od 0 do 100 w sekundę
-- Trudność z "ochłonięciem" – emocje trwają dłużej niż powinny
-- Słaba tolerancja frustracji – małe przeszkody wywołują duże reakcje
+Jak to wygląda w życiu? Ktoś udziela Ci małej krytyki, konstruktywnej, nie złośliwej - czujesz się całkowicie zmiażdżony przez następne godziny. Analizujesz każde słowo, czujesz się jak kompletna porażka. Albo drobna irytacja: strona internetowa ładuje się wolno, klawisz w klawiaturze się zacina - i nagle eksplozja złości, chęć rzucenia laptopem. Emocjonalne rollercoastery są normą: ekstremalna radość z powodu małej rzeczy (ktoś lajknął Twój post!), potem głęboki smutek (nikt nie odpisał na wiadomość), w ciągu godziny. Szczególnie trudne jest **RSD (Rejection Sensitive Dysphoria)** - nadwrażliwość na odrzucenie i krytykę. Neutralny ton wiadomości czytasz jako złość. Brak odpowiedzi interpretujesz jako odrzucenie. Nawet pozytywna krytyka boli jak cios.
 
-**Przykłady z życia:**
-- Mała krytyka → czujesz się całkowicie zmiażdżony przez godziny
-- Drobna irytacja (np. wolny internet) → wybuch złości
-- Emocjonalne "rollercoastery" – ekstremalna radość, potem smutek, w ciągu godziny
-- RSD (Rejection Sensitive Dysphoria) – nadwrażliwość na odrzucenie/krytykę
-
-**Badania:**
-- 40-70% osób z ADHD spełnia kryteria "deficytu regulacji emocji"
-- fMRI pokazuje nadmierną aktywność amygdali i niższą aktywację PFC podczas przetwarzania emocji
-- Barkley (2015): Regulacja emocji to piąta, kluczowa funkcja wykonawcza, często pomijana w ADHD
+Badania pokazują to liczbowo: **40-70% osób z ADHD spełnia kryteria "deficytu regulacji emocji"**, często nierozpoznawanego i nielechonego. **Badania fMRI** pokazują nadmierną aktywność amygdali (centrum emocji) i niższą aktywację PFC podczas przetwarzania emocji - dosłownie widzimy na skanach mózgu, że "hamulec" nie działa. **Russell Barkley (2015)** argumentuje, że regulacja emocji to piąta, kluczowa funkcja wykonawcza, która była długo pomijana w badaniach ADHD, ale jest równie ważna co pamięć robocza czy hamowanie.
 
 #### 6. **Inicjacja Zadania (Task Initiation) i Wytrwałość**
 
-**Definicja:** Zdolność do rozpoczęcia zadania (szczególnie nieprzyjemnego/nudnego) i kontynuowania mimo trudności.
+To zdolność do rozpoczęcia zadania - szczególnie nieprzyjemnego, nudnego lub trudnego - i kontynuowania go mimo przeszkód, frustracji czy braku natychmiastowej nagrody. Normalnie mózg generuje **motywację wewnętrzną** wystarczającą do przezwyciężenia inercji - "wiem że to trzeba zrobić, więc zacznę". Dopamina nagradza małe postępy, podtrzymując działanie mimo że cel jest daleko. To jak silnik w samochodzie - odpala, nawet gdy jest zimno, i pracuje płynnie mimo że podróż jest długa.
 
-**Jak działa:**
-- Motywacja wewnętrzna przezwycięża inercję
-- Dopamina nagradza postępy, podtrzymując działanie
+W ADHD ten silnik ma problem z odpaleniem i utrzymaniem pracy. **Paraliż przed zadaniem** to stan, w którym wiesz *dokładnie* co robić, masz czas, masz kompetencje - ale "nie możesz zacząć". To nie lenistwo, to neurologiczny brak impulsu startowego. **Potrzeba zewnętrznego nacisku** oznacza, że system uruchamia się dopiero gdy pojawia się kryzys: deadline za sześć godzin, ktoś czeka, konsekwencje są już tuż-tuż. Wtedy adrenalina i panika dostarczają dopaminy, której normalni ludzie dostają z samego faktu "powinno się to zrobić". **Rezygnacja przy pierwszej przeszkodzie** jest równie frustrująca - zaczynasz z entuzjazmem, napotykasz problem (błąd w kodzie, brak informacji, coś trudniejsze niż myślałeś), i... zatrzymujesz się. Porzucasz. System motywacyjny gaśnie natychmiast.
 
-**Jak ADHD to zaburza:**
-- Paraliż przed zadaniem – wiesz co robić, ale "nie możesz zacząć"
-- Potrzeba zewnętrznego nacisku (deadline, kryzys) do uruchomienia
-- Rezygnacja przy pierwszej przeszkodzie
+Jak to wygląda w życiu? Siedzisz przed komputerem, zadanie czeka. Zamiast zacząć, parzysz kolejną kawę. Sprawdzasz e-maile. Porządkujesz biurko. Oglądasz Twittera "tylko na chwilę". Godziny mijają w rytuale "przygotowywania się do pracy", który nigdy się nie kończy. To nie zwlekanie z wyboru - to niemożność "odpaliła" systemu inicjacji. Albo nudne zadanie: wypełnienie raportu, segregowanie dokumentów, sprzątanie - wiesz że zajmie pół godziny, ale prokrastynujesz przez dni, bo mózg krzycz "nie ma nagrody, nie zaczynam". Albo projekt entuzjastyczny: zaczynasz z pasją, nagle trudność, i... projekt leży porzucony, dołącza do cmentarzyska 47 innych "świetnych pomysłów".
 
-**Przykłady z życia:**
-- Godzinami "przygotowujesz się" do rozpoczęcia pracy (kawa, porządki, sprawdzanie e-maili)
-- Nudne zadanie → prokrastynacja bez końca
-- Zaczynasz z entuzjazmem, ale porzucasz przy pierwszym problemie
+Badania pokazują to precyzyjnie: osoby z ADHD potrzebują **wyższego poziomu stymulacji** żeby uruchomić i podtrzymać działanie. Zadania nudne, powtarzalne czy długoterminowe (gdzie nagroda jest daleko) są szczególnie problematyczne, bo nie dostarczają dopaminy potrzebnej do podtrzymania działania. Dlatego "deadline-driven productivity" jest tak powszechna w ADHD - kryzys dostarcza neurochemicznego "kopniaka" zastępującego niedziałającą motywację wewnętrzną.
 
 ---
 
