@@ -254,7 +254,7 @@ Kasia, 41-letnia graficzka, spędzała 8 godzin na prostym logo, poprawiając dr
 
 ## Kluczowe Wnioski
 
-1. **CBT dla ADHD to najskuteczniejsza forma psychoterapii w ADHD** – połączenie leków + CBT redukuje objawy o 30-40% więcej niż same leki (effect size d=0.50-0.70).
+1. **CBT dla ADHD to najskuteczniejsza forma psychoterapii w ADHD** – połączenie leków + CBT redukuje objawy o trzydzieści do czterdziestu procent więcej niż same leki (wielkość efektu d=0.50-0.70).
 
 2. **CBT dla ADHD różni się od standardowej CBT** – silniejszy nacisk na behawioralne strategie (organizacja, systemy), externalizację (przypomnienia, timery), kompensację deficytów funkcji wykonawczych.
 
@@ -323,7 +323,7 @@ Kasia, 41-letnia graficzka, spędzała 8 godzin na prostym logo, poprawiając dr
 
 ## Bibliografia
 
-1. **Safren, S. A., Sprich, S., Mimiaga, M. J., Surman, C., Knouse, L., Groves, M., & Otto, M. W. (2010).** "Cognitive behavioral therapy vs relaxation with educational support for medication-treated adults with ADHD and persistent symptoms: a randomized controlled trial." *JAMA*, 304(8), 875-880.
+1. **Safren, S. A., Sprich, S., Mimiaga, M. J., Surman, C., Knouse, L., Groves, M., & Otto, M. W. (2010).** "Cognitive behavioral therapy wobec relaxation with educational support for medication-treated adults with ADHD and persistent symptoms: a randomized controlled trial." *JAMA*, 304(8), 875-880.
 
 2. **Solanto, M. V., Marks, D. J., Wasserstein, J., Mitchell, K., Abikoff, H., Alvir, J. M. J., & Kofman, M. D. (2010).** "Efficacy of meta-cognitive therapy for adult ADHD." *American Journal of Psychiatry*, 167(8), 958-968.
 
@@ -341,7 +341,7 @@ Kasia, 41-letnia graficzka, spędzała 8 godzin na prostym logo, poprawiając dr
 
 9. **Young, S., & Bramham, J. (2012).** *Cognitive-behavioural therapy for ADHD in adolescents and adults: A psychological guide to practice*. Wiley-Blackwell.
 
-10. **Mitchell, J. T., McIntyre, E. M., English, J. S., Dennis, M. F., Beckham, J. C., & Kollins, S. H. (2017).** "A pilot trial of mindfulness meditation training for ADHD in adulthood: Impact on core symptoms, executive functioning, and emotion dysregulation." *Journal of Attention Disorders*, 21(13), 1105-1120.
+10. **Mitchell, J. T., McIntyre, E. M., English, J. S., Dennis, M. F., Beckham, J. C., & Kollins, S. H. (2017).** "A pilot trial of uważności meditation training for ADHD in adulthood: Impact on core symptoms, executive functioning, and emotion dysregulation." *Journal of Attention Disorders*, 21(13), 1105-1120.
 
 ---
 

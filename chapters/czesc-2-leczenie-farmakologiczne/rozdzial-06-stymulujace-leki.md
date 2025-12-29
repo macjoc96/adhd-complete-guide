@@ -44,7 +44,7 @@ Ten rozdział to przewodnik po lekach które dla wielu osób z ADHD są kamienie
 
 ---
 
-## Dwie główne klasy: Methylphenidate vs Amphetamines
+## Dwie główne klasy: Methylphenidate i Amphetamines
 
 ### 1. Methylphenidate (MPH)
 
@@ -77,7 +77,7 @@ Ten rozdział to przewodnik po lekach które dla wielu osób z ADHD są kamienie
 
 ---
 
-## Krótko- vs długodziałające: Co wybrać?
+## Krótko- i długodziałające: Co wybrać?
 
 ### Short-acting (SA) - Krótkodziałające
 
@@ -93,7 +93,7 @@ Ten rozdział to przewodnik po lekach które dla wielu osób z ADHD są kamienie
 
 **Wady**:
 - Konieczność pamiętania o kolejnych dawkach (ironiczne przy ADHD!)
-- "Peaks and valleys" - wahania poziomu leku, możliwe "rebound" (pogorszenie objawów gdy lek przestaje działać)
+- "Peaks and valleys" - wahania poziomu leku, możliwy efekt odbicia (pogorszenie objawów gdy lek przestaje działać)
 - Większe ryzyko nadużycia (gwałtowny spike = większy potencjał)
 - Stygmat (branie leku w szkole/pracy)
 
@@ -186,7 +186,7 @@ Ten rozdział to przewodnik po lekach które dla wielu osób z ADHD są kamienie
 - **Effect size** dla leków stymulujących: **d = 0.78** (dzieci/młodzież)
 - Ranking skuteczności: Amphetamines > Methylphenidate > Niestymulujące
 
-**Co oznacza effect size d = 0.78?**
+**Co oznacza wielkość efektu d = 0.78?**
 - **d = 0.2**: Mały efekt
 - **d = 0.5**: Średni efekt
 - **d = 0.8**: Duży efekt
@@ -234,7 +234,7 @@ Ten rozdział to przewodnik po lekach które dla wielu osób z ADHD są kamienie
 **6. Suchość w ustach**
 - Zarządzanie: Picie wody, gumy bez cukru
 
-**7. Drażliwość / dysforiaczas gdy lek przestaje działać ("rebound")
+**7. Drażliwość / dysforia** - czas gdy lek przestaje działać (efekt odbicia)
 - Zarządzanie: LA zamiast SA, dodatkowa mała dawka wieczorem
 
 ### Rzadkie ale poważne (<1%)
@@ -288,7 +288,7 @@ Ten rozdział to przewodnik po lekach które dla wielu osób z ADHD są kamienie
 - **Brak dowodów na rozwój uzależnienia** przy terapeutycznym stosowaniu
 - **Tolerancja** (potrzeba wyższych dawek) jest RZADKA w ADHD (w przeciwieństwie do nadużycia rekreacyjnego)
 
-**Kluczowe różnice: Terapia vs Nadużycie**
+**Kluczowe różnice: Terapia wobec nadużycia**
 
 | Aspekt | Terapia ADHD | Nadużycie |
 |--------|--------------|-----------|
@@ -314,7 +314,7 @@ Ten rozdział to przewodnik po lekach które dla wielu osób z ADHD są kamienie
 
 **Karmienie piersią**:
 - MPH i AMPH przechodzą do mleka (małe ilości)
-- **Zalecenie**: Rozważyć ryzyko vs korzyść, monitorować niemowlę
+- **Zalecenie**: Rozważyć ryzyko wobec korzyści, monitorować niemowlę
 
 ### 2. Zaburzenia sercowo-naczyniowe
 
@@ -385,7 +385,7 @@ Ten rozdział to przewodnik po lekach które dla wielu osób z ADHD są kamienie
 
 ## Key Takeaways
 
-1. **Leki stymulujące (MPH, AMPH) to najskuteczniejsze leczenie ADHD** - effect size d=0.78, response rate 70-80%.
+1. **Leki stymulujące (MPH, AMPH) to najskuteczniejsze leczenie ADHD** - wielkość efektu d=0.78, wskaźnik odpowiedzi siedemdziesiąt do osiemdziesiąt procent.
 
 2. **Mechanizm**: Blokują transporter dopaminy/norepinefryny, zwiększając poziomy neurotransmiterów w PFC i striatum - **normalizują** funkcję mózgu.
 
