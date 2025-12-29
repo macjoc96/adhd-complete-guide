@@ -2,11 +2,11 @@
 
 ## Hook: „3:00 AM – Znowu"
 
-Kasia leży w łóżku od 23:00. Teraz jest 2:47 AM. Mózg nie wyłącza się. Myśli się ścigają: "Co powiedziałam dziś na spotkaniu?", "Muszę pamiętać, żeby jutro...", "Dlaczego ona tak na mnie spojrzała?", "Powinienem był...".
+Leżysz w łóżku od dwudziestej trzeciej. Teraz jest druga czterdzieści siedem w nocy. Mózg nie wyłącza się. Myśli się ścigają: "Co powiedziałem dziś na spotkaniu?", "Muszę pamiętać żeby jutro...", "Dlaczego ona tak na mnie spojrzała?", "Powinienem był...".
 
-Próbowała wszystkiego: counting sheep (nudne), breathing exercises (mózg się nudzi i wraca do myślenia), podcast (albo za ciekawy i budzi, albo za nudny i frustruje). Wziąć melatoninę? Już wzięła o 22:00. Nic.
+Próbowałeś wszystkiego: liczenie owiec (nudne), ćwiczenia oddechowe (mózg się nudzi i wraca do myślenia), podcast (albo za ciekawy i budzi, albo za nudny i frustruje). Wziąć melatoninę? Już wziąłeś o dwudziestej drugiej. Nic.
 
-O 3:15 w końcu zapada w sen. Budzik o 6:30. Czuje się jak zombie. Bierze podwójną kawę + 54mg Concerty. Przez pierwsze 2 godziny pracy siedzi w mgle. Dopiero o 11:00 zaczyna działać. A o 23:00? Cykl się powtarza.
+O trzeciej piętnaście w końcu zapadasz w sen. Budzik o szóstej trzydzieści. Czujesz się jak zombie. Bierzesz podwójną kawę plus pięćdziesiąt cztery milligramy Concerty. Przez pierwsze dwie godziny pracy siedzisz w mgle. Dopiero o jedenastej zaczynasz działać. A o dwudziestej trzeciej? Cykl się powtarza.
 
 To nie jest "po prostu bezsenność". **To fundamentalne neurologiczne rozregulowanie, które dotyka 70-80% osób z ADHD**. Podczas gdy neurotypowa osoba ma synchronized circadian rhythm (światło dnia → melatonina wieczorem → sen → budzenie), mózg ADHD często operuje na **delayed phase** – jakby żył w innej strefie czasowej.
 

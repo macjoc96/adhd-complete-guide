@@ -2,11 +2,11 @@
 
 ## Hook: „Tabletka na Wszystko?"
 
-Marek scrolluje przez Reddit r/Nootropics o 2:00 AM. Właśnie przeczytał 47. post o tym, jak "stack" L-tyrozyny + alpha-GPC + rhodioli + kofeiny + L-theaniny zmieniłczyjeś życie. "Focus jak nigdy wcześniej!", "Leki na ADHD to nic przy tym!", "Wreszcie mogę funkcjonować!".
+Scrollujesz przez Reddit r/Nootropics o drugiej w nocy. Właśnie przeczytałeś czterdziesty siódmy post o tym jak "stack" L-tyrozyny plus alpha-GPC plus rhodioli plus kofeiny plus L-theaniny zmienił czyjeś życie. "Focus jak nigdy wcześniej!", "Leki na ADHD to nic przy tym!", "Wreszcie mogę funkcjonować!".
 
-Otwiera kolejną kartę. Zamawia 8 różnych suplementów za 600 zł. "To będzie game changer" – myśli.
+Otwierasz kolejną kartę. Zamawiasz osiem różnych suplementów za sześćset złotych. "To będzie game changer" - myślisz.
 
-3 tygodnie później. Szafka pełna butelek. Niektóre otwarte, niektóre nie. Nie pamięta, który suplement kiedy brać. Czasem czuje lekką poprawę, czasem nic. Czasem boli go głowa (za dużo kofeiny?). Wydał 600 zł. Czy to działa? Nie wie.
+Trzy tygodnie później. Szafka pełna butelek. Niektóre otwarte, niektóre nie. Nie pamiętasz który suplement kiedy brać. Czasem czujesz lekką poprawę, czasem nic. Czasem boli Cię głowa (za dużo kofeiny?). Wydałeś sześćset złotych. Czy to działa? Nie wiesz.
 
 **Prawda o nootropikach i suplementach dla ADHD jest skomplikowana:**
 

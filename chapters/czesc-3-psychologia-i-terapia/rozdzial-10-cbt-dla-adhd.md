@@ -2,13 +2,13 @@
 
 ## Hook / Opening
 
-Magda, 36-letnia menedżerka, siedziała w gabinecie psychologa po raz pierwszy od diagnozy ADHD. "Biorę leki od sześciu miesięcy," powiedziała. "Pomagają z koncentracją, ale... wciąż czuję się przytłoczona. Wciąż prokrastynu ję. Wciąż myślę, że jestem niewystarczająca. Mam wrażenie, że leki to tylko połowa rozwiązania."
+Siedzisz w gabinecie psychologa po raz pierwszy od diagnozy ADHD. "Biorę leki od sześciu miesięcy" - mówisz. "Pomagają z koncentracją, ale... wciąż czuję się przytłoczony. Wciąż prokrastynu ję. Wciąż myślę że jestem niewystarczający. Mam wrażenie że leki to tylko połowa rozwiązania."
 
-Psycholog skinął głową. "Masz rację. Leki to fundamenty – poprawiają chemię mózgu, funkcje wykonawcze, uwagę. Ale nie uczą cię *jak* żyć z ADHD. Nie zmieniają lat nawyków, negatywnych przekonań, wzorców prokrastynacji. Do tego potrzebujemy terapii. A najpewszą metodą w ADHD jest CBT – Terapia Poznawczo-Behawioralna."
+Psycholog kiwa głową. "Masz rację. Leki to fundamenty – poprawiają chemię mózgu, funkcje wykonawcze, uwagę. Ale nie uczą Cię *jak* żyć z ADHD. Nie zmieniają lat nawyków, negatywnych przekonań, wzorców prokrastynacji. Do tego potrzebujemy terapii. A najpewszą metodą w ADHD jest CBT – Terapia Poznawczo-Behawioralna."
 
-Historia Magdy to odbicie doświadczenia wielu osób z ADHD. **Farmakoterapia to kluczowy element leczenia**, ale samodzielnie rzadko wystarczy. Badania pokazują, że **połączenie leków + CBT jest skuteczniejsze niż same leki** – szczególnie w redukcji objawów emocjonalnych, prokrasty nacji, chaosu organizacyjnego i negatywnych myśli. Meta-analiza Safren et al. (2010) wykazała, że CBT dla ADHD redukuje objawy o dodatkowe 30-40% ponad samo leczenie farmakologiczne.
+Twoja historia to odbicie doświadczenia wielu osób z ADHD. **Farmakoterapia to kluczowy element leczenia**, ale samodzielnie rzadko wystarczy. Badania pokazują że **połączenie leków plus CBT jest skuteczniejsze niż same leki** – szczególnie w redukcji objawów emocjonalnych, prokrasty nacji, chaosu organizacyjnego i negatywnych myśli. Meta-analiza Safren et al. (2010) wykazała że CBT dla ADHD redukuje objawy o dodatkowe trzydzieści do czterdziestu procent ponad samo leczenie farmakologiczne.
 
-Ale czym właściwie jest CBT dla ADHD? Jak się różni od "zwykłej" CBT? Jakie techniki są najbardziej skuteczne? I co najważniejsze – jak zastosować je we własnym życiu, nawet jeśli nie masz dostępu do terapeuty? W tym rozdziale odkryjesz odpowiedzi: od nauki stojącej za CBT, przez konkretne techniki poznawcze i behawioralne, po praktyczne ćwiczenia, które możesz wdrożyć już dziś.
+Ale czym właściwie jest CBT dla ADHD? Jak się różni od "zwykłej" CBT? Jakie techniki są najbardziej skuteczne? I co najważniejsze – jak zastosować je we własnym życiu, nawet jeśli nie masz dostępu do terapeuty? W tym rozdziale odkryjesz odpowiedzi: od nauki stojącej za CBT, przez konkretne techniki poznawcze i behawioralne, po praktyczne ćwiczenia które możesz wdrożyć już dziś.
 
 ---
 

@@ -2,9 +2,9 @@
 
 ## Hook / Opening
 
-Piotr, 31-letni przedsiębiorca, siedział z psychologiem po trzech miesiącach CBT. "CBT pomaga z organizacją i negatywnymi myślami," powiedział. "Ale emocje... wciąż są problemem. Wybucham na partnerkę z drobnych powodów. Czuję się przytłoczony małymi rzeczami. Czy jest coś jeszcze, co mogę spróbować?"
+Siedzisz z psychologiem po trzech miesiącach CBT. "CBT pomaga" - mówisz - "Z organizacją, z negatywnymi myślami, z prokrastynacją. Ale emocje... wciąż są problemem. Wciąż wybucham na partnera z drobnych powodów. Wciąż czuję się przytłoczony małymi rzeczami. Czy jest coś jeszcze co mogę spróbować?"
 
-Psycholog kiwnął głową. "CBT to doskonały fundament, ale ADHD to spektrum wyzwań. Dla niektórych osób – szczególnie z intensywnymi emocjami, problemami w relacjach, lub specyficznymi potrzebami – dodatkowe podejścia mogą być pomocne. DBT dla regulacji emocji. Mindfulness dla świadomości 'tu i teraz'. Coaching dla praktycznych strategii życiowych. Terapia par dla relacji. Każde z nich adresuje inny aspekt życia z ADHD."
+Psycholog kiwa głową. "CBT to doskonały fundament, ale ADHD to spektrum wyzwań. Dla niektórych osób - szczególnie z intensywnymi emocjami, problemami w relacjach, z chronicznym stresem - dodatkowe podejścia mogą być pomocne. **DBT** dla regulacji emocji. **Mindfulness** dla świadomości tu i teraz. **Coaching ADHD** dla praktycznych strategii życiowych. **Terapia par** dla relacji. Każde z nich adresuje inny aspekt życia z ADHD."
 
 Choć **CBT jest złotym standardem psychoterapii w ADHD**, nie jest jedynym narzędziem w arsenale. W tym rozdziale przyjrzymy się **alternatywnym i komplementarnym podejściom terapeutycznym**: od DBT (Dialectical Behavior Therapy) przez mindfulness, coaching ADHD, terapię rodzinną i par, grupy wsparcia, aż po neurofeedback. Zrozumiesz, kiedy każde z nich może być pomocne, jakie mają podstawy naukowe, i jak zdecydować, które podejście (lub kombinacja podejść) jest właściwe dla ciebie.
 

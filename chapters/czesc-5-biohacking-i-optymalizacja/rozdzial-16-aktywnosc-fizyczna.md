@@ -2,21 +2,21 @@
 
 ## Hook: „30 Minut, Które Zmieniły Wszystko"
 
-Tomek miał najgorszy poranek od miesięcy. Budzik nie zadzwonił, spóźnił się do pracy, zapomniał o ważnym spotkaniu. O 10:00 siedział przy biurku, sparaliżowany przytłoczeniem, scrollując Reddit zamiast pracować. „Kolejny zmarnowany dzień" – pomyślał.
+Masz najgorszy poranek od miesięcy. Budzik nie zadzwonił, spóźniłeś się do pracy, zapomniałeś o ważnym spotkaniu. O dziesiątej siedzisz przy biurku sparaliżowany przytłoczeniem, scrollujesz Reddit zamiast pracować. "Kolejny zmarnowany dzień" - myślisz.
 
-Wtedy przypomniał sobie obietnicę, którą złożył sobie tydzień temu: „Jeśli czujesz się przytłoczony, zamiast scrollować – biegnij."
+Wtedy przypominasz sobie obietnicę którą złożyłeś sobie tydzień temu: "Jeśli czujesz się przytłoczony, zamiast scrollować - biegnij."
 
-Niechętnie wstał, przebrał się w sportowe ciuchy i wybiegł na 30-minutowy jogging. Pierwsze 10 minut: irytacja. „To głupie, marnuję czas, mam tyle do zrobienia."
+Niechętnie wstajesz, przebierasz się w sportowe ciuchy i wybiegasz na trzydziestominutowy jogging. Pierwsze dziesięć minut: irytacja. "To głupie, marnuję czas, mam tyle do zrobienia."
 
-Minuty 10-20: Umysł zaczyna się uspokajać. Oddech staje się rytmiczny.
+Minuty dziesięć do dwadzieścia: Umysł zaczyna się uspokajać. Oddech staje się rytmiczny.
 
-Minuty 20-30: Coś się zmienia. Thoughts przestają się ścigać. Po raz pierwszy tego dnia czuje coś, co można nazwać „klarownością".
+Minuty dwadzieścia do trzydzieści: Coś się zmienia. Myśli przestają się ścigać. Po raz pierwszy tego dnia czujesz coś co można nazwać "klarownością".
 
-Wraca do biura. Nie, problemy nie zniknęły. Spotkanie nadal było przegapione. Ale teraz jego mózg działa. Przez następne 3 godziny pracuje z focus, jakiego nie czuł od tygodni.
+Wracasz do biura. Nie, problemy nie zniknęły. Spotkanie nadal było przegapione. Ale teraz Twój mózg działa. Przez następne trzy godziny pracujesz z koncentracją jakiej nie czułeś od tygodni.
 
-„Co się stało?" – zastanawia się.
+"Co się stało?" - zastanawiasz się.
 
-**Odpowiedź:** Jego mózg właśnie otrzymał to, czego desperacko potrzebował – BDNF, dopaminę, noradrenalinę, endorfiny. Wszystko, czego leki dawały mu w tabletkach, jego ciało właśnie wyprodukowało naturalnie. To nie był cud. To była neurobiologia w akcji.
+**Odpowiedź:** Twój mózg właśnie otrzymał to czego desperacko potrzebował - **BDNF**, **dopaminę**, **noradrenalinę**, **endorfiny**. Wszystko czego leki dawały Ci w tabletkach, Twoje ciało właśnie wyprodukowało naturalnie. To nie był cud. To była **neurobiologia w akcji**.
 
 Aktywność fizyczna to **najbardziej niedoceniany, a zarazem najlepiej zbadany non-pharmaceutical intervention dla ADHD**. Podczas gdy suplementy dają 10-20% poprawę, exercise może dać 30-50% – często w ciągu 30 minut. Problem w tym, że mózg ADHD nienawidzi inicjowania ruchu. Ale jeśli przeskoczysz ten próg – efekty są niemal natychmiastowe.
 
