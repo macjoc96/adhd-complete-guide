@@ -21,7 +21,7 @@ ADHD często nie przychodzi samo. Przychodzi z bagażem rodzinnym, zapisanym w s
 
 ### Czym jest dziedziczność?
 
-**Dziedziczność (heritability)** to statystyczna miara, która mówi, jaka część zmienności cechy w populacji wynika z różnic genetycznych (vs różnic środowiskowych). Wyrażana jako procent (0-100%).
+**Dziedziczność (heritability)** to statystyczna miara, która mówi, jaka część zmienności cechy w populacji wynika z różnic genetycznych (w porównaniu do różnic środowiskowych). Wyrażana jako procent (zero do stu procent).
 
 **Przykład**:
 - Wysokość ciała: ~80% dziedziczności (geny są głównym czynnikiem)
@@ -41,7 +41,7 @@ Różnica wskazuje na silny komponent genetyczny.
 
 **2. Badania rodzinne**
 
-- Jeśli **rodzic ma ADHD**: dziecko ma **40-50% ryzyko** (vs ~5% w populacji ogólnej)
+- Jeśli **rodzic ma ADHD**: dziecko ma **czterdzieści do pięćdziesięciu procent ryzyko** (wobec około pięciu procent w populacji ogólnej)
 - Jeśli **rodzeństwo ma ADHD**: kolejne dziecko ma **30-40% ryzyko**
 - **Adopcja**: Dzieci adoptowane mają częstość ADHD bliższą do biologicznych rodziców niż adoptujących (wskazuje na genetykę, nie wychowanie)
 
@@ -129,7 +129,7 @@ Największe podejrzenie pada na geny związane z **systemami dopaminergicznym i 
 
 **Czym jest GWAS?** Skanowanie całego genomu milionów wariantów genetycznych u tysięcy osób, by znaleźć te związane z ADHD.
 
-**Największe badanie**: Demontis et al. (2019) - ~20,000 osób z ADHD vs ~35,000 kontroli
+**Największe badanie**: Demontis et al. (2019) - około dwadzieścia tysięcy osób z ADHD wobec około trzydziestu pięciu tysięcy kontroli
 
 **Odkrycia**:
 - Zidentyfikowano **12 loci genomowych** znacząco związanych z ADHD
@@ -331,7 +331,7 @@ Badania pokazują, że efekt palenia tytoniu przez matkę na ADHD dziecka jest *
    - Minimalizować ekspozycję na ołów, pestycydy
    - Unikać BPA/ftalatów (plastiki)
 
-2. **Redukcja stresu**: Wsparcie psychiczne dla ciężarnych, mindfulness
+2. **Redukcja stresu**: Wsparcie psychiczne dla ciężarnych, praktyki uważności
 
 3. **Żywienie**: Omega-3, żelazo, cynk, magnez
 

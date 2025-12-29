@@ -122,7 +122,7 @@ Jeśli struktury mózgu to "hardware", neurotransmitery to "software" - chemiczn
 **Co robi dopamina?**
 - **Nagroda i motywacja**: Sygnalizuje "to jest dobre, rób to więcej"
 - **Ruch i kontrola motoryczna**
-- **Uwaga i focus**
+- **Uwaga i koncentracja**
 - **Uczenie się**
 
 **Kluczowe szlaki dopaminergiczne**:
@@ -149,9 +149,9 @@ Methylphenidate i amphetamines **blokują transporter dopaminy (DAT)** lub **zwi
 ### 2. Norepinefryna (Noradrenalina) - Partner Dopaminy
 
 **Co robi norepinefryna?**
-- **Arousal i czujność**: "Obudza" mózg do działania
-- **Uwaga i vigilance**: Pomaga utrzymać skupienie
-- **Reakcja na stres**: Fight-or-flight
+- **Pobudzenie i czujność**: "Obudza" mózg do działania
+- **Uwaga i vigilancja**: Pomaga utrzymać skupienie
+- **Reakcja na stres**: walcz lub uciekaj
 - **Modulacja funkcji wykonawczych**
 
 **Szlaki noradrenergiczne**: Z locus coeruleus (pień mózgu) do kory przedczołowej i innych obszarów
@@ -160,7 +160,7 @@ Methylphenidate i amphetamines **blokują transporter dopaminy (DAT)** lub **zwi
 
 Niedobór norepinefryny prowadzi do:
 - **Zmniejszonej czujności poznawczej**
-- **Trudności z "aktivacją" do zadania**
+- **Trudności z uruchomieniem się do zadania**
 - **Słabszego filtrowania bodźców**
 
 **Leki**:
@@ -185,7 +185,7 @@ Niedobór norepinefryny prowadzi do:
 
 ## Sieci neuronalne: Jak mózg pracuje zespołowo
 
-Nowoczesne neuroimaging przesunęło fokus z pojedynczych struktur na **sieci** - grupy obszarów, które komunikują się i pracują razem.
+Nowoczesne obrazowanie mózgu przesunęło uwagę z pojedynczych struktur na **sieci** - grupy obszarów, które komunikują się i pracują razem.
 
 ### 1. Default Mode Network (DMN) - Sieć Trybu Domyślnego
 
@@ -193,14 +193,14 @@ Nowoczesne neuroimaging przesunęło fokus z pojedynczych struktur na **sieci** 
 
 **Obszary**: Medial prefrontal cortex, posterior cingulate cortex, precuneus
 
-**Normalna funkcja**: "Mind wandering", myślenie o sobie, planowanie przyszłości, przypominanie przeszłości
+**Normalna funkcja**: Wędrówki umysłu, myślenie o sobie, planowanie przyszłości, przypominanie przeszłości
 
 **Problem w ADHD**: DMN **nie wyłącza się wystarczająco** podczas zadań wymagających uwagi (Sonuga-Barke & Castellanos, 2007)
 
 **Skutki**:
 - **Wewnętrzne rozpraszanie**: "Właśnie próbuję pracować, a umysł wędruje do planów na weekend"
 - **Trudności z przełączaniem**: Mózg nie przechodzi sprawnie między "trybem odpoczynku" a "trybem zadania"
-- **Mind wandering**: Częstsze i intensywniejsze niż u osób neurotypowych
+- **Błądzenie myśli**: Częstsze i intensywniejsze niż u osób neurotypowych
 
 **Badania**: fMRI pokazuje, że w ADHD DMN i Task-Positive Network (sieć aktywna podczas zadań) są słabiej "antykorelowane" - powinny działać na zmianę, ale w ADHD częściowo nakładają się.
 
@@ -260,11 +260,11 @@ Przełomowe badanie Shaw et al. (2007) z NIMH pokazało, że **ADHD można zrozu
 - CBT może zmieniać wzorce aktywności w PFC (Hides et al., 2009)
 - Trening funkcji wykonawczych może wzmacniać sieci neuronalne
 
-### 3. Aerobic exercise a neuroplastyczność
+### 3. Ćwiczenia aerobowe a neuroplastyczność
 - Ćwiczenia aerobowe zwiększają produkcję BDNF (Brain-Derived Neurotrophic Factor) - białka wspierającego wzrost neuronów
 - Mogą zwiększać objętość hipokampa i poprawiać funkcje wykonawcze
 
-### 4. Mindfulness i medytacja
+### 4. Uważność i medytacja
 - Regularna praktyka może zmieniać aktywność i strukturę ACC i PFC
 - Wzmacnia kontrolę uwagi
 
@@ -306,7 +306,7 @@ ADHD wygląda nieco inaczej u kobiet/dziewczynek nie tylko behawioralnie, ale te
 
 2. **Dysfunkcja dopaminergiczna i noradrenergiczna** jest centralnym mechanizmem ADHD. Zbyt niski poziom tych neurotransmiterów w kluczowych obszarach = objawy ADHD.
 
-3. **Default Mode Network nie wyłącza się odpowiednio** podczas zadań, prowadząc do wewnętrznych rozpraszaczy i "mind wandering".
+3. **Default Mode Network nie wyłącza się odpowiednio** podczas zadań, prowadząc do wewnętrznych rozpraszaczy i błądzenia myśli.
 
 4. **ADHD jako opóźnienie dojrzewania**: U wielu osób kora przedczołowa dojrzewa ~3 lata później, co tłumaczy część objawów.
 
@@ -325,9 +325,9 @@ Wiedza o neurobiologii nie jest "wyrokiem skazującym". To **kontekst** - wyjaś
 ### Krok 2: Wspieraj neuroplastyczność
 
 **Konkretnie**:
-- **Aerobic exercise**: 30-40 minut, 4-5x/tydzień (np. bieganie, rower, pływanie). To jeden z najpotężniejszych stymulatorów BDNF.
-- **Mindfulness**: Nawet 10 minut dziennie może zmieniać aktywność PFC i ACC (więcej w Rozdziale 11).
-- **Trening funkcji wykonawczych**: Gry/zadania angażujące pamięć roboczą, planowanie (ale uważaj na snake oil - nie każdy "brain training" działa).
+- **Ćwiczenia aerobowe**: trzydzieści do czterdziestu minut, cztery do pięciu razy w tygodniu (np. bieganie, rower, pływanie). To jeden z najpotężniejszych stymulatorów BDNF.
+- **Praktyki uważności**: Nawet dziesięć minut dziennie może zmieniać aktywność PFC i ACC (więcej w Rozdziale 11).
+- **Trening funkcji wykonawczych**: Gry i zadania angażujące pamięć roboczą, planowanie (ale uważaj na niewiarygodne obietnice - nie każdy trening mózgu działa).
 
 ### Krok 3: Rozważ farmakoterapię z neurobiologiczną perspektywą
 
