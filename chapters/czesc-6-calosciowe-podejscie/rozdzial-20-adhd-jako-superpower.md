@@ -33,7 +33,7 @@ Tradycyjny model medyczny traktował ADHD wyłącznie jako deficyt – zestaw dy
 - Wymagane warunki: intrinsic interest + novelty + immediate feedback + low friction
 
 **Entrepreneurship i ADHD:**
-- Lerner et al. (2019): przedsiębiorcy mają wyższe wskaźniki ADHD niż populacja ogólna (29% vs. 5%)
+- Lerner et al. (2019): przedsiębiorcy mają wyższe wskaźniki ADHD niż populacja ogólna (dwadzieścia dziewięć procent wobec pięć procent)
 - Wiklund et al. (2017): cechy ADHD (action orientation, tolerance ryzyka, energiczność) mogą wspierać przedsiębiorczość
 - **Ale**: wyższe ryzyko wypalenia, problemów finansowych, nieukończonych projektów
 - Sukces wymaga: struktur kompensujących (zespół, systemy), akceptacji własnych limitów
@@ -184,13 +184,13 @@ Hyperfocus to najbliższe, co ADHD ma do "super mocy" – ale wymaga strategic u
 
 **Co zrobił:**
 1. **Zmienił środowisko**: przeszedł z corporate na freelance content creation (video editing + writing)
-2. **Zbudował structure**: hired virtual assistant do administrative tasks, używa Notion do project tracking
+2. **Zbudował structure**: hired virtual assistant do administrative tasks, używa Notion do project śledzenie
 3. **Wykorzystał variety**: pracuje na 2-3 projektach równocześnie (gdy utyka na jednym, przełącza się na drugi)
 4. **Community**: aktywny w ADHD Polska Facebook group, regularnie dzieli się insights
 
 **Outcome (po 2 latach):**
 - Stabilny dochód (lepszy niż w korporacji)
-- Satisfaction rating: 8/10 (vs. 3/10 wcześniej)
+- Satisfaction rating: osiem na dziesięć (wobec trzy na dziesięć wcześniej)
 - "To nie jest że ADHD znikło. Ale znalazłem life setup, gdzie nie walczę z moim mózgiem 24/7."
 
 ### Przypadek 2: Ania – Akademiczka z ADHD
@@ -272,7 +272,7 @@ Hyperfocus to najbliższe, co ADHD ma do "super mocy" – ale wymaga strategic u
 - [ ] **Znajdź 1 online community** ADHD i zaobserwuj dyskusje (nie musisz od razu pisać)
 
 ### Najbliższy miesiąc:
-- [ ] **Przeprowadź 2-week hyperfocus tracking**: Notuj patterns swoich hyperfocus states
+- [ ] **Przeprowadź dwutygodniowe hyperfocus śledzenie**: Notuj patterns swoich hyperfocus states
 - [ ] **Test 1 hyperfocus protocol**: Stwórz warunki które sprzyjają hyperfocus i oceń czy to zwiększa produktywność
 - [ ] **Zamień 1 "should"**: Przestań robić coś "bo się powinno" jeśli to fundamentally nie pasuje do Twojego ADHD wiring (np. "powinnam wstawać o 6 rano" gdy Twój brain flourishuje wieczorami)
 
