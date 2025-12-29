@@ -104,57 +104,33 @@ Reszta listy? Czterdzieści cztery pozostałe zadania to "nice to have" - jeśli
 
 #### A. **Pomodoro Technique (25 min pracy + 5 min przerwy)**
 
-**Dlaczego działa w ADHD:**
-- Timer externalizuje czas (ADHD = "ślepota czasowa")
-- 25 minut = krótko, nie przytłaczająco (łatwiej zacząć)
-- Przerwy nagradzają → motywacja do kolejnego Pomodoro
+Technika Pomodoro to jedno z najprostszych i najbardziej efektywnych narzędzi dla mózgu z ADHD. Dlaczego działa tak dobrze? Po pierwsze, **timer externalizuje czas** - zamienia abstrakcyjne "pracuj nad tym zadaniem" w konkretne, wizualne, tykające dwadzieścia pięć minut. W ADHD masz "ślepotę czasową" - nie czujesz jak czas płynie. Timer naprawia to, dając Ci zewnętrzną reprezentację czasu. Po drugie, dwadzieścia pięć minut to krótko i nie przytłaczająco. "Pracuj nad tym raportem" brzmi jak nieskończona udręka. "Pracuj przez dwadzieścia pięć minut" brzmi do zrobienia. Łatwiej zacząć. Po trzecie, przerwy co dwadzieścia pięć minut są nagrodą - motywacją do ukończenia każdego Pomodoro. "Jeszcze piętnaście minut i mogę wstać, rozciągnąć się, napić wody."
 
-**Jak stosować:**
-1. Wybierz zadanie
-2. Ustaw timer na 25 minut
-3. Pracuj bez rozpraszaczy
-4. Gdy timer dzwoni → 5 min przerwy (stretch, woda, spacer)
-5. Po 4 Pomodoro → dłuższa przerwa (15-30 min)
+Jak to stosować w praktyce? Wybierz jedno konkretne zadanie - nie "ogólnie popracuj", ale "napisz sekcję pierwszą raportu". Ustaw timer na dwadzieścia pięć minut. Pracuj bez rozpraszaczy - telefon w trybie samolotowym, zakładki pozamykane, tylko zadanie przed Tobą. Gdy timer dzwoni, rób pięć minut przerwy - wstań, rozciągnij się, napij wody, wyjdź na balkon. Fizycznie oderwij się od pracy. Po czterech Pomodoro - czterech cyklach dwadzieścia pięć plus pięć - zrób dłuższą przerwę, piętnaście do trzydziestu minut. Pozwól mózgowi naprawdę odpocząć.
 
-**Narzędzia:**
-- **Aplikacje:** Focus To-Do, Forest, Pomofocus, Be Focused
-- **Fizyczny timer:** Time Timer (wizualizuje czas – idealny dla ADHD)
+Narzędzia? Możesz użyć aplikacji - Focus To-Do łączy Pomodoro z listą zadań, Forest sadzi wirtualne drzewo które umiera jeśli przerwiesz, Pomofocus to prosta webowa wersja, Be Focused dla użytkowników Apple. Albo kup fizyczny Time Timer - wizualizuje czas jako zmniejszającą się czerwoną tarczę, idealny dla wizualnego mózgu ADHD.
 
-**Modyfikacje ADHD:**
-- **Pomodoro 15/5:** Jeśli 25 min to za długo, zacznij od 15 min pracy + 5 min przerwy
-- **Pomodoro 50/10:** Dla hiperfokusu – 50 min pracy + 10 min przerwy (jeśli już jesteś "w strefie")
+Modyfikacje dla ADHD? Jeśli dwadzieścia pięć minut to za długo na starcie - zacznij od **Pomodoro 15/5**: piętnaście minut pracy, pięć przerwy. Buduj wytrwałość stopniowo. Jeśli natomiast wpadłeś w hiperfokus i czujesz się "w strefie" - użyj **Pomodoro 50/10**: pięćdziesiąt minut pracy, dziesięć przerwy. Nie przerywaj flow sztucznie, ale pamiętaj o odpoczynku.
 
 #### B. **Time Blocking (Blokowanie Czasu w Kalendarzu)**
 
-**Problem:** Lista zadań bez przypisanego czasu = "zrobię kiedyś" = nigdy.
+Lista zadań bez przypisanego czasu to pułapka. "Zrobię to kiedyś" w praktyce oznacza "nigdy". Zadanie bez konkretnej godziny istnieje w abstrakcyjnej przyszłości - a w ADHD abstrakcyjna przyszłość równa się nieistniejącej przyszłości.
 
-**Rozwiązanie:** **Przypisz zadania do konkretnych godzin w kalendarzu** (jak spotkania).
+Rozwiązanie? **Przypisz każde zadanie do konkretnych godzin w kalendarzu**, dokładnie tak jak przypisujesz spotkania. Nie "dzisiaj zrobię raport" - za ogólne. "Dziewiąta zero zero do dziesiątej trzydzieści: pisanie raportu Q3, sekcja pierwsza" - konkretne, realne, namacalne.
 
-**Przykład:**
-- 9:00-10:30: Pisanie raportu Q3 (sekcja 1)
-- 10:30-11:00: E-maile
-- 11:00-12:30: Projekt X – research
-- 14:00-15:00: Telefony (klient A, B)
+Przykład całego dnia w time blockingu: dziewiąta zero zero do dziesiątej trzydzieści to pisanie raportu Q3, sekcja pierwsza. Dziesiąta trzydzieści do jedenastej to e-maile - tylko pół godziny, nie dwie. Jedenasta do dwunastej trzydzieści to research do projektu X. Przerwa na lunch. Czternasta do piętnastej to telefony - klient A, potem klient B. Każde zadanie ma swoje miejsce w czasie.
 
-**Zalety:**
-- Czas staje się "realny" (w ADHD abstrakcyjny czas = nieistniejący)
-- Widzisz czy masz realistyczne oczekiwania (często planujemy 12h pracy w 6h → frustracja)
+Dlaczego to działa? Po pierwsze, **czas staje się realny**. W ADHD mózg nie czuje abstrakcyjnego czasu - "kiedyś dzisiaj" to nic. Ale "od czternastej do piętnastej" to coś konkretnego, coś co możesz zobaczyć w kalendarzu, coś co faktycznie istnieje. Po drugie, widzisz czy masz realistyczne oczekiwania. Często planujesz dwanaście godzin pracy w sześć godzin dostępnego czasu, potem jesteś sfrustrowany że nie dałeś rady. Time blocking pokazuje to brutalnie jasno - "o kurczę, mam tylko pięć godzin, muszę wybrać co jest naprawdę ważne".
 
-**Jak to robić:**
-- Użyj Google Calendar, Outlook, lub analogowego planera
-- Koloruj kategorie (niebieski = projekty, czerwony = spotkania, zielony = czas osobisty)
-- **Zostaw bufory** – nie pakuj każdej minuty (rzeczy trwają dłużej niż myślisz)
+Jak to robić praktycznie? Użyj Google Calendar, Outlook czy analogowego planera tygodniowego. Koloruj różne kategorie - niebieski dla projektów, czerwony dla spotkań, zielony dla czasu osobistego. Wizualne rozróżnienie pomaga mózgowi szybko zrozumieć strukturę dnia. **Kluczowe: zostaw bufory między blokami.** Nie pakuj każdej minuty. Rzeczy zawsze trwają dłużej niż myślisz - spotkanie się przedłuża, zadanie okazuje się trudniejsze. Bufory zapobiegają efektowi domina gdzie jedno opóźnienie rujnuje cały dzień.
 
 #### C. **"Eat the Frog" (Zjedz Żabę Rano)**
 
-**Koncepcja (Brian Tracy):** Zrób najtrudniejsze/najbardziej nieprzyjemne zadanie rano, jako pierwsze.
+Brian Tracy spopularyzował brutalnie prostą strategię: zrób najtrudniejsze, najbardziej nieprzyjemne zadanie rano, jako pierwsze. Tę rzecz którą najbardziej chcesz unikać - "żabę" którą musisz zjeść, ale wolałbyś nie - zjedz rano, zanim zdążysz wymyślić wymówki.
 
-**Dlaczego działa:**
-- Rano energia jest najwyższa (po spaniu, przed wyczerpaniem)
-- Gdy "żaba" (worst task) jest zjedzona → reszta dnia lżejsza, mniej stresu
-- Prokrastynacja rośnie w ciągu dnia → jeśli czekasz do wieczora, nie zrobisz
+Dlaczego to działa, szczególnie w ADHD? Po pierwsze, **rano energia jest najwyższa**. Po śnie, po kawie, przed wyczerpaniem dnia, Twój mózg ma najwięcej mocy. To najlepszy moment żeby zaatakować trudne zadanie. Wieczorem energia spada do zera i nawet proste rzeczy są męczące - co dopiero najtrudniejsza. Po drugie, gdy "żaba" jest już zjedzona, **reszta dnia jest lżejsza**. To zadanie nie wisi już nad Tobą jak miecz Damoklesa. Stres spada. Wszystko inne wydaje się łatwiejsze w porównaniu. Po trzecie, **prokrastynacja rośnie wykładniczo w ciągu dnia**. Rano mówisz "zrobię to po obiedzie". Po obiedzie "zrobię wieczorem". Wieczorem "jutro na pewno". Jeśli czekasz do wieczora, nie zrobisz.
 
-**Przykład:** Najgorsze zadanie dzisiaj = rozmowa z trudnym klientem. Zrób to o 9:00 (zaraz po kawie), nie o 17:00.
+Przykład konkretny: Twoje najgorsze zadanie dzisiaj to rozmowa telefoniczna z trudnym, złym klientem. Wiesz że będzie nieprzyjemna. Więc zrób ją o dziewiątej rano, zaraz po kawie, jako pierwszą rzecz w dniu pracy. Nie o siedemnastej, gdy będziesz wyczerpany i klient będzie zirytowany końcem dnia. Zjedz żabę od razu. Potem wszystko inne będzie smakowało lepiej.
 
 ---
 
