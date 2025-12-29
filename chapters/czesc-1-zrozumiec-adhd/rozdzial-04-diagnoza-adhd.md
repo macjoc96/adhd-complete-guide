@@ -7,13 +7,17 @@
 
 ## Hook: Podróż do odpowiedzi
 
-Tomek ma 28 lat. Od dziecka czuł, że "coś jest nie tak", ale nie potrafił nazwać tego uczucia. W szkole nauczyciele mówili "mógłby więcej, gdyby się postarał". W pracy szef komentował "świetne pomysły, ale nigdy nie dokończone". Partnerce tłumaczył po raz setny, dlaczego zapomniał o rocznic
+Od dziecka czułeś że "coś jest nie tak", ale nie potrafiłeś nazwać tego uczucia. W szkole nauczyciele mówili "mógłbyś więcej, gdybyś się postarał". W pracy szef komentuje "świetne pomysły, ale nigdy nie dokończone". Partnerowi tłumaczysz po raz setny dlaczego zapomniałeś o rocznicy.
 
-y. "Jestem po prostu niezorganizowany", myślał. "Leniwym" - oceniała matka. "Niedojrzałym" - uznawał on sam.
+"Jestem po prostu niezorganizowany" - myślisz. "Leniwy" - ocenia matka. "Niedojrzały" - uznaj
 
-Aż pewnego dnia natknął się na artykuł o ADHD u dorosłych. Z każdym zdaniem czuł, jakby ktoś opisywał jego życie. "To ja. To wszystko pasuje." Ale potem przyszedł niepokój: "A może wszystkim tak się wydaje? Może po prostu szukam wymówki?" Postanowił się dowiedzieć. Umówił się na konsultację.
+esz sam.
 
-Ten rozdział to przewodnik po tym, co Tomka (i Ciebie) czeka. Diagnoza ADHD to nie prosty checklist - to złożony proces wymagający wykwalifikowanego specjalisty, czasu i szczerości. Ale na końcu tej drogi czeka odpowiedź, która może zmienić całe życie.
+Aż pewnego dnia trafiasz na artykuł o ADHD u dorosłych. Z każdym zdaniem czujesz jakby ktoś opisywał Twoje życie. "To ja. To wszystko pasuje." Ale potem przychodzi niepokój: "A może wszystkim tak się wydaje? Może po prostu szukam wymówki? Może każdy czuje się tak samo i to normalne?"
+
+Postanawiasz się dowiedzieć. Umawiasz się na konsultację.
+
+Ten rozdział to przewodnik po tym co Cię czeka. Diagnoza ADHD to nie prosty checklist - to złożony proces wymagający wykwalifikowanego specjalisty, czasu i szczerości. Ale na końcu tej drogi czeka odpowiedź która może zmienić całe życie.
 
 ---
 

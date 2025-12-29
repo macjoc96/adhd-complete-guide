@@ -7,11 +7,11 @@
 
 ## Hook: Pierwsza dawka
 
-Marek miał 29 lat, gdy wziął pierwszą tabletkę methylphenidate. Siedział w samochodzie przed apteką, trzymając blister w dłoniach. "Co jeśli to zmieni moją osobowość?", "Co jeśli się uzależnię?", "Co jeśli to nie zadziała?". Po 20 minutach przełknął tabletkę. I czekał.
+Siedzisz w samochodzie przed apteką trzymając blister w dłoniach. Pierwsza tabletkę methylphenidate. "Co jeśli to zmieni moją osobowość?" "Co jeśli się uzależnię?" "Co jeśli to nie zadziała?". Po dwudziestu minutach wahania przełykasz tabletkę. I czekasz.
 
-Po godzinie siedział przy biurku i po raz pierwszy od lat... pisał. Bez walki. Bez tortur. Po prostu pisał. "To tak ma być?" - pomyślał. "Inni tak funkcjonują codziennie?". Nie czuł się "naćpany". Nie było euforii. Czuł się... normalnie. Ale to "normalnie" było rewelacją.
+Po godzinie siedzisz przy biurku i po raz pierwszy od lat... piszesz. Bez walki. Bez tortur. Po prostu piszesz. "To tak ma być?" - myślisz. "Inni tak funkcjonują codziennie?". Nie czujesz się "naćpany". Nie ma euforii. Czujesz się... normalnie. Ale to "normalnie" jest rewelacją.
 
-Ten rozdział to przewodnik po lekach, które dla wielu osób z ADHD są kamieniem węgielnym leczenia. **Stymulujące leki** - methylphenidate i amphetamines - są najskuteczniejszymi, najlepiej zbadanymi interwencjami dla ADHD. Ale są też otoczone mitami, strachem i nieporozumieniami. Czas to zmienić.
+Ten rozdział to przewodnik po lekach które dla wielu osób z ADHD są kamieniem węgielnym leczenia. **Stymulujące leki** - methylphenidate i amphetamines - są najskuteczniejszymi, najlepiej zbadanymi interwencjami dla ADHD. Ale są też otoczone mitami, strachem i nieporozumieniami. Czas to zmienić.
 
 ---
 

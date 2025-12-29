@@ -7,11 +7,13 @@
 
 ## Hook: ADHD rzadko przychodzi samo
 
-Kasia dostała diagnozę ADHD w wieku 32 lat. Poczuła ulgę - "w końcu wiem, co ze mną". Ale psychiatra dodał: "Jest też coś jeszcze. Twoje objawy depresyjne i lękowe są zbyt nasilone, żeby były tylko wtórne do ADHD. Musimy leczyć obydwa."
+Dostałeś diagnozę ADHD. Poczułeś ulgę - "w końcu wiem co ze mną". Ale psychiatra dodał: "Jest też coś jeszcze. Twoje objawy depresyjne i lękowe są zbyt nasilone żeby były tylko wtórne do ADHD. Musimy leczyć obydwa."
 
-Kasia poczuła frustrację. "Czy to oznacza, że NIE mam ADHD? Że to tylko depresja?". "Nie" - odpowiedział psychiatra. "To oznacza, że masz obydwa. I to normalne - większość osób z ADHD ma także inne zaburzenie."
+Poczułeś frustrację. "Czy to oznacza że NIE mam ADHD? Że to tylko depresja?" "Nie" - odpowiedział psychiatra. "To oznacza że masz obydwa. I to normalne - większość osób z ADHD ma także inne zaburzenie."
 
-To rozdział o czymś, czego nie mówią filmy o ADHD i uproszczone artykuły: ADHD rzadko występuje samotnie. **Współwystępowanie** (comorbidity) to reguła, nie wyjątek. Zrozumienie tego jest kluczowe dla skutecznego leczenia.
+Czekaj, co? Większość? Nikt Ci tego nie powiedział.
+
+To rozdział o czymś czego nie mówią filmy o ADHD i uproszczone artykuły: ADHD rzadko występuje samotnie. **Współwystępowanie** (comorbidity) to reguła, nie wyjątek. Zrozumienie tego jest kluczowe dla skutecznego leczenia.
 
 ---
 

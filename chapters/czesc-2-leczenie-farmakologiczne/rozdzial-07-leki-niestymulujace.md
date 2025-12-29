@@ -2,11 +2,13 @@
 
 ## Hook / Opening
 
-Marcin, 34-letni programista, siedział w gabinecie psychiatry z mieszanymi uczuciami. Po latach zmagań z ADHD wreszcie dostał diagnozę i rozpoczął leczenie metylfenidatem. Lek działał – jego koncentracja się poprawiła, projekty przestały się piętrzyć. Ale było coś, co go niepokoiło. "Czuję się... dziwnie," powiedział. "Jakby moje serce biło szybciej. Nie mogę zasnąć. A czasami czuję taką nerwowość, że trudno mi usiedzieć w miejscu." Dla wielu osób z ADHD stymulujące leki to złoty standard – skuteczne, szybko działające, dobrze zbadane. Ale dla części pacjentów, jak Marcin, działania niepożądane mogą być nie do zniesienia. Lub leki stymulujące mogą być po prostu niewystarczające, szczególnie gdy ADHD współwystępuje z innymi zaburzeniami.
+Siedzisz w gabinecie psychiatry z mieszanymi uczuciami. Po latach zmagań z ADHD wreszcie dostałeś diagnozę i rozpocząłeś leczenie metylfenidatem. Lek działa – Twoja koncentracja się poprawiła, projekty przestały się piętrzyć. Ale jest coś co Cię niepokoi. "Czuję się... dziwnie" - mówisz. "Jakby moje serce biło szybciej. Nie mogę zasnąć. A czasami czuję taką nerwowość że trudno mi usiedzieć w miejscu."
 
-Wtedy w grę wchodzą leki niestymulujące – mniej znane, ale równie ważne narzędzie w arsenale farmakoterapii ADHD. Nie działają tak szybko i spektakularnie jak amfetaminy czy metylfenidat, ale oferują coś innego: łagodniejszy profil działania, 24-godzinną skuteczność bez efektu "on-off", mniejsze ryzyko nadużycia i często lepszą tolerancję. Dla niektórych osób – szczególnie tych z współwystępującym lękiem, tikkami, problemami ze snem, historią uzależnień czy chorobami serca – mogą być pierwszym wyborem.
+Dla wielu osób z ADHD stymulujące leki to złoty standard – skuteczne, szybko działające, dobrze zbadane. Ale dla części pacjentów działania niepożądane mogą być nie do zniesienia. Lub leki stymulujące mogą być po prostu niewystarczające, szczególnie gdy ADHD współwystępuje z innymi zaburzeniami.
 
-W tym rozdziale przyjrzymy się bliżej trzem głównym kategoriom leków niestymulujących: atomoxetynie (jedyny lek niestymulujący oficjalnie zatwierdzony do leczenia ADHD), agoniści receptorów alfa-2 (guanfacyna i klonidyna) oraz lekom off-label, jak bupropion. Zrozumiemy, jak działają, kiedy je rozważać, jak wyglądają ich profile skuteczności i bezpieczeństwa – i jak znaleźć właściwą opcję dla siebie.
+Wtedy w grę wchodzą leki niestymulujące – mniej znane, ale równie ważne narzędzie w arsenale farmakoterapii ADHD. Nie działają tak szybko i spektakularnie jak amfetaminy czy metylfenidat, ale oferują coś innego: łagodniejszy profil działania, dwudziestoczterogodzinną skuteczność bez efektu "on-off", mniejsze ryzyko nadużycia i często lepszą tolerancję. Dla niektórych osób – szczególnie tych z współwystępującym lękiem, tikkami, problemami ze snem, historią uzależnień czy chorobami serca – mogą być pierwszym wyborem.
+
+W tym rozdziale przyjrzymy się bliżej trzem głównym kategoriom leków niestymulujących: atomoxetynie (jedyny lek niestymulujący oficjalnie zatwierdzony do leczenia ADHD), agoniści receptorów alfa-2 (guanfacyna i klonidyna) oraz lekom off-label jak bupropion. Zrozumiemy jak działają, kiedy je rozważać, jak wyglądają ich profile skuteczności i bezpieczeństwa – i jak znaleźć właściwą opcję dla siebie.
 
 ---
 

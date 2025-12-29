@@ -7,7 +7,11 @@
 
 ## Hook: Historia zapisana w DNA
 
-Kiedy Marta dowiedziała się, że ma ADHD w wieku 35 lat, pierwsze, co zrobiła, to zadzwoniła do mamy. "Mamo, pamiętasz jak w szkole ciągle gubiłam rzeczy? Jak nigdy nie mogłam usiedzieć w miejscu? Jak zanim skończyłam jedno hobby, już byłam w połowie następnego?" Mama westchnęła. "Martusiu, myślisz, że Ty jedna taka byłaś? Twój dziadek był taki sam. A Twój brat? Przecież on do dziś nie umie dokończyć jednego projektu. I wiesz co? Jak patrzę na Twojego syna, widzę to samo."
+Kiedy dowiedziałeś się że masz ADHD - czy w wieku trzydziestu pięciu lat, dwudziestu, czterdziestu - pierwsze co prawdopodobnie zrobiłeś, to zaczołeś rozmawiać z rodziną. "Mamo, pamiętasz jak w szkole ciągle gubiłam rzeczy? Jak nigdy nie mogłam usiedzieć w miejscu? Jak zanim skończyłam jedno hobby, już byłam w połowie następnego?"
+
+I mama prawdopodobnie westchnęła. "Myślisz że tylko Ty? Twój dziadek był taki sam. A Twój brat? On do dziś nie umie dokończyć jednego projektu. I wiesz co? Jak patrzę na Twojego syna, widzę to samo."
+
+Nagle zaczynasz widzieć wzorzec. Nie jesteś pierwszy w rodzinie. To nie przypadek. To nie "brak charakteru" czy "lenistwo" które tajemniczo powtarza się w każdym pokoleniu. To coś głębszego.
 
 ADHD często nie przychodzi samo. Przychodzi z bagażem rodzinnym, zapisanym w spiralach DNA przekazywanych z pokolenia na pokolenie. To jedno z najbardziej dziedzicznych zaburzeń psychiatrycznych - bardziej niż depresja, bardziej niż schizofrenia. Ale genetyka to nie wyrok. To rozdział o tym, jak geny i środowisko tańczą ze sobą skomplikowany taniec, tworząc unikalne doświadczenie ADHD każdej osoby.
 
