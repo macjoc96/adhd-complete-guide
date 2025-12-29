@@ -45,7 +45,7 @@ Exercise aktywuje te same systemy neurochemiczne co leki na ADHD:
 **1. Dopamina**
 - **Mechanism:** Aktywność fizyczna zwiększa ekspresję receptorów D2 i D3 w striatum + nucleus accumbens
 - **Badanie (Robertson et al., 2016):** 30 min biegu → wzrost dopaminy o 50-100% w striatum (mierzone PET scan)
-- **Efekt:** Lepsze przetwarzanie nagrody, motywacja, focus
+- **Efekt:** Lepsze przetwarzanie nagrody, motywacja, koncentracja
 
 **2. Noradrenalina**
 - **Mechanism:** Exercise stymuluje locus coeruleus (główne źródło noradrenaliny w mózgu)
@@ -56,17 +56,17 @@ Exercise aktywuje te same systemy neurochemiczne co leki na ADHD:
 - **Mechanism:** Zwiększenie dostępności tryptofanu (prekursor serotoniny) + wzrost aktywności serotoninergic neurons
 - **Efekt:** Lepszy nastrój, redukcja impulsywności
 
-**Kluczowa różnica vs leki:**
-- **Leki (methylphenidate, lisdexamfetamine):** Szybki onset (30-60 min), trwa 4-12h, ale może dawać crashes, appetite suppression, sleep issues
-- **Exercise:** Onset w 10-20 min, peak effect w 30-60 min, trwa 2-4h, **zero side effects**, additional benefits (cardiovascular health, mood, sleep)
+**Kluczowa różnica wobec leków:**
+- **Leki (methylphenidate, lisdexamfetamine):** Szybki onset (trzydzieści do sześćdziesięciu minut), trwa cztery do dwunastu godzin, ale może dawać crashes, appetite suppression, sleep issues
+- **Exercise:** Onset w dziesięć do dwudziestu minut, peak effect w trzydzieści do sześćdziesięciu minut, trwa dwie do czterech godzin, **zero side effects**, additional benefits (cardiovascular health, mood, sleep)
 
 **Dr. John Ratey**, autor "Spark: The Revolutionary New Science of Exercise and the Brain", stwierdził:
-> "Exercise is the single most powerful tool we have to optimize brain function. Think of it as Miracle-Gro for the brain – it makes you smarter, happier, and better able to focus. For people with ADHD, exercise works like a drug, but naturally."
+> "Exercise is the single most powerful tool we have to optimize brain function. Think of it as Miracle-Gro for the brain – it makes you smarter, happier, and better able to concentrate. For people with ADHD, exercise works like a drug, but naturally."
 
-### Effect Sizes – Jak Duży Jest Efekt?
+### Wielkość efektu – Jak duży jest efekt?
 
-**Meta-analiza Cerrillo-Urbina et al. (2015)** – 16 badań, 734 dzieci z ADHD:
-- **Aerobic exercise** → redukcja objawów ADHD o **effect size = 0.56** (moderate-to-large effect)
+**Meta-analiza Cerrillo-Urbina et al. (2015)** – szesnaście badań, siedemset trzydzieści czworo dzieci z ADHD:
+- **Aerobic exercise** → redukcja objawów ADHD o **wielkość efektu = 0.56** (moderate-to-large effect)
   - Dla porównania: Methylphenidate = 0.7-0.9, atomoxetine = 0.6-0.7
 - **Największe efekty**: Uwaga, hamowanie impulsów, funkcje wykonawcze
 - **Częstotliwość**: 3+ sesje/tydzień, minimum 30 min/sesja
@@ -75,18 +75,18 @@ Exercise aktywuje te same systemy neurochemiczne co leki na ADHD:
 - **Pojedyncza sesja 20-minutowego biegu** → poprawa w zadaniach wymagających uwagi wykonawczej o **35%**
 - Efekt porównywalny do **pojedynczej dawki methylphenidate 10mg**
 
-**Badanie Hoza et al. (2015)** – Dzieci z ADHD (8-12 lat):
-- Grupa exercise (5x/tydzień, 31 min/sesja przez 12 tygodni) vs control group
-- **Redukcja objawów ADHD o 40%** (parent-rated)
-- **Poprawa funkcji wykonawczych o 28%** (neuropsychological tests)
+**Badanie Hoza et al. (2015)** – Dzieci z ADHD (osiem do dwunastu lat):
+- Grupa exercise (pięć razy w tygodniu, trzydzieści jedna minut na sesję przez dwanaście tygodni) wobec grupa kontrolna
+- **Redukcja objawów ADHD o czterdzieści procent** (parent-rated)
+- **Poprawa funkcji wykonawczych o dwadzieścia osiem procent** (neuropsychological tests)
 
 ### Typy Aktywności – Co Działa Najlepiej?
 
 **1. Aerobic Exercise (Cardio)**
 - **Przykłady:** Bieganie, cycling, pływanie, skakanka, taniec
 - **Mechanizm:** Zwiększa dopaminę + noradrenalinę + BDNF
-- **Best dla:** Immediate focus boost, emotional regulation
-- **Dawkowanie:** Moderate-to-vigorous intensity (60-80% max HR), 20-40 min
+- **Najlepsze dla:** Natychmiastowy wzrost koncentracji, regulacja emocjonalna
+- **Dawkowanie:** Moderate-to-vigorous intensity (sześćdziesiąt do osiemdziesięciu procent max HR), dwadzieścia do czterdziestu minut
 
 **2. Strength Training (Siłowe)**
 - **Przykłady:** Ćwiczenia z ciężarami, body-weight exercises (push-ups, squats)
