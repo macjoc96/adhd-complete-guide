@@ -51,25 +51,13 @@ W życiu to wygląda tak: przerywasz ludziom w połowie zdania. Wiesz że to nie
 
 #### 3. **Elastyczność Poznawcza (Cognitive Flexibility / Set Shifting)**
 
-**Definicja:** Zdolność do przełączania się między różnymi zadaniami, perspektywami lub strategiami.
+To zdolność do przełączania się między różnymi zadaniami, perspektywami lub strategiami. Mózg normalnie umie "odłożyć" jeden zestaw reguł i "wczytać" inny - jak przełączanie kanałów. **Wisconsin Card Sorting Test** sprawdza to precyzyjnie: sortuj karty według koloru, a potem nagle - bum - teraz według kształtu. Wymaga elastycznego przełączenia mentalnego trybu.
 
-**Jak działa:**
-- Mózg "odkłada" jeden zestaw reguł i "wczytuje" inny
-- Wisconsin Card Sorting Test: Sortuj karty według koloru, potem nagle według kształtu – wymaga elastycznego przełączenia
+W ADHD pojawia się fascynujący **paradoks**: masz jednocześnie zbyt dużą i zbyt małą elastyczność. **Zbyt duża** oznacza mimowolne przeskakiwanie między zadaniami - Twój umysł sam przełącza kanały bez Twojej zgody, nie możesz utrzymać focus na jednym. **Zbyt mała** objawia się jako utknięcie w jednej perspektywie lub hiperfokusie - jeśli już się wciągniesz w coś (grę, projekt, research rabbit hole), nie możesz się "oderwać", przełączyć na coś innego. Trudność z przerwaniem "trybu": jesteś w grze, musisz iść do pracy, ale mózg nie chce przełączyć trybu. Problemy z adaptacją do zmiany: gdy plan A nie zadziała, dostajesz panikę zamiast płynnie przejść na plan B.
 
-**Jak ADHD to zaburza:**
-- Paradoks: Zbyt duża elastyczność (przeskakujesz między zadaniami mimowolnie) + zbyt mała elastyczność (utkniesz w jednej perspektywie/hiperfokusie)
-- Trudność z przerwaniem "trybu" – jeśli jesteś w grze, trudno przełączyć się na pracę
-- Problemy z adaptacją do zmiany – gdy plan się zmienia, ciężko się dostosować
+W życiu wygląda to dramatycznie. Hiperfokus na grze czy projekcie - godziny mijają niezauważone, ludzie do Ciebie mówią ale nie słyszysz, fizycznie nie możesz się oderwać mimo że racjonalnie wiesz że powinieneś. Albo sytuacja odwrotna: plan się zmienia (spotkanie przesunięte, zadanie wymaga innego podejścia) i zamiast elastycznie dostosować się, dostajesz paraliż czy frustrację. Trudność z multitaskingiem jest paradoksalna - mimowolnie robisz to cały czas (przeglądarka, telefon, myśli), ale świadome, kontrolowane przełączanie między zadaniami jest bardzo trudne.
 
-**Przykłady z życia:**
-- Hiperfokus na grze/projekcie – godziny mijają, nie możesz się "oderwać"
-- Plan A nie zadziałał → panika, zamiast płynnego przejścia na Plan B
-- Trudność z multitaskingiem (paradoksalnie, mimo że ciągle to robisz mimowolnie)
-
-**Badania:**
-- Test Trail Making B (TMT-B): Osoby z ADHD potrzebują więcej czasu na przełączanie się między liczbami a literami
-- Rzadziej stosują elastyczne strategie w rozwiązywaniu problemów
+**Test Trail Making B (TMT-B)** - przełączanie się między liczbami a literami - pokazuje, że osoby z ADHD potrzebują znacznie więcej czasu na te przełączenia. Badania strategii rozwiązywania problemów pokazują, że rzadziej stosują elastyczne podejścia, trzymając się jednej strategii nawet gdy wyraźnie nie działa.
 
 #### 4. **Planowanie i Organizacja**
 
