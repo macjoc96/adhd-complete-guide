@@ -5,11 +5,13 @@
 
 ---
 
-## Hook: Historia Anny
+## Hook: Czy to brzmi znajomo?
 
-Anna ma 32 lata, ukończyła studia z wyróżnieniem, pracuje jako architektka. Z zewnątrz jej życie wygląda na perfekcyjne. Ale Anna wie swoje. Wie, że potrzebuje trzech razy więcej czasu niż koledzy, żeby dokończyć projekt - nie dlatego, że jest mniej kompetentna, ale dlatego, że każdego dnia przegrywa walkę z własnym umysłem. Rozpoczyna zadanie, po 10 minutach sprawdza telefon, potem przychodzi jej do głowy, że musi odpowiedzieć na maila sprzed tygodnia, po drodze przypomina sobie o nieumytych naczyniach, wraca do projektu, ale zapomniała już co miała zrobić. Wieczorem siedzi do 2 w nocy, w desperacji, bo deadline jest jutro. "Dlaczego inni dają radę, a ja nie?" - pyta sama siebie.
+Masz 32 lata. Ukończyłeś studia, może nawet z dobrymi wynikami. Z zewnątrz Twoje życie wygląda w porządku. Ale Ty wiesz swoje. Wiesz, że potrzebujesz znacznie więcej czasu niż inni, żeby dokończyć projekt - nie dlatego, że jesteś mniej kompetentny, ale dlatego, że każdego dnia przegrywasz walkę z własnym umysłem.
 
-To pytanie zadaje sobie miliony ludzi na świecie. I dopiero diagnoza ADHD daje im odpowiedź: to nie kwestia lenistwa, braku motywacji czy "niedojrzałości". To neurobiologiczne zaburzenie, które wpływa na fundamentalne funkcje mózgu.
+Zaczynasz zadanie. Po dziesięciu minutach sprawdzasz telefon. Potem przychodzi Ci do głowy, że musisz odpowiedzieć na maila sprzed tygodnia. Po drodze przypominasz sobie o nieumytych naczyniach. Wracasz do projektu, ale zapomniałeś już co miałeś zrobić. Wieczorem siedzisz do drugiej w nocy, w desperacji, bo deadline jest jutro. "Dlaczego inni dają radę, a ja nie?"
+
+To pytanie zadają sobie miliony ludzi na świecie. I dopiero diagnoza ADHD daje odpowiedź: to nie kwestia lenistwa, braku motywacji czy "niedojrzałości". To neurobiologiczne zaburzenie, które wpływa na fundamentalne funkcje mózgu.
 
 ---
 
@@ -17,11 +19,7 @@ To pytanie zadaje sobie miliony ludzi na świecie. I dopiero diagnoza ADHD daje 
 
 **ADHD (Attention-Deficit/Hyperactivity Disorder)**, czyli zespół nadpobudliwości psychoruchowej z deficytem uwagi, to neuropsychiatryczne zaburzenie neurorozwojowe charakteryzujące się przewlekłym wzorcem nieuwagi, nadpobudliwości i/lub impulsywności, który znacząco upośledza funkcjonowanie w wielu obszarach życia.
 
-Kluczowe słowa w tej definicji:
-- **Neuropsychiatryczne** - dotyczy zarówno funkcjonowania mózgu, jak i zachowania
-- **Neurorozwojowe** - rozpoczyna się w dzieciństwie, wynika z atypowego rozwoju mózgu
-- **Przewlekły wzorzec** - to nie pojedyncze epizody, ale stały sposób funkcjonowania
-- **Upośledza funkcjonowanie** - wywołuje realne konsekwencje w życiu codziennym
+Rozbijmy tę definicję na części, bo każde słowo ma znaczenie. **Neuropsychiatryczne** oznacza, że ADHD dotyczy zarówno funkcjonowania mózgu, jak i zachowania - to nie tylko problem psychologiczny ani tylko neurologiczny, ale połączenie obu. **Neurorozwojowe** mówi nam, że zaburzenie rozpoczyna się w dzieciństwie i wynika z atypowego rozwoju mózgu - nie jest to coś, co nabywasz jako dorosły. **Przewlekły wzorzec** podkreśla, że to nie są pojedyncze epizody rozproszenia czy nadmiernej energii, ale stały, chroniczny sposób funkcjonowania. I wreszcie **upośledza funkcjonowanie** - to kluczowe - ADHD wywołuje realne, mierzalne konsekwencje w życiu codziennym, w pracy, w relacjach, w nauce.
 
 ADHD nie jest wynikiem złego wychowania, lenistwa ani braku inteligencji. To medycznie rozpoznawane zaburzenie z udokumentowanymi podstawami neurologicznymi i genetycznymi.
 
@@ -111,38 +109,19 @@ ADHD wygląda inaczej w różnych fazach życia.
 
 ### ADHD w dzieciństwie (6-12 lat)
 
-**Typowe objawy**:
-- Fizyczna nadpobudliwość: bieganie, wspinanie się, niemożność siedzenia w miejscu
-- Głośne zachowanie, trudności w cichu bawieniu się
-- Impulsywność: wyrzucanie odpowiedzi, trudności z czekaniem
-- Problemy w szkole: nieukończone zadania, zgubione rzeczy, zapominanie
-- Trudności w relacjach rówieśniczych: przerywanie, narzucanie się
+W tym wieku ADHD jest najbardziej widoczne i "klasyczne" w swoim obrazie. Dzieci z ADHD często wyróżniają się **fizyczną nadpobudliwością** - biegają tam gdzie inni chodzą, wspinają się na rzeczy, nie potrafią usiedzieć w miejscu dłużej niż kilka minut. Zachowania są **głośne** - trudno im się bawić cicho, często hałasują, komentują wszystko na głos. **Impulsywność** objawia się wyrzucaniem odpowiedzi zanim nauczyciel skończy pytanie, trudnościami z czekaniem w kolejce, natychmiastowymi reakcjami bez zastanowienia. W szkole pojawiają się charakterystyczne problemy: nieukończone zadania (zaczęte, ale porzucone w połowie), zgubione zeszyty i podręczniki, ciągłe zapominanie o zadaniach domowych czy przyborach. **Relacje z rówieśnikami** bywają trudne - dziecko przerywa innym podczas zabawy, narzuca swoje pomysły, nie umie czekać na swoją kolej.
 
 ### ADHD w adolescencji (13-18 lat)
 
-**Zmiany**:
-- Fizyczna nadpobudliwość często zmniejsza się
-- Pojawia się wewnętrzny niepokój, poczucie "bycia napędzanym"
-- Narastają trudności z organizacją i planowaniem (rosnące wymagania akademickie)
-- Problemy z regulacją emocji stają się bardziej widoczne
-- Impulsywność może prowadzić do ryzykownych zachowań
-- Współwystępowanie z depresją i lękiem wzrasta
+Nastoletni ADHD zaczyna się zmieniać. **Fizyczna nadpobudliwość często się zmniejsza** - mniej biegania i wspinania, ale pojawia się **wewnętrzny niepokój**, uczucie "bycia napędzanym od środka", niemożność się wyciszenia. Rosnące wymagania szkoły średniej i liceum ujawniają **narastające trudności z organizacją i planowaniem** - projekty składające się z wielu kroków, długoterminowe zadania, zarządzanie wieloma przedmiotami jednocześnie staje się przytłaczające. **Problemy z regulacją emocji** stają się bardziej widoczne i dotkliwe - gwałtowne zmiany nastroju, niska tolerancja frustracji, intensywne reakcje emocjonalne. **Impulsywność** może prowadzić do ryzykownych zachowań - niebezpieczna jazda, eksperymenty z substancjami, impulsywne decyzje dotyczące związków czy seksu. To także wiek, w którym znacząco wzrasta **współwystępowanie z depresją i lękiem** - lata nieudanych prób "dopasowania się", porównywanie się z rówieśnikami, chroniczne poczucie bycia "innym" biorą swoje.
 
 ### ADHD w dorosłości (18+)
 
-**Ewolucja objawów** (Barkley, 2010):
-- **Nadpobudliwość fizyczna** → Wewnętrzny niepokój, uczucie napięcia, potrzeba stymulacji
-- **Impulsywność ruchowa** → Impulsywne decyzje finansowe, przerwanie innym w rozmowie, trudności z opóźnianiem gratyfikacji
-- **Nieuwaga** → Procrastynacja, zapominanie, trudności z dokumentacją, przeskakiwanie między projektami
+U dorosłych ADHD ewoluuje w subtelniejsze, ale nie mniej dotkliwe formy (Barkley, 2010). **Nadpobudliwość fizyczna** przekształca się w **wewnętrzny niepokój** - nie biegniesz już po korytarzach, ale czujesz stałe napięcie, niemożność odpoczynku, chroniczną potrzebę stymulacji (scrollowanie mediów społecznościowych, ciągłe przełączanie między aplikacjami, niemożność po prostu usiedzenia). **Impulsywność ruchowa** ustępuje miejsca **impulsywności decyzyjnej** - kupujesz rzeczy których nie potrzebujesz w przypływie entuzjazmu, przerywasz innym w rozmowach zanim skończą myśl, nie potrafisz opóźnić gratyfikacji ("chcę to teraz"). **Nieuwaga** objawia się jako chroniczna **prokrastynacja**, ciągłe zapominanie o spotkaniach i zobowiązaniach, trudności z doprowadzeniem do końca dokumentacji czy raportów, przeskakiwanie między projektami zostawiając za sobą szlak niedokończonych rzeczy.
 
-**Specyficzne wyzwania dorosłych z ADHD**:
-- Zarządzanie finansami (impulse buying, niezapłacone rachunki)
-- Utrzymanie pracy (missed deadlines, konflikty, częsta zmiana miejsc pracy)
-- Relacje (zapominanie o ważnych wydarzeniach, trudności ze słuchaniem partnera)
-- Prowadzenie gospodarstwa domowego (chaos, nieskończone projekty)
-- Prowadzenie pojazdów (wypadki, mandaty, rozproszenie na drodze)
+Specyficzne wyzwania dorosłych z ADHD dotykają wszystkich obszarów życia. **Zarządzanie finansami** staje się problemem - impulsywne zakupy, niezapłacone rachunki (zapomniałeś o terminie), brak oszczędności mimo przyzwoitych zarobków. **Utrzymanie pracy** bywa trudne: spóźnione projekty, konflikty z przełożonymi o "brak organizacji", częsta zmiana miejsc pracy bo "to nie było dla mnie". **Relacje** cierpią - zapominasz o rocznicach i ważnych wydarzeniach, masz trudności z aktywnym słuchaniem partnera (umysł wędruje gdzie indziej), konflikty o "niezawodność". **Prowadzenie gospodarstwa domowego** przypomina pole bitwy - chaos, stosy rzeczy "do zrobienia później", dziesiątki rozpoczętych ale nigdy nieukończonych projektów. **Prowadzenie pojazdów** wiąże się z większym ryzykiem wypadków i mandatów - rozproszenie uwagi na drodze jest niebezpieczne.
 
-**Ważne**: Dorośli często rozwijają strategie kompensacyjne (alarmy, listy, partnera jako "external brain"), co może maskować objawy i opóźniać diagnozę.
+Ważny punkt: dorośli z ADHD często rozwijają **strategie kompensacyjne** przez lata. Ustawiają dziesiątki alarmów w telefonie. Robią obsesyjne listy. Polegają na partnerze który funkcjonuje jak "zewnętrzny mózg" przypominając o wszystkim. Te strategie działają - do pewnego momentu - ale także maskują objawy i opóźniają diagnozę o lata, czasem dekady.
 
 ---
 
@@ -164,16 +143,9 @@ To nie tylko "łatwe rozpraszanie się". Nieuwaga w ADHD obejmuje:
 
 ### 2. Nadpobudliwość (Hyperactivity)
 
-**U dzieci**:
-- Nadmierna aktywność ruchowa
-- Niemożność siedzenia w miejscu
-- Ciągłe poruszanie się, "jakby napędzany silnikiem"
+Nadpobudliwość wygląda radykalnie inaczej w różnych fazach życia. **U dzieci** objawia się jako nadmierna aktywność ruchowa - dziecko biegnie tam gdzie inne dzieci chodzą, wspina się na meble, kręci się na krześle, wierci nogami, stuka palcami. Siedzenie w miejscu przez dłużej niż kilka minut jest niemal niemożliwe. To dosłownie działa "jakby napędzane silnikiem" - ciągle w ruchu, ciągle coś robiąc.
 
-**U dorosłych**:
-- Wewnętrzny niepokój
-- Potrzeba ciągłej stymulacji (multitasking, przeskakiwanie między aktywnościami)
-- Trudności z relaksacją
-- Nadmierna gadatliwość
+**U dorosłych** nadpobudliwość przesuwa się do wewnątrz. Nie biegniesz już po korytarzach, ale czujesz **wewnętrzny niepokój** - stałe napięcie, niemożność odpoczynku, uczucie że "musisz coś robić". Manifestuje się jako potrzeba **ciągłej stymulacji** - multitasking (równocześnie pracujesz, słuchasz podcastu, sprawdzasz telefon), przeskakiwanie między aktywnościami, niemożność po prostu usiedzenia i nic nie robienia. **Trudności z relaksacją** są chroniczne - nawet wakacje są "wypełnione po brzegi" bo cisza i spokój są nie do zniesienia. **Nadmierna gadatliwość** pozostaje - mówisz dużo, szybko, przeskakujesz między tematami, dominujesz w rozmowach.
 
 ### 3. Impulsywność (Impulsivity)
 
@@ -191,30 +163,15 @@ DSM-5 wyróżnia trzy **prezentacje** (presentations) ADHD:
 
 ### Prezentacja z przewagą nieuwagi (Predominantly Inattentive Presentation)
 
-**Profil**: ≥6 objawów nieuwagi, <6 objawów nadpobudliwości/impulsywności (u dorosłych: ≥5)
+To osoby, które mają co najmniej sześć objawów nieuwagi (u dorosłych pięć), ale mniej niż sześć objawów nadpobudliwości czy impulsywności. To "marzyciele", "ci w swoim świecie" - dzieci siedzące cicho w kącie klasy, gapiące się przez okno, zawsze gdzieś myślami. Charakteryzują się **wolniejszym tempem przetwarzania informacji** - nie dlatego, że są mniej inteligentni, ale dlatego, że ich umysł wędruje, dystrahuje się wewnętrznymi myślami. Są **cichsi i mniej zauważalni** w grupie - nie robią problematycznych zachowań, nie przeszkadzają, więc często umykają uwadze nauczycieli i rodziców. Mają znaczące **trudności z organizacją i pamięcią** - gubią rzeczy, zapominają o zadaniach, nie mogą uporządkować myśli czy materiałów. Ta prezentacja jest **często niedostrzegana**, szczególnie u dziewczynek i kobiet, które są socjalizowane do cichego siedzenia.
 
-**Charakterystyka**:
-- "Marzyciele", "w swoim świecie"
-- Wolniejsze tempo przetwarzania informacji
-- Cichsze, mniej zauważalne w grupie
-- Trudności z organizacją i pamięcią
-- Często niedostrzegane (zwłaszcza u dziewczynek/kobiet)
-
-**Dawna nazwa**: ADD (Attention Deficit Disorder bez hyperactivity)
-
-**Wyzwania**: Późniejsza diagnoza (brak "problematycznych" zachowań), większe ryzyko depresji i lęku.
+Dawniej nazywano to ADD (Attention Deficit Disorder bez hyperactivity). Główne wyzwanie to **późniejsza diagnoza** - bez "problematycznych" nadpobudliwych zachowań nikt nie szuka ADHD, a osoba przez lata zmaga się z poczuciem, że "jest leniwa" czy "nie wykorzystuje potencjału". Osoby z tym podtypem mają także większe ryzyko depresji i lęku.
 
 ### Prezentacja z przewagą nadpobudliwości-impulsywności (Predominantly Hyperactive-Impulsive Presentation)
 
-**Profil**: ≥6 objawów nadpobudliwości/impulsywności, <6 objawów nieuwagi
+Tutaj mamy odwrotną sytuację: co najmniej sześć objawów nadpobudliwości i impulsywności, ale mniej niż sześć objawów nieuwagi. To osoby w **ciągłym ruchu i niepokoju**, które podejmują **impulsywne decyzje i zachowania** bez zastanowienia nad konsekwencjami. Mają znaczące **trudności z kontrolą emocji** - wybuchają gniewem, reagują intensywnie, mają niską tolerancję frustracji. **Problemy w relacjach społecznych** są częste - przerywają innym, narzucają się, nie umieją czekać, co prowadzi do konfliktów i odrzucenia.
 
-**Charakterystyka**:
-- Ciągły ruch, niepokój
-- Impulsywne decyzje i zachowania
-- Trudności z kontrolą emocji
-- Problemy w relacjach społecznych (przerywanie, narzucanie się)
-
-**Częstość**: Rzadsza, szczególnie u dorosłych (z wiekiem nadpobudliwość często zmniejsza się)
+Ta prezentacja jest **rzadsza**, szczególnie u dorosłych - z wiekiem nadpobudliwość fizyczna często naturalnie się zmniejsza, przez co osoby te mogą przejść w prezentację łączoną lub z przewagą nieuwagi.
 
 ### Prezentacja łączona (Combined Presentation)
 
@@ -230,34 +187,27 @@ DSM-5 wyróżnia trzy **prezentacje** (presentations) ADHD:
 
 ## ADHD nie jest jednorodne: Heterogenność zaburzenia
 
-Nawet w obrębie tego samego podtypu, ADHD wygląda różnie u różnych osób. Dlaczego?
+Nawet w obrębie tego samego podtypu, ADHD wygląda różnie u różnych osób. Dlaczego? Przyczyn jest kilka.
 
-**1. Nasilenie objawów**: Kontinuum od łagodnych do ciężkich
+Po pierwsze, **nasilenie objawów** tworzy kontinuum od łagodnych do ciężkich. Dwie osoby mogą spełniać kryteria diagnostyczne tej samej prezentacji, ale jedna ma objawy na poziomie "utrudniające funkcjonowanie", a druga na poziomie "całkowicie uniemożliwiające normalne życie".
 
-**2. Profil neuropsychologiczny**: Różne wzorce deficytów funkcji wykonawczych (np. jedni mają głównie problem z pamięcią roboczą, inni z hamowaniem)
+Po drugie, **profil neuropsychologiczny** jest indywidualny. ADHD wpływa na funkcje wykonawcze, ale nie na wszystkie w tym samym stopniu u wszystkich. Jedna osoba ma główny problem z pamięcią roboczą (zapomina wszystkiego natychmiast), inna z hamowaniem impulsów (nie może się powstrzymać przed reakcją), jeszcze inna z elastycznością poznawczą (nie może się przełączać między zadaniami). Te różne profile prowadzą do różnych obrazów klinicznych.
 
-**3. Współwystępowanie**: ADHD rzadko występuje solo - często z lękiem, depresją, dyslekcją, autyzmem
+Po trzecie, **współwystępowanie** innych zaburzeń jest regułą, nie wyjątkiem. ADHD rzadko występuje solo - najczęściej towarzyszy mu lęk, depresja, specyficzne trudności w uczeniu się (dyslekcja, dyskalkulia), czasem autyzm czy zaburzenia nastroju. Każda dodatkowa warstwa komplikuje obraz i wymaga dostosowanego podejścia.
 
-**4. Czynniki środowiskowe**: Wsparcie rodziny, edukacja, terapia - wszystko to modyfikuje obraz kliniczny
+Po czwarte, **czynniki środowiskowe** modyfikują przebieg zaburzenia. Wsparcie kochającej rodziny, dobra edukacja dostosowana do potrzeb, wczesna terapia - wszystko to znacząco zmniejsza negatywny wpływ ADHD na życie. Odwrotnie, trauma, zaniedbanie, presja środowiskowa potęgują trudności.
 
-**5. Strategie kompensacyjne**: Inteligencja, kreatywność, systemy wsparcia - pomagają maskować objawy
+Wreszcie, **strategie kompensacyjne** które osoba rozwija przez lata tworzą unikalny obraz. Wysoka inteligencja, kreatywność, systemy wsparcia (alarmy, listy, partner jako "external brain") pomagają maskować objawy i funkcjonować mimo deficytów. Dwie osoby z identycznym poziomem ADHD mogą funkcjonować zupełnie inaczej w zależności od tych strategii.
 
 ---
 
 ## Epidemiologia: Jak powszechne jest ADHD?
 
-**Częstość występowania** (meta-analiza Faraone et al., 2021):
-- **Dzieci**: ~5-7% populacji światowej
-- **Dorośli**: ~2.5-3.4% (prawdopodobnie niedoszacowane z powodu niedodiagnozowania)
+ADHD nie jest rzadkim zaburzeniem. Według obszernej meta-analizy Faraone i współpracowników (2021), która przeanalizowała dziesiątki badań z całego świata, **około 5-7% dzieci** na świecie spełnia kryteria ADHD. To oznacza mniej więcej jedno dziecko na klasę szkolną. U **dorosłych częstość jest niższa** - około 2.5-3.4% - choć liczba ta jest prawdopodobnie niedoszacowana z powodu chronicznego niedodiagnozowania tej grupy wiekowej.
 
-**Płeć**:
-- U dzieci: stosunek chłopcy:dziewczynki = 2-3:1
-- U dorosłych: stosunek bardziej wyrównany (~1.6:1)
-- **Dlaczego?** Dziewczynki częściej mają prezentację inattentive (mniej zauważalną), więc są niedostrzegane w dzieciństwie
+Ciekawy jest **podział według płci**. U dzieci stosunek chłopców do dziewczynek z ADHD wynosi od 2:1 do 3:1 - znacznie więcej chłopców jest diagnozowanych. U dorosłych ten stosunek się wyrównuje do około 1.6:1. Dlaczego? Dziewczynki częściej mają prezentację z przewagą nieuwagi - są cichsze, mniej "problematyczne", więc łatwiej umykają diagnozowaniu w dzieciństwie. Diagnozowane są dopiero jako dorosłe, gdy życie stawia przed nimi wymagania przekraczające ich możliwości kompensacyjne.
 
-**Geografia**: ADHD występuje we wszystkich kulturach z podobną częstością
-
-**Klasa społeczna**: Występuje we wszystkich grupach społeczno-ekonomicznych
+ADHD **występuje we wszystkich kulturach z podobną częstością** - to nie jest "wymysł zachodniej medycyny" jak czasem twierdzą krytycy. Badania prowadzone w Azji, Afryce, Ameryce Południowej pokazują zbliżone wskaźniki występowania. Podobnie **występuje we wszystkich grupach społeczno-ekonomicznych** - ADHD nie wybiera, bogaci i biedni mają podobne ryzyko.
 
 ---
 
