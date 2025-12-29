@@ -315,7 +315,7 @@ Jeśli spełnione są wszystkie kryteria:
 - Lepiej maskują trudności (pracują 3x ciężej, żeby "nadążyć")
 - Perfekcjonizm jako strategia kompensacyjna → wypalenie w dorosłości
 
-### 3. Internalizacja vs eksternalizacja
+### 3. Internalizacja w przeciwieństwie do eksternalizacji
 
 - Chłopcy częściej eksternalizują problemy (agresja, bunt) → widoczne
 - Dziewczynki internalizują (lęk, depresja, niska samoocena) → mniej widoczne jako ADHD
@@ -372,7 +372,7 @@ Jeśli spełnione są wszystkie kryteria:
 
 ## Action Steps: Przygotowanie do diagnozy
 
-### Krok 1: Samo-screening
+### Krok 1: Samodzielny test przesiewowy
 
 - Wypełnij **ASRS** (online, za darmo)
 - Jeśli ≥4 pozytywne odpowiedzi w części A → rozważ profesjonalną ocenę

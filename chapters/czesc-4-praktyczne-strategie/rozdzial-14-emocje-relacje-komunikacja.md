@@ -83,9 +83,9 @@ Dr. Dan Siegel odkrył coś fascynującego: samo **nazywanie emocji redukuje akt
 
 **Krok trzeci: zaakceptuj emocję jako przejściową**. "Ta emocja jest tutaj teraz, ale przeminie". "Mam prawo czuć to co czuję". "Nie muszę na nią działać". Akceptacja nie oznacza aprobaty - oznacza uznanie rzeczywistości bez walki.
 
-#### Tracking Emocjonalny
+#### Śledzenie emocji
 
-Bez śledzenia emocji nie zobaczysz wzorców. Z ADHD mózg żyje "tu i teraz" - wczorajsza eksplozja emocjonalna wydaje się odległa, jutrzejsza nieprawdopodobna. Tracking daje perspektywę.
+Bez śledzenia emocji nie zobaczysz wzorców. Z ADHD mózg żyje "tu i teraz" - wczorajsza eksplozja emocjonalna wydaje się odległa, jutrzejsza nieprawdopodobna. Śledzenie daje perspektywę.
 
 **Protokół cotygodniowy** jest prosty. Codziennie wieczorem - zanim pójdziesz spać - oceń trzy rzeczy. Maksymalna intensywność emocji dzisiaj na skali od jeden do dziesięciu. Liczba wybuchów emocjonalnych gdzie straciłeś kontrolę. Co je wywołało - konkretne triggery które możesz nazwać.
 
@@ -93,7 +93,7 @@ Bez śledzenia emocji nie zobaczysz wzorców. Z ADHD mózg żyje "tu i teraz" - 
 
 Wzorce które odkryjesz pozwolą Ci projektować życie proaktywnie zamiast reaktywnie. Jeśli wiesz że wieczory są trudne, planujesz lżejsze zadania. Jeśli wiesz że głód wywołuje dysregulację, masz przekąski zawsze przy sobie.
 
-**Narzędzia**: Daylio, Mood Tracker, How We Feel - wszystkie oferują szybki tracking z analizą trendów.
+**Narzędzia**: Daylio, Mood Tracker, How We Feel - wszystkie oferują szybkie śledzenie z analizą trendów.
 
 ### 2. Zarządzanie RSD
 
@@ -235,7 +235,7 @@ Przykłady **rozsądnych akomodacji** w pracy:
 |--------|-----------|--------------|
 | **Komunikacja** | Zadania pisemnie (email/Slack), nie ustnie | Kompensuje deficyty pamięci roboczej |
 | **Środowisko** | Ciche biuro lub słuchawki ANC | Redukcja dystraktorów zwiększa skupienie |
-| **Harmonogram** | Elastyczne godziny pracy | Możliwość pracy w peak focus hours |
+| **Harmonogram** | Elastyczne godziny pracy | Możliwość pracy w godzinach szczytowej koncentracji |
 | **Spotkania** | Agenda wysłana 24h wcześniej | Czas na przygotowanie, mniejszy anxiety |
 | **Deadlines** | Check-iny w połowie projektu | Zapobiega prokrastynacji do ostatniej chwili |
 
@@ -471,7 +471,7 @@ Zauważyłem, że gdy dostaję zadania pisemnie – przez Slack czy email – mo
 
 ### Tydzień 1: Samopoznanie Emocjonalne
 
-- [ ] **Rozpocznij tracking emocjonalny** (Daylio / Mood Tracker): codziennie wieczorem oceń intensywność emocji (1-10) i triggery
+- [ ] **Rozpocznij śledzenie emocjonalne** (Daylio / Mood Tracker): codziennie wieczorem oceń intensywność emocji (jeden do dziesięciu) i triggery
 - [ ] **Stwórz Mapę RSD**: Lista 10 sytuacji, które wywołują u ciebie RSD + fact-check dla każdej
 - [ ] **Ćwicz STOP technique**: Użyj jej przynajmniej 1x dziennie, nawet przy małej emocji (trening)
 
@@ -495,7 +495,7 @@ Zauważyłem, że gdy dostaję zadania pisemnie – przez Slack czy email – mo
 
 ### Długoterminowo
 
-- [ ] **Miesięczny review emocji**: Co miesiąc przeglądaj tracking – jakie są wzorce? Triggery? Co pomaga?
+- [ ] **Miesięczny przegląd emocji**: Co miesiąc przeglądaj śledzenie – jakie są wzorce? Triggery? Co pomaga?
 - [ ] **Quarterly relationship check-in** (co 3 miesiące): "Jak się czujesz w naszym związku? Co działa? Co moglibyśmy poprawić?"
 - [ ] **Roczna analiza przyjaźni**: Czy utrzymuję relacje, na których mi zależy? Komu powinienem/powinnam się odezwać?
 
@@ -503,8 +503,8 @@ Zauważyłem, że gdy dostaję zadania pisemnie – przez Slack czy email – mo
 
 ### Aplikacje
 
-**Tracking Emocjonalny:**
-- **Daylio** (iOS/Android) – Szybki mood tracking z ikonkami
+**Śledzenie emocji:**
+- **Daylio** (iOS/Android) – Szybkie śledzenie nastroju z ikonkami
 - **How We Feel** (iOS/Android) – Opracowana przez naukowców, pomaga nazywać emocje
 - **Reflectly** (iOS/Android) – Dziennik z AI, pomaga zrozumieć wzorce
 

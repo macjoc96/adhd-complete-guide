@@ -165,7 +165,7 @@ Większość działań niepożądanych jest **zarządzalna** – nie wymagają o
 
 **Argumenty PRZECIW:**
 - ADHD nie znika w weekendy – objawy wracają (problemy w relacjach, domowych obowiązkach)
-- Ryzyko "rebound" (nasilenie objawów po odstawieniu)
+- Ryzyko efektu odbicia (nasilenie objawów po odstawieniu)
 - Dla leków niestymulujących (atomoxetyna, guanfacyna) – stałe stężenie jest kluczowe, przerwy mogą zmniejszyć skuteczność
 
 **Rekomendacja:**

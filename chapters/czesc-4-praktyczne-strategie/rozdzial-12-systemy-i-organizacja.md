@@ -150,7 +150,7 @@ Czterdzieści siedem zakładek w przeglądarce, dwadzieścia trzy aplikacje otwa
 
 Zacznij od **OneTab** - rozszerzenie do Chrome i Firefox które jednym kliknięciem archiwizuje wszystkie otwarte zakładki w jedną prostą listę. Możesz wrócić do nich później, ale teraz nie rozpraszają. Czyści ekran mentalny natychmiast.
 
-Włącz **Tryb Focus** na macOS albo Focus Assist na Windows. Blokuje notyfikacje podczas pracy - tylko wybrani ludzie (partner, szef w nagłym wypadku) mogą przerwać. Reszta czeka. Świat nie się nie zawali jeśli nie odpowiesz na wiadomość przez godzinę.
+Włącz **Tryb skupienia** na macOS albo Asystenta skupienia na Windows. Blokuje notyfikacje podczas pracy - tylko wybrani ludzie (partner, szef w nagłym wypadku) mogą przerwać. Reszta czeka. Świat nie się nie zawali jeśli nie odpowiesz na wiadomość przez godzinę.
 
 Użyj **blokerów stron** jak Freedom, Cold Turkey czy StayFocusd - blokują rozpraszające strony (social media, news, YouTube) podczas zaplanowanych bloków pracy. To nie kwestia siły woli - to fizyczna bariera. Nie możesz pójść na Twittera bo strona jest zablokowana. Koniec dyskusji.
 

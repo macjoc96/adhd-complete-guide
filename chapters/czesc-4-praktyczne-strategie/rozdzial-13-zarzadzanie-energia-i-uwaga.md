@@ -101,9 +101,9 @@ Dlaczego natura i spacer są najlepsze? Poza regeneracją uwagi, ruch fizyczny b
 
 #### C. **Digital Detox Breaks**
 
-Ekrany dostarczają constant stimulation która prowadzi do mental fatigue. Jeśli pracujesz przez osiem godzin na komputerze, przerwy spędzone scrollując telefon nie regenerują - pogłębiają wyczerpanie.
+Ekrany dostarczają ciągłej stymulacji która prowadzi do zmęczenia umysłowego. Jeśli pracujesz przez osiem godzin na komputerze, przerwy spędzone scrollując telefon nie regenerują - pogłębiają wyczerpanie.
 
-W przerwie zostaw telefon i laptop. Wyjdź na spacer bez urządzeń - niech mózg doświadczy rzeczywistości bez ekranu. Trzy minuty medytacji czy mindfulness - breathing space gdzie tylko oddychasz i obserwujesz. Albo rozgadaj się z kimś twarzą w twarz - social connection bezpośrednio stymuluje dopaminę i daje regenerację której ekrany nie dadzą.
+W przerwie zostaw telefon i laptop. Wyjdź na spacer bez urządzeń - niech mózg doświadczy rzeczywistości bez ekranu. Trzy minuty medytacji czy przestrzeni oddechowej uważności gdzie tylko oddychasz i obserwujesz. Albo rozgadaj się z kimś twarzą w twarz - bezpośrednia więź społeczna stymuluje dopaminę i daje regenerację której ekrany nie dadzą.
 
 ### 3. Context Switching – Największy Wróg Produktywności w ADHD
 
@@ -121,7 +121,7 @@ Konkretne przykłady: e-maile dwa razy dziennie - dziesiąta i szesnasta - międ
 
 Multitasking to iluzja, mit, kłamstwo którego wszyscy chcemy wierzyć. Mózg nie robi wielu rzeczy jednocześnie. Szybko przełącza się między zadaniami tracąc energię przy każdym przełączeniu. W ADHD ta strata jest jeszcze większa.
 
-Zasada single-taskingu brzmi prosto: otwórz JEDNO zadanie. Ukryj wszystkie inne aplikacje - pełny ekran dla dokumentu nad którym pracujesz albo kodu który piszesz. Wyłącz notyfikacje totalnie - telefon w trybie "nie przeszkadzać", komputer w trybie Focus, zero dźwięków, zero wyskakujących okienek. Pracuj na tym jednym zadaniu przez dwadzieścia pięć do pięćdziesięciu minut Pomodoro. Tylko to zadanie istnieje w tym czasie.
+Zasada single-taskingu brzmi prosto: otwórz JEDNO zadanie. Ukryj wszystkie inne aplikacje - pełny ekran dla dokumentu nad którym pracujesz albo kodu który piszesz. Wyłącz notyfikacje totalnie - telefon w trybie "nie przeszkadzać", komputer w trybie skupienia, zero dźwięków, zero wyskakujących okienek. Pracuj na tym jednym zadaniu przez dwadzieścia pięć do pięćdziesięciu minut Pomodoro. Tylko to zadanie istnieje w tym czasie.
 
 #### C. **Transition Rituals (Rytuały Przejścia)**
 
@@ -181,7 +181,7 @@ Cztery warunki flow brzmią pięknie w teorii. W praktyce, szczególnie w ADHD, 
 
 **Strukturyzuj feedback.** Stwórz checklist gdzie każdy ukończony krok dostaje "✓" - wizualny feedback daje zastrzyk dopaminy i pokazuje postęp. Użyj timera który widzisz - po dziesięciu minutach patrzysz i myślisz "dziesięć minut minęło, jestem na dobrej drodze". Feedback nie musi być doskonały, tylko natychmiastowy i widoczny.
 
-**Minimalizuj rozpraszacze totalnie.** Telefon idzie do innego pokoju albo do szuflady - nie na biurko w trybie cichym, nie odwrócony ekranem w dół. Poza zasięgiem wzroku i ręki. Notyfikacje wyłączone kompletnie - Focus mode na komputerze, "nie przeszkadzać" na wszystkim. Jeśli ludzie mogą Cię przerwać, zamknij drzwi. Załóż słuchawki - nawet bez muzyki, to sygnał wizualny "nie przeszkadzaj".
+**Minimalizuj rozpraszacze totalnie.** Telefon idzie do innego pokoju albo do szuflady - nie na biurko w trybie cichym, nie odwrócony ekranem w dół. Poza zasięgiem wzroku i ręki. Notyfikacje wyłączone kompletnie - tryb skupienia na komputerze, "nie przeszkadzać" na wszystkim. Jeśli ludzie mogą Cię przerwać, zamknij drzwi. Załóż słuchawki - nawet bez muzyki, to sygnał wizualny "nie przeszkadzaj".
 
 **Wybierz zadanie które Cię interesuje.** Flow jest łatwiejszy gdy zadanie jest intrinsecznie pasjonujące. Jeśli masz wybór, zacznij od tego co Cię kręci. Jeśli zadanie jest nudne ale konieczne, spróbuj "gamifikacji" - wyobraź że to gra, ustaw challenge ("najszybciej jak potrafię"), nagradzaj się po ukończeniu ("skończę i pójdę na ulubioną kawę"). Czasem wystarczy zmiana perspektywy żeby nudne zadanie stało się interesujące.
 
@@ -269,10 +269,10 @@ Ania, 27-letnia projektantka w open office, była rozpraszana przez każdy dźwi
 
 ## Zasoby
 
-### Aplikacje Energy/Mood Tracking
+### Aplikacje do śledzenia energii i nastroju
 
-- **Daylio:** Mood tracker z custom tags (energia, produktywność)
-- **Bearable:** Health/symptom tracker (energia, uwaga, sen, dieta)
+- **Daylio:** Aplikacja do śledzenia nastroju z własnymi tagami (energia, produktywność)
+- **Bearable:** Aplikacja do śledzenia zdrowia i objawów (energia, uwaga, sen, dieta)
 - **Google Sheets/Excel:** Prosty arkusz (godzina | energia 1-10 | notatki)
 
 ### Narzędzia Do Przerw
@@ -285,7 +285,7 @@ Ania, 27-letnia projektantka w open office, była rozpraszana przez każdy dźwi
 
 - **Noise-cancelling headphones:** Bose QC45, Sony WH-1000XM5, AirPods Pro
 - **White/pink noise:** Noisli, myNoise, Rainy Mood
-- **Focus music:** brain.fm (muzyka oparta na neuroscience), Focus@Will, lo-fi hip-hop (Spotify/YouTube)
+- **Muzyka do koncentracji:** brain.fm (muzyka oparta na neuroscience), Focus@Will, lo-fi hip-hop (Spotify/YouTube)
 
 ### Książki
 

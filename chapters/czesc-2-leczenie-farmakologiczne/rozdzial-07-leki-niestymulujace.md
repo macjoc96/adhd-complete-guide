@@ -31,8 +31,8 @@ Atomoxetina (nazwa handlowa: Strattera) to pierwszy i jedyny lek niestymulujący
 - **Kluczowa różnica vs. stymulujące:** Pełna skuteczność rozwija się stopniowo – pierwsze efekty po 2-4 tygodniach, maksymalne po 6-12 tygodniach
 
 **Skuteczność:**
-- Meta-analizy pokazują średni efekt terapeutyczny (effect size) d=0.64-0.73 dla dzieci i adolescentów
-- Dla dorosłych effect size d=0.45-0.58
+- Meta-analizy pokazują średni efekt terapeutyczny (wielkość efektu) d=0.64-0.73 dla dzieci i adolescentów
+- Dla dorosłych wielkość efektu d=0.45-0.58
 - Mniej skuteczna niż leki stymulujące (d=0.78), ale wciąż klinicznie istotna
 - 40-70% pacjentów osiąga znaczącą poprawę (≥25% redukcja objawów na skalach ADHD)
 
@@ -103,7 +103,7 @@ Bupropion (Wellbutrin, Zyban) to lek antydepresyjny, który znalazł zastosowani
 **Wenlafaksyna i duloksetyna (SNRI):**
 - Inhibitory zwrotnego wychwytu serotoniny i noradrenaliny
 - Sporadycznie stosowane w ADHD, szczególnie przy współwystępującej depresji/lęku
-- Dowody naukowe ograniczone, effect size niski (d=0.20-0.40)
+- Dowody naukowe ograniczone, wielkość efektu niska (d=0.20-0.40)
 
 **Modafinil/Armodafinil:**
 - Leki stosowane w narkolepsji, podwyższają czuwanie
@@ -174,7 +174,7 @@ Bupropion (Wellbutrin, Zyban) to lek antydepresyjny, który znalazł zastosowani
 - **Ważne:** Senność jest silniejsza na początku, często zmniejsza się po 2-4 tygodniach
 
 **Szczególne uwagi:**
-- Nie przerywaj nagle! Nagłe odstawienie może spowodować "rebound" – gwałtowny wzrost ciśnienia i puls
+- Nie przerywaj nagle! Nagłe odstawienie może spowodować efekt odbicia – gwałtowny wzrost ciśnienia i puls
 - Odstawienie stopniowe: zmniejszaj dawkę o 0.5-1 mg guanfacyny (lub 0.1 mg klonidyny) co 3-7 dni
 - Senność: Przyjmuj wieczorem, aby wykorzystać efekt sedatywny na korzyść snu
 
@@ -223,7 +223,7 @@ Paweł, 41-letni menedżer, przez lata zmagał się z nierozpoznanym ADHD i okre
 
 1. **Leki niestymulujące to ważna alternatywa dla stymulantów** – szczególnie przy współwystępującym lęku, tikach, problemach ze snem, historii uzależnień, lub nietolerancji stymulantów.
 
-2. **Atomoxetina to jedyny oficjalnie zatwierdzony lek niestymulujący do ADHD** – działa poprzez selektywne hamowanie zwrotnego wychwytu noradrenaliny, wymaga 6-12 tygodni na pełny efekt, effect size d=0.64 (dzieci) i d=0.50 (dorośli).
+2. **Atomoxetina to jedyny oficjalnie zatwierdzony lek niestymulujący do ADHD** – działa poprzez selektywne hamowanie zwrotnego wychwytu noradrenaliny, wymaga sześć do dwunastu tygodni na pełny efekt, wielkość efektu d=0.64 (dzieci) i d=0.50 (dorośli).
 
 3. **Agoniści alfa-2 (guanfacyna, klonidyna) są szczególnie skuteczni w redukcji hiperaktywności i impulsywności** – często stosowane jako terapia dodatkowa do stymulantów lub jako pierwsza linia przy współwystępujących tikach czy agresji.
 

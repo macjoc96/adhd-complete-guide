@@ -113,7 +113,7 @@ To rozdział o czymś czego nie mówią filmy o ADHD i uproszczone artykuły: AD
   - Stymulujące mogą **nasilać lęk** u niektórych (ostrożność!)
   - Atomoxetine (niestymulujący) może być lepszy przy współwystępującym lęku
   - SSRI lub buspirone dla lęku
-- **Terapia**: CBT dla lęku + strategie ADHD, mindfulness (Rozdz. 11)
+- **Terapia**: CBT dla lęku + strategie ADHD, praktyki uważności (Rozdz. 11)
 
 **Paradoks**: Niektóre osoby z ADHD używają lęku jako "motywator" - deadline anxiety jako sposób na przezwyciężenie trudności z inicjacją. Gdy lęk jest leczony, mogą mieć jeszcze większe trudności z wykonaniem zadań. Wymaga dostosowania strategii.
 
@@ -173,9 +173,9 @@ Objawy nakładające się:
 - **Zmniejszona potrzeba snu**: Typowa dla manii (czuje się wypoczęty po 2-3h snu), NIE dla ADHD
 - **Grandosity**: Zawyżona samoocena w manii, w ADHD często niska (chroniczne porażki)
 
-**Współwystępowanie vs misdiagnosis**:
+**Współwystępowanie w przeciwieństwie do błędnej diagnozy**:
 - Część osób diagnozowanych z bipolar to faktycznie ADHD z dysregulacją emocjonalną
-- Ale **prawdziwe współwystępowanie istnieje** (~10-20%)
+- Ale **prawdziwe współwystępowanie istnieje** (około dziesięć do dwadzieścia procent)
 
 **Implikacje terapeutyczne**:
 - **Ostrożność ze stymulującymi**: Mogą wywołać manię/hipomanię!
@@ -214,7 +214,7 @@ Objawy nakładające się:
 
 ### 6. Uzależnienia i używanie substancji (Substance Use Disorders)
 
-**Częstość**: **15-25%** dorosłych z ADHD ma SUD (vs ~10% populacji ogólnej)
+**Częstość**: **Piętnaście do dwudziestu pięciu procent** dorosłych z ADHD ma SUD (wobec około dziesięciu procent populacji ogólnej)
 
 **Substancje** (w kolejności częstości):
 1. **Nikotyna** (palenie tytoniu) - najczęstsze, ~40% osób z ADHD pali
@@ -341,8 +341,8 @@ Błędne koło: depresja pogarsza funkcje wykonawcze → gorsze objawy ADHD → 
 ### Krok 1: Samo-ocena współwystępujących zaburzeń
 
 **Narzędzia**:
-- **PHQ-9** (Patient Health Questionnaire) - screening depresji
-- **GAD-7** (Generalized Anxiety Disorder) - screening lęku
+- **PHQ-9** (Patient Health Questionnaire) - kwestionariusz przesiewowy depresji
+- **GAD-7** (Generalized Anxiety Disorder) - kwestionariusz przesiewowy lęku
 - **Sleep diary** - tygodniowy dziennik snu
 
 **Jeśli podejrzewasz**: Skonsultuj z psychiatrą/psychologiem.

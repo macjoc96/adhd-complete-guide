@@ -193,7 +193,7 @@ Ania, 35-letnia freelancerka, dostała projekt: "Zaprojektuj stronę e-commerce,
 - **Externalizacja pamięci roboczej:** Todoist, Notion, Google Keep, voice memos
 - **Timery/czas:** Forest, Pomodoro Timer, Time Timer (wizualny timer)
 - **Planowanie:** Trello, Asana (dzielenie projektów na małe zadania)
-- **Regulacja emocji:** Headspace, Calm (mindfulness)
+- **Regulacja emocji:** Headspace, Calm (praktyki uważności)
 
 ### Artykuły Naukowe
 
