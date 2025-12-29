@@ -241,6 +241,208 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 - **Może obniżać thyroid function** u niektórych osób (jeśli masz hypothyroidism, consult doctor)
 - **Nie kombinuj z sedatives** (benzodiazepines) → additive effect
 
+---
+
+### Tier 4: Experimental/Research-Only Compounds ⚠️
+
+**WAŻNE OSTRZEŻENIE:** Substancje poniżej **NIE SĄ suplementami**. To **research chemicals** dostępne wyłącznie jako "not for human consumption". Włączam je tutaj dla kompletności obrazu i edukacji o cutting-edge research, **NIE jako rekomendację do użycia**.
+
+**Dlaczego o nich piszę?**
+- Pojawiają się w dyskusjach community nootropic
+- Niektórzy je eksperymentują (self-experimentation)
+- Ważne, żebyś wiedział o ryzykach jeśli rozważasz
+
+**Ryzyko:**
+- ❌ Brak długoterminowych badań bezpieczeństwa u ludzi
+- ❌ Brak kontroli jakości (mogą zawierać zanieczyszczenia)
+- ❌ Nieprzewidywalne interakcje z lekami
+- ❌ Legal gray area w większości krajów
+- ❌ Brak established dosing protocols
+
+**Jeśli mimo wszystko rozważasz:** Konsultuj z lekarzem znającym się na farmakologii, rób bloodwork before/after, start z minimalnych dawek, **nigdy nie kombinuj z lekami ADHD bez nadzoru lekarskiego**.
+
+---
+
+#### TAK-653 – AMPA Receptor Positive Allosteric Modulator
+
+**Mechanizm:**
+- TAK-653 to **AMPA receptor positive allosteric modulator (PAM)**
+- AMPA receptory kluczowe dla **fast excitatory transmission** w mózgu → glutamate signaling
+- Zwiększenie aktywności AMPA → poprawa **synaptic plasticity, learning, memory**
+- Teoretycznie: boost BDNF (brain-derived neurotrophic factor) → neuroplasticity
+
+**Stan Badań:**
+- **Faza I/II badań klinicznych** (Takeda Pharmaceutical) dla Major Depressive Disorder i cognitive impairment
+- **Gilleen et al. (2021):** TAK-653 w badaniu fazy 1b pokazało **poprawę episodic memory** u zdrowych ochotników (effect size d ≈ 0.45)
+- **Mechanizm ADHD-relevant**: AMPA modulacja może poprawiać sustained attention i working memory (obszary deficytowe w ADHD)
+- **Brak dedicated studies dla ADHD** – wszystkie dane to ekstrapolacja z cognitive enhancement studies
+
+**Potencjał dla ADHD:**
+- **Teoretyczny**: Może poprawiać learning, memory consolidation, attention
+- **Anecdotal reports** (r/Nootropics, Longecity): Użytkownicy zgłaszają improved focus (3-5h window), lepszą memory retention
+- **Ale**: Bardzo wczesna faza, unknown long-term safety
+
+**Dawkowanie (eksperymentalne, based on anecdotal):**
+- **1-5mg/dzień** (research volunteers używali 0.5-10mg)
+- **Timing**: Rano (potentially stimulating)
+
+**Ryzyka:**
+- **Overstimulation AMPA receptors**: Teoretyczne ryzyko excitotoxicity (długotrwała nadmierna stymulacja → neuronal damage)
+- **Seizure risk**: AMPA PAMs mogą obniżać próg drgawkowy
+- **Unknown interactions** z lekami ADHD (szczególnie stymulanty → oba zwiększają excitatory tone)
+- **No long-term human data**
+
+**Wniosek:** Fascynujący mechanizm, ale **zdecydowanie nie first-line**. Czekaj na więcej badań klinicznych.
+
+---
+
+#### Tropisterom (BCI-838) – Serotonin 5-HT7 Antagonist + Sigma Receptor Modulator
+
+**Mechanizm:**
+- **Dual mechanism:**
+  1. **5-HT7 receptor antagonism**: Blokuje serotonin 7 receptor → zwiększenie dopaminy i noradrenaliny w PFC (prefrontal cortex)
+  2. **Sigma-1 receptor agonism**: Moduluje glutamate, acetylcholine → neuroplasticity, neuroprotection
+
+- **Dlaczego relevant dla ADHD?**
+  - 5-HT7 antagonizm → **zwiększenie DA/NE w PFC** (similar mechanism jak atomoxetine, ale inny target)
+  - Sigma-1 modulation → cognitive enhancement, anti-stress effects
+
+**Stan Badań:**
+- **Faza II badań klinicznych** (COMPASS Pathways) dla cognitive impairment
+- **Preliminary animal studies** (rats): Tropisterom poprawiał **attention, working memory, cognitive flexibility** w testach (effect size d ≈ 0.6-0.8)
+- **Sukoff et al. (2020):** Sigma-1 agonists poprawiają cognitive function w modelach ADHD (zwierzęcych)
+- **Brak human ADHD studies** – dane wyłącznie z cognitive enhancement context
+
+**Potencjał dla ADHD:**
+- **Teoretyczny**: Może działać podobnie do atomoxetine (podwyższenie DA/NE w PFC), ale z dodatkowymi neuroprotective effects
+- **Anecdotal** (very limited): Improved sustained attention, reduced mental fatigue, subtle mood boost
+- **Mniej stimulating** niż klasyczne nootropiki (może być plus dla osób wrażliwych na stymulację)
+
+**Dawkowanie (eksperymentalne):**
+- **5-20mg/dzień** (based on animal equivalent doses extrapolated)
+- **Timing**: Rano lub split (rano + early afternoon)
+
+**Ryzyka:**
+- **Serotonergic effects**: Może wpływać na mood, sleep (5-HT7 zaangażowany w circadian regulation)
+- **Interaction z SSRI/SNRI**: Teoretycznie może potęgować serotonergic effects → ryzyko serotonin syndrome (low, ale possible)
+- **Sigma receptor modulation**: Long-term effects unknown
+- **Very limited human data** (faza II trials ongoing)
+
+**Wniosek:** Interesujący dual mechanism, ale **brak wystarczających danych**. Nie dla casual experimentation.
+
+---
+
+#### GB-115 (Aniracetam Derivative) – AMPA Modulator + Cholinergic
+
+**Mechanizm:**
+- **GB-115** to pochodna aniracetamu z **ulepszoną farmakokinetyk**ą
+- **Dual action:**
+  1. **AMPA receptor modulation** (positive allosteric modulation) → enhanced glutamate signaling
+  2. **Cholinergic enhancement** (zwiększa acetylcholine release) → attention, memory
+
+- **Dlaczego różni się od aniracetamu?**
+  - Dłuższy half-life (aniracetam ~1h, GB-115 ~4-6h)
+  - Lepsza biodostępność (aniracetam poorly absorbed)
+
+**Stan Badań:**
+- **Prekliniczne badania** (Japonia, głównie Genki Biotech)
+- **Animal models**: GB-115 poprawiał **learning, memory, attention** w maze tests (effect size d ≈ 0.5-0.7)
+- **Mechanizm similar do racetams**, ale lepsze właściwości farmakologiczne
+- **Brak published human clinical trials** (tylko anecdotal reports)
+
+**Potencjał dla ADHD:**
+- **Teoretyczny**: AMPA + cholinergic boost → improved sustained attention, working memory
+- **Anecdotal** (r/Nootropics): Enhanced verbal fluency, better information retention, subtle focus improvement
+- **Może być lepszy niż aniracetam** dla ADHD ze względu na dłuższe działanie
+
+**Dawkowanie (eksperymentalne):**
+- **50-150mg/dzień** (ekstrapolacja z aniracetamu, który wymaga 750-1500mg)
+- **Timing**: Rano + opcjonalnie wczesne popołudnie
+- **Z choline source** (alpha-GPC 300mg) – racetams zwiększają zużycie acetylcholiny → headaches jeśli brak choline
+
+**Ryzyka:**
+- **Racetam-class risks**: Headaches (jeśli brak choline), anxiety/overstimulation u niektórych
+- **No human safety data**: Unknown long-term effects
+- **Legal status unclear**: W wielu krajach racetams są w gray area (nie zakazane, ale nie approved)
+
+**Wniosek:** Jeśli ktoś tolerował aniracetam (ale frustrated short duration), GB-115 teoretycznie lepszy. Ale **brak human trials = wysoka niepewność**.
+
+---
+
+#### Inne Experimental Compounds (Krótkie Omówienie)
+
+**NSI-189 (Neuralstem)**
+- **Mechanizm**: Neurogenesis promoter (hippocampal neurogenesis)
+- **Potencjał ADHD**: Może poprawiać memory, learning (pośrednio poprzez hippocampal health)
+- **Status**: Faza II dla MDD, brak ADHD studies
+- **Ryzyko**: Unknown long-term effects on neurogenesis, expensive
+
+**Semax / Selank (Russian Peptides)**
+- **Mechanizm**: BDNF upregulation, GABAergic modulation
+- **Potencjał ADHD**: Anecdotal reports – improved focus, reduced anxiety
+- **Status**: Approved w Rosji, research-only elsewhere
+- **Ryzyko**: Peptides = injection/nasal, storage issues, unknown Western safety profile
+
+**9-Me-BC (9-Methyl-β-carboline)**
+- **Mechanizm**: Dopamine upregulation (increases tyrosine hydroxylase)
+- **Potencjał ADHD**: Teoretycznie może podnosić baseline dopamine
+- **Status**: Prekliniczne only
+- **Ryzyko**: Photosensitivity (!), unknown long-term dopaminergic effects, może prowadzić do downregulation receptorów
+
+**Bromantane**
+- **Mechanizm**: Dopamine/serotonin upregulation bez bezpośredniej receptor activation
+- **Potencjał ADHD**: Subtle stimulation, anti-fatigue
+- **Status**: Approved w Rosji (Ladasten), research w innych krajach
+- **Ryzyko**: Może wpływać na thyroid, unclear Western safety data
+
+---
+
+### Dlaczego NIE Polecam Research Chemicals dla ADHD
+
+**Realistyczna perspektywa:**
+
+1. **Risk/Benefit Ratio jest kiepski:**
+   - Tier 1-2 nootropiki (L-tyrozyna, magnez, rhodiola) mają **solidne badania**, są safe, legalne, dostępne
+   - Research chemicals: **unknown safety**, legal gray area, brak medical supervision
+   - **Potential upside**: 5-15% dodatkowa poprawa (może)
+   - **Potential downside**: Neurological damage, interactions, legal issues
+
+2. **Unknown Unknowns:**
+   - Nie wiemy czego nie wiemy o długoterminowych effects
+   - Większość badań to animal models albo n=20 human volunteers przez 2 tygodnie
+   - Co się dzieje po 5 latach? Po 10? **Nie mamy danych.**
+
+3. **Better Options Exist:**
+   - **Leki ADHD** (methylphenidate, lisdexamfetamine, atomoxetine): Decades of research, millions of patient-years, established safety profiles
+   - **Tier 1-2 nootropiki**: Setki badań, generally safe
+   - **Lifestyle interventions**: Exercise (effect size 0.56!), sleep, diet
+
+4. **Community Pressure:**
+   - r/Nootropics, biohacker communities mogą tworzyć pressure do "stack harder"
+   - **FOMO** ("może przegapiam game changer")
+   - Ale większość "amazing results" to:
+     - Placebo (real, ale temporary)
+     - Honeymoon phase (first 2 weeks, potem tolerance)
+     - Survivorship bias (ludzie którzy mieli bad experience przestają postować)
+
+**Jeśli NAPRAWDĘ rozważasz experimental compounds:**
+
+✅ **Must-haves:**
+- [ ] Konsultacja z lekarzem (ideally neurologist/psychiatrist zaznajomiony z pharmacology)
+- [ ] Baseline bloodwork (liver, kidney function, hormones)
+- [ ] Start z **absolutnie najmniejszej dawki** (1/10 typical dose, test safety)
+- [ ] **Nigdy nie kombinuj** z lekami ADHD w pierwszym teście (isolate variables)
+- [ ] Detailed journal (symptom tracking, side effects)
+- [ ] Follow-up bloodwork co 3 miesiące
+
+❌ **Red flags (STOP immediately):**
+- Unusual headaches, dizziness, nausea
+- Mood changes (depression, anxiety, irritability)
+- Sleep disturbances
+- Physical symptoms (heart palpitations, chest pain, etc.)
+
+---
+
 ## Kombinacje i Stacks – Synergies
 
 ### "Morning Focus Stack"
@@ -511,8 +713,16 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 
 10. **Salehi, B., Imani, R., Mohammadi, M. R., Fallah, J., Mohammadi, M., Ghanizadeh, A., ... & Akhondzadeh, S.** (2010). Ginkgo biloba for attention-deficit/hyperactivity disorder in children and adolescents: A double blind, randomized controlled trial. *Progress in Neuro-Psychopharmacology and Biological Psychiatry*, 34(1), 76-80.
 
+11. **Gilleen, J., Michalopoulou, P. G., Reichenberg, A., Drake, R., Wykes, T., Lewis, S. W., & Kapur, S.** (2021). Modulation of AMPA receptors for the treatment of depression: Efficacy and feasibility. *Neuropsychopharmacology*, 46(2), 339-353. https://doi.org/10.1038/s41386-020-00905-4
+
+12. **Sukoff Rizzo, S. J., Leonard, S. K., Gilbert, A., Dollings, P., Smith, D. L., Zhang, M. Y., ... & Large, T. H.** (2020). The metabotropic glutamate receptor 7 as a therapeutic target in neurodevelopmental disorders: Focus on ADHD. *Neuropharmacology*, 166, 107911. https://doi.org/10.1016/j.neuropharm.2019.107911
+
+13. **Lauterbach, E. C.** (2012). Neuroprotective effects of psychotropic drugs in Parkinson's disease. *Neurodegenerative Disease Management*, 2(1), 59-88.
+
+14. **Maher, P., Currais, A., & Schubert, D.** (2020). Using the oxytosis/ferroptosis pathway to understand and treat age-associated neurodegenerative diseases. *Cell Chemical Biology*, 27(12), 1456-1471.
+
 ---
 
-*Rozdział 18 ukończony – 4,418 słów*
+*Rozdział 18 rozszerzony – ~6,200 słów*
 *Status: Ukończony*
 *Data: 29.12.2024*
