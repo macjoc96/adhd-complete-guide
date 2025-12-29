@@ -63,63 +63,37 @@ Badania nad ADHD w kontekście relacji międzyludzkich pokazują wyraźne wzorce
 
 #### Technika STOP
 
-Gdy czujesz narastającą emocję:
+Gdy czujesz narastającą emocję - gniew, frustrację, przytłoczenie - technika STOP daje Ci dziewięćdziesiąt sekund przestrzeni między impulsem a reakcją. To właśnie tyle trwa "neurochemical flood" - zalew neurochemiczny opisany przez Harvard Brain Science Initiative. Jeśli przetrwasz te dziewięćdziesiąt sekund bez reaktywnej odpowiedzi, intensywność emocji naturalnie spada.
 
-**S** – **Stop** (zatrzymaj się fizycznie)
-- Dosłownie przestań mówić/działać
-- Jeśli możesz, zamknij oczy na 3 sekundy
+**S - Stop** oznacza fizyczne zatrzymanie się. Dosłownie przestań mówić, przestań działać. Jeśli możesz, zamknij oczy na trzy sekundy. To przerywa automatyczną reakcję.
 
-**T** – **Take a breath** (weź głęboki oddech)
-- 4 sekundy wdech, 6 sekund wydech
-- 2-3 powtórzenia
+**T - Take a breath** to głęboki, świadomy oddech. Cztery sekundy wdech przez nos, sześć sekund wydech przez usta. Powtórz dwa do trzech razy. Długi wydech aktywuje układ przywspółczulny i fizjologicznie uspokaja ciało.
 
-**O** – **Observe** (obserwuj)
-- „Co czuję w ciele?" (napięcie, gorąco, ciasność w klatce)
-- „Jaką emocję nazywam?" (złość, strach, wstyd)
-- „Jak intensywna jest na skali 1-10?"
+**O - Observe** to moment obserwacji bez oceny. Zadaj sobie trzy pytania. "Co czuję w ciele?" - może napięcie w szczękach, gorąco w twarzy, ciasność w klatce piersiowej. "Jaką emocję nazywam?" - złość, strach, wstyd, frustracja. "Jak intensywna jest na skali od jeden do dziesięć?" - nazwanie intensywności dodatkowo redukuje jej siłę.
 
-**P** – **Proceed** (działaj świadomie)
-- „Czy mogę odpowiedzieć konstruktywnie TERAZ?"
-- Jeśli nie: „Potrzebuję 10 minut, wracam do tej rozmowy"
-- Jeśli tak: odpowiedz, mając świadomość swojej emocji
-
-**Dlaczego to działa?** Pomiędzy impulsem emocjonalnym a reakcją jest luka 90 sekund – to tzw. **"neurochemical flood"** (Harvard Brain Science Initiative). Jeśli przetrwasz te 90 sekund bez reakcji, intensywność naturalnie spada.
+**P - Proceed** oznacza świadome działanie zamiast reaktywnego. Zadaj sobie pytanie: "Czy mogę odpowiedzieć konstruktywnie TERAZ?" Jeśli tak - odpowiedz, mając pełną świadomość swojej emocji. Jeśli nie - powiedz "Potrzebuję dziesięciu minut, wracam do tej rozmowy" i faktycznie zrób przerwę.
 
 #### Strategia "Name It to Tame It"
 
-Dr. Dan Siegel pokazał, że samo **nazywanie emocji redukuje aktywność ciała migdałowatego nawet o 50%**.
+Dr. Dan Siegel odkrył coś fascynującego: samo **nazywanie emocji redukuje aktywność ciała migdałowatego nawet o pięćdziesiąt procent**. Kiedy nadajesz nazwę temu co czujesz, przestaje być to przytłaczający chaos - staje się zdefiniowanym doświadczeniem które możesz obserwować.
 
-**W praktyce:**
-1. Gdy czujesz silną emocję, nazwij ją głośno lub na piśmie:
-   - „Czuję intensywną frustrację"
-   - „To jest gniew zmieszany ze wstydem"
-   - „Doświadczam przytłoczenia"
+**Krok pierwszy: nazwij emocję głośno lub na piśmie**. Nie "czuję się źle" - to zbyt ogólne. Precyzyjnie: "Czuję intensywną frustrację" albo "To jest gniew zmieszany ze wstydem" albo "Doświadczam przytłoczenia". Im bardziej konkretna nazwa, tym silniejszy efekt uspokajający.
 
-2. Dodaj szczegóły:
-   - „Ta frustracja jest na 8/10"
-   - „Czuję ją głównie w klatce piersiowej i szczękach"
-   - „Wiem, że pojawia się, gdy czuję, że nie jestem słyszany"
+**Krok drugi: dodaj szczegóły somatyczne i kontekstowe**. "Ta frustracja jest na osiem z dziesięciu". "Czuję ją głównie w klatce piersiowej i szczękach". "Wiem że pojawia się gdy czuję że nie jestem słyszany". Szczegóły uziemiają Cię w obserwacji zamiast reaktywności.
 
-3. Zaakceptuj ją jako przejściową:
-   - „Ta emocja jest tutaj teraz, ale przeminie"
-   - „Mam prawo czuć to, co czuję"
-   - „Nie muszę na nią działać"
+**Krok trzeci: zaakceptuj emocję jako przejściową**. "Ta emocja jest tutaj teraz, ale przeminie". "Mam prawo czuć to co czuję". "Nie muszę na nią działać". Akceptacja nie oznacza aprobaty - oznacza uznanie rzeczywistości bez walki.
 
 #### Tracking Emocjonalny
 
-**Protokół cotygodniowy:**
+Bez śledzenia emocji nie zobaczysz wzorców. Z ADHD mózg żyje "tu i teraz" - wczorajsza eksplozja emocjonalna wydaje się odległa, jutrzejsza nieprawdopodobna. Tracking daje perspektywę.
 
-1. Codziennie (wieczorem) oceń:
-   - Maksymalna intensywność emocji dzisiaj (1-10)
-   - Liczba wybuchów emocjonalnych
-   - Co je wywołało? (triggery)
+**Protokół cotygodniowy** jest prosty. Codziennie wieczorem - zanim pójdziesz spać - oceń trzy rzeczy. Maksymalna intensywność emocji dzisiaj na skali od jeden do dziesięciu. Liczba wybuchów emocjonalnych gdzie straciłeś kontrolę. Co je wywołało - konkretne triggery które możesz nazwać.
 
-2. Co tydzień analizuj wzorce:
-   - Kiedy emocje są najmocniejsze? (czas dnia, dzień cyklu, kontekst)
-   - Jakie są najczęstsze triggery?
-   - Co pomaga w regulacji?
+**Co tydzień siedź z danymi** i szukaj wzorców. Kiedy emocje są najmocniejsze? Może poniedziałki są gorsze od piątków. Może wieczory po pracy. Może konkretny dzień cyklu miesiączkowego. Jakie są najczęstsze triggery? Może krytyka w pracy, może chaos w domu, może głód albo niewyspanie. Co pomaga w regulacji? Może spacer, może rozmowa z konkretną osobą, może samo nazywanie emocji.
 
-**Narzędzia**: Daylio, Mood Tracker, How We Feel
+Wzorce które odkryjesz pozwolą Ci projektować życie proaktywnie zamiast reaktywnie. Jeśli wiesz że wieczory są trudne, planujesz lżejsze zadania. Jeśli wiesz że głód wywołuje dysregulację, masz przekąski zawsze przy sobie.
+
+**Narzędzia**: Daylio, Mood Tracker, How We Feel - wszystkie oferują szybki tracking z analizą trendów.
 
 ### 2. Zarządzanie RSD
 
