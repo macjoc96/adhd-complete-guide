@@ -48,91 +48,55 @@ Ale uwaga - to nie jest zaproszenie do zbudowania skomplikowanego, wielowarstwow
 
 #### A. **Jedna Lista Zadań (Nie 5!)**
 
-**Problem:** Masz karteczki samoprzylepne, notatnik, aplikację w telefonie, e-maile oznaczone "do zrobienia", mentalne notatki → chaos, zapominanie.
+Problem który prawdopodobnie znasz aż za dobrze: masz karteczki samoprzylepne przyklejone do monitora, notatnik z listą zadań leżący gdzieś pod stosem papierów, aplikację w telefonie której nie otwierałeś od tygodnia, e-maile oznaczone gwiazdką jako "do zrobienia", i dziesiątki mentalnych notatek "zapamiętam to". Rezultat? Totalny chaos i chroniczne zapominanie o połowie rzeczy które miałeś zrobić.
 
-**Rozwiązanie:** **JEDNO miejsce** dla wszystkich zadań.
+Rozwiązanie jest brutalmente proste, choć trudne do wdrożenia: **JEDNO miejsce dla wszystkich zadań**. Nie pięć. Nie trzy. Jedno. Wszystko co musisz zrobić - od "napisać raport" po "kupić mleko" - ląduje w tym samym miejscu. Bez wyjątków.
 
-**Opcje:**
-- **Cyfrowe:** Todoist, TickTick, Microsoft To Do, Notion
-  - **Zalety:** Przypomnienia, synchronizacja między urządzeniami, łatwe edytowanie
-  - **Wady:** Wymaga otwarcia aplikacji (można zapomnieć)
+Masz dwie główne opcje: cyfrowe i analogowe. **Systemy cyfrowe** - takie jak Todoist, TickTick, Microsoft To Do czy Notion - dają Ci przypomnienia które dzwonią nawet gdy zapomniałeś, synchronizację między telefonem i komputerem, łatwe edytowanie i reorganizowanie zadań. Wadą jest to, że musisz otworzyć aplikację żeby zobaczyć listę - a to oznacza że możesz zapomnieć to zrobić, zwłaszcza w pierwszych tygodniach budowania nawyku.
 
-- **Analogowe:** Bullet Journal, prosty notes
-  - **Zalety:** Fizyczna widoczność, satysfakcja z przekreślania
-  - **Wady:** Brak przypomnień, można zgubić
+**Systemy analogowe** - Bullet Journal czy zwykły notes - leżą fizycznie na Twoim biurku, więc są ciągle widoczne. Jest też coś głęboko satysfakcjonującego w fizycznym przekreślaniu ukończonych zadań - dopaminowa nagroda, która w ADHD jest na wagę złota. Wada? Brak automatycznych przypomnień i możliwość zgubienia notesu, co oznacza katastrofę.
 
-**Reguła złota:** Jeśli nie jest na liście, nie istnieje. Wszystko (nawet "zadzwonić do mamy") idzie na listę.
+Którą opcję wybrać? Tę którą faktycznie będziesz używać. Jeśli jesteś przyklejony do telefonu - cyfrowa. Jeśli potrzebujesz fizycznej namacalności - analogowa. Testuj przez dwa tygodnie, zobacz co działa.
+
+**Reguła złota, bez negocjacji:** Jeśli zadanie nie jest na liście, oficjalnie nie istnieje. Wszystko - nawet trywialne rzeczy jak "zadzwonić do mamy" czy "kupić żarówkę" - musi zostać zapisane. Nie ufaj swojej pamięci roboczej. Ona już wielokrotnie Cię zawiodła.
 
 #### B. **GTD (Getting Things Done) – Uproszczona Wersja dla ADHD**
 
-**GTD (David Allen)** to kompleksowy system produktywności. Pełna wersja jest **zbyt skomplikowana dla ADHD**, ale możesz użyć uproszczonej:
+Getting Things Done, stworzony przez Davida Allena, to jeden z najbardziej znanych systemów produktywności na świecie. Problem? Pełna wersja GTD jest **absurdalnie skomplikowana dla mózgu z ADHD** - dziesiątki kategorii, podkategorii, kontekstów, projektów, "następnych działań". To recepta na porzucenie systemu po trzech dniach. Ale rdzeń GTD - jego fundamentalna filozofia - może być uproszczony do wersji która faktycznie działa w ADHD.
 
-**5 kroków GTD (ADHD-friendly):**
+**Krok pierwszy: Capture (Przechwytuj).** Każda myśl, pomysł czy zadanie które pojawia się w Twojej głowie musi natychmiast - w tej samej sekundzie - trafić do zewnętrznego "Inbox". Aplikacja na telefonie, notes w kieszeni, voice memo nagrane podczas jazdy samochodem. Format nie ma znaczenia. Liczy się jedno: nie trzymaj tego w głowie. Twoja pamięć robocza jest dziurawa jak sito - externalizuj wszystko natychmiast, zanim wyparuje.
 
-1. **Capture (Przechwytuj):**
-   - Każda myśl/pomysł/zadanie → natychmiast do "Inbox" (aplikacja, notes, voice memo)
-   - Nie trzymaj w głowie – externalizuj
+**Krok drugi: Clarify (Wyjaśnij).** Raz dziennie - najlepiej wieczorem, w stałym czasie - przejrzyj swój Inbox. Dla każdego elementu zadaj kluczowe pytanie: "Co to właściwie oznacza? Jaki jest konkretny następny krok?" Przykład: w Inbox masz "Projekt X". To nic nie znaczy - zbyt abstrakcyjne, zbyt wielkie. Przekształć to w konkretne, wykonalne zadanie: "Napisz outline projektu X, trzydzieści minut". Niewyraźne pomysły zamieniaj w precyzyjne działania.
 
-2. **Clarify (Wyjaśnij):**
-   - Raz dziennie (np. wieczorem) przejrzyj Inbox
-   - Dla każdego elementu zadaj pytanie: "Co to właściwie oznacza? Jaki jest następny krok?"
-   - Przykład: "Projekt X" → niewyraźne. Zmień na: "Napisz outline projektu X (30 min)"
+**Krok trzeci: Organize (Organizuj).** Podziel wyjaśnione zadania na **maksymalnie trzy kategorie** - nie więcej, bo więcej oznacza paraliż decyzyjny. "Dziś" to Twoje trzy najważniejsze zadania na dzisiaj (MIT - Most Important Tasks). "Wkrótce" to zadania na ten tydzień. "Kiedyś" to pomysły i rzeczy nieurgentne które może kiedyś zrobisz, może nie, ale warto je zapisać żeby nie kotłowały się w głowie. Trzy kategorie. Nie cztery, nie siedem. Trzy.
 
-3. **Organize (Organizuj):**
-   - Podziel zadania na kategorie:
-     - **Dziś (Today):** 3 najważniejsze (MIT – Most Important Tasks)
-     - **Wkrótce (This Week):** Zadania na ten tydzień
-     - **Kiedyś (Someday/Maybe):** Pomysły, nieurgentne
-   - **Nie rób więcej niż 3 kategorie** – za dużo = paraliż
+**Krok czwarty: Engage (Działaj).** Pracuj nad zadaniami z listy "Dziś". Użyj technik które omówimy niżej - Pomodoro dla zarządzania czasem, time blocking dla konkretnych godzin. To krok gdzie faktycznie robisz rzeczy, a nie tylko planujesz ich robienie.
 
-4. **Engage (Działaj):**
-   - Pracuj nad zadaniami z listy "Dziś"
-   - Użyj Pomodoro/time blocking (patrz niżej)
-
-5. **Review (Przeglądaj):**
-   - **Co tydzień (Weekly Review):** 15-30 min – przenieś zadania z "Wkrótce" do "Dziś", archiwizuj ukończone
-   - **Kluczowe:** Ustaw stały czas (np. niedziela 18:00), alarm przypomni
+**Krok piąty: Review (Przeglądaj).** Co tydzień, w stałym czasie (na przykład niedziela osiemnasta zero zero), poświęć piętnaście do trzydziestu minut na przegląd systemu. Przenieś zadania z "Wkrótce" do "Dziś" na nadchodzący tydzień. Archiwizuj ukończone rzeczy (satysfakcja!). Dostosuj priorytety. Kluczowe: ustaw alarm który Ci przypomni. Bez przypomnienia zapomnisz. To nie pesymizm, to realizm.
 
 #### C. **Bullet Journal (BuJo) – Analogowy System dla Wizualnych Ludzi**
 
-**Bullet Journal (Ryder Carroll)** to elastyczny system notatek + zadań + nawyki w jednym notesie.
+Bullet Journal, stworzony przez Rydera Carrolla, to elastyczny analogowy system łączący notatki, zadania i nawyki w jednym notesie. To dla ludzi którzy myślą wizualnie, którzy potrzebują fizycznego kontaktu z systemem, którzy czują satysfakcję z przekreślania zadań długopisem.
 
-**ADHD-friendly modyfikacja:**
+Dla ADHD potrzebujesz uproszczonej wersji, nie pełnej instagramowej produkcji. Zacznij od **Index (spisu treści)** na pierwszych stronach - numeruj strony i zapisuj gdzie co jest, żeby móc znaleźć rzeczy później gdy pamięć robocza zawiedzie. **Future Log** to jedna lub dwie strony z zadaniami i wydarzeniami na kolejne miesiące - nic szczegółowego, tylko ogólny zarys. **Monthly Log** to każdy miesiąc na dwóch stronach - prosta kalendarzowa siatka plus lista zadań na miesiąc.
 
-- **Index (Spis treści):** Numery stron + indeks na początku (żeby znaleźć rzeczy później)
-- **Future Log:** Zadania/wydarzenia na kolejne miesiące (1-2 strony)
-- **Monthly Log:** Jeden miesiąc na 2 stronach (kalendarz + zadania miesiąca)
-- **Daily Log:** Codzienne zadania (krótko, nie idealnie):
-  - `•` Zadanie
-  - `x` Ukończone
-  - `>` Przeniesione na później
-  - `○` Wydarzenie
-  - `—` Notatka
+Serce systemu to **Daily Log** - codzienne zadania zapisywane prostymi symbolami. Kropka (`•`) oznacza zadanie. Iksik (`x`) oznacza ukończone - przekreślasz to i dostajesz małą dopaminową nagrodę. Strzałka (`>`) oznacza przeniesione na później - nie zrobiłeś dziś, ale nie zapomnisz. Kółko (`○`) to wydarzenie. Myślnik (`—`) to notatka. Tyle. Proste symbole, szybkie zapisywanie, zero zawiłości.
 
-**Zalety dla ADHD:**
-- Fizycznie widoczne (leży na biurku)
-- Satysfakcja z przekreślania (`x`)
-- Elastyczne (nie musisz trzymać się sztywnej struktury)
+Zalety dla ADHD są realne: notes leży fizycznie na biurku, więc jest ciągle widoczny - nie możesz zapomnieć że istnieje jak z aplikacją. Fizyczne przekreślanie ukończonych zadań daje satysfakcję której cyfrowe checkboxy nie dorównują. System jest elastyczny - jeśli dzisiaj nie chce Ci się wypełniać, nie wypełniasz, jutro wracasz. Nie ma perfekcjonizmu, nie ma "zepsułem system".
 
-**Pułapka:** Nie próbuj robić "pięknego" BuJo z Instagram (artystyczne ozdoby, perfekcyjne literki) – to pułapka prokrastynacji. **Funkcja > forma.**
+**Krytyczna pułapka:** Nie próbuj robić "pięknego" Bullet Journala jak na Instagramie - artystycznych ozdobników, perfekcyjnej kaligrafii, kolorowych ozdobników. To pułapka prokrastynacji. Spędzisz dwie godziny rysując banery zamiast zapisywać zadania. **Funkcja zawsze wygrywa nad formą.** Brzydki BuJo który używasz codziennie jest nieskończenie lepszy od pięknego który leży nietknięty.
 
 #### D. **3 Najważniejsze Dzisiaj (MIT – Most Important Tasks)**
 
-**Problem:** Lista zadań ma 47 pozycji → przytłoczenie → paraliż.
+Znasz to uczucie: otwierasz swoją listę zadań, widzisz czterdzieści siedem pozycji i dostajesz natychmiastowego przytłoczenia. Gdzie zacząć? Co jest ważne? Wszystko wydaje się równie pilne lub równie nieważne. Efekt? Paraliż. Scrollujesz listę w górę i w dół, nie możesz się zdecydować, więc w końcu robisz najprostszą rzecz - nic.
 
-**Rozwiązanie:** Każdego ranka wybierz **3 zadania, które MUSZĄ być zrobione dzisiaj**. Reszta to bonus.
+Rozwiązanie jest radykalne w swojej prostocie: **każdego ranka wybierz dokładnie trzy zadania które MUSZĄ być zrobione dzisiaj**. Nie cztery, nie pięć. Trzy. To Twoje MIT - Most Important Tasks. Reszta? To bonus, miłe gdyby się zrobiło, ale nieobowiązkowe.
 
-**Jak wybrać MIT:**
-- Co ma deadline dziś/jutro?
-- Co da największy postęp w ważnym projekcie?
-- Co czeka najdłużej i powoduje stres?
+Jak wybrać te trzy zadania? Zadaj sobie trzy pytania. Pierwsze: co ma deadline dzisiaj lub jutro? Rzeczy które płoną w tej chwili mają priorytet. Drugie: co da największy postęp w ważnym długoterminowym projekcie? Małe codzienne kroki budują wielkie rzeczy. Trzecie: co czeka najdłużej i powoduje Ci największy stres? Czasem warto zrobić coś tylko po to żeby przestało wisieć nad głową jak miecz Damoklesa.
 
-**Przykład:**
-- MIT 1: Wyślij raport do szefa (deadline dziś 17:00)
-- MIT 2: Zadzwoń do klienta X (obiecałem wczoraj)
-- MIT 3: Napisz outline prezentacji (duży projekt, zacznij dziś)
+Przykład konkretnego wyboru MIT: MIT numer jeden to "Wyślij raport do szefa" bo deadline dzisiaj siedemnasta zero zero. MIT numer dwa to "Zadzwoń do klienta X" bo obiecałeś wczoraj i czujesz dyskomfort. MIT numer trzy to "Napisz outline prezentacji" bo to duży projekt który zaczyna się dzisiaj.
 
-Reszta listy? "Nice to have", ale jeśli 3 MIT są zrobione → dzień udany.
+Reszta listy? Czterdzieści cztery pozostałe zadania to "nice to have" - jeśli masz energię i czas po zrobieniu trzech MIT, super, zabierz się za nie. Ale jeśli zrobisz tylko te trzy i nic więcej - **dzień jest udany**. Nie marnuj energii mentalnej czując się winnym za czterdzieści cztery niezrobione rzeczy. Trzy najważniejsze zrobione to zwycięstwo.
 
 ---
 
