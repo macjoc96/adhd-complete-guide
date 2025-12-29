@@ -301,19 +301,19 @@ Wyeliminuj **top allergens/sensitivities**:
 
 ## Kluczowe Wnioski
 
-1. **Mózg ADHD jest ekstremalnie wrażliwy na wahania glukozy**. Śniadanie high-carb → spike → crash może zrujnować produktywność do lunchu. Rozwiązanie: 25-30g proteiny w pierwszym posiłku + low-glycemic carbs.
+1. **Mózg z ADHD jest wyjątkowo wrażliwy na wahania glukozy**. Śniadanie bogate w węglowodany proste (płatki, rogalik) prowadzi do skoku glukozy, potem nagłego spadku, co może zrujnować produktywność do lunchu. Rozwiązanie: 25-30g białka w pierwszym posiłku plus węglowodany o niskim indeksie glikemicznym.
 
-2. **Omega-3 (EPA+DHA) to najbardziej evidence-based suplement dla ADHD**. Meta-analizy pokazują effect size = 0.31 (umiarkowany). Dawkowanie: 1000-2000mg/dzień (EPA+DHA łącznie). Efekt po 3 miesiącach regularnego przyjmowania.
+2. **Omega-3 (EPA+DHA) to suplement z najsilniejszą podstawą naukową dla ADHD**. Meta-analizy pokazują siłę efektu 0.31 (umiarkowany efekt). Dawkowanie: 1000-2000mg dziennie (EPA+DHA łącznie). Pełny efekt po trzech miesiącach regularnego przyjmowania.
 
-3. **Mikrobiom jelitowy to "drugi mózg" – dysbioza koreluje z ADHD**. Diverse fiber (25-35g/dzień) + fermented foods (1 porcja/dzień) + ewentualnie probiotyki. Efekt widoczny po 2-3 miesiącach.
+3. **Mikrobiom jelitowy to "drugi mózg" - dysbioza koreluje z ADHD**. Różnorodny błonnik (25-35g dziennie) plus fermentowana żywność (jedna porcja dziennie) plus ewentualnie probiotyki. Efekt widoczny po dwóch do trzech miesiącach.
 
-4. **Niedobory żelaza, magnezu, cynku są częste w ADHD i pogarszają objawy**. Test krwi → suplementacja przy niedoborze może dać 30-40% poprawę. Nie suplementuj na ślepo (ryzyko overdose).
+4. **Niedobory żelaza, magnezu i cynku są częste w ADHD i pogarszają objawy**. Test krwi, potem suplementacja przy potwierdzonym niedoborze może dać 30-40% poprawę. Nie suplementuj na ślepo - ryzyko przedawkowania.
 
-5. **Sztuczne barwniki i konserwanty pogarszają ADHD u ~8% osób** (szczególnie dzieci). Warto wyeliminować na 4 tygodnie i zaobserwować. Najgorsi: Red 40, Yellow 5/6, sodium benzoate.
+5. **Sztuczne barwniki i konserwanty pogarszają ADHD u około 8% osób** (szczególnie dzieci). Warto wyeliminować na cztery tygodnie i zaobserwować efekty. Najgorsi sprawcy: Red 40, Yellow 5 i 6 (tartrazyna), sodium benzoate.
 
-6. **Gluten sensitivity (NCGS) może wyglądać jak ADHD**. Jeśli masz chroniczny brain fog + digestive issues, rozważ 4-tygodniową eliminację glutenu + reintrodukcję. U niektórych osób efekt jest dramatyczny.
+6. **Nieceliakalna wrażliwość na gluten może wyglądać jak ADHD**. Jeśli masz chroniczną mgłę w głowie plus problemy trawienne, rozważ czterotygodniową eliminację glutenu, potem ponowne wprowadzenie. U niektórych osób efekt jest dramatyczny.
 
-7. **Mediterranean diet = best overall diet dla ADHD brain**. Wysokie omega-3, antyoksydanty, low glycemic index, prebiotyki. Badania pokazują 30% niższą częstość ADHD u dzieci na Med diet vs Western diet.
+7. **Dieta śródziemnomorska to prawdopodobnie najlepsza całościowa dieta dla mózgu z ADHD**. Wysokie omega-3, antyoksydanty, niski indeks glikemiczny, prebiotyki. Badania pokazują 30% niższą częstość ADHD u dzieci na diecie śródziemnomorskiej w porównaniu do zachodniej.
 
 ## Kroki do Działania
 
