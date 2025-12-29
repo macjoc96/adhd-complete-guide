@@ -31,48 +31,23 @@ Neuropsycholog **Russell Barkley** i inni badacze zidentyfikowali kluczowe funkc
 
 #### 1. **Pamięć Robocza (Working Memory)**
 
-**Definicja:** Zdolność do trzymania i manipulowania informacją w umyśle przez krótki okres (sekundy do minut).
+To zdolność do trzymania i manipulowania informacją w umyśle przez krótki okres - sekundy do minut maksymalnie. Mózg utrzymuje informacje "aktywne" w korze przedczołowej, nawet gdy nie są fizycznie obecne przed Tobą. Pamiętasz numer telefonu przez dziesięć sekund, żeby go wpisać. Trzymasz w głowie instrukcję podczas wykonywania zadania. To jak mentalna tablica, na której zapisujesz rzeczy tymczasowo.
 
-**Jak działa:**
-- Mózg trzyma informacje "aktywne" w PFC, nawet gdy nie są fizycznie obecne
-- Przykład: Pamiętasz numer telefonu przez 10 sekund, aby go wpisać; trzymasz w głowie instrukcję podczas wykonywania zadania
+W ADHD ta tablica jest mniejsza i szybko się wymazuje. **Zmniejszona pojemność** oznacza, że trudniej utrzymać wiele informacji jednocześnie - kiedy neurotypowa osoba może żonglować pięcioma elementami, Ty możesz utrzymać trzy, może cztery. **Szybsze "wyblakiwanie"** informacji to dramat: zapominasz co miałeś zrobić dosłownie po pięciu sekundach. Idziesz po coś do drugiego pokoju i w połowie drogi... znika. Co to było? **Problemy z manipulacją informacją** utrudniają robienie matematyki w pamięci, rozumienie złożonych instrukcji z wieloma krokami, śledzenie złożonej rozmowy.
 
-**Jak ADHD to zaburza:**
-- Zmniejszona pojemność pamięci roboczej – trudniej utrzymać wiele informacji jednocześnie
-- Szybsze "wyblakiwanie" informacji – zapominasz, co miałeś zrobić po 5 sekundach
-- Problemy z manipulacją informacją – trudno robić matematykę w pamięci, rozumieć złożone instrukcje
+Jak to wygląda w życiu? Klasyczny przykład: idziesz do kuchni po wodę. Po drodze widzisz brudny talerz, zanosisz go do zlewu. Przy zlewie widzisz śmieci, wynosisz je. Wracasz do pokoju i... stoisz zdezorientowany, bo kompletnie zapomniałeś po co w ogóle wstałeś. Albo czytasz książkę - dochodzisz do końca strony i nagle zdajesz sobie sprawę, że nic nie pamiętasz. Słowa weszły przez oczy, ale nie zostały "zatrzymane" w pamięci roboczej. Albo rozmowa: ktoś mówi "Jutro o piętnastej, przynieś dokumenty A, B i C" - a Ty pamiętasz tylko "jutro" i "dokumenty". Reszta wyparowała.
 
-**Przykłady z życia:**
-- Idziesz do kuchni po wodę, ale po drodze widzisz brudny talerz, zanosisz go do zlewu, widzisz śmieci, wynosisz je, wracasz do pokoju i zapominasz po co poszedłeś
-- Czytasz książkę, dochodzisz do końca strony i zdajesz sobie sprawę, że nic nie pamiętasz – słowa weszły, ale nie zostały "zatrzymane"
-- W rozmowie ktoś mówi "Jutro o 15:00, przynieś dokumenty A, B i C", a ty pamiętasz tylko "jutro" i "dokumenty"
-
-**Badania:**
-- Meta-analiza Martinussen et al. (2005): Osoby z ADHD mają średnio o 0.5-1 SD niższą wydolność pamięci roboczej niż neurotypowi
-- Deficyt dotyczy zarówno pamięci werbalnej (słowa, liczby) jak i przestrzennej (wzory, lokalizacje)
+**Meta-analiza Martinussen i współpracowników (2005)** zmierzyła to precyzyjnie: osoby z ADHD mają średnio o 0.5-1 odchylenia standardowego niższą wydolność pamięci roboczej niż osoby neurotypowe. Deficyt dotyczy zarówno pamięci werbalnej (słowa, liczby) jak i przestrzennej (wzory, lokalizacje, "gdzie położyłem klucze").
 
 #### 2. **Hamowanie Impulsów (Inhibition / Impulse Control)**
 
-**Definicja:** Zdolność do powstrzymania automatycznej lub dominującej reakcji, aby zastąpić ją bardziej odpowiednią.
+To zdolność do powstrzymania automatycznej lub dominującej reakcji, aby zastąpić ją bardziej odpowiednią. Normalnie kora przedczołowa działa jak hamulec - "hamuje" impulsy płynące z układu limbicznego (emocje, natychmiastowa nagroda). Klasyczny test tego: Test Stroopa - słowo "CZERWONY" napisane na zielono. Musisz powiedzieć "zielony", hamując automatyczną reakcję "przeczytaj słowo". To wymaga świadomego powstrzymania impulsu.
 
-**Jak działa:**
-- PFC "hamuje" impulsy z układu limbicznego (emocje, nagroda)
-- Test Stroopa: Słowo "CZERWONY" napisane na zielono – musisz powiedzieć "zielony", hamując automatyczną reakcję "przeczytaj słowo"
+W ADHD ten hamulec jest wadliwy. **Słabsze hamowanie behawioralne** oznacza, że mówisz lub robisz rzeczy bez zastanowienia - słowa wylatują z ust zanim zdążysz pomyśleć "czy to dobry pomysł?". **Trudności z opóźnianiem gratyfikacji** - "chcę teraz" konsekwentnie wygrywa nad "lepsze później", nawet gdy racjonalnie wiesz co jest mądrzejsze. **Problemy z przerwaniem akcji** - trudno zatrzymać się w połowie zadania, nawet gdy orientujesz się że to zły kierunek. Impuls ciągnie dalej.
 
-**Jak ADHD to zaburza:**
-- Słabsze hamowanie behawioralne – mówisz/robisz rzeczy bez zastanowienia
-- Trudności z opóźnianiem gratyfikacji – "chcę teraz" wygrywa nad "lepsze później"
-- Problemy z przerwaniem akcji – trudno zatrzymać się w połowie zadania, nawet gdy wiesz, że to zły kierunek
+W życiu to wygląda tak: przerywasz ludziom w połowie zdania. Wiesz że to niegrzeczne, czujesz jak myśl rośnie w głowie, mówisz sobie "poczekaj aż skończą" - ale impuls jest silniejszy i już mówisz. Albo widzisz ciastko w lodówce, jesteś na diecie, powiedziałeś sobie "nie" rano - ale sięgasz po nie zanim zdążysz świadomie pomyśleć. Albo klasyk: scrollujesz social media "tylko 5 minut" - dwie godziny później wciąż scrollujesz, choć racjonalna część mózgu krzyczy "przestań!". Albo w dyskusji: emocje biorą górę i mówisz rzeczy, które później żałujesz, bo hamulce nie zadziałały na czas.
 
-**Przykłady z życia:**
-- Przerywasz ludziom w połowie zdania (wiesz, że to niegrzeczne, ale impuls jest silniejszy)
-- Widzisz ciastko w lodówce, wiesz że jesteś na diecie, ale sięgasz po nie zanim zdążysz pomyśleć
-- Scrollujesz social media "tylko 5 minut", dwie godziny później wciąż scrollujesz
-- W dyskusji emocje biorą górę – mówisz rzeczy, które później żałujesz
-
-**Badania:**
-- Test Go/No-Go: Osoby z ADHD robią więcej błędów "komisji" (reagują gdy nie powinny)
-- fMRI pokazuje niższą aktywność w ACC podczas zadań wymagających kontroli inhibicyjnej
+**Test Go/No-Go** pokazuje to wyraźnie: osoby z ADHD robią więcej błędów "komisji" - reagują gdy nie powinny, nie potrafią powstrzymać automatycznej reakcji. **Badania fMRI** pokazują niższą aktywność w przedniej korze zakrętu obręczy (ACC) podczas zadań wymagających kontroli hamowania.
 
 #### 3. **Elastyczność Poznawcza (Cognitive Flexibility / Set Shifting)**
 
