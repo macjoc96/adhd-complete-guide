@@ -1,5 +1,12 @@
 # ADHD: Kompleksowy Przewodnik 360° - Instrukcje dla Claude
 
+> **WAŻNE - Edycja tego pliku:**
+> Stosuj zasadę **KISS (Keep It Simple, Stupid)** przy aktualizacji tego dokumentu.
+> - Nie over-engineeruj instrukcji
+> - Nie dodawaj zbędnej complexity
+> - Nie marnuj tokenów na nadmiarowe wytyczne
+> - Prostota i użyteczność > perfekcja i sztywność
+
 ## Kontekst Projektu
 
 Tworzę polską książkę o ADHD z interdyscyplinarnym, evidence-based podejściem. Książka ma być kompleksowym przewodnikiem łączącym:
