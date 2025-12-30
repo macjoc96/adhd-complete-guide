@@ -143,10 +143,22 @@
 
 ### Edukacja o ADHD (Polskie)
 
-**[Lista będzie uzupełniana o polskie zasoby]**
-- Polskie Towarzystwo ADHD
-- Fundacja SYNAPSIS
-- ADHD Polska (grupy FB)
+**📍 Kompletna lista polskich zasobów**: [Appendix: Zasoby w Polsce](zasoby-polska.md)
+
+**Najważniejsze organizacje**:
+- **Polskie Towarzystwo ADHD (PTADHD)** - adhd.org.pl - edukacja, konferencje, wsparcie
+- **Fundacja SYNAPSIS** - synapsis.org.pl - grupy wsparcia, coaching
+- **Fundacja Rozwoju ADHD (FRADHD)** - szkolenia dla specjalistów
+
+**Grupy wsparcia**:
+- Facebook: "ADHD Polska" (10k+ członków), "ADHD Dorośli Polska"
+- Discord: Społeczności ADHD z kanałami po polsku
+
+**Znaleźć specjalistę**:
+- **Znanylekarz.pl** - wyszukiwarka psychiatrów i psychologów ADHD
+- **Docplanner.pl** - rezerwacja wizyt online
+
+**Diagnostyka w Polsce**: Zobacz [Zasoby w Polsce - Diagnostyka](zasoby-polska.md#3-gdzie-zrobić-diagnostykę-adhd-w-polsce) dla list ośrodków w Warszawie, Krakowie, Poznaniu, Wrocławiu, Gdańsku
 
 ---
 

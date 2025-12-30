@@ -93,4 +93,61 @@
 
 ---
 
-*Bibliografia będzie aktualizowana w trakcie pracy nad książką*
+## Polskie Zasoby
+
+### Organizacje i Stowarzyszenia
+
+- **Polskie Towarzystwo ADHD (PTADHD)** - https://adhd.org.pl
+  - Organizacja non-profit zajmująca się edukacją i wsparciem osób z ADHD
+  - Konferencje, materiały edukacyjne, grupa wsparcia
+
+- **Fundacja SYNAPSIS** - https://synapsis.org.pl
+  - Wsparcie dla osób z ADHD i ich rodzin
+  - Grupy wsparcia w większych miastach Polski
+  - Coaching i edukacja
+
+- **Fundacja Rozwoju ADHD (FRADHD)**
+  - Działalność edukacyjna i wspierająca
+  - Organizacja szkoleń dla specjalistów
+
+### Portale i Strony Internetowe
+
+- **Znanylekarz.pl** - https://www.znanylekarz.pl
+  - Wyszukiwarka specjalistów ADHD (psychiatrzy, psychologowie)
+  - Opinie pacjentów, możliwość umówienia wizyt online
+
+- **Docplanner.pl** - https://www.docplanner.pl
+  - Platforma rezerwacji wizyt u specjalistów
+  - Filtry dla specjalizacji ADHD
+
+### Grupy Wsparcia Online
+
+- **Facebook:**
+  - "ADHD Polska" - główna grupa wsparcia (10,000+ członków)
+  - "ADHD Dorośli Polska" - dla dorosłych z ADHD
+  - "Rodzice dzieci z ADHD - Polska"
+  - "ADHD + Asperger Polska"
+
+- **Discord:**
+  - Społeczności ADHD z kanałami po polsku
+  - Study halls i body doubling sessions
+
+### Polskie Publikacje Naukowe
+
+- **Psychiatria Polska** - czasopismo
+  - Peer-reviewed artykuły o ADHD w kontekście polskim
+
+- **Neuropsychiatria i Neuropsychologia** - czasopismo
+  - Badania neuropsychologiczne, w tym ADHD
+
+### Diagnostyka i Leczenie w Polsce
+
+**Zobacz również**: [Appendix: Zasoby w Polsce](appendix/zasoby-polska.md) dla kompletnej listy:
+- Ośrodków diagnostycznych w Warszawie, Krakowie, Poznaniu, Wrocławiu, Gdańsku
+- Kosztów diagnostyki (NFZ vs prywatnie)
+- Dostępności leków i terapii
+- Praw pacjenta i wsparcia edukacyjnego
+
+---
+
+*Bibliografia ostatnia aktualizacja: 2025-12-30*

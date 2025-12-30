@@ -386,6 +386,24 @@ Większość osób z ADHD używa kombinacji:
 
 **Koszt: 0 zł. Skuteczność: równie wysoka jak premium toolset za 500 zł/rok.**
 
+---
+
+### Powiązane Rozdziały
+
+**Fundamenty organizacji**:
+- **[Rozdział 9: Funkcje Wykonawcze](../../czesc-3-psychologia-i-terapia/rozdzial-09-funkcje-wykonawcze.md)** - Zrozum neurologiczne podstawy trudności organizacyjnych. Dlaczego Twój mózg potrzebuje zewnętrznych systemów.
+
+**Techniki psychologiczne wspierające systemy**:
+- **[Rozdział 10: CBT dla ADHD](../../czesc-3-psychologia-i-terapia/rozdzial-10-cbt-dla-adhd.md)** - Restrukturyzacja myślenia ("Nie muszę być perfekcjonistą") wspiera wdrażanie systemów organizacyjnych.
+
+**Optymalizacja energii i uwagi**:
+- **[Rozdział 13: Zarządzanie Energią i Uwagą](rozdzial-13-zarzadzanie-energia-i-uwaga.md)** - Dopasuj systemy do swoich rytmów ultradianowych. Time blocking działa lepiej gdy uwzględniasz szczyty i dołki energii.
+
+**Całościowa integracja**:
+- **[Rozdział 19: Integracja - Personalny Protokół](../../czesc-6-calosciowe-podejscie/rozdzial-19-integracja-personalny-protokol.md)** - Stwórz kompletny plan łączący systemy organizacyjne z farmakoterapią, dietą, aktywnością i snem.
+
+---
+
 ### Książki
 
 - **"Getting Things Done" (GTD)** – David Allen (kompleksowy system produktywności – użyj uproszczonej wersji dla ADHD)

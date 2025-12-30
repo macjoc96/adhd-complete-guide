@@ -737,6 +737,32 @@ Niektóre nootropiki nie są zarejestrowane jako suplementy w Polsce, ale nie s�
 
 7. **Unikaj "proprietary blends" i snake oil**: Ginkgo (nie działa dla ADHD), "brain pills" (overpriced, underdosed), "adrenal support" (pseudoscience). Kupuj single ingredients, sam kontroluj.
 
+---
+
+## ⚠️ WAŻNE: Integracja z Innymi Podejściami
+
+**Suplementy NIE zastępują leczenia podstawowego**:
+
+- **[Rozdziały 6-7: Farmakoterapia](../../czesc-2-leczenie-farmakologiczne/)** - **NIE zastępuj** leków przepisanych przez lekarza suplementami bez konsultacji. Leki stymulujące i niestymulujące mają najsilniejsze dowody naukowe (wielkość efektu d=0.7-1.0 vs d=0.2-0.4 dla suplementów).
+
+- **[Rozdział 10: CBT dla ADHD](../../czesc-3-psychologia-i-terapia/rozdzial-10-cbt-dla-adhd.md)** - Psychoterapia adresuje fundamenty funkcjonowania (prokrastynacja, organizacja, negatywne myśli). Suplementy mogą wspierać, ale nie zastąpią terapii.
+
+**Łącz z całościowym podejściem**:
+
+- **[Rozdział 15: Dieta](rozdzial-15-dieta-i-odzywianie.md)** - Omega-3, magnez, żelazo działają najlepiej gdy całościowa dieta jest zoptymalizowana (redukcja cukru, wystarczające białko, antyoksydanty).
+
+- **[Rozdział 16: Aktywność Fizyczna](rozdzial-16-aktywnosc-fizyczna.md)** - Ćwiczenia aerobowe mają wielkość efektu porównywalną z suplementami (d=0.3-0.5) i są bezpłatne. Priorytetyzuj ruch.
+
+- **[Rozdział 17: Sen](rozdzial-17-sen-i-rytmy-dobowe.md)** - Magnez i L-teanina wspierają sen, ale higien snu (ciemność, chłód, regularne godziny) jest fundamentem.
+
+**Stwórz personalny protokół**:
+
+- **[Rozdział 19: Integracja](../../czesc-6-calosciowe-podejscie/rozdzial-19-integracja-personalny-protokol.md)** - Zintegruj suplementy z farmakoterapią, CBT, dietą, aktywnością i snem w spójny, zindywidualizowany plan.
+
+**Najskuteczniejsza strategia**: Leki (jeśli tolerujesz) + CBT/terapia + optymalna dieta + aktywność fizyczna + dobry sen → **WTEDY** rozważ suplementy jako wsparcie, nie zastępstwo.
+
+---
+
 ## Kroki do Działania
 
 ### Tydzień 1: Baseline + First Nootropic
