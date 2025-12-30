@@ -2,13 +2,13 @@
 
 ## Hook / Opening
 
-Magda, 36-letnia menedżerka, siedziała w gabinecie psychologa po raz pierwszy od diagnozy ADHD. "Biorę leki od sześciu miesięcy," powiedziała. "Pomagają z koncentracją, ale... wciąż czuję się przytłoczona. Wciąż prokrastynu ję. Wciąż myślę, że jestem niewystarczająca. Mam wrażenie, że leki to tylko połowa rozwiązania."
+Siedzisz w gabinecie psychologa po raz pierwszy od diagnozy ADHD. "Biorę leki od sześciu miesięcy" - mówisz. "Pomagają z koncentracją, ale... wciąż czuję się przytłoczony. Wciąż prokrastynu ję. Wciąż myślę że jestem niewystarczający. Mam wrażenie że leki to tylko połowa rozwiązania."
 
-Psycholog skinął głową. "Masz rację. Leki to fundamenty – poprawiają chemię mózgu, funkcje wykonawcze, uwagę. Ale nie uczą cię *jak* żyć z ADHD. Nie zmieniają lat nawyków, negatywnych przekonań, wzorców prokrastynacji. Do tego potrzebujemy terapii. A najpewszą metodą w ADHD jest CBT – Terapia Poznawczo-Behawioralna."
+Psycholog kiwa głową. "Masz rację. Leki to fundamenty – poprawiają chemię mózgu, funkcje wykonawcze, uwagę. Ale nie uczą Cię *jak* żyć z ADHD. Nie zmieniają lat nawyków, negatywnych przekonań, wzorców prokrastynacji. Do tego potrzebujemy terapii. A najpewszą metodą w ADHD jest CBT – Terapia Poznawczo-Behawioralna."
 
-Historia Magdy to odbicie doświadczenia wielu osób z ADHD. **Farmakoterapia to kluczowy element leczenia**, ale samodzielnie rzadko wystarczy. Badania pokazują, że **połączenie leków + CBT jest skuteczniejsze niż same leki** – szczególnie w redukcji objawów emocjonalnych, prokrasty nacji, chaosu organizacyjnego i negatywnych myśli. Meta-analiza Safren et al. (2010) wykazała, że CBT dla ADHD redukuje objawy o dodatkowe 30-40% ponad samo leczenie farmakologiczne.
+Twoja historia to odbicie doświadczenia wielu osób z ADHD. **Farmakoterapia to kluczowy element leczenia**, ale samodzielnie rzadko wystarczy. Badania pokazują że **połączenie leków plus CBT jest skuteczniejsze niż same leki** – szczególnie w redukcji objawów emocjonalnych, prokrasty nacji, chaosu organizacyjnego i negatywnych myśli. Meta-analiza Safren et al. (2010) wykazała że CBT dla ADHD redukuje objawy o dodatkowe trzydzieści do czterdziestu procent ponad samo leczenie farmakologiczne.
 
-Ale czym właściwie jest CBT dla ADHD? Jak się różni od "zwykłej" CBT? Jakie techniki są najbardziej skuteczne? I co najważniejsze – jak zastosować je we własnym życiu, nawet jeśli nie masz dostępu do terapeuty? W tym rozdziale odkryjesz odpowiedzi: od nauki stojącej za CBT, przez konkretne techniki poznawcze i behawioralne, po praktyczne ćwiczenia, które możesz wdrożyć już dziś.
+Ale czym właściwie jest CBT dla ADHD? Jak się różni od "zwykłej" CBT? Jakie techniki są najbardziej skuteczne? I co najważniejsze – jak zastosować je we własnym życiu, nawet jeśli nie masz dostępu do terapeuty? W tym rozdziale odkryjesz odpowiedzi: od nauki stojącej za CBT, przez konkretne techniki poznawcze i behawioralne, po praktyczne ćwiczenia które możesz wdrożyć już dziś.
 
 ---
 
@@ -721,7 +721,7 @@ Pierwsza sesja to często "spotkanie zapoznawcze" (konsultacja) – okazja, aby 
 
 ## Kluczowe Wnioski
 
-1. **CBT dla ADHD to najskuteczniejsza forma psychoterapii w ADHD** – połączenie leków + CBT redukuje objawy o 30-40% więcej niż same leki (effect size d=0.50-0.70).
+1. **CBT dla ADHD to najskuteczniejsza forma psychoterapii w ADHD** – połączenie leków + CBT redukuje objawy o trzydzieści do czterdziestu procent więcej niż same leki (wielkość efektu d=0.50-0.70).
 
 2. **CBT dla ADHD różni się od standardowej CBT** – silniejszy nacisk na behawioralne strategie (organizacja, systemy), externalizację (przypomnienia, timery), kompensację deficytów funkcji wykonawczych.
 
@@ -860,7 +860,7 @@ Pierwsza sesja to często "spotkanie zapoznawcze" (konsultacja) – okazja, aby 
 
 ## Bibliografia
 
-1. **Safren, S. A., Sprich, S., Mimiaga, M. J., Surman, C., Knouse, L., Groves, M., & Otto, M. W. (2010).** "Cognitive behavioral therapy vs relaxation with educational support for medication-treated adults with ADHD and persistent symptoms: a randomized controlled trial." *JAMA*, 304(8), 875-880.
+1. **Safren, S. A., Sprich, S., Mimiaga, M. J., Surman, C., Knouse, L., Groves, M., & Otto, M. W. (2010).** "Cognitive behavioral therapy wobec relaxation with educational support for medication-treated adults with ADHD and persistent symptoms: a randomized controlled trial." *JAMA*, 304(8), 875-880.
 
 2. **Solanto, M. V., Marks, D. J., Wasserstein, J., Mitchell, K., Abikoff, H., Alvir, J. M. J., & Kofman, M. D. (2010).** "Efficacy of meta-cognitive therapy for adult ADHD." *American Journal of Psychiatry*, 167(8), 958-968.
 
@@ -878,7 +878,7 @@ Pierwsza sesja to często "spotkanie zapoznawcze" (konsultacja) – okazja, aby 
 
 9. **Young, S., & Bramham, J. (2012).** *Cognitive-behavioural therapy for ADHD in adolescents and adults: A psychological guide to practice*. Wiley-Blackwell.
 
-10. **Mitchell, J. T., McIntyre, E. M., English, J. S., Dennis, M. F., Beckham, J. C., & Kollins, S. H. (2017).** "A pilot trial of mindfulness meditation training for ADHD in adulthood: Impact on core symptoms, executive functioning, and emotion dysregulation." *Journal of Attention Disorders*, 21(13), 1105-1120.
+10. **Mitchell, J. T., McIntyre, E. M., English, J. S., Dennis, M. F., Beckham, J. C., & Kollins, S. H. (2017).** "A pilot trial of uważności meditation training for ADHD in adulthood: Impact on core symptoms, executive functioning, and emotion dysregulation." *Journal of Attention Disorders*, 21(13), 1105-1120.
 
 ---
 

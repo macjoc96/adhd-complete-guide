@@ -2,11 +2,11 @@
 
 ## Hook: „3:00 AM – Znowu"
 
-Kasia leży w łóżku od 23:00. Teraz jest 2:47 AM. Mózg nie wyłącza się. Myśli się ścigają: "Co powiedziałam dziś na spotkaniu?", "Muszę pamiętać, żeby jutro...", "Dlaczego ona tak na mnie spojrzała?", "Powinienem był...".
+Leżysz w łóżku od dwudziestej trzeciej. Teraz jest druga czterdzieści siedem w nocy. Mózg nie wyłącza się. Myśli się ścigają: "Co powiedziałem dziś na spotkaniu?", "Muszę pamiętać żeby jutro...", "Dlaczego ona tak na mnie spojrzała?", "Powinienem był...".
 
-Próbowała wszystkiego: counting sheep (nudne), breathing exercises (mózg się nudzi i wraca do myślenia), podcast (albo za ciekawy i budzi, albo za nudny i frustruje). Wziąć melatoninę? Już wzięła o 22:00. Nic.
+Próbowałeś wszystkiego: liczenie owiec (nudne), ćwiczenia oddechowe (mózg się nudzi i wraca do myślenia), podcast (albo za ciekawy i budzi, albo za nudny i frustruje). Wziąć melatoninę? Już wziąłeś o dwudziestej drugiej. Nic.
 
-O 3:15 w końcu zapada w sen. Budzik o 6:30. Czuje się jak zombie. Bierze podwójną kawę + 54mg Concerty. Przez pierwsze 2 godziny pracy siedzi w mgle. Dopiero o 11:00 zaczyna działać. A o 23:00? Cykl się powtarza.
+O trzeciej piętnaście w końcu zapadasz w sen. Budzik o szóstej trzydzieści. Czujesz się jak zombie. Bierzesz podwójną kawę plus pięćdziesiąt cztery milligramy Concerty. Przez pierwsze dwie godziny pracy siedzisz w mgle. Dopiero o jedenastej zaczynasz działać. A o dwudziestej trzeciej? Cykl się powtarza.
 
 To nie jest "po prostu bezsenność". **To fundamentalne neurologiczne rozregulowanie, które dotyka 70-80% osób z ADHD**. Podczas gdy neurotypowa osoba ma synchronized circadian rhythm (światło dnia → melatonina wieczorem → sen → budzenie), mózg ADHD często operuje na **delayed phase** – jakby żył w innej strefie czasowej.
 
@@ -32,14 +32,14 @@ Dobra wiadomość? Zrozumienie neurobiologii snu ADHD + targeted interventions m
 - **Ale społeczeństwo wymaga budzenia o 6:30-7:30** → chronic sleep deprivation
 
 **Badania:**
-- **Van Veen et al. (2010)** – **73% dorosłych z ADHD** ma znaczące opóźnienie fazy snu (vs 17% populacji ogólnej)
+- **Van Veen et al. (2010)** – **Siedemdziesiąt trzy procent dorosłych z ADHD** ma znaczące opóźnienie fazy snu (wobec siedemnaście procent populacji ogólnej)
 - **Bijlenga et al. (2019)** – U osób z ADHD + DSPS, leczenie DSPS (melatonina + light therapy) poprawiło objawy ADHD o **35-40%**
 
 **Dlaczego ADHD → DSPS?**
 
 1. **Opóźniony rytm melatoniny**
    - U osób z ADHD, melatonina (hormon snu) wzrasta **1.5-2h później** niż u neurotypowych
-   - **Badanie (Van der Heijden et al., 2005):** Dzieci z ADHD miały peak melatoniny o 23:30, vs 21:45 u dzieci bez ADHD
+   - **Badanie (Van der Heijden et al., 2005):** Dzieci z ADHD miały peak melatoniny o 23:30, wobec 21:45 u dzieci bez ADHD
    - Rezultat: Mózg nie dostaje sygnału "czas spać" o normalnej porze
 
 2. **Dysregulacja dopaminy**
@@ -64,7 +64,7 @@ Dobra wiadomość? Zrozumienie neurobiologii snu ADHD + targeted interventions m
 - Lower sleep quality
 
 **Kierunek 2: Zły sen → Gorsze ADHD**
-- **Badanie Gruber et al. (2011):** Dzieci z ADHD, które spały <7h → **60% gorsze wyniki** w testach uwagi vs te, które spały 9h
+- **Badanie Gruber et al. (2011):** Dzieci z ADHD, które spały <siedem godzin → **sześćdziesiąt procent gorsze wyniki** w testach uwagi wobec te, które spały dziewięć godzin
 - Sleep deprivation → obniżona aktywność PFC (prefrontal cortex) → gorsze funkcje wykonawcze
 - Brak REM sleep → deficyty w konsolidacji pamięci
 - Brak deep sleep → niewystarczająca regeneracja mózgu
@@ -88,9 +88,9 @@ Dobra wiadomość? Zrozumienie neurobiologii snu ADHD + targeted interventions m
 - **Nadmierne bright light wieczorem** (screens: komputery, telefony, TV)
 
 **Badanie Chang et al. (2015):**
-- Czytanie na iPad (vs papier) przez 4h przed snem:
-  - **Opóźnienie melatoniny o 90 minut**
-  - **Redukcja REM sleep o 20%**
+- Czytanie na iPad (wobec papier) przez cztery godziny przed snem:
+  - **Opóźnienie melatoniny o dziewięćdziesiąt minut**
+  - **Redukcja REM sleep o dwadzieścia procent**
   - **Gorsze funkcjonowanie następnego dnia**
 
 **Dla ADHD brain (już opóźniony circadian rhythm):** Screen time wieczorem = katastrofa. Jeszcze bardziej delayed sleep phase.
@@ -102,7 +102,7 @@ Dobra wiadomość? Zrozumienie neurobiologii snu ADHD + targeted interventions m
 - **Ale paradoksalnie:** U niektórych osób poprawiają sen (zmniejszają racing thoughts, łatwiejszy wind-down)
 
 **Badanie Kidwell et al. (2015):**
-- 52% dzieci na stymulantach miało trudności ze snem
+- Pięćdziesiąt dwa procent dzieci na stymulantach miało trudności ze snem
 - **Ale:** Większość już miała sleep problems PRZED rozpoczęciem leków
 - Strategie: Earlier dosing, lower afternoon dose, add melatonin
 
@@ -138,9 +138,9 @@ Dobra wiadomość? Zrozumienie neurobiologii snu ADHD + targeted interventions m
   - Alternatywa: Software filters (f.lux, Night Shift na iOS)
 
 **Badanie (Fargason et al., 2017):**
-- Adolescents z ADHD + DSPS: 2 tygodnie morning light therapy (10,000 lux, 30 min) + evening dim light
-- **Rezultat:** Średnie zasypianie przesunięte z 2:15 AM na 23:45 (90 min wcześniej!)
-- **ADHD symptoms:** Redukcja o 28%
+- Adolescents z ADHD + DSPS: dwa tygodnie morning light therapy (10,000 lux, trzydzieści minut) + evening dim light
+- **Rezultat:** Średnie zasypianie przesunięte z 2:15 AM na 23:45 (dziewięćdziesiąt minut wcześniej!)
+- **ADHD symptoms:** Redukcja o dwadzieścia osiem procent
 
 ### Protokół 2: Melatonin Timing – "Phase Advance"
 
@@ -164,8 +164,8 @@ Dobra wiadomość? Zrozumienie neurobiologii snu ADHD + targeted interventions m
 - **Regularity matters**. Weź CODZIENNIE o tej samej porze (nawet weekendy) przez 2-4 tygodnie
 
 **Badanie Van der Heijden et al. (2007):**
-- Dzieci z ADHD + sleep onset insomnia: Melatonina 3mg o 19:00 (5h przed planowanym snem)
-- **Rezultat:** Czas zasypiania skrócony o **40 minut**, total sleep time wzrósł o **25 minut**
+- Dzieci z ADHD + sleep onset insomnia: Melatonina trzy milligramy o 19:00 (pięć godzin przed planowanym snem)
+- **Rezultat:** Czas zasypiania skrócony o **czterdzieści minut**, total sleep time wzrósł o **dwadzieścia pięć minut**
 
 ### Protokół 3: Sleep Hygiene 2.0 (ADHD-Specific)
 
@@ -226,7 +226,7 @@ Dobra wiadomość? Zrozumienie neurobiologii snu ADHD + targeted interventions m
 
 - **Body Scan Meditation** (audio guided, np. Headspace, Calm)
   - Focus na każdej części ciała od stóp do głowy
-  - Gives ADHD brain coś do focus (zamiast random thoughts)
+  - Gives ADHD brain coś do skupienia (zamiast random thoughts)
 
 ### Protokół 4: Strategic Napping
 
@@ -246,8 +246,8 @@ Dobra wiadomość? Zrozumienie neurobiologii snu ADHD + targeted interventions m
 3. Kofeina zaczyna działać po ~20 min → budzisz się naturalnie + energii boost
 
 **Badanie (Dhand & Sohal, 2006):**
-- 20-min nap → poprawa alertness + cognitive performance przez 2-3h
-- **Dla ADHD:** Może pomócережди afternoon focus bez interferowania z nocnym snem
+- Dwudziestominutowa drzemka → poprawa alertness + cognitive performance przez dwie do trzech godzin
+- **Dla ADHD:** Może pomóc w popołudniowej koncentracji bez interferowania z nocnym snem
 
 **Uwaga:** Jeśli masz problemy z nocnym snem – **unikaj napowania**. Priority = fix nocny sen first.
 
@@ -278,23 +278,23 @@ Dobra wiadomość? Zrozumienie neurobiologii snu ADHD + targeted interventions m
 - **Ale praca zaczyna się o 9:00** → Budzik 7:30 → Chronic sleep deprivation (5.5h/noc)
 - Focus katastrofal, nadrabia wieczorem (co oczywiście delay sleep dalej)
 
-**Interwencja: 4-Week Circadian Reset**
+**Interwencja: Czterotygodniowy Reset Rytmu Dobowego**
 
-**Week 1-2: Light Therapy**
-- **Rano (7:45 AM):** 30 min light therapy lamp (10,000 lux) podczas śniadania
+**Tygodnie jeden do dwóch: Light Therapy**
+- **Rano (7:45 AM):** trzydzieści minut light therapy lamp (10,000 lux) podczas śniadania
 - **Wieczór (21:00):** All lights dimmed, blue blockers jeśli screen time
 
-**Week 3-4: Add Melatonin**
-- **21:30:** Melatonina 3mg
+**Tygodnie trzy do czterech: Dodaj Melatoninę**
+- **21:30:** Melatonina trzy milligramy
 - **Kontynuacja light therapy**
 
-**Rezultat po 4 tygodniach:**
-- **Sleep onset:** Przesunięte z 2:30 AM na 23:45 (~2.5h wcześniej!)
-- **Total sleep:** Wzrost z 5.5h do 7.5h
-- **Morning focus:** "Po raz pierwszy od lat mogę myśleć przed lunchem. To niesamowite."
-- **ADHD symptoms:** Self-rated improvement o 30-35%
+**Rezultat po czterech tygodniach:**
+- **Sleep onset:** Przesunięte z 2:30 AM na 23:45 (około dwie i pół godziny wcześniej!)
+- **Total sleep:** Wzrost z pięciu i pół godziny do siedmiu i pół godziny
+- **Poranna koncentracja:** "Po raz pierwszy od lat mogę myśleć przed lunchem. To niesamowite."
+- **ADHD symptoms:** Self-rated improvement o trzydzieści do trzydziestu pięciu procent
 
-**Marek po 6 miesiącach:** "Light therapy to teraz non-negotiable. Jeśli skip 2-3 dni, czuję, że rhythm wraca do starego. 30 minut rano = best ROI na mój dzień."
+**Marek po sześciu miesiącach:** "Light therapy to teraz non-negotiable. Jeśli skip dwa do trzech dni, czuję, że rhythm wraca do starego. Trzydzieści minut rano = best ROI na mój dzień."
 
 ### Przykład 2: Ania – Brain Dump Protocol
 
@@ -313,9 +313,9 @@ Dobra wiadomość? Zrozumienie neurobiologii snu ADHD + targeted interventions m
 3. **Koniec po 10 min** – Zamyka notatnik, odkłada
 
 **Rezultat:**
-- **Week 1:** "Dziwne, ale pomaga. Jak wyrzucę to na papier, przestaje mnie to dręczyć."
-- **Week 3:** "Sleep latency spadła z ~60 min do ~25 min"
-- **Long-term:** "To jedyna strategia, która faktycznie działa dla mojego ADHD brain. Mózg wie, że zapisałam – może puścić."
+- **Tydzień jeden:** "Dziwne, ale pomaga. Jak wyrzucę to na papier, przestaje mnie to dręczyć."
+- **Tydzień trzy:** "Sleep latency spadła z około sześćdziesięciu minut do około dwudziestu pięciu minut"
+- **Długoterminowo:** "To jedyna strategia, która faktycznie działa dla mojego ADHD brain. Mózg wie, że zapisałam – może puścić."
 
 ### Przykład 3: Tomek – Medication Timing Adjustment
 
@@ -327,32 +327,32 @@ Dobra wiadomość? Zrozumienie neurobiologii snu ADHD + targeted interventions m
 **Interwencja: Timing + Melatonin**
 
 **Adjustacja (z lekarzem):**
-1. **Concerta 36mg o 7:00 AM** (bez zmian)
-2. **Booster zmieniony na 14:00** (zamiast 15:00) – 1h wcześniej
-3. **Melatonina 3mg o 21:30**
+1. **Concerta trzydzieści sześć miligramów o 7:00 AM** (bez zmian)
+2. **Booster zmieniony na 14:00** (zamiast 15:00) – jedna godzina wcześniej
+3. **Melatonina trzy milligramy o 21:30**
 
-**Rezultat po 2 tygodniach:**
-- **Sleep onset:** Z 1:30 AM na 23:30 (~2h wcześniej)
-- **Morning energy:** Lepsze (więcej snu)
+**Rezultat po dwóch tygodniach:**
+- **Sleep onset:** Z 1:30 AM na 23:30 (około dwie godziny wcześniej)
+- **Poranna energia:** Lepsze (więcej snu)
 - **Homework productivity:** Nadal OK (booster o 14:00 wystarczający)
 
-**Rodzice Tomka:** "To wydawało się takie proste – zmiana czasu o 1h + melatonina. Ale efekt ogromny. Tomek jest inną osobą, gdy śpi 8h vs 6h."
+**Rodzice Tomka:** "To wydawało się takie proste – zmiana czasu o jedną godzinę + melatonina. Ale efekt ogromny. Tomek jest inną osobą, gdy śpi osiem godzin wobec sześciu godzin."
 
 ## Kluczowe Wnioski
 
-1. **70-80% osób z ADHD ma sleep problems, szczególnie Delayed Sleep Phase Syndrome** (naturalnie zasypianie o 1:00-3:00 AM vs społeczny wymóg 22:00-23:00). To nie "lenistwo" – to neurobiological desynchronization.
+1. **Siedemdziesiąt do osiemdziesięciu procent osób z ADHD ma sleep problems, szczególnie Delayed Sleep Phase Syndrome** (naturalnie zasypianie o 1:00-3:00 AM wobec społeczny wymóg 22:00-23:00). To nie "lenistwo" – to neurobiological desynchronization.
 
-2. **Zły sen pogarsza wszystkie objawy ADHD o 30-60%**. Nawet najlepsze leki nie zadziałają optymalnie, jeśli śpisz 5-6h z kiepską jakością. Fix sleep = często równie skuteczne jak zwiększenie dawki leków.
+2. **Zły sen pogarsza wszystkie objawy ADHD o trzydzieści do sześćdziesięciu procent**. Nawet najlepsze leki nie zadziałają optymalnie, jeśli śpisz pięć do sześciu godzin z kiepską jakością. Fix sleep = często równie skuteczne jak zwiększenie dawki leków.
 
-3. **Light therapy rano (10,000 lux, 20-30 min w ciągu 30 min po przebudzeniu) to najskuteczniejsza metoda resynchronizacji circadian rhythm**. Badania pokazują przesunięcie sleep onset o 1.5-2.5h w ciągu 2-4 tygodni.
+3. **Light therapy rano (10,000 lux, dwadzieścia do trzydziestu minut w ciągu trzydziestu minut po przebudzeniu) to najskuteczniejsza metoda resynchronizacji circadian rhythm**. Badania pokazują przesunięcie sleep onset o półtorej do dwóch i pół godziny w ciągu dwóch do czterech tygodni.
 
-4. **Melatonina to chronobiotic, nie sleeping pill**. Kluczowy timing: 3-5h PRZED naturalną porą senności (nie tuż przed snem). Dawkowanie: 0.5-5mg (zazwyczaj 3mg optimal). Wymaga regularności przez 2-4 tygodnie.
+4. **Melatonina to chronobiotic, nie sleeping pill**. Kluczowy timing: trzy do pięciu godzin PRZED naturalną porą senności (nie tuż przed snem). Dawkowanie: zero przecinek pięć do pięciu miligramów (zazwyczaj trzy milligramy optimal). Wymaga regularności przez dwa do czterech tygodni.
 
-5. **Blue light wieczorem to katastrofa dla ADHD brain** (który już ma delayed phase). Screens 2-3h przed snem opóźniają melatoninę o 60-90 min. Rozwiązanie: Blue blockers + dim lights + Night mode.
+5. **Blue light wieczorem to katastrofa dla mózgu ADHD** (który już ma delayed phase). Screens dwie do trzech godzin przed snem opóźniają melatoninę o sześćdziesiąt do dziewięćdziesięciu minut. Rozwiązanie: Blue blockers + dim lights + Night mode.
 
-6. **Racing thoughts w łóżku**: Brain Dump protocol (10 min pisania wszystkich myśli 30 min przed snem) + 4-7-8 Breathing w łóżku. Daje ADHD brain "external storage" + coś do focus.
+6. **Racing thoughts w łóżku**: Brain Dump protocol (dziesięć minut pisania wszystkich myśli trzydzieści minut przed snem) + cztery-siedem-osiem Breathing w łóżku. Daje mózgowi ADHD "external storage" + coś do skupienia.
 
-7. **Medication timing matters**: Stymulanty last dose minimum 6h przed snem (short-acting) lub 8-10h (long-acting). Jeśli sleep issues persist – dodaj melatoninę wieczorem lub rozważ non-stimulant addition (guanfacine).
+7. **Medication timing matters**: Stymulanty last dose minimum sześć godzin przed snem (short-acting) lub osiem do dziesięciu godzin (long-acting). Jeśli sleep issues persist – dodaj melatoninę wieczorem lub rozważ non-stimulant addition (guanfacine).
 
 ## Kroki do Działania
 
@@ -429,9 +429,9 @@ Dobra wiadomość? Zrozumienie neurobiologii snu ADHD + targeted interventions m
 ### Light Therapy Lamps
 
 **Polecane (10,000 lux):**
-- **Philips SmartSleep Wake-Up Light** (~400-600 PLN) – Light therapy + sunrise simulation
-- **Beurer TL 90** (~300-500 PLN) – Classic light therapy box
-- **Lumie Vitamin L** (~250-400 PLN) – Portable, good for desk
+- **Philips SmartSleep Wake-Up Light** (około czterysta do sześćuset PLN) – Light therapy + sunrise simulation
+- **Beurer TL 90** (około trzysta do pięćset PLN) – Classic light therapy box
+- **Lumie Vitamin L** (około dwieście pięćdziesiąt do czterysta PLN) – Portable, good for desk
 
 **Co szukać:**
 - 10,000 lux at 30-50 cm
@@ -441,9 +441,9 @@ Dobra wiadomość? Zrozumienie neurobiologii snu ADHD + targeted interventions m
 ### Blue Light Blockers
 
 **Okulary:**
-- **Uvex Skyper** (~50-80 PLN) – Budget, orange lenses (blokują 98% blue light)
-- **Swanwick Sleep** (~200-300 PLN) – Stylish, red lenses (blokują 99%)
-- **Felix Gray Sleep** (~400 PLN) – Clear lenses (subtle, ale słabsze blocking ~50%)
+- **Uvex Skyper** (około pięćdziesiąt do osiemdziesięciu PLN) – Budget, orange lenses (blokują dziewięćdziesiąt osiem procent blue light)
+- **Swanwick Sleep** (około dwieście do trzysta PLN) – Stylish, red lenses (blokują dziewięćdziesiąt dziewięć procent)
+- **Felix Gray Sleep** (około czterysta PLN) – Clear lenses (subtle, ale słabsze blocking około pięćdziesiąt procent)
 
 **Software (Free):**
 - **f.lux** (Windows/Mac) – Auto-adjusts screen color temperature based on time
@@ -457,9 +457,9 @@ Dobra wiadomość? Zrozumienie neurobiologii snu ADHD + targeted interventions m
 - **Sleep as Android** (Android) – Podobny do Sleep Cycle, więcej features
 
 **Wearables:**
-- **Oura Ring** (~1,200-1,500 PLN) – Best sleep tracking, HRV, readiness score
-- **Fitbit** (~400-800 PLN) – Decent sleep tracking, cheaper
-- **Apple Watch** (Series 6+) – Basic sleep tracking
+- **Oura Ring** (około tysiąc dwieście do tysiąc pięćset PLN) – Best sleep śledzenie, HRV, readiness score
+- **Fitbit** (około czterysta do osiemset PLN) – Decent sleep śledzenie, cheaper
+- **Apple Watch** (Series sześć i nowsze) – Basic sleep śledzenie
 
 ### Melatonina
 

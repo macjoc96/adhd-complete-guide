@@ -2,11 +2,11 @@
 
 ## Hook / Opening
 
-Anna, 38-letnia projektantka graficzna, spędziła ostatnie dwa lata na frustrującej podróży przez świat farmakoterapii ADHD. Metylfenidat działał świetnie... przez pierwsze trzy tygodnie. Potem przestał. Lisdexamfetamina powodowała nieznośne bóle głowy. Atomoxetina sprawiła, że czuła się jak "zombie" – senność była nie do zniesienia. "Czuję się jak laboratoryjny królik," powiedziała na kolejnej wizycie u psychiatry, zrezygnowana. "Czy ja w ogóle jestem w stanie znaleźć coś, co zadziała?"
+Spędziłeś ostatnie dwa lata na frustrującej podróży przez świat farmakoterapii ADHD. Metylfenidat działał świetnie... przez pierwsze trzy tygodnie. Potem przestał. Lisdexamfetamina powodowała nieznośne bóle głowy. Atomoxetina sprawiła że czułeś się jak "zombie" – senność była nie do zniesienia. "Czuję się jak laboratoryjny królik" - mówisz na kolejnej wizycie u psychiatry, zrezygnowany. "Czy ja w ogóle jestem w stanie znaleźć coś co zadziała?"
 
-Historia Anny nie jest wyjątkowa. Badania pokazują, że około 30% osób z ADHD nie odpowiada na pierwszy wypróbowany lek. U dalszych 20-30% działania niepożądane są na tyle dokuczliwe, że trudno kontynuować leczenie. Ale oto prawda, której Anna jeszcze nie znała: Farmakoterapia ADHD nie jest szablonowa. To nie "one size fits all". To proces personalizacji – znalezienia właściwego leku, we właściwej dawce, we właściwym czasie, dla właściwej osoby.
+Twoja historia nie jest wyjątkowa. Badania pokazują że około trzydzieści procent osób z ADHD nie odpowiada na pierwszy wypróbowany lek. U dalszych dwadzieścia do trzydziestu procent działania niepożądane są na tyle dokuczliwe że trudno kontynuować leczenie. Ale oto prawda której jeszcze możesz nie znać: Farmakoterapia ADHD nie jest szablonowa. To nie "one size fits all". To proces personalizacji – znalezienia właściwego leku, we właściwej dawce, we właściwym czasie, dla właściwej osoby.
 
-Dlaczego ten sam lek działa świetnie u jednej osoby, a u drugiej w ogóle? Dlaczego niektórzy potrzebują 10 mg metylfenidatu, a inni 60 mg? Odpowiedź leży w naszej unikalnej biologii – genetyce, metabolizmie, profilu objawów, współwystępujących zaburzeń, trybie życia. W tym rozdziale przyjrzymy się, jak spersonalizować farmakoterapię ADHD: jak wykorzystać wiedzę o farmakogenetyce, dopasować lek do swojego profilu objawów, zarządzać działaniami niepożądanymi i co robić, gdy standardowe podejście nie działa. Dla Anny – i dla Ciebie – istnieje ścieżka do skutecznego leczenia. Trzeba tylko wiedzieć, jak ją znaleźć.
+Dlaczego ten sam lek działa świetnie u jednej osoby a u drugiej w ogóle? Dlaczego niektórzy potrzebują dziesięć miligramów metylfenidatu, a inni sześćdziesiąt? Odpowiedź leży w naszej unikalnej biologii – genetyce, metabolizmie, profilu objawów, współwystępujących zaburzeń, trybie życia. W tym rozdziale przyjrzymy się jak spersonalizować farmakoterapię ADHD: jak wykorzystać wiedzę o farmakogenetyce, dopasować lek do swojego profilu objawów, zarządzać działaniami niepożądanymi i co robić gdy standardowe podejście nie działa. Dla Ciebie istnieje ścieżka do skutecznego leczenia. Trzeba tylko wiedzieć jak ją znaleźć.
 
 ---
 
@@ -165,7 +165,7 @@ Większość działań niepożądanych jest **zarządzalna** – nie wymagają o
 
 **Argumenty PRZECIW:**
 - ADHD nie znika w weekendy – objawy wracają (problemy w relacjach, domowych obowiązkach)
-- Ryzyko "rebound" (nasilenie objawów po odstawieniu)
+- Ryzyko efektu odbicia (nasilenie objawów po odstawieniu)
 - Dla leków niestymulujących (atomoxetyna, guanfacyna) – stałe stężenie jest kluczowe, przerwy mogą zmniejszyć skuteczność
 
 **Rekomendacja:**

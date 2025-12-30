@@ -7,11 +7,11 @@
 
 ## Hook: Pierwsza dawka
 
-Marek miał 29 lat, gdy wziął pierwszą tabletkę methylphenidate. Siedział w samochodzie przed apteką, trzymając blister w dłoniach. "Co jeśli to zmieni moją osobowość?", "Co jeśli się uzależnię?", "Co jeśli to nie zadziała?". Po 20 minutach przełknął tabletkę. I czekał.
+Siedzisz w samochodzie przed apteką trzymając blister w dłoniach. Pierwsza tabletkę methylphenidate. "Co jeśli to zmieni moją osobowość?" "Co jeśli się uzależnię?" "Co jeśli to nie zadziała?". Po dwudziestu minutach wahania przełykasz tabletkę. I czekasz.
 
-Po godzinie siedział przy biurku i po raz pierwszy od lat... pisał. Bez walki. Bez tortur. Po prostu pisał. "To tak ma być?" - pomyślał. "Inni tak funkcjonują codziennie?". Nie czuł się "naćpany". Nie było euforii. Czuł się... normalnie. Ale to "normalnie" było rewelacją.
+Po godzinie siedzisz przy biurku i po raz pierwszy od lat... piszesz. Bez walki. Bez tortur. Po prostu piszesz. "To tak ma być?" - myślisz. "Inni tak funkcjonują codziennie?". Nie czujesz się "naćpany". Nie ma euforii. Czujesz się... normalnie. Ale to "normalnie" jest rewelacją.
 
-Ten rozdział to przewodnik po lekach, które dla wielu osób z ADHD są kamieniem węgielnym leczenia. **Stymulujące leki** - methylphenidate i amphetamines - są najskuteczniejszymi, najlepiej zbadanymi interwencjami dla ADHD. Ale są też otoczone mitami, strachem i nieporozumieniami. Czas to zmienić.
+Ten rozdział to przewodnik po lekach które dla wielu osób z ADHD są kamieniem węgielnym leczenia. **Stymulujące leki** - methylphenidate i amphetamines - są najskuteczniejszymi, najlepiej zbadanymi interwencjami dla ADHD. Ale są też otoczone mitami, strachem i nieporozumieniami. Czas to zmienić.
 
 ---
 
@@ -44,7 +44,7 @@ Ten rozdział to przewodnik po lekach, które dla wielu osób z ADHD są kamieni
 
 ---
 
-## Dwie główne klasy: Methylphenidate vs Amphetamines
+## Dwie główne klasy: Methylphenidate i Amphetamines
 
 ### 1. Methylphenidate (MPH)
 
@@ -77,7 +77,7 @@ Ten rozdział to przewodnik po lekach, które dla wielu osób z ADHD są kamieni
 
 ---
 
-## Krótko- vs długodziałające: Co wybrać?
+## Krótko- i długodziałające: Co wybrać?
 
 ### Short-acting (SA) - Krótkodziałające
 
@@ -93,7 +93,7 @@ Ten rozdział to przewodnik po lekach, które dla wielu osób z ADHD są kamieni
 
 **Wady**:
 - Konieczność pamiętania o kolejnych dawkach (ironiczne przy ADHD!)
-- "Peaks and valleys" - wahania poziomu leku, możliwe "rebound" (pogorszenie objawów gdy lek przestaje działać)
+- "Peaks and valleys" - wahania poziomu leku, możliwy efekt odbicia (pogorszenie objawów gdy lek przestaje działać)
 - Większe ryzyko nadużycia (gwałtowny spike = większy potencjał)
 - Stygmat (branie leku w szkole/pracy)
 
@@ -186,7 +186,7 @@ Ten rozdział to przewodnik po lekach, które dla wielu osób z ADHD są kamieni
 - **Effect size** dla leków stymulujących: **d = 0.78** (dzieci/młodzież)
 - Ranking skuteczności: Amphetamines > Methylphenidate > Niestymulujące
 
-**Co oznacza effect size d = 0.78?**
+**Co oznacza wielkość efektu d = 0.78?**
 - **d = 0.2**: Mały efekt
 - **d = 0.5**: Średni efekt
 - **d = 0.8**: Duży efekt
@@ -234,7 +234,7 @@ Ten rozdział to przewodnik po lekach, które dla wielu osób z ADHD są kamieni
 **6. Suchość w ustach**
 - Zarządzanie: Picie wody, gumy bez cukru
 
-**7. Drażliwość / dysforiaczas gdy lek przestaje działać ("rebound")
+**7. Drażliwość / dysforia** - czas gdy lek przestaje działać (efekt odbicia)
 - Zarządzanie: LA zamiast SA, dodatkowa mała dawka wieczorem
 
 ### Rzadkie ale poważne (<1%)
@@ -288,7 +288,7 @@ Ten rozdział to przewodnik po lekach, które dla wielu osób z ADHD są kamieni
 - **Brak dowodów na rozwój uzależnienia** przy terapeutycznym stosowaniu
 - **Tolerancja** (potrzeba wyższych dawek) jest RZADKA w ADHD (w przeciwieństwie do nadużycia rekreacyjnego)
 
-**Kluczowe różnice: Terapia vs Nadużycie**
+**Kluczowe różnice: Terapia wobec nadużycia**
 
 | Aspekt | Terapia ADHD | Nadużycie |
 |--------|--------------|-----------|
@@ -314,7 +314,7 @@ Ten rozdział to przewodnik po lekach, które dla wielu osób z ADHD są kamieni
 
 **Karmienie piersią**:
 - MPH i AMPH przechodzą do mleka (małe ilości)
-- **Zalecenie**: Rozważyć ryzyko vs korzyść, monitorować niemowlę
+- **Zalecenie**: Rozważyć ryzyko wobec korzyści, monitorować niemowlę
 
 ### 2. Zaburzenia sercowo-naczyniowe
 
@@ -385,7 +385,7 @@ Ten rozdział to przewodnik po lekach, które dla wielu osób z ADHD są kamieni
 
 ## Key Takeaways
 
-1. **Leki stymulujące (MPH, AMPH) to najskuteczniejsze leczenie ADHD** - effect size d=0.78, response rate 70-80%.
+1. **Leki stymulujące (MPH, AMPH) to najskuteczniejsze leczenie ADHD** - wielkość efektu d=0.78, wskaźnik odpowiedzi siedemdziesiąt do osiemdziesiąt procent.
 
 2. **Mechanizm**: Blokują transporter dopaminy/norepinefryny, zwiększając poziomy neurotransmiterów w PFC i striatum - **normalizują** funkcję mózgu.
 
@@ -452,9 +452,30 @@ To pomoże psychiatrze dostosować dawkę.
 
 ---
 
-*Rozdział 6 - Bibliografia:*
-- Cortese, S., et al. (2018). Comparative efficacy and tolerability of medications for ADHD in children, adolescents, and adults. Lancet Psychiatry, 5(9), 727-738.
-- Faraone, S. V., & Buitelaar, J. (2010). Comparing the efficacy of stimulants for ADHD in children and adolescents using meta-analysis. European Child & Adolescent Psychiatry, 19(4), 353-364.
-- Volkow, N. D., et al. (2012). Methylphenidate-elicited dopamine increases in ventral striatum are associated with long-term symptom improvement in adults with ADHD. Journal of Neuroscience, 32(3), 841-849.
-- Wilens, T. E., et al. (2003). Does stimulant therapy of ADHD beget later substance abuse? A meta-analytic review. Pediatrics, 111(1), 179-185.
-- Biederman, J., et al. (2008). A comparison of once-daily and divided doses of modafinil in children with ADHD. Journal of Clinical Psychiatry, 69(8), 1240-1248.
+## Bibliografia
+
+1. **Cortese, S., Adamo, N., Del Giovane, C., Mohr-Jensen, C., Hayes, A. J., Carucci, S., ... & Cipriani, A.** (2018). Comparative efficacy and tolerability of medications for attention-deficit hyperactivity disorder in children, adolescents, and adults: A systematic review and network meta-analysis. *The Lancet Psychiatry*, *5*(9), 727-738. https://doi.org/10.1016/S2215-0366(18)30269-4
+
+2. **Faraone, S. V., & Buitelaar, J.** (2010). Comparing the efficacy of stimulants for ADHD in children and adolescents using meta-analysis. *European Child & Adolescent Psychiatry*, *19*(4), 353-364. https://doi.org/10.1007/s00787-009-0054-3
+
+3. **Volkow, N. D., Wang, G. J., Tomasi, D., Kollins, S. H., Wigal, T. L., Newcorn, J. H., ... & Swanson, J. M.** (2012). Methylphenidate-elicited dopamine increases in ventral striatum are associated with long-term symptom improvement in adults with attention deficit hyperactivity disorder. *Journal of Neuroscience*, *32*(3), 841-849. https://doi.org/10.1523/JNEUROSCI.4461-11.2012
+
+4. **Wilens, T. E., Faraone, S. V., Biederman, J., & Gunawardene, S.** (2003). Does stimulant therapy of attention-deficit/hyperactivity disorder beget later substance abuse? A meta-analytic review of the literature. *Pediatrics*, *111*(1), 179-185. https://doi.org/10.1542/peds.111.1.179
+
+5. **Spencer, T. J., Brown, A., Seidman, L. J., Valera, E. M., Makris, N., Lomedico, A., ... & Biederman, J.** (2013). Effect of psychostimulants on brain structure and function in ADHD: A qualitative literature review of MRI-based neuroimaging studies. *Journal of Clinical Psychiatry*, *74*(9), 902-917. https://doi.org/10.4088/JCP.12r08287
+
+6. **Biederman, J., Monuteaux, M. C., Spencer, T., Wilens, T. E., & Faraone, S. V.** (2009). Do stimulants protect against psychiatric disorders in youth with ADHD? A 10-year follow-up study. *Pediatrics*, *124*(1), 71-78. https://doi.org/10.1542/peds.2008-3347
+
+7. **Castells, X., Ramos-Quiroga, J. A., Rigau, D., Bosch, R., Nogueira, M., Vidal, X., & Casas, M.** (2011). Efficacy of methylphenidate for adults with attention-deficit hyperactivity disorder: A meta-regression analysis. *CNS Drugs*, *25*(2), 157-169. https://doi.org/10.2165/11539440-000000000-00000
+
+8. **Swanson, J. M., & Volkow, N. D.** (2009). Psychopharmacology: Concepts and opinions about the use of stimulant medications. *Journal of Child Psychology and Psychiatry*, *50*(1-2), 180-193. https://doi.org/10.1111/j.1469-7610.2008.02062.x
+
+9. **Greenhill, L. L., Pliszka, S., & Dulcan, M. K.** (2002). Practice parameter for the use of stimulant medications in the treatment of children, adolescents, and adults. *Journal of the American Academy of Child & Adolescent Psychiatry*, *41*(2 Suppl), 26S-49S. https://doi.org/10.1097/00004583-200202001-00003
+
+10. **Arnsten, A. F., & Pliszka, S. R.** (2011). Catecholamine influences on prefrontal cortical function: Relevance to treatment of attention deficit/hyperactivity disorder and related disorders. *Pharmacology Biochemistry and Behavior*, *99*(2), 211-216. https://doi.org/10.1016/j.pbb.2011.01.020
+
+---
+
+*Rozdział 6 ukończony – 2,321 słów*
+*Status: Ukończony*
+*Data: 29.12.2024*

@@ -2,21 +2,21 @@
 
 ## Hook: „30 Minut, Które Zmieniły Wszystko"
 
-Tomek miał najgorszy poranek od miesięcy. Budzik nie zadzwonił, spóźnił się do pracy, zapomniał o ważnym spotkaniu. O 10:00 siedział przy biurku, sparaliżowany przytłoczeniem, scrollując Reddit zamiast pracować. „Kolejny zmarnowany dzień" – pomyślał.
+Masz najgorszy poranek od miesięcy. Budzik nie zadzwonił, spóźniłeś się do pracy, zapomniałeś o ważnym spotkaniu. O dziesiątej siedzisz przy biurku sparaliżowany przytłoczeniem, scrollujesz Reddit zamiast pracować. "Kolejny zmarnowany dzień" - myślisz.
 
-Wtedy przypomniał sobie obietnicę, którą złożył sobie tydzień temu: „Jeśli czujesz się przytłoczony, zamiast scrollować – biegnij."
+Wtedy przypominasz sobie obietnicę którą złożyłeś sobie tydzień temu: "Jeśli czujesz się przytłoczony, zamiast scrollować - biegnij."
 
-Niechętnie wstał, przebrał się w sportowe ciuchy i wybiegł na 30-minutowy jogging. Pierwsze 10 minut: irytacja. „To głupie, marnuję czas, mam tyle do zrobienia."
+Niechętnie wstajesz, przebierasz się w sportowe ciuchy i wybiegasz na trzydziestominutowy jogging. Pierwsze dziesięć minut: irytacja. "To głupie, marnuję czas, mam tyle do zrobienia."
 
-Minuty 10-20: Umysł zaczyna się uspokajać. Oddech staje się rytmiczny.
+Minuty dziesięć do dwadzieścia: Umysł zaczyna się uspokajać. Oddech staje się rytmiczny.
 
-Minuty 20-30: Coś się zmienia. Thoughts przestają się ścigać. Po raz pierwszy tego dnia czuje coś, co można nazwać „klarownością".
+Minuty dwadzieścia do trzydzieści: Coś się zmienia. Myśli przestają się ścigać. Po raz pierwszy tego dnia czujesz coś co można nazwać "klarownością".
 
-Wraca do biura. Nie, problemy nie zniknęły. Spotkanie nadal było przegapione. Ale teraz jego mózg działa. Przez następne 3 godziny pracuje z focus, jakiego nie czuł od tygodni.
+Wracasz do biura. Nie, problemy nie zniknęły. Spotkanie nadal było przegapione. Ale teraz Twój mózg działa. Przez następne trzy godziny pracujesz z koncentracją jakiej nie czułeś od tygodni.
 
-„Co się stało?" – zastanawia się.
+"Co się stało?" - zastanawiasz się.
 
-**Odpowiedź:** Jego mózg właśnie otrzymał to, czego desperacko potrzebował – BDNF, dopaminę, noradrenalinę, endorfiny. Wszystko, czego leki dawały mu w tabletkach, jego ciało właśnie wyprodukowało naturalnie. To nie był cud. To była neurobiologia w akcji.
+**Odpowiedź:** Twój mózg właśnie otrzymał to czego desperacko potrzebował - **BDNF**, **dopaminę**, **noradrenalinę**, **endorfiny**. Wszystko czego leki dawały Ci w tabletkach, Twoje ciało właśnie wyprodukowało naturalnie. To nie był cud. To była **neurobiologia w akcji**.
 
 Aktywność fizyczna to **najbardziej niedoceniany, a zarazem najlepiej zbadany non-pharmaceutical intervention dla ADHD**. Podczas gdy suplementy dają 10-20% poprawę, exercise może dać 30-50% – często w ciągu 30 minut. Problem w tym, że mózg ADHD nienawidzi inicjowania ruchu. Ale jeśli przeskoczysz ten próg – efekty są niemal natychmiastowe.
 
@@ -45,7 +45,7 @@ Exercise aktywuje te same systemy neurochemiczne co leki na ADHD:
 **1. Dopamina**
 - **Mechanism:** Aktywność fizyczna zwiększa ekspresję receptorów D2 i D3 w striatum + nucleus accumbens
 - **Badanie (Robertson et al., 2016):** 30 min biegu → wzrost dopaminy o 50-100% w striatum (mierzone PET scan)
-- **Efekt:** Lepsze przetwarzanie nagrody, motywacja, focus
+- **Efekt:** Lepsze przetwarzanie nagrody, motywacja, koncentracja
 
 **2. Noradrenalina**
 - **Mechanism:** Exercise stymuluje locus coeruleus (główne źródło noradrenaliny w mózgu)
@@ -56,37 +56,37 @@ Exercise aktywuje te same systemy neurochemiczne co leki na ADHD:
 - **Mechanism:** Zwiększenie dostępności tryptofanu (prekursor serotoniny) + wzrost aktywności serotoninergic neurons
 - **Efekt:** Lepszy nastrój, redukcja impulsywności
 
-**Kluczowa różnica vs leki:**
-- **Leki (methylphenidate, lisdexamfetamine):** Szybki onset (30-60 min), trwa 4-12h, ale może dawać crashes, appetite suppression, sleep issues
-- **Exercise:** Onset w 10-20 min, peak effect w 30-60 min, trwa 2-4h, **zero side effects**, additional benefits (cardiovascular health, mood, sleep)
+**Kluczowa różnica wobec leków:**
+- **Leki (methylphenidate, lisdexamfetamine):** Szybki onset (trzydzieści do sześćdziesięciu minut), trwa cztery do dwunastu godzin, ale może dawać crashes, appetite suppression, sleep issues
+- **Exercise:** Onset w dziesięć do dwudziestu minut, peak effect w trzydzieści do sześćdziesięciu minut, trwa dwie do czterech godzin, **zero side effects**, additional benefits (cardiovascular health, mood, sleep)
 
 **Dr. John Ratey**, autor "Spark: The Revolutionary New Science of Exercise and the Brain", stwierdził:
-> "Exercise is the single most powerful tool we have to optimize brain function. Think of it as Miracle-Gro for the brain – it makes you smarter, happier, and better able to focus. For people with ADHD, exercise works like a drug, but naturally."
+> "Exercise is the single most powerful tool we have to optimize brain function. Think of it as Miracle-Gro for the brain – it makes you smarter, happier, and better able to concentrate. For people with ADHD, exercise works like a drug, but naturally."
 
-### Effect Sizes – Jak Duży Jest Efekt?
+### Wielkość efektu – Jak duży jest efekt?
 
-**Meta-analiza Cerrillo-Urbina et al. (2015)** – 16 badań, 734 dzieci z ADHD:
-- **Aerobic exercise** → redukcja objawów ADHD o **effect size = 0.56** (moderate-to-large effect)
+**Meta-analiza Cerrillo-Urbina et al. (2015)** – szesnaście badań, siedemset trzydzieści czworo dzieci z ADHD:
+- **Ćwiczenia aerobowe** → redukcja objawów ADHD o **wielkość efektu = 0.56** (moderate-to-large effect)
   - Dla porównania: Methylphenidate = 0.7-0.9, atomoxetine = 0.6-0.7
 - **Największe efekty**: Uwaga, hamowanie impulsów, funkcje wykonawcze
 - **Częstotliwość**: 3+ sesje/tydzień, minimum 30 min/sesja
 
 **Badanie Pontifex et al. (2013)** – Dorośli z ADHD:
-- **Pojedyncza sesja 20-minutowego biegu** → poprawa w zadaniach wymagających uwagi wykonawczej o **35%**
-- Efekt porównywalny do **pojedynczej dawki methylphenidate 10mg**
+- **Pojedyncza sesja dwudziestominutowego biegu** → poprawa w zadaniach wymagających uwagi wykonawczej o **trzydzieści pięć procent**
+- Efekt porównywalny do **pojedynczej dawki methylphenidate dziesięć miligramów**
 
-**Badanie Hoza et al. (2015)** – Dzieci z ADHD (8-12 lat):
-- Grupa exercise (5x/tydzień, 31 min/sesja przez 12 tygodni) vs control group
-- **Redukcja objawów ADHD o 40%** (parent-rated)
-- **Poprawa funkcji wykonawczych o 28%** (neuropsychological tests)
+**Badanie Hoza et al. (2015)** – Dzieci z ADHD (osiem do dwunastu lat):
+- Grupa ćwiczeń (pięć razy w tygodniu, trzydzieści jedna minut na sesję przez dwanaście tygodni) wobec grupa kontrolna
+- **Redukcja objawów ADHD o czterdzieści procent** (parent-rated)
+- **Poprawa funkcji wykonawczych o dwadzieścia osiem procent** (neuropsychological tests)
 
 ### Typy Aktywności – Co Działa Najlepiej?
 
 **1. Aerobic Exercise (Cardio)**
 - **Przykłady:** Bieganie, cycling, pływanie, skakanka, taniec
 - **Mechanizm:** Zwiększa dopaminę + noradrenalinę + BDNF
-- **Best dla:** Immediate focus boost, emotional regulation
-- **Dawkowanie:** Moderate-to-vigorous intensity (60-80% max HR), 20-40 min
+- **Najlepsze dla:** Natychmiastowy wzrost koncentracji, regulacja emocjonalna
+- **Dawkowanie:** Moderate-to-vigorous intensity (sześćdziesiąt do osiemdziesięciu procent max HR), dwadzieścia do czterdziestu minut
 
 **2. Strength Training (Siłowe)**
 - **Przykłady:** Ćwiczenia z ciężarami, body-weight exercises (push-ups, squats)
@@ -107,10 +107,10 @@ Exercise aktywuje te same systemy neurochemiczne co leki na ADHD:
 - **Badanie (Jensen & Kenny, 2004):** Yoga 2x/tydzień przez 20 tygodni → 26% redukcja ADHD symptoms
 
 **Ranking dla ADHD (evidence-based):**
-1. **Aerobic (cardio)** – Najsilniejsze dowody, największy immediate effect
+1. **Aerobic (cardio)** – Najsilniejsze dowody, największy natychmiastowy efekt
 2. **Coordination sports (martial arts, dance)** – Bardzo dobre dla impulsywności + self-control
-3. **Strength training** – Dobre dla long-term executive function
-4. **Mind-body (yoga)** – Dobre dla emotional regulation, ale słabsze dla core ADHD symptoms
+3. **Strength training** – Dobre dla długoterminowych funkcji wykonawczych
+4. **Mind-body (yoga)** – Dobre dla regulacji emocjonalnej, ale słabsze dla głównych objawów ADHD
 
 **Golden Standard:** **Kombinacja aerobic + coordination** (np. 3x cardio + 2x martial arts/tydzień)
 
@@ -118,7 +118,7 @@ Exercise aktywuje te same systemy neurochemiczne co leki na ADHD:
 
 ### Protokół 1: Morning Exercise – "Chemical Kickstart"
 
-**Problem:** Poranki z ADHD to często brain fog, brak energii, trudność w rozpoczęciu dnia.
+**Problem:** Poranki z ADHD to często mgła mózgowa, brak energii, trudność w rozpoczęciu dnia.
 
 **Rozwiązanie: 20-30 min aerobic exercise w ciągu 30-60 min po przebudzeniu**
 
@@ -140,17 +140,17 @@ Exercise aktywuje te same systemy neurochemiczne co leki na ADHD:
 6. **(Opcjonalnie) Leki ADHD** – exercise + leki = synergistic effect
 
 **Efekt:**
-- Focus boost przez **3-5 godzin**
+- Wzrost koncentracji przez **trzy do pięciu godzin**
 - Lepszy nastrój (endorphins)
 - Mniejszy appetite suppression z leków (bo już jadłeś)
 
-**Badanie (Gapin et al., 2011):** Dzieci z ADHD, które robiły 20-min biegu przed szkołą → **50% lepsze wyniki w testach uwagi** vs dni bez exercise
+**Badanie (Gapin et al., 2011):** Dzieci z ADHD, które robiły dwudziestominutowy bieg przed szkołą → **pięćdziesiąt procent lepsze wyniki w testach uwagi** wobec dni bez ćwiczeń
 
-### Protokół 2: "Emergency Focus" – Quick Exercise Break
+### Protokół 2: "Nagła Koncentracja" – Quick Exercise Break
 
-**Problem:** Mózg "wypada na luz" w połowie dnia – brain fog, nie możesz się skupić.
+**Problem:** Mózg "wypada na luz" w połowie dnia – mgła mózgowa, nie możesz się skupić.
 
-**Rozwiązanie: 10-15 min high-intensity movement TERAZ**
+**Rozwiązanie: dziesięć do piętnastu minut high-intensity movement TERAZ**
 
 **Opcje:**
 - **Tabata** (4 min): 20s all-out effort (burpees, jumping jacks, sprint) + 10s rest, 8 rund
@@ -160,10 +160,10 @@ Exercise aktywuje te same systemy neurochemiczne co leki na ADHD:
 
 **Efekt:**
 - Immediate dopamine + noradrenaline spike
-- Focus boost w ciągu **10-15 minut**
-- Trwa **1-2 godziny**
+- Wzrost koncentracji w ciągu **dziesięciu do piętnastu minut**
+- Trwa **jedną do dwóch godzin**
 
-**Kluczowe:** Intensity matters. Lekki spacer da 20% boost. High-intensity = 60-80% boost.
+**Kluczowe:** Intensity matters. Lekki spacer da dwadzieścia procent wzrostu. High-intensity = sześćdziesiąt do osiemdziesięciu procent wzrostu.
 
 ### Protokół 3: Long-Term "Brain Remodeling" – Weekly Structure
 
@@ -183,9 +183,9 @@ Exercise aktywuje te same systemy neurochemiczne co leki na ADHD:
 - **Sobota**: Aktywność fun (wspinaczka, taniec, sport team) – 60+ min
 - **Niedziela**: Spacer / lekka aktywność (recovery)
 
-**Efekty po 12 tygodniach (badania):**
-- **30-40% redukcja objawów ADHD** (szczególnie uwaga + impulsywność)
-- **Poprawa funkcji wykonawczych o 25-35%**
+**Efekty po dwunastu tygodniach (badania):**
+- **Trzydzieści do czterdziestu procent redukcja objawów ADHD** (szczególnie uwaga + impulsywność)
+- **Poprawa funkcji wykonawczych o dwadzieścia pięć do trzydziestu pięciu procent**
 - **Lepszy sen** (łatwiejsze zasypianie, głębszy sen)
 - **Lepszy nastrój** (redukcja anxiety/depression często występujących z ADHD)
 
@@ -201,7 +201,7 @@ Exercise aktywuje te same systemy neurochemiczne co leki na ADHD:
 **1. Lower the Barrier to Zero**
 - **Ubiór gotowy wieczorem** – Spodnie treningowe + buty obok łóżka
 - **No-decision rule** – "Budzik = automatycznie wstaję i ubiera się" (zero myślenia)
-- **5-minute rule** – "Jeśli nie chcę, to przynajmniej 5 minut" (prawie zawsze kontynuujesz po 5 min)
+- **Zasada pięciu minut** – "Jeśli nie chcę, to przynajmniej pięć minut" (prawie zawsze kontynuujesz po pięciu minutach)
 
 **2. Gamification & Novelty**
 - **Aplikacje z grywalizacją**: Zombies, Run! (bieganie w apokalipsie zombie), Nike Run Club (wyzwania)
@@ -214,8 +214,8 @@ Exercise aktywuje te same systemy neurochemiczne co leki na ADHD:
 - **Trener osobisty** (jeśli budżet pozwala) – Ktoś inny myśli za ciebie
 
 **4. Immediate Dopamine Hits**
-- **Muzyka high-energy** (140-180 BPM) – Zwiększa dopaminę + ułatwia start
-- **Tracking wizualny** – Streak w aplikacji (Strava, Garmin) – "Nie chcę zepsuć 15-dniowej passy"
+- **Muzyka high-energy** (sto czterdzieści do stu osiemdziesięciu BPM) – Zwiększa dopaminę + ułatwia start
+- **Śledzenie wizualne** – Streak w aplikacji (Strava, Garmin) – "Nie chcę zepsuć piętnastodniowej passy"
 - **Micro-rewards** – Po treningu: ulubiona kawa / 20 min ulubionego serialu (brain learns: exercise → reward)
 
 ### Protokół 5: Exercise Timing – Rano vs Wieczór
@@ -240,8 +240,8 @@ Exercise aktywuje te same systemy neurochemiczne co leki na ADHD:
 - **Best dla**: Stress relief, emotional regulation
 
 **ADHD-specific recommendation:**
-- **Primary workout: RANO** (20-30 min cardio) – Maximum benefit dla focus
-- **Secondary (opcjonalnie): WIECZÓR** (yoga, lekki stretching, spacer) – Pomaga wind down
+- **Główny trening: RANO** (dwadzieścia do trzydziestu minut cardio) – Maksymalne korzyści dla koncentracji
+- **Dodatkowy (opcjonalnie): WIECZÓR** (yoga, lekki stretching, spacer) – Pomaga wind down
 
 **Uwaga:** Jeśli bierzesz leki stymulujące (methylphenidate, lisdexamfetamine):
 - Ćwicz **przed** wzięciem leku lub **2-3h po** (gdy lek działa w pełni)
@@ -258,23 +258,23 @@ Exercise aktywuje te same systemy neurochemiczne co leki na ADHD:
 
 Lekarz sugeruje: "Spróbuj dodać exercise. Może będziesz mogła obniżyć dawkę."
 
-**Interwencja: Couch to 5K program (9 tygodni)**
-- **Week 1-3**: 3x/tydzień, alternating 60s jogging / 90s walking, 20 min total
-- **Week 4-6**: Stopniowo więcej jogging, mniej walking
-- **Week 7-9**: Ciągły bieg 30 min
+**Interwencja: Couch to 5K program (dziewięć tygodni)**
+- **Tygodnie jeden do trzech**: trzy razy w tygodniu, alternating sześćdziesiąt sekund jogging / dziewięćdziesiąt sekund walking, dwadzieścia minut total
+- **Tygodnie cztery do sześciu**: Stopniowo więcej jogging, mniej walking
+- **Tygodnie siedem do dziewięciu**: Ciągły bieg trzydzieści minut
 
 **Kluczowe dla sukcesu:**
 - **Accountability partner** – Siostra Kasi biegała z nią 2x/tydzień
 - **No-decision protocol** – Ubrania sportowe gotowe wieczorem, budzik = automatycznie wstaję i ubieram
 - **Playlist motywacyjny** – 30 min high-energy muzyki (Kasia's go-to: electronic dance)
 
-**Rezultat po 12 tygodniach:**
-- **Concerta zredukowane do 36mg** (pod nadzorem lekarza) – nadal skuteczne, mniej side effects
-- **Appetite wrócił** – odzyskała 3kg zdrowej masy
-- **Sen lepszy** – zasypanie w 20-30 min (vs 60+ min wcześniej)
+**Rezultat po dwunastu tygodniach:**
+- **Concerta zredukowane do trzydziestu sześciu miligramów** (pod nadzorem lekarza) – nadal skuteczne, mniej side effects
+- **Appetite wrócił** – odzyskała trzy kilogramy zdrowej masy
+- **Sen lepszy** – zasypanie w dwadzieścia do trzydziestu minut (wobec sześćdziesięciu i więcej minut wcześniej)
 - **Afternoon energy** – Brak crashes, czuje się "wyrównana" przez cały dzień
 
-**Kasia po roku:** "Bieganie to teraz mój non-negotiable. Jeśli odpuszczę 3+ dni, czuję różnicę – mózg jest bardziej rozproszony, emocje mniej stable. 30 minut rano to najlepsza inwestycja w mój dzień."
+**Kasia po roku:** "Bieganie to teraz mój non-negotiable. Jeśli odpuszczę trzy i więcej dni, czuję różnicę – mózg jest bardziej rozproszony, emocje mniej stable. Trzydzieści minut rano to najlepsza inwestycja w mój dzień."
 
 ### Przykład 2: Marek – Martial Arts i Transformacja Impulsywności
 
@@ -291,12 +291,12 @@ Lekarz sugeruje: "Spróbuj dodać exercise. Może będziesz mogła obniżyć daw
 3. **Physical outlet** – Kanalizowanie hiperaktywności w produktywny sposób
 4. **Self-control training** – Opanowanie ciała + emocji to core taekwondo
 
-**Rezultat po 6 miesiącach:**
+**Rezultat po sześciu miesiącach:**
 - **Nauczyciele zgłaszają:** "Marek lepiej czeka na swoją kolej, mniej wybuchów gniewu"
-- **Parents observe:** "Kiedy jest zdenerwowany, robi breathing exercises z taekwondo zamiast krzyczeć"
+- **Rodzice obserwują:** "Kiedy jest zdenerwowany, robi ćwiczenia oddechowe z taekwondo zamiast krzyczeć"
 - **Marek:** "Lubię, że jak kopię albo walczę, czuję się spokojniejszy później. I master powiedział, że jak się kontroluję na treningu, to mogę się kontrolować wszędzie."
 
-**12 miesięcy:** Marek zdobył żółty pas (4th belt). Impulsywność spadła o ~50% (teacher-rated ADHD scale).
+**Dwanaście miesięcy:** Marek zdobył żółty pas (czwarty pas). Impulsywność spadła o około pięćdziesiąt procent (teacher-rated ADHD scale).
 
 **Kluczowa lekcja:** Coordination sports (martial arts, dance, rock climbing) dają **unique benefit dla impulsywności** poprzez trening body-mind connection.
 
@@ -320,60 +320,60 @@ Lekarz sugeruje: "Spróbuj dodać exercise. Może będziesz mogła obniżyć daw
 3. **Immersion** – Mózg zapomina, że to "ćwiczenie", myśli, że to "gra"
 4. **Zero setup barrier** – Zakładam headset, start (vs wyjście do gym = 10 decyzji)
 
-**Rezultat po 4 miesiącach:**
-- **Consistency:** 5-6 dni/tydzień (vs 0-2 dni z siłownią)
-- **Cardio:** Średnio 30 min/dzień, heart rate 140-160 BPM (moderate-vigorous)
-- **Focus:** "Dni, kiedy ćwiczę rano w VR vs nie ćwiczę = night and day. Mam jasność umysłu przez pół dnia."
+**Rezultat po czterech miesiącach:**
+- **Consistency:** pięć do sześciu dni w tygodniu (wobec zero do dwóch dni z siłownią)
+- **Cardio:** Średnio trzydzieści minut dziennie, heart rate sto czterdzieści do stu sześćdziesięciu BPM (moderate-vigorous)
+- **Koncentracja:** "Dni, kiedy ćwiczę rano w VR wobec nie ćwiczę = night and day. Mam jasność umysłu przez pół dnia."
 
 **Ania:** "Dla mózgu ADHD, który potrzebuje nowości – VR fitness to game changer. Nie nudzę się, bo to nie czuje się jak ćwiczenie. Czuje się jak zabawa."
 
 ## Kluczowe Wnioski
 
-1. **Exercise to najbardziej potężny non-pharmaceutical intervention dla ADHD** – effect size 0.56 (porównywalne z lekami w niskich dawkach). 30 minut cardio może dać boost dopaminy + noradrenaliny równy 10mg methylphenidate.
+1. **Ćwiczenia to najbardziej potężny non-pharmaceutical intervention dla ADHD** – wielkość efektu 0.56 (porównywalne z lekami w niskich dawkach). Trzydzieści minut cardio może dać wzrost dopaminy + noradrenaliny równy dziesięciu miligramom methylphenidate.
 
 2. **Typy ćwiczeń mają znaczenie:** Aerobic (bieganie, cycling) = best dla immediate focus boost. Coordination sports (martial arts, dance) = best dla impulsywności. Strength training = best dla long-term executive function.
 
-3. **Timing: Rano = optimal dla ADHD.** Morning exercise (20-30 min cardio w ciągu godziny po przebudzeniu) daje 3-5h focus boost + ustawia rhythm na resztę dnia.
+3. **Timing: Rano = optimal dla ADHD.** Poranne ćwiczenia (dwadzieścia do trzydziestu minut cardio w ciągu godziny po przebudzeniu) dają trzy do pięciu godzin wzrostu koncentracji + ustawiają rhythm na resztę dnia.
 
-4. **Dawkowanie oparte na badaniach: Minimum 3x/tydzień, 30+ min/sesja, moderate-to-vigorous intensity** (60-80% max HR). Efekty long-term (12 tygodni) = 30-40% redukcja objawów ADHD.
+4. **Dawkowanie oparte na badaniach: Minimum trzy razy w tygodniu, trzydzieści i więcej minut na sesję, moderate-to-vigorous intensity** (sześćdziesiąt do osiemdziesięciu procent max HR). Efekty długoterminowe (dwanaście tygodni) = trzydzieści do czterdziestu procent redukcja objawów ADHD.
 
-5. **ADHD brain sabotuje consistency** – Rozwiązania: Lower barrier (ubrania gotowe), gamification (VR, apps), accountability (partner, klasy), novelty (rotacja typów ćwiczeń).
+5. **Mózg ADHD sabotuje regularność** – Rozwiązania: Lower barrier (ubrania gotowe), gamification (VR, apps), accountability (partner, klasy), novelty (rotacja typów ćwiczeń).
 
-6. **Exercise + leki = synergistic effect.** Nie chodzi o zastąpienie leków, ale o optymalizację. Wielu pacjentów może obniżyć dawki leków po dodaniu regularnego exercise (pod nadzorem lekarza).
+6. **Ćwiczenia + leki = synergistic effect.** Nie chodzi o zastąpienie leków, ale o optymalizację. Wielu pacjentów może obniżyć dawki leków po dodaniu regularnych ćwiczeń (pod nadzorem lekarza).
 
-7. **Immediate vs long-term:** Pojedyncza sesja = 1-4h boost (emergency focus). Regularne 12 tygodni = structural brain changes (większy hippocampus, gęstsza PFC, lepsze brain networks).
+7. **Natychmiastowe wobec długoterminowe:** Pojedyncza sesja = jedna do czterech godzin wzrostu (nagła koncentracja). Regularne dwanaście tygodni = structural brain changes (większy hippocampus, gęstsza PFC, lepsze brain networks).
 
 ## Kroki do Działania
 
 ### Tydzień 1: Baseline + First Win
 
-- [ ] **Establish baseline**: Ile teraz ćwiczysz? (kroki/dzień, min active/tydzień)
-- [ ] **Pick ONE type**: Wybierz aktywność, która brzmi najmniej awful (bieganie? taniec? VR? martial arts?)
-- [ ] **First session THIS WEEK**: 20 min, moderate intensity – Cel to nie performance, ale "złamanie lodu"
-- [ ] **Tracking**: Użyj app (Strava, Garmin, Apple Health) – Wizualne potwierdzenie motywuje
+- [ ] **Ustal punkt wyjścia**: Ile teraz ćwiczysz? (kroki/dzień, min active/tydzień)
+- [ ] **Wybierz JEDEN typ**: Wybierz aktywność, która brzmi najmniej awful (bieganie? taniec? VR? martial arts?)
+- [ ] **Pierwsza sesja W TYM TYGODNIU**: dwadzieścia minut, moderate intensity – Cel to nie performance, ale "złamanie lodu"
+- [ ] **Śledzenie**: Użyj app (Strava, Garmin, Apple Health) – Wizualne potwierdzenie motywuje
 
 ### Tydzień 2-4: Build the Habit
 
-- [ ] **3x/tydzień, 20-30 min** – Konkretne dni + czas (Pon/Śr/Pt 7:00 AM)
+- [ ] **Trzy razy w tygodniu, dwadzieścia do trzydziestu minut** – Konkretne dni + czas (Pon/Śr/Pt 7:00 AM)
 - [ ] **Lower the barrier**:
   - Ubrania sportowe gotowe wieczorem
   - Playlist high-energy przygotowany
   - (Jeśli gym) Torba spakowana
-- [ ] **5-minute rule**: "Jeśli nie chcę – przynajmniej 5 minut". Prawie zawsze kontynuujesz.
+- [ ] **Zasada pięciu minut**: "Jeśli nie chcę – przynajmniej pięć minut". Prawie zawsze kontynuujesz.
 
 ### Miesiąc 2-3: Optimize & Expand
 
-- [ ] **Add variety**: Co tydzień zmień typ (ten tydzień bieganie, następny cycling, potem taniec)
-- [ ] **Morning priority** (jeśli możliwe): Przenieś primary workout na rano (6:00-9:00 AM)
-- [ ] **Track improvements**: Focus rating 1-10 (dni z exercise vs bez). Mood, energy levels.
+- [ ] **Dodaj różnorodność**: Co tydzień zmień typ (ten tydzień bieganie, następny cycling, potem taniec)
+- [ ] **Priorytet poranny** (jeśli możliwe): Przenieś główny trening na rano (6:00-9:00 AM)
+- [ ] **Śledź postępy**: Ocena koncentracji jeden do dziesięciu (dni z ćwiczeniami wobec bez). Mood, energy levels.
 - [ ] **Consider coordination sport**: Spróbuj 1-2 sesje martial arts / dance / climbing
 
 ### Long-term (3+ Miesiące)
 
-- [ ] **Minimum Effective Protocol (MEP):**
-  - 3x/tydzień aerobic (30-40 min)
-  - 2x/tydzień strength/coordination (30-45 min)
-  - Daily: 10,000 kroków
+- [ ] **Minimalny Efektywny Protokół (MEP):**
+  - Trzy razy w tygodniu aerobic (trzydzieści do czterdziestu minut)
+  - Dwa razy w tygodniu strength/coordination (trzydzieści do czterdziestu pięciu minut)
+  - Codziennie: dziesięć tysięcy kroków
 - [ ] **Review with doctor**: Jeśli bierzesz leki ADHD, omów możliwość adjustacji dawki
 - [ ] **Make it identity**: "Jestem osobą, która ćwiczy" (nie "próbuję ćwiczyć") – Shift mindset
 

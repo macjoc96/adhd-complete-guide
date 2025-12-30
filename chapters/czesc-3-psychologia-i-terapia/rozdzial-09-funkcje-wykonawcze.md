@@ -2,7 +2,7 @@
 
 ## Hook / Opening
 
-Tomek, 32-letni programista, siedział przed komputerem z trzema otwartymi projektami, dwudziestoma zakładkami w przeglądarce i rosnącym poczuciem paniki. Wiedział *dokładnie*, co powinien zrobić – deadline za 3 dni, priorytet jasny. Ale jego mózg nie współpracował. Zamiast skupić się na najważniejszym zadaniu, przeskakiwał między e-mailami, Slackiem, artykułem o nowej bibliotece JavaScript, a nawet zaczął refaktoryzować kod, który wcale nie wymagał poprawy. "Dlaczego nie mogę po prostu... *zrobić* tego, co wiem, że powinienem zrobić?" zapytał sam siebie po raz setny tego dnia.
+Siedzisz przed komputerem z trzema otwartymi projektami, dwudziestoma zakładkami w przeglądarce i rosnącym poczuciem paniki. Wiesz *dokładnie*, co powinieneś zrobić – deadline za trzy dni, priorytet jasny. Ale Twój mózg nie współpracuje. Zamiast skupić się na najważniejszym zadaniu, przeskakujesz między e-mailami, komunikatorem, artykułem o czymś teoretycznie przydatnym, a nawet zaczynasz poprawiać coś, co wcale nie wymaga poprawy teraz. "Dlaczego nie mogę po prostu... *zrobić* tego, co wiem, że powinienem zrobić?" - pytasz sam siebie po raz setny tego dnia.
 
 To pytanie trafia w sedno ADHD. Wielu ludzi myśli, że ADHD to problem z uwagą – że osoby z ADHD "nie potrafią się skupić". Ale prawda jest głębsza i bardziej skomplikowana. **ADHD to przede wszystkim zaburzenie funkcji wykonawczych** – mentalnego "systemu operacyjnego", który pozwala nam planować, organizować, kontrolować impulsy, zarządzać czasem, regulować emocje i realizować cele mimo przeszkód. To jak mieć Ferrari (mózg) z hamulcami od Fiata (funkcje wykonawcze) – motor działa świetnie, ale kontrola nad pojazdem jest problematyczna.
 
@@ -31,162 +31,77 @@ Neuropsycholog **Russell Barkley** i inni badacze zidentyfikowali kluczowe funkc
 
 #### 1. **Pamięć Robocza (Working Memory)**
 
-**Definicja:** Zdolność do trzymania i manipulowania informacją w umyśle przez krótki okres (sekundy do minut).
+To zdolność do trzymania i manipulowania informacją w umyśle przez krótki okres - sekundy do minut maksymalnie. Mózg utrzymuje informacje "aktywne" w korze przedczołowej, nawet gdy nie są fizycznie obecne przed Tobą. Pamiętasz numer telefonu przez dziesięć sekund, żeby go wpisać. Trzymasz w głowie instrukcję podczas wykonywania zadania. To jak mentalna tablica, na której zapisujesz rzeczy tymczasowo.
 
-**Jak działa:**
-- Mózg trzyma informacje "aktywne" w PFC, nawet gdy nie są fizycznie obecne
-- Przykład: Pamiętasz numer telefonu przez 10 sekund, aby go wpisać; trzymasz w głowie instrukcję podczas wykonywania zadania
+W ADHD ta tablica jest mniejsza i szybko się wymazuje. **Zmniejszona pojemność** oznacza, że trudniej utrzymać wiele informacji jednocześnie - kiedy neurotypowa osoba może żonglować pięcioma elementami, Ty możesz utrzymać trzy, może cztery. **Szybsze "wyblakiwanie"** informacji to dramat: zapominasz co miałeś zrobić dosłownie po pięciu sekundach. Idziesz po coś do drugiego pokoju i w połowie drogi... znika. Co to było? **Problemy z manipulacją informacją** utrudniają robienie matematyki w pamięci, rozumienie złożonych instrukcji z wieloma krokami, śledzenie złożonej rozmowy.
 
-**Jak ADHD to zaburza:**
-- Zmniejszona pojemność pamięci roboczej – trudniej utrzymać wiele informacji jednocześnie
-- Szybsze "wyblakiwanie" informacji – zapominasz, co miałeś zrobić po 5 sekundach
-- Problemy z manipulacją informacją – trudno robić matematykę w pamięci, rozumieć złożone instrukcje
+Jak to wygląda w życiu? Klasyczny przykład: idziesz do kuchni po wodę. Po drodze widzisz brudny talerz, zanosisz go do zlewu. Przy zlewie widzisz śmieci, wynosisz je. Wracasz do pokoju i... stoisz zdezorientowany, bo kompletnie zapomniałeś po co w ogóle wstałeś. Albo czytasz książkę - dochodzisz do końca strony i nagle zdajesz sobie sprawę, że nic nie pamiętasz. Słowa weszły przez oczy, ale nie zostały "zatrzymane" w pamięci roboczej. Albo rozmowa: ktoś mówi "Jutro o piętnastej, przynieś dokumenty A, B i C" - a Ty pamiętasz tylko "jutro" i "dokumenty". Reszta wyparowała.
 
-**Przykłady z życia:**
-- Idziesz do kuchni po wodę, ale po drodze widzisz brudny talerz, zanosisz go do zlewu, widzisz śmieci, wynosisz je, wracasz do pokoju i zapominasz po co poszedłeś
-- Czytasz książkę, dochodzisz do końca strony i zdajesz sobie sprawę, że nic nie pamiętasz – słowa weszły, ale nie zostały "zatrzymane"
-- W rozmowie ktoś mówi "Jutro o 15:00, przynieś dokumenty A, B i C", a ty pamiętasz tylko "jutro" i "dokumenty"
-
-**Badania:**
-- Meta-analiza Martinussen et al. (2005): Osoby z ADHD mają średnio o 0.5-1 SD niższą wydolność pamięci roboczej niż neurotypowi
-- Deficyt dotyczy zarówno pamięci werbalnej (słowa, liczby) jak i przestrzennej (wzory, lokalizacje)
+**Meta-analiza Martinussen i współpracowników (2005)** zmierzyła to precyzyjnie: osoby z ADHD mają średnio o 0.5-1 odchylenia standardowego niższą wydolność pamięci roboczej niż osoby neurotypowe. Deficyt dotyczy zarówno pamięci werbalnej (słowa, liczby) jak i przestrzennej (wzory, lokalizacje, "gdzie położyłem klucze").
 
 #### 2. **Hamowanie Impulsów (Inhibition / Impulse Control)**
 
-**Definicja:** Zdolność do powstrzymania automatycznej lub dominującej reakcji, aby zastąpić ją bardziej odpowiednią.
+To zdolność do powstrzymania automatycznej lub dominującej reakcji, aby zastąpić ją bardziej odpowiednią. Normalnie kora przedczołowa działa jak hamulec - "hamuje" impulsy płynące z układu limbicznego (emocje, natychmiastowa nagroda). Klasyczny test tego: Test Stroopa - słowo "CZERWONY" napisane na zielono. Musisz powiedzieć "zielony", hamując automatyczną reakcję "przeczytaj słowo". To wymaga świadomego powstrzymania impulsu.
 
-**Jak działa:**
-- PFC "hamuje" impulsy z układu limbicznego (emocje, nagroda)
-- Test Stroopa: Słowo "CZERWONY" napisane na zielono – musisz powiedzieć "zielony", hamując automatyczną reakcję "przeczytaj słowo"
+W ADHD ten hamulec jest wadliwy. **Słabsze hamowanie behawioralne** oznacza, że mówisz lub robisz rzeczy bez zastanowienia - słowa wylatują z ust zanim zdążysz pomyśleć "czy to dobry pomysł?". **Trudności z opóźnianiem gratyfikacji** - "chcę teraz" konsekwentnie wygrywa nad "lepsze później", nawet gdy racjonalnie wiesz co jest mądrzejsze. **Problemy z przerwaniem akcji** - trudno zatrzymać się w połowie zadania, nawet gdy orientujesz się że to zły kierunek. Impuls ciągnie dalej.
 
-**Jak ADHD to zaburza:**
-- Słabsze hamowanie behawioralne – mówisz/robisz rzeczy bez zastanowienia
-- Trudności z opóźnianiem gratyfikacji – "chcę teraz" wygrywa nad "lepsze później"
-- Problemy z przerwaniem akcji – trudno zatrzymać się w połowie zadania, nawet gdy wiesz, że to zły kierunek
+W życiu to wygląda tak: przerywasz ludziom w połowie zdania. Wiesz że to niegrzeczne, czujesz jak myśl rośnie w głowie, mówisz sobie "poczekaj aż skończą" - ale impuls jest silniejszy i już mówisz. Albo widzisz ciastko w lodówce, jesteś na diecie, powiedziałeś sobie "nie" rano - ale sięgasz po nie zanim zdążysz świadomie pomyśleć. Albo klasyk: scrollujesz social media "tylko 5 minut" - dwie godziny później wciąż scrollujesz, choć racjonalna część mózgu krzyczy "przestań!". Albo w dyskusji: emocje biorą górę i mówisz rzeczy, które później żałujesz, bo hamulce nie zadziałały na czas.
 
-**Przykłady z życia:**
-- Przerywasz ludziom w połowie zdania (wiesz, że to niegrzeczne, ale impuls jest silniejszy)
-- Widzisz ciastko w lodówce, wiesz że jesteś na diecie, ale sięgasz po nie zanim zdążysz pomyśleć
-- Scrollujesz social media "tylko 5 minut", dwie godziny później wciąż scrollujesz
-- W dyskusji emocje biorą górę – mówisz rzeczy, które później żałujesz
-
-**Badania:**
-- Test Go/No-Go: Osoby z ADHD robią więcej błędów "komisji" (reagują gdy nie powinny)
-- fMRI pokazuje niższą aktywność w ACC podczas zadań wymagających kontroli inhibicyjnej
+**Test Go/No-Go** pokazuje to wyraźnie: osoby z ADHD robią więcej błędów "komisji" - reagują gdy nie powinny, nie potrafią powstrzymać automatycznej reakcji. **Badania fMRI** pokazują niższą aktywność w przedniej korze zakrętu obręczy (ACC) podczas zadań wymagających kontroli hamowania.
 
 #### 3. **Elastyczność Poznawcza (Cognitive Flexibility / Set Shifting)**
 
-**Definicja:** Zdolność do przełączania się między różnymi zadaniami, perspektywami lub strategiami.
+To zdolność do przełączania się między różnymi zadaniami, perspektywami lub strategiami. Mózg normalnie umie "odłożyć" jeden zestaw reguł i "wczytać" inny - jak przełączanie kanałów. **Wisconsin Card Sorting Test** sprawdza to precyzyjnie: sortuj karty według koloru, a potem nagle - bum - teraz według kształtu. Wymaga elastycznego przełączenia mentalnego trybu.
 
-**Jak działa:**
-- Mózg "odkłada" jeden zestaw reguł i "wczytuje" inny
-- Wisconsin Card Sorting Test: Sortuj karty według koloru, potem nagle według kształtu – wymaga elastycznego przełączenia
+W ADHD pojawia się fascynujący **paradoks**: masz jednocześnie zbyt dużą i zbyt małą elastyczność. **Zbyt duża** oznacza mimowolne przeskakiwanie między zadaniami - Twój umysł sam przełącza kanały bez Twojej zgody, nie możesz utrzymać focus na jednym. **Zbyt mała** objawia się jako utknięcie w jednej perspektywie lub hiperfokusie - jeśli już się wciągniesz w coś (grę, projekt, research rabbit hole), nie możesz się "oderwać", przełączyć na coś innego. Trudność z przerwaniem "trybu": jesteś w grze, musisz iść do pracy, ale mózg nie chce przełączyć trybu. Problemy z adaptacją do zmiany: gdy plan A nie zadziała, dostajesz panikę zamiast płynnie przejść na plan B.
 
-**Jak ADHD to zaburza:**
-- Paradoks: Zbyt duża elastyczność (przeskakujesz między zadaniami mimowolnie) + zbyt mała elastyczność (utkniesz w jednej perspektywie/hiperfokusie)
-- Trudność z przerwaniem "trybu" – jeśli jesteś w grze, trudno przełączyć się na pracę
-- Problemy z adaptacją do zmiany – gdy plan się zmienia, ciężko się dostosować
+W życiu wygląda to dramatycznie. Hiperfokus na grze czy projekcie - godziny mijają niezauważone, ludzie do Ciebie mówią ale nie słyszysz, fizycznie nie możesz się oderwać mimo że racjonalnie wiesz że powinieneś. Albo sytuacja odwrotna: plan się zmienia (spotkanie przesunięte, zadanie wymaga innego podejścia) i zamiast elastycznie dostosować się, dostajesz paraliż czy frustrację. Trudność z multitaskingiem jest paradoksalna - mimowolnie robisz to cały czas (przeglądarka, telefon, myśli), ale świadome, kontrolowane przełączanie między zadaniami jest bardzo trudne.
 
-**Przykłady z życia:**
-- Hiperfokus na grze/projekcie – godziny mijają, nie możesz się "oderwać"
-- Plan A nie zadziałał → panika, zamiast płynnego przejścia na Plan B
-- Trudność z multitaskingiem (paradoksalnie, mimo że ciągle to robisz mimowolnie)
-
-**Badania:**
-- Test Trail Making B (TMT-B): Osoby z ADHD potrzebują więcej czasu na przełączanie się między liczbami a literami
-- Rzadziej stosują elastyczne strategie w rozwiązywaniu problemów
+**Test Trail Making B (TMT-B)** - przełączanie się między liczbami a literami - pokazuje, że osoby z ADHD potrzebują znacznie więcej czasu na te przełączenia. Badania strategii rozwiązywania problemów pokazują, że rzadziej stosują elastyczne podejścia, trzymając się jednej strategii nawet gdy wyraźnie nie działa.
 
 #### 4. **Planowanie i Organizacja**
 
-**Definicja:** Zdolność do tworzenia planu działania, sekwencjonowania kroków i organizowania zasobów w czasie.
+To zdolność do tworzenia planu działania, sekwencjonowania kroków i organizowania zasobów w czasie. Normalnie kora przedczołowa działa jak wewnętrzny strateg - symuluje przyszłość ("jeśli zrobię A, potem B, osiągnę C"), dzieli duże zadania na mniejsze, wykonalne kroki, szacuje czas potrzebny na każdy krok i alarmuje gdy coś się nie zgadza.
 
-**Jak działa:**
-- PFC symuluje przyszłość – "jeśli zrobię A, potem B, osiągnę C"
-- Dzieli duże zadania na mniejsze kroki
-- Szacuje czas potrzebny na każdy krok
+W ADHD ten wewnętrzny strateg jest dysfunkcyjny. Po pierwsze, pojawia się tzw. **"ślepota czasowa"** - dosłownie nie czujesz upływu czasu. Szacunki czasowe są beznadziejne: myślisz że minęło 30 minut, minęło 60. Deadline za miesiąc nie wydaje się realny, więc nie wywołuje żadnej motywacji do działania. Po drugie, **trudność z rozłożeniem dużego projektu na kroki** - widzisz tylko "wielką, przytłaczającą całość", nie poszczególne, wykonalne fragmenty. To prowadzi do paraliżu. Po trzecie, **chaos w organizacji** - biurko, pliki na komputerze, e-maile, harmonogram - wszystko w nieładzie, bo system organizacyjny wymaga planowania i utrzymania, a to właśnie to co nie działa.
 
-**Jak ADHD to zaburza:**
-- "Ślepota czasowa" – nie czujesz upływu czasu, szacunki są beznadziejne
-- Trudność z rozłożeniem dużego projektu na kroki – widzisz tylko "wielką, przytłaczającą całość"
-- Chaos w organizacji – biurko, pliki, e-maile, harmonogram – wszystko w nieładzie
+Jak to wygląda w życiu? Dostajesz projekt z deadline za miesiąc. Pierwszego dnia jesteś podekscytowany. Potem... cisza. Nic przez trzy tygodnie, bo "mam jeszcze czas". Tydzień przed deadline pierwsze  szarpnięcie niepokoju. Dzień przed deadline kompletna panika i nocny maraton pracy. Albo estymacja: "To zajmie mi 30 minut" - zajmuje trzy godziny, znowu się spóźniasz, znowu rozczarowujesz ludzi. Albo duże zadanie: nie wiesz od czego zacząć, więc... nie zaczynasz wcale, siedząc w paraliżu. Gubisz rzeczy, zapominasz o spotkaniach mimo kalendarzy i dziesiątków list zadań, bo sam system organizacyjny jest zbyt skomplikowany dla Twojego mózgu.
 
-**Przykłady z życia:**
-- Projekt z deadline za miesiąc → nic przez 3 tygodnie → panika i nocny maraton ostatniego dnia
-- "To zajmie 30 minut" (zajmuje 3 godziny)
-- Nie wiesz od czego zacząć duże zadanie, więc... nie zaczynasz wcale
-- Gubisz rzeczy, zapominasz o spotkaniach, mimo kalendarzy i list zadań
-
-**Badania:**
-- Tower of London Test: Osoby z ADHD potrzebują więcej ruchów i popełniają więcej błędów w planowaniu sekwencji
-- Badania czasoocenienia: Osoby z ADHD konsekwentnie niedoszacowują czas (myślą że minęło 30 minut, minęło 60)
+**Tower of London Test** (test planowania sekwencji) pokazuje to wyraźnie: osoby z ADHD potrzebują więcej ruchów i popełniają więcej błędów. Badania szacowania czasu są jeszcze bardziej uderzające: osoby z ADHD konsekwentnie niedoszacowują czas - myślą że minęło 30 minut, faktycznie minęło 60.
 
 #### 5. **Kontrola Emocjonalna (Emotional Regulation)**
 
-**Definicja:** Zdolność do modulowania intensywności i czasu trwania emocji, aby były odpowiednie do sytuacji.
+To zdolność do modulowania intensywności i czasu trwania emocji, aby były odpowiednie do sytuacji. Normalnie kora przedczołowa działa jak regulator głośności dla emocji - **hamuje układ limbiczny**, szczególnie ciało migdałowate (amygdala), które generuje surowe, gwałtowne reakcje emocjonalne. Ten mechanizm pozwala "złapać oddech" między bodźcem emocjonalnym a reakcją - ktoś Cię skrytykował, czujesz złość, ale PFC mówi "poczekaj, przeanalizuj, czy to racjonalna krytyka, odpowiedz spokojnie".
 
-**Jak działa:**
-- PFC hamuje układ limbiczny (szczególnie ciało migdałowate – amygdala)
-- Pozwala "złapać oddech" między bodźcem emocjonalnym a reakcją
+W ADHD ten regulator jest uszkodzony, a amygdala działa na pełnych obrotach bez hamulca. **Emocje są intensywniejsze i szybsze** - od zera do stu w sekundę. Drobna irytacja wywołuje reakcję jak na poważną krzywdę. **Trudność z "ochłonięciem"** oznacza, że emocje trwają dłużej niż powinny - neurotypowa osoba ochłonie po pięciu minutach, Ty możesz czuć się zraniony przez godziny czy dni. **Słaba tolerancja frustracji** to dramat: małe przeszkody (wolny internet, zgubiony klucz, plama na koszuli) wywołują nieproporcjonalnie duże reakcje - złość, rozpacz, chęć rzucenia wszystkim.
 
-**Jak ADHD to zaburza:**
-- Emocje są intensywniejsze i szybsze – od 0 do 100 w sekundę
-- Trudność z "ochłonięciem" – emocje trwają dłużej niż powinny
-- Słaba tolerancja frustracji – małe przeszkody wywołują duże reakcje
+Jak to wygląda w życiu? Ktoś udziela Ci małej krytyki, konstruktywnej, nie złośliwej - czujesz się całkowicie zmiażdżony przez następne godziny. Analizujesz każde słowo, czujesz się jak kompletna porażka. Albo drobna irytacja: strona internetowa ładuje się wolno, klawisz w klawiaturze się zacina - i nagle eksplozja złości, chęć rzucenia laptopem. Emocjonalne rollercoastery są normą: ekstremalna radość z powodu małej rzeczy (ktoś lajknął Twój post!), potem głęboki smutek (nikt nie odpisał na wiadomość), w ciągu godziny. Szczególnie trudne jest **RSD (Rejection Sensitive Dysphoria)** - nadwrażliwość na odrzucenie i krytykę. Neutralny ton wiadomości czytasz jako złość. Brak odpowiedzi interpretujesz jako odrzucenie. Nawet pozytywna krytyka boli jak cios.
 
-**Przykłady z życia:**
-- Mała krytyka → czujesz się całkowicie zmiażdżony przez godziny
-- Drobna irytacja (np. wolny internet) → wybuch złości
-- Emocjonalne "rollercoastery" – ekstremalna radość, potem smutek, w ciągu godziny
-- RSD (Rejection Sensitive Dysphoria) – nadwrażliwość na odrzucenie/krytykę
-
-**Badania:**
-- 40-70% osób z ADHD spełnia kryteria "deficytu regulacji emocji"
-- fMRI pokazuje nadmierną aktywność amygdali i niższą aktywację PFC podczas przetwarzania emocji
-- Barkley (2015): Regulacja emocji to piąta, kluczowa funkcja wykonawcza, często pomijana w ADHD
+Badania pokazują to liczbowo: **40-70% osób z ADHD spełnia kryteria "deficytu regulacji emocji"**, często nierozpoznawanego i nielechonego. **Badania fMRI** pokazują nadmierną aktywność amygdali (centrum emocji) i niższą aktywację PFC podczas przetwarzania emocji - dosłownie widzimy na skanach mózgu, że "hamulec" nie działa. **Russell Barkley (2015)** argumentuje, że regulacja emocji to piąta, kluczowa funkcja wykonawcza, która była długo pomijana w badaniach ADHD, ale jest równie ważna co pamięć robocza czy hamowanie.
 
 #### 6. **Inicjacja Zadania (Task Initiation) i Wytrwałość**
 
-**Definicja:** Zdolność do rozpoczęcia zadania (szczególnie nieprzyjemnego/nudnego) i kontynuowania mimo trudności.
+To zdolność do rozpoczęcia zadania - szczególnie nieprzyjemnego, nudnego lub trudnego - i kontynuowania go mimo przeszkód, frustracji czy braku natychmiastowej nagrody. Normalnie mózg generuje **motywację wewnętrzną** wystarczającą do przezwyciężenia inercji - "wiem że to trzeba zrobić, więc zacznę". Dopamina nagradza małe postępy, podtrzymując działanie mimo że cel jest daleko. To jak silnik w samochodzie - odpala, nawet gdy jest zimno, i pracuje płynnie mimo że podróż jest długa.
 
-**Jak działa:**
-- Motywacja wewnętrzna przezwycięża inercję
-- Dopamina nagradza postępy, podtrzymując działanie
+W ADHD ten silnik ma problem z odpaleniem i utrzymaniem pracy. **Paraliż przed zadaniem** to stan, w którym wiesz *dokładnie* co robić, masz czas, masz kompetencje - ale "nie możesz zacząć". To nie lenistwo, to neurologiczny brak impulsu startowego. **Potrzeba zewnętrznego nacisku** oznacza, że system uruchamia się dopiero gdy pojawia się kryzys: deadline za sześć godzin, ktoś czeka, konsekwencje są już tuż-tuż. Wtedy adrenalina i panika dostarczają dopaminy, której normalni ludzie dostają z samego faktu "powinno się to zrobić". **Rezygnacja przy pierwszej przeszkodzie** jest równie frustrująca - zaczynasz z entuzjazmem, napotykasz problem (błąd w kodzie, brak informacji, coś trudniejsze niż myślałeś), i... zatrzymujesz się. Porzucasz. System motywacyjny gaśnie natychmiast.
 
-**Jak ADHD to zaburza:**
-- Paraliż przed zadaniem – wiesz co robić, ale "nie możesz zacząć"
-- Potrzeba zewnętrznego nacisku (deadline, kryzys) do uruchomienia
-- Rezygnacja przy pierwszej przeszkodzie
+Jak to wygląda w życiu? Siedzisz przed komputerem, zadanie czeka. Zamiast zacząć, parzysz kolejną kawę. Sprawdzasz e-maile. Porządkujesz biurko. Oglądasz Twittera "tylko na chwilę". Godziny mijają w rytuale "przygotowywania się do pracy", który nigdy się nie kończy. To nie zwlekanie z wyboru - to niemożność "odpaliła" systemu inicjacji. Albo nudne zadanie: wypełnienie raportu, segregowanie dokumentów, sprzątanie - wiesz że zajmie pół godziny, ale prokrastynujesz przez dni, bo mózg krzycz "nie ma nagrody, nie zaczynam". Albo projekt entuzjastyczny: zaczynasz z pasją, nagle trudność, i... projekt leży porzucony, dołącza do cmentarzyska 47 innych "świetnych pomysłów".
 
-**Przykłady z życia:**
-- Godzinami "przygotowujesz się" do rozpoczęcia pracy (kawa, porządki, sprawdzanie e-maili)
-- Nudne zadanie → prokrastynacja bez końca
-- Zaczynasz z entuzjazmem, ale porzucasz przy pierwszym problemie
+Badania pokazują to precyzyjnie: osoby z ADHD potrzebują **wyższego poziomu stymulacji** żeby uruchomić i podtrzymać działanie. Zadania nudne, powtarzalne czy długoterminowe (gdzie nagroda jest daleko) są szczególnie problematyczne, bo nie dostarczają dopaminy potrzebnej do podtrzymania działania. Dlatego "deadline-driven productivity" jest tak powszechna w ADHD - kryzys dostarcza neurochemicznego "kopniaka" zastępującego niedziałającą motywację wewnętrzną.
 
 ---
 
 ## Praktyka: Model Barkleya – Dlaczego ADHD to Zaburzenie Funkcji Wykonawczych
 
-Dr Russell Barkley, jeden z czołowych ekspertów ADHD, sformułował **teorię zaburzenia hamowania behawioralnego jako rdzenia ADHD**. Według Barkleya:
+Dr Russell Barkley, jeden z czołowych światowych ekspertów ADHD, sformułował elegancką **teorię zaburzenia hamowania behawioralnego jako rdzenia ADHD**. Jego model wyjaśnia, dlaczego tak wiele różnych funkcji wykonawczych jest zaburzonych jednocześnie.
 
-**1. Problem główny: Deficyt hamowania**
-- Osoby z ADHD mają osłabione hamowanie behawioralne (szczególnie w korze przedczołowej)
-- To "pierwotne uszkodzenie" prowadzi do kaskady problemów w innych funkcjach wykonawczych
+Według Barkleya, **problem główny to deficyt hamowania**. Osoby z ADHD mają osłabione hamowanie behawioralne, szczególnie w korze przedczołowej. To nie jest jeden z wielu problemów - to "pierwotne uszkodzenie", które prowadzi do kaskady problemów w innych funkcjach wykonawczych. Wyobraź sobie, że hamowanie to główny wyłącznik w elektrowni - gdy on nie działa, wszystkie inne systemy zaczynają szwankować.
 
-**2. Konsekwencje deficytu hamowania:**
-- **Pamięć robocza niewerbalną:** Trudność z "widzeniem przyszłości w wyobraźni", antycypacją konsekwencji
-- **Internalizację mowy:** Słabszy "wewnętrzny dialog" (self-talk), który normalnie kieruje zachowaniem
-- **Regulację emocji/motywacji:** Trudność z opóźnianiem gratyfikacji, kontrolą emocji
-- **Rekonstytucję (problem-solving):** Problemy z kreatywnością w rozwiązywaniu problemów, kombinowaniem elementów w nowe rozwiązania
+Konsekwencje tego deficytu rozchodzą się we wszystkich kierunkach. Słabe hamowanie uderza w **pamięć roboczą niewerbalną** - trudność z "widzeniem przyszłości w wyobraźni", z antycypowaniem konsekwencji swoich działań. Uderza w **internalizację mowy** - słabszy "wewnętrzny dialog" (ten głos w głowie mówiący "zastanów się", "przypomnij sobie", "zaplanuj"), który normalnie kieruje zachowaniem. Zaburza **regulację emocji i motywacji** - trudność z opóźnianiem gratyfikacji, kontrolą emocji, cierpliwością. Wreszcie, osłabia **rekonstytucję** (zdolność rozwiązywania problemów) - problemy z kreatywnością, kombinowaniem znanych elementów w nowe rozwiązania.
 
-**3. Rezultat: "Ślepota na czas"**
-- Barkley argumentuje, że ADHD to przede wszystkim **zaburzenie zarządzania czasem i przyszłością**
-- Osoby z ADHD żyją "w teraźniejszości" – przyszłość jest niewyraźna, abstrakcyjna, nierealna
-- "Deadline za miesiąc" = "nigdy" → aktywuje się dopiero gdy "deadline za 6 godzin"
+Rezultat tego wszystkiego to coś, co Barkley nazywa **"ślepotą na czas"**. Argumentuje, że ADHD to przede wszystkim zaburzenie zarządzania czasem i przyszłością. Osoby z ADHD żyją "w teraźniejszości" - przyszłość jest mglistą, abstrakcyjną, nierelaną koncepcją. "Deadline za miesiąc" emocjonalnie równa się "nigdy" i nie wywołuje żadnej motywacji do działania. System aktywuje się dopiero gdy "deadline za 6 godzin" - wtedy przyszłość staje się teraźniejszością, realna i paląca.
 
-**Praktyczne implikacje:**
-- Nie wystarczy "wiedzieć" co zrobić – potrzebujesz *struktury zewnętrznej* zastępującej wewnętrzną
-- Leki (stymulujące/niestymulujące) poprawiają hamowanie → poprawiają wszystkie funkcje wykonawcze
-- Strategie kompensacyjne muszą "externalizować" funkcje wykonawcze (timery, przypomnienia, listy, body doubling)
+Jakie są praktyczne implikacje tego modelu? Po pierwsze, nie wystarczy "wiedzieć" co zrobić - potrzebujesz **struktury zewnętrznej** zastępującej niedziałającą wewnętrzną. Po drugie, leki (stymulujące i niestymulujące) poprawiają hamowanie w korze przedczołowej, co z kolei poprawia wszystkie funkcje wykonawcze - stąd ich skuteczność. Po trzecie, strategie kompensacyjne muszą "externalizować" funkcje wykonawcze: timery zastępują wewnętrzne poczucie czasu, przypomnienia zastępują pamięć roboczą, listy zastępują planowanie, body doubling (praca z kimś obok) zastępuje inicjację.
 
 ---
 
@@ -278,7 +193,7 @@ Ania, 35-letnia freelancerka, dostała projekt: "Zaprojektuj stronę e-commerce,
 - **Externalizacja pamięci roboczej:** Todoist, Notion, Google Keep, voice memos
 - **Timery/czas:** Forest, Pomodoro Timer, Time Timer (wizualny timer)
 - **Planowanie:** Trello, Asana (dzielenie projektów na małe zadania)
-- **Regulacja emocji:** Headspace, Calm (mindfulness)
+- **Regulacja emocji:** Headspace, Calm (praktyki uważności)
 
 ### Artykuły Naukowe
 

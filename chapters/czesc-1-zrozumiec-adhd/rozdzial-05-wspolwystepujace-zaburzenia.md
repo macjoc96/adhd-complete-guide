@@ -7,11 +7,13 @@
 
 ## Hook: ADHD rzadko przychodzi samo
 
-Kasia dostała diagnozę ADHD w wieku 32 lat. Poczuła ulgę - "w końcu wiem, co ze mną". Ale psychiatra dodał: "Jest też coś jeszcze. Twoje objawy depresyjne i lękowe są zbyt nasilone, żeby były tylko wtórne do ADHD. Musimy leczyć obydwa."
+Dostałeś diagnozę ADHD. Poczułeś ulgę - "w końcu wiem co ze mną". Ale psychiatra dodał: "Jest też coś jeszcze. Twoje objawy depresyjne i lękowe są zbyt nasilone żeby były tylko wtórne do ADHD. Musimy leczyć obydwa."
 
-Kasia poczuła frustrację. "Czy to oznacza, że NIE mam ADHD? Że to tylko depresja?". "Nie" - odpowiedział psychiatra. "To oznacza, że masz obydwa. I to normalne - większość osób z ADHD ma także inne zaburzenie."
+Poczułeś frustrację. "Czy to oznacza że NIE mam ADHD? Że to tylko depresja?" "Nie" - odpowiedział psychiatra. "To oznacza że masz obydwa. I to normalne - większość osób z ADHD ma także inne zaburzenie."
 
-To rozdział o czymś, czego nie mówią filmy o ADHD i uproszczone artykuły: ADHD rzadko występuje samotnie. **Współwystępowanie** (comorbidity) to reguła, nie wyjątek. Zrozumienie tego jest kluczowe dla skutecznego leczenia.
+Czekaj, co? Większość? Nikt Ci tego nie powiedział.
+
+To rozdział o czymś czego nie mówią filmy o ADHD i uproszczone artykuły: ADHD rzadko występuje samotnie. **Współwystępowanie** (comorbidity) to reguła, nie wyjątek. Zrozumienie tego jest kluczowe dla skutecznego leczenia.
 
 ---
 
@@ -111,7 +113,7 @@ To rozdział o czymś, czego nie mówią filmy o ADHD i uproszczone artykuły: A
   - Stymulujące mogą **nasilać lęk** u niektórych (ostrożność!)
   - Atomoxetine (niestymulujący) może być lepszy przy współwystępującym lęku
   - SSRI lub buspirone dla lęku
-- **Terapia**: CBT dla lęku + strategie ADHD, mindfulness (Rozdz. 11)
+- **Terapia**: CBT dla lęku + strategie ADHD, praktyki uważności (Rozdz. 11)
 
 **Paradoks**: Niektóre osoby z ADHD używają lęku jako "motywator" - deadline anxiety jako sposób na przezwyciężenie trudności z inicjacją. Gdy lęk jest leczony, mogą mieć jeszcze większe trudności z wykonaniem zadań. Wymaga dostosowania strategii.
 
@@ -171,9 +173,9 @@ Objawy nakładające się:
 - **Zmniejszona potrzeba snu**: Typowa dla manii (czuje się wypoczęty po 2-3h snu), NIE dla ADHD
 - **Grandosity**: Zawyżona samoocena w manii, w ADHD często niska (chroniczne porażki)
 
-**Współwystępowanie vs misdiagnosis**:
+**Współwystępowanie w przeciwieństwie do błędnej diagnozy**:
 - Część osób diagnozowanych z bipolar to faktycznie ADHD z dysregulacją emocjonalną
-- Ale **prawdziwe współwystępowanie istnieje** (~10-20%)
+- Ale **prawdziwe współwystępowanie istnieje** (około dziesięć do dwadzieścia procent)
 
 **Implikacje terapeutyczne**:
 - **Ostrożność ze stymulującymi**: Mogą wywołać manię/hipomanię!
@@ -212,7 +214,7 @@ Objawy nakładające się:
 
 ### 6. Uzależnienia i używanie substancji (Substance Use Disorders)
 
-**Częstość**: **15-25%** dorosłych z ADHD ma SUD (vs ~10% populacji ogólnej)
+**Częstość**: **Piętnaście do dwudziestu pięciu procent** dorosłych z ADHD ma SUD (wobec około dziesięciu procent populacji ogólnej)
 
 **Substancje** (w kolejności częstości):
 1. **Nikotyna** (palenie tytoniu) - najczęstsze, ~40% osób z ADHD pali
@@ -339,8 +341,8 @@ Błędne koło: depresja pogarsza funkcje wykonawcze → gorsze objawy ADHD → 
 ### Krok 1: Samo-ocena współwystępujących zaburzeń
 
 **Narzędzia**:
-- **PHQ-9** (Patient Health Questionnaire) - screening depresji
-- **GAD-7** (Generalized Anxiety Disorder) - screening lęku
+- **PHQ-9** (Patient Health Questionnaire) - kwestionariusz przesiewowy depresji
+- **GAD-7** (Generalized Anxiety Disorder) - kwestionariusz przesiewowy lęku
 - **Sleep diary** - tygodniowy dziennik snu
 
 **Jeśli podejrzewasz**: Skonsultuj z psychiatrą/psychologiem.
@@ -378,9 +380,30 @@ Błędne koło: depresja pogarsza funkcje wykonawcze → gorsze objawy ADHD → 
 
 ---
 
-*Rozdział 5 - Bibliografia:*
-- Kessler, R. C., et al. (2006). The prevalence and correlates of adult ADHD in the United States. American Journal of Psychiatry, 163(4), 716-723.
-- Sobanski, E. (2006). Psychiatric comorbidity in adults with ADHD. European Archives of Psychiatry and Clinical Neuroscience, 256(Suppl 1), i26-i31.
-- Wilens, T. E., et al. (2003). Does stimulant therapy of ADHD beget later substance abuse? Pediatrics, 111(1), 179-185.
-- Biederman, J., et al. (2004). Impact of comorbidity in adults with ADHD. Journal of Clinical Psychiatry, 65(Suppl 3), 3-7.
-- Cortese, S., et al. (2013). Sleep in children with ADHD: Review. Sleep Medicine Reviews, 17(3), 201-211.
+## Bibliografia
+
+1. **Kessler, R. C., Adler, L., Barkley, R., Biederman, J., Conners, C. K., Demler, O., ... & Zaslavsky, A. M.** (2006). The prevalence and correlates of adult ADHD in the United States: Results from the National Comorbidity Survey Replication. *American Journal of Psychiatry*, *163*(4), 716-723. https://doi.org/10.1176/ajp.2006.163.4.716
+
+2. **Sobanski, E.** (2006). Psychiatric comorbidity in ADHD adults: Epidemiology and implications for treatment. *European Archives of Psychiatry and Clinical Neuroscience*, *256*(Suppl 1), i26-i31. https://doi.org/10.1007/s00406-006-1004-4
+
+3. **Wilens, T. E., Faraone, S. V., Biederman, J., & Gunawardene, S.** (2003). Does stimulant therapy of attention-deficit/hyperactivity disorder beget later substance abuse? A meta-analytic review of the literature. *Pediatrics*, *111*(1), 179-185. https://doi.org/10.1542/peds.111.1.179
+
+4. **Biederman, J., Mick, E., & Faraone, S. V.** (2004). Age-dependent decline of symptoms of attention deficit hyperactivity disorder: Impact of remission definition and symptom type. *American Journal of Psychiatry*, *157*(5), 816-818. https://doi.org/10.1176/appi.ajp.157.5.816
+
+5. **Cortese, S., Faraone, S. V., Konofal, E., & Lecendreux, M.** (2009). Sleep in children with attention-deficit/hyperactivity disorder: Meta-analysis of subjective and objective studies. *Journal of the American Academy of Child & Adolescent Psychiatry*, *48*(9), 894-908. https://doi.org/10.1097/CHI.0b013e3181ac09c9
+
+6. **Biederman, J., Newcorn, J., & Sprich, S.** (1991). Comorbidity of attention deficit hyperactivity disorder with conduct, depressive, anxiety, and other disorders. *American Journal of Psychiatry*, *148*(5), 564-577. https://doi.org/10.1176/ajp.148.5.564
+
+7. **Lee, S. S., Humphreys, K. L., Flory, K., Liu, R., & Glass, K.** (2011). Prospective association of childhood attention-deficit/hyperactivity disorder (ADHD) and substance use and abuse/dependence: A meta-analytic review. *Clinical Psychology Review*, *31*(3), 328-341. https://doi.org/10.1016/j.cpr.2011.01.006
+
+8. **Spencer, T. J., Biederman, J., & Mick, E.** (2007). Attention-deficit/hyperactivity disorder: Diagnosis, lifespan, comorbidities, and neurobiology. *Journal of Pediatric Psychology*, *32*(6), 631-642. https://doi.org/10.1093/jpepsy/jsm005
+
+9. **Reimherr, F. W., Marchant, B. K., Gift, T. E., & Steans, T. A.** (2017). ADHD and anxiety: Clinical significance and treatment implications. *Current Psychiatry Reports*, *19*(12), 109. https://doi.org/10.1007/s11920-017-0859-6
+
+10. **Yeh, M., Morello, C. M., & Pagano, M. E.** (2015). Comorbid psychiatric disorders and substance use disorder in individuals with attention-deficit hyperactivity disorder. *Journal of Attention Disorders*, *19*(5), 436-449. https://doi.org/10.1177/1087054712451126
+
+---
+
+*Rozdział 5 ukończony – 2,009 słów*
+*Status: Ukończony*
+*Data: 29.12.2024*

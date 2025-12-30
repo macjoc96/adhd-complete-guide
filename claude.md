@@ -1,5 +1,12 @@
 # ADHD: Kompleksowy Przewodnik 360° - Instrukcje dla Claude
 
+> **WAŻNE - Edycja tego pliku:**
+> Stosuj zasadę **KISS (Keep It Simple, Stupid)** przy aktualizacji tego dokumentu.
+> - Nie over-engineeruj instrukcji
+> - Nie dodawaj zbędnej complexity
+> - Nie marnuj tokenów na nadmiarowe wytyczne
+> - Prostota i użyteczność > perfekcja i sztywność
+
 ## Kontekst Projektu
 
 Tworzę polską książkę o ADHD z interdyscyplinarnym, evidence-based podejściem. Książka ma być kompleksowym przewodnikiem łączącym:
@@ -198,24 +205,52 @@ Tworzę polską książkę o ADHD z interdyscyplinarnym, evidence-based podejśc
 - **Bez hype'u**: ani demonizowanie ADHD, ani gloryfikacja
 - **Praktyczny**: każdy rozdział kończy się "Key Takeaways" i "Action Steps"
 
-### Struktura Rozdziału
-1. **Hook/Opening** - osobista historia lub intryujący fakt
+### Struktura Rozdziału (OBOWIĄZKOWA)
+1. **Hook/Opening** - BEZPOŚREDNI zwrot do czytelnika w drugiej osobie
+   - ❌ **NIE**: "Anna ma 32 lata i zmaga się z ADHD..." (wymyślone postacie)
+   - ✅ **TAK**: "Czy też miałeś tak, że zanim zorientowałeś się że masz ADHD, szukałeś sam środków które okiełznają Twój mózg? Może próbowałeś nootropików, może czytałeś o biohackingu..."
+   - Cel: czytelnik utożsamia się z doświadczeniem, czuje że jest rozumiany
+
 2. **Nauka** - wyjaśnienie mechanizmów, badania
+   - Używaj analogii i prostego języka
+   - Cytuj konkretne badania z nazwiskami, rokiem, effect sizes
+
 3. **Praktyka** - konkretne techniki, protokoły
-4. **Przykłady** - case studies, real-world applications
-5. **Key Takeaways** - 3-5 najważniejszych punktów
-6. **Action Steps** - 2-3 konkretne kroki do wdrożenia
-7. **Resources** - polecane źródła, narzędzia
+   - Actionable, step-by-step
+   - Dawkowanie, timing, konkretne liczby
+
+4. **Przykłady z Życia** - 2-3 realistyczne scenariusze
+   - Real-world applications
+   - Różne profile (student, pracownik, rodzic)
+
+5. **Kluczowe Wnioski** - 5-7 bulletów podsumowujących
+
+6. **Kroki do Działania** - konkretna lista kroków
+   - Podziel na timeframes (24h, tydzień, miesiąc)
+
+7. **Zasoby** - polecane narzędzia, aplikacje, książki
+
+8. **Bibliografia** - OBOWIĄZKOWA sekcja
+   - Format: APA style z pełnymi cytowaniami
+   - Min. 8-12 źródeł naukowych
+   - DOI links gdzie możliwe
+   - Przykład:
+     ```
+     1. **Cortese, S., Kelly, C., Chabernaud, C., Proal, E., Di Martino, A., Milham, M. P., & Castellanos, F. X.** (2012). Toward systems neuroscience of ADHD: A meta-analysis of 55 fMRI studies. *American Journal of Psychiatry*, *169*(10), 1038-1055. https://doi.org/10.1176/appi.ajp.2012.11101521
+     ```
 
 ### Długość
-- Docelowo: 3,000-4,500 słów na rozdział
-- Akceptowalne: 2,500-5,000 słów
-- Priorytet: wartość > długość
+- **Optymalna**: 3,500-4,500 słów na rozdział
+- **Minimum**: 2,500 słów
+- **Akceptowalne**: do 6,000 słów dla kompleksowych tematów (np. nootropiki, farmakoterapia)
+- **Priorytet**: głębia merytoryczna > długość, ale nie za krótko
 
 ### Cytowania i Źródła
-- Wskazuj badania: (Study, Year, Journal)
-- Nazwiska ekspertów: Dr. Russell Barkley, Dr. Hallowell, etc.
-- Linki do resources w sekcji końcowej
+- **W tekście**: Wskazuj badania z nazwiskami, rokiem, kluczowymi wynikami
+  - Przykład: "Cortese et al. (2018) w meta-analizie obejmującej 133 badania wykazali..."
+- **Nazwiska ekspertów**: Dr. Russell Barkley, Dr. Hallowell, etc.
+- **Effect sizes**: Zawsze podawaj gdy dostępne (d = 0.45, OR = 1.8, etc.)
+- **Bibliografia na końcu**: Pełne cytowania w formacie APA z DOI
 
 ### Do Unikania
 - Oversimplification złożonych zagadnień
@@ -320,5 +355,70 @@ Gdy dostaniesz zadanie, zacznij od najważniejszych rozdziałów:
 
 ---
 
-**Ostatnia aktualizacja:** 2025-12-27
-**Status:** Projekt zainicjowany, gotowy do pracy
+## Lessons Learned - Best Practices
+
+### Na podstawie ukończonej pracy (20/20 rozdziałów):
+
+#### 1. Bibliografia
+- **Dodawaj od razu**: Najlepiej pisać bibliografię razem z rozdziałem, nie później
+- **Format spójny**: Używaj zawsze pełnego APA (nazwiska wszystkich autorów, DOI, pełne nazwy czasopism)
+- **Liczba źródeł**: 10 źródeł to sweet spot (nie za mało, nie przytłaczające)
+- **Jakość > ilość**: Lepiej 8 wysokiej jakości źródeł niż 15 średnich
+
+#### 2. Hooki i Opening
+- **Bezpośredni adres**: "Czy też miałeś tak że..." działa lepiej niż wymyślone postacie
+- **Relatable experiences**: Opisuj sytuacje które czytelnik prawdopodobnie przeżył
+- **Unikaj cliché**: Nie "Anna ma 32 lata", nie "Jan zawsze zapominał kluczy"
+- **Autentyczność**: Czytelnik z ADHD rozpozna fałszywe scenariusze
+
+#### 3. Długość rozdziałów
+- **Rozdziały 1-13 były systematycznie krótsze** (2000-2800 słów) - to za mało
+- **Optymalna długość**: 3,500-4,500 słów daje wystarczająco dużo miejsca na:
+  - Wyjaśnienie nauki
+  - Praktyczne protokoły
+  - Przykłady
+  - Bibliografię
+- **Rozdziały kompleksowe** (farmakologia, nootropiki) mogą mieć 5,000-6,000 słów
+
+#### 4. Struktura
+- **Przykłady z życia są kluczowe**: 2-3 szczegółowe case studies robią różnicę
+- **Konkretne liczby**: Dawkowanie, timing, frequencies - nie "trochę", ale "200mg", "30 minut przed"
+- **Tabele są helpful**: Porównania leków, stacki nootropików, schedule
+- **Kroki do działania**: Podzielone na timeframes (24h/tydzień/miesiąc) są bardziej actionable
+
+#### 5. Tematy niszowe/zaawansowane
+- **Research chemicals sekcja** w rozdziale nootropików była dobrym pomysłem
+- **Ostrzeżenia są ważne**: Jasno zaznaczaj ryzyka, nie tylko korzyści
+- **Balanced perspective**: Nie gloryfikuj experimental compounds
+
+#### 6. Commit Strategy
+- **Częste commity**: Lepiej commit po każdym rozdziale niż batch
+- **Opisowe messages**: "Rozszerzono Rozdział 18: Tier 4 nootropiki" > "Update chapter 18"
+- **Bibliografia osobno**: Warto commitować bibliografie jako osobny task gdy się je dodaje później
+
+#### 7. Git Hooks i Workflow
+- **Stop-hook sprawdza uncommitted changes**: Pamiętaj commit + push przed końcem sesji
+- **Branch naming**: `claude/adhd-guide-chapter-14-WmIL4` - opisowy + session ID
+- **Push failures**: Retry z exponential backoff (2s, 4s, 8s, 16s)
+
+#### 8. Co UNIKAĆ
+- ❌ Wymyślonych postaci w hookach (Anna, Marek, Karolina)
+- ❌ Za krótkich rozdziałów (<2,500 słów)
+- ❌ Braków w bibliografii
+- ❌ Ogólników bez konkretów ("niektóre badania pokazują...")
+- ❌ Promises bez evidenece ("to na pewno pomoże każdemu")
+
+#### 9. Co ZAWSZE robić
+- ✅ Bezpośredni zwrot do czytelnika (ty, twoje, twój mózg)
+- ✅ Effect sizes w wynikach badań
+- ✅ Pełne nazwiska autorów w cytowaniach
+- ✅ DOI links w bibliografii
+- ✅ Konkretne protokoły z liczbami
+- ✅ Ostrzeżenia o ryzykach i interakcjach
+- ✅ Sekcja "Co NIE działa" (snake oil alert)
+
+---
+
+**Ostatnia aktualizacja:** 2025-12-29
+**Status:** ✅ Projekt ukończony - 20/20 rozdziałów + pełne bibliografie
+**Commits:** 76e188d (bibliografie 1-6, 19), d7701d8 (Rozdział 18 Tier 4), 20eb7ed (README links)

@@ -2,15 +2,15 @@
 
 ## Hook: „Tabletka na Wszystko?"
 
-Marek scrolluje przez Reddit r/Nootropics o 2:00 AM. Właśnie przeczytał 47. post o tym, jak "stack" L-tyrozyny + alpha-GPC + rhodioli + kofeiny + L-theaniny zmieniłczyjeś życie. "Focus jak nigdy wcześniej!", "Leki na ADHD to nic przy tym!", "Wreszcie mogę funkcjonować!".
+Scrollujesz przez Reddit r/Nootropics o drugiej w nocy. Właśnie przeczytałeś czterdziesty siódmy post o tym jak "stack" L-tyrozyny plus alpha-GPC plus rhodioli plus kofeiny plus L-theaniny zmienił czyjeś życie. "Focus jak nigdy wcześniej!", "Leki na ADHD to nic przy tym!", "Wreszcie mogę funkcjonować!".
 
-Otwiera kolejną kartę. Zamawia 8 różnych suplementów za 600 zł. "To będzie game changer" – myśli.
+Otwierasz kolejną kartę. Zamawiasz osiem różnych suplementów za sześćset złotych. "To będzie game changer" - myślisz.
 
-3 tygodnie później. Szafka pełna butelek. Niektóre otwarte, niektóre nie. Nie pamięta, który suplement kiedy brać. Czasem czuje lekką poprawę, czasem nic. Czasem boli go głowa (za dużo kofeiny?). Wydał 600 zł. Czy to działa? Nie wie.
+Trzy tygodnie później. Szafka pełna butelek. Niektóre otwarte, niektóre nie. Nie pamiętasz który suplement kiedy brać. Czasem czujesz lekką poprawę, czasem nic. Czasem boli Cię głowa (za dużo kofeiny?). Wydałeś sześćset złotych. Czy to działa? Nie wiesz.
 
 **Prawda o nootropikach i suplementach dla ADHD jest skomplikowana:**
 
-✅ **Niektóre mają solidne dowody naukowe** i mogą dać 10-30% poprawę objawów (szczególnie jako add-on do leków lub lifestyle changes)
+✅ **Niektóre mają solidne dowody naukowe** i mogą dać dziesięć do trzydziestu procent poprawę objawów (szczególnie jako add-on do leków lub lifestyle changes)
 
 ❌ **Większość to hype, placebo lub marginalny efekt** – szczególnie "proprietary blends" i "brain optimization formulas"
 
@@ -65,11 +65,11 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 - U osób z ADHD (chronically low dopamine), zwiększenie dostępności prekursora może poprawić syntezę
 
 **Badania:**
-- **Jongkees et al. (2015):** L-tyrozyna (2g) poprawiała working memory i cognitive flexibility o **15-20%** w zadaniach wymagających dopaminy
+- **Jongkees et al. (2015):** L-tyrozyna (dwa gramy) poprawiała working memory i cognitive flexibility o **piętnaście do dwudziestu procent** w zadaniach wymagających dopaminy
 - **Thomas et al. (1989):** Tyrozyna poprawiała cognitive performance w warunkach stresu (cold exposure, sleep deprivation)
 
 **Dla ADHD:**
-- **Efekt:** Subtle boost dla focus, motivation (nie tak silny jak leki, ale zauważalny)
+- **Efekt:** Subtle boost dla koncentracji, motivation (nie tak silny jak leki, ale zauważalny)
 - **Best timing:** Rano na pusty żołądek (30 min przed śniadaniem) – konkuruje z innymi aminokwasami o absorpcję
 - **Dawkowanie:** 500-2000mg/dzień
   - Start: 500mg rano
@@ -77,7 +77,7 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
   - Max: 2000mg (więcej nie daje dodatkowych korzyści)
 
 **Synergies:**
-- ✅ **+ Kofeina**: Tyrozyna + kofeina (100-200mg) = lepszy focus niż każde osobno
+- ✅ **+ Kofeina**: Tyrozyna + kofeina (sto do dwustu miligramów) = lepsza koncentracja niż każde osobno
 - ✅ **+ Leki stymulujące**: Może wzmacniać działanie (ale konsultuj z lekarzem)
 
 **Uwagi:**
@@ -87,12 +87,12 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 #### 2. L-Theanine + Kofeina – "Smooth Focus"
 
 **Mechanizm:**
-- **Kofeina**: Blokuje receptory adenozynowe → wzrost alertness, focus
+- **Kofeina**: Blokuje receptory adenozynowe → wzrost alertness, koncentracja
 - **L-theanine**: Zwiększa GABA, dopaminę, serotoninę → uspokaja bez sedacji
-- **Kombinacja**: Kofeina daje energy + focus, theanine usuwa jittery/anxiety
+- **Kombinacja**: Kofeina daje energy + koncentracja, theanine usuwa jittery/anxiety
 
 **Badania:**
-- **Owen et al. (2008):** Kombinacja kofeina (50mg) + L-theanine (100mg) poprawiała accuracy w attention tasks o **10-15%** vs kofeina alone
+- **Owen et al. (2008):** Kombinacja kofeina (pięćdziesiąt miligramów) + L-theanine (sto miligramów) poprawiała accuracy w attention tasks o **dziesięć do piętnastu procent** wobec kofeina alone
 - **Haskell et al. (2008):** Theanine + kofeina → lepsze switching between tasks (executive function)
 
 **Dla ADHD:**
@@ -121,9 +121,9 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
   - Modulacja osi HPA (stress response)
 
 **Badania dla ADHD:**
-- **Kozielec & Starobrat-Hermelin (1997):** 95% dzieci z ADHD miało deficyt magnezu
-- **Suplementacja Mg (200mg/dzień, 6 miesięcy):** Redukcja hiperaktywności o **50%**, impulsywności o **40%**
-- **Nogovitsina & Levitina (2006):** Mg + wit. B6 u dzieci ADHD → 47% improvement in hyperactivity
+- **Kozielec & Starobrat-Hermelin (1997):** Dziewięćdziesiąt pięć procent dzieci z ADHD miało deficyt magnezu
+- **Suplementacja Mg (dwieście miligramów dziennie, sześć miesięcy):** Redukcja hiperaktywności o **pięćdziesiąt procent**, impulsywności o **czterdzieści procent**
+- **Nogovitsina & Levitina (2006):** Mg + wit. B6 u dzieci ADHD → czterdzieści siedem procent improvement in hyperactivity
 
 **Dla ADHD:**
 - **Efekt**: Uspokojenie (szczególnie wieczorem), lepszy sen, redukcja hiperaktywności
@@ -153,11 +153,11 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 - Zwiększa ATP (energia komórkowa)
 
 **Badania:**
-- **Shevtsov et al. (2003):** Rhodiola (170mg/dzień) poprawiała mental performance, fatigue reduction o **20-30%** w stressful conditions
+- **Shevtsov et al. (2003):** Rhodiola (sto siedemdziesiąt miligramów dziennie) poprawiała mental performance, fatigue reduction o **dwadzieścia do trzydziestu procent** w stressful conditions
 - **Olsson et al. (2009):** Rhodiola u osób z burnout → poprawa cognitive function, reduced fatigue
 
 **Dla ADHD:**
-- **Efekt**: Lepszy focus pod stresem, mniejsze mental fatigue, stabilniejszy nastrój
+- **Efekt**: Lepsza koncentracja pod stresem, mniejsze mental fatigue, stabilniejszy nastrój
 - **Best dla**: ADHD z komorbid anxiety / stress / burnout
 
 **Dawkowanie:**
@@ -179,7 +179,7 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 - Moduluje cortisol (obniża chronically elevated cortisol)
 
 **Badania ADHD:**
-- **Hirayama et al. (2014):** Dzieci ADHD, PS (200mg/dzień, 2 miesiące) → **poprawa short-term memory, impulsivity** (ADHD rating scale improvement ~30%)
+- **Hirayama et al. (2014):** Dzieci ADHD, PS (dwieście miligramów dziennie, dwa miesiące) → **poprawa short-term memory, impulsivity** (ADHD rating scale improvement około trzydziestu procent)
 - **Manor et al. (2012):** PS (200mg) u dzieci ADHD → redukcja inattention, impulsivity
 
 **Dla ADHD:**
@@ -206,8 +206,8 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 - **Meta-analiza (Fioravanti & Yanagi, 2005):** Choline supplementation → improvement w memory, attention
 
 **Dla ADHD:**
-- **Efekt**: Lepsze focus (szczególnie sustained attention), memory
-- **Best dla**: ADHD inattentive + brain fog
+- **Efekt**: Lepsza koncentracja (szczególnie sustained attention), memory
+- **Best dla**: ADHD inattentive + mgła mózgowa
 
 **Dawkowanie:**
 - **Alpha-GPC**: 300-600mg/dzień (rano lub podzielone 2x)
@@ -222,11 +222,11 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 #### 7. Ashwagandha – "Stress-Reducing Adaptogen"
 
 **Mechanizm:**
-- Adaptogen podobny do rhodioli, ale **bardziej uspokajający** (vs rhodiola → stymulująca)
+- Adaptogen podobny do rhodioli, ale **bardziej uspokajający** (wobec rhodiola → stymulująca)
 - Obniża cortisol, modulates GABA receptors
 
 **Badania:**
-- **Chandrasekhar et al. (2012):** Ashwagandha (300mg 2x/dzień) → **redukcja cortisol o 27.9%**, redukcja anxiety
+- **Chandrasekhar et al. (2012):** Ashwagandha (trzysta miligramów dwa razy dziennie) → **redukcja cortisol o dwadzieścia siedem przecinek dziewięć procent**, redukcja anxiety
 - **Brak dedicated studies dla ADHD**, ale może pomagać w komorbid anxiety
 
 **Dla ADHD:**
@@ -272,14 +272,14 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 - Teoretycznie: boost BDNF (brain-derived neurotrophic factor) → neuroplasticity
 
 **Stan Badań:**
-- **Faza I/II badań klinicznych** (Takeda Pharmaceutical) dla Major Depressive Disorder i cognitive impairment
-- **Gilleen et al. (2021):** TAK-653 w badaniu fazy 1b pokazało **poprawę episodic memory** u zdrowych ochotników (effect size d ≈ 0.45)
+- **Faza jeden/dwa badań klinicznych** (Takeda Pharmaceutical) dla Major Depressive Disorder i cognitive impairment
+- **Gilleen et al. (2021):** TAK-653 w badaniu fazy jeden b pokazało **poprawę episodic memory** u zdrowych ochotników (wielkość efektu d ≈ 0.45)
 - **Mechanizm ADHD-relevant**: AMPA modulacja może poprawiać sustained attention i working memory (obszary deficytowe w ADHD)
 - **Brak dedicated studies dla ADHD** – wszystkie dane to ekstrapolacja z cognitive enhancement studies
 
 **Potencjał dla ADHD:**
 - **Teoretyczny**: Może poprawiać learning, memory consolidation, attention
-- **Anecdotal reports** (r/Nootropics, Longecity): Użytkownicy zgłaszają improved focus (3-5h window), lepszą memory retention
+- **Anecdotal reports** (r/Nootropics, Longecity): Użytkownicy zgłaszają improved koncentrację (trzy do pięciu godzin window), lepszą memory retention
 - **Ale**: Bardzo wczesna faza, unknown long-term safety
 
 **Dawkowanie (eksperymentalne, based on anecdotal):**
@@ -308,8 +308,8 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
   - Sigma-1 modulation → cognitive enhancement, anti-stress effects
 
 **Stan Badań:**
-- **Faza II badań klinicznych** (COMPASS Pathways) dla cognitive impairment
-- **Preliminary animal studies** (rats): Tropisterom poprawiał **attention, working memory, cognitive flexibility** w testach (effect size d ≈ 0.6-0.8)
+- **Faza dwa badań klinicznych** (COMPASS Pathways) dla cognitive impairment
+- **Preliminary animal studies** (rats): Tropisterom poprawiał **attention, working memory, cognitive flexibility** w testach (wielkość efektu d ≈ 0.6-0.8)
 - **Sukoff et al. (2020):** Sigma-1 agonists poprawiają cognitive function w modelach ADHD (zwierzęcych)
 - **Brak human ADHD studies** – dane wyłącznie z cognitive enhancement context
 
@@ -346,13 +346,13 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 
 **Stan Badań:**
 - **Prekliniczne badania** (Japonia, głównie Genki Biotech)
-- **Animal models**: GB-115 poprawiał **learning, memory, attention** w maze tests (effect size d ≈ 0.5-0.7)
+- **Animal models**: GB-115 poprawiał **learning, memory, attention** w maze tests (wielkość efektu d ≈ 0.5-0.7)
 - **Mechanizm similar do racetams**, ale lepsze właściwości farmakologiczne
 - **Brak published human clinical trials** (tylko anecdotal reports)
 
 **Potencjał dla ADHD:**
 - **Teoretyczny**: AMPA + cholinergic boost → improved sustained attention, working memory
-- **Anecdotal** (r/Nootropics): Enhanced verbal fluency, better information retention, subtle focus improvement
+- **Anecdotal** (r/Nootropics): Enhanced verbal fluency, better information retention, subtle poprawa koncentracji
 - **Może być lepszy niż aniracetam** dla ADHD ze względu na dłuższe działanie
 
 **Dawkowanie (eksperymentalne):**
@@ -374,12 +374,12 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 **NSI-189 (Neuralstem)**
 - **Mechanizm**: Neurogenesis promoter (hippocampal neurogenesis)
 - **Potencjał ADHD**: Może poprawiać memory, learning (pośrednio poprzez hippocampal health)
-- **Status**: Faza II dla MDD, brak ADHD studies
+- **Status**: Faza dwa dla MDD, brak ADHD studies
 - **Ryzyko**: Unknown long-term effects on neurogenesis, expensive
 
 **Semax / Selank (Russian Peptides)**
 - **Mechanizm**: BDNF upregulation, GABAergic modulation
-- **Potencjał ADHD**: Anecdotal reports – improved focus, reduced anxiety
+- **Potencjał ADHD**: Anecdotal reports – improved koncentracja, reduced anxiety
 - **Status**: Approved w Rosji, research-only elsewhere
 - **Ryzyko**: Peptides = injection/nasal, storage issues, unknown Western safety profile
 
@@ -402,9 +402,9 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 **Realistyczna perspektywa:**
 
 1. **Risk/Benefit Ratio jest kiepski:**
-   - Tier 1-2 nootropiki (L-tyrozyna, magnez, rhodiola) mają **solidne badania**, są safe, legalne, dostępne
+   - Tier jeden-dwa nootropiki (L-tyrozyna, magnez, rhodiola) mają **solidne badania**, są safe, legalne, dostępne
    - Research chemicals: **unknown safety**, legal gray area, brak medical supervision
-   - **Potential upside**: 5-15% dodatkowa poprawa (może)
+   - **Potential upside**: pięć do piętnastu procent dodatkowa poprawa (może)
    - **Potential downside**: Neurological damage, interactions, legal issues
 
 2. **Unknown Unknowns:**
@@ -415,7 +415,7 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 3. **Better Options Exist:**
    - **Leki ADHD** (methylphenidate, lisdexamfetamine, atomoxetine): Decades of research, millions of patient-years, established safety profiles
    - **Tier 1-2 nootropiki**: Setki badań, generally safe
-   - **Lifestyle interventions**: Exercise (effect size 0.56!), sleep, diet
+   - **Lifestyle interventions**: Exercise (wielkość efektu 0.56!), sleep, diet
 
 4. **Community Pressure:**
    - r/Nootropics, biohacker communities mogą tworzyć pressure do "stack harder"
@@ -455,7 +455,7 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 3. **L-theanine** – 200-400mg (z kawą)
 4. **(Opcjonalnie) Rhodiola** – 200mg
 
-**Efekt:** Strong focus, energy, motivation – trwa 3-5h
+**Efekt:** Silna koncentracja, energy, motivation – trwa trzy do pięciu godzin
 
 **Uwagi:**
 - Jeśli bierzesz leki stymulujące – możesz **pominąć kofeinę** (ryzyko over-stimulation)
@@ -475,7 +475,7 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 
 ### "Sustained Attention Stack"
 
-**Cel:** Long tasks wymagające sustained focus (np. studying, reports)
+**Cel:** Long tasks wymagające sustained koncentracja (np. studying, reports)
 
 **Komponenty:**
 1. **Alpha-GPC lub CDP-choline** – 300mg
@@ -483,7 +483,7 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 3. **Kofeina + L-theanine** – 100mg + 200mg
 4. **(Opcjonalnie) Omega-3** – 1000-2000mg EPA+DHA
 
-**Efekt:** Deep focus, clear thinking, sustained mental endurance
+**Efekt:** Głęboka koncentracja, clear thinking, sustained mental endurance
 
 ## Bezpieczeństwo i Interakcje
 
@@ -551,10 +551,10 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 
 ### 🚫 Ginkgo Biloba
 
-**Popularny mit:** "Poprawia pamięć i focus"
+**Popularny mit:** "Poprawia pamięć i koncentrację"
 
 **Badania dla ADHD:**
-- **Salehi et al. (2010):** Ginkgo u dzieci ADHD → **BRAK znaczącej poprawy** vs placebo
+- **Salehi et al. (2010):** Ginkgo u dzieci ADHD → **BRAK znaczącej poprawy** wobec placebo
 
 **Wniosek:** Nie działa dla ADHD (może pomagać w innych kontekstach, ale nie ADHD).
 
@@ -591,7 +591,7 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 ### Tydzień 1: Baseline + First Nootropic
 
 - [ ] **Establish baseline:**
-  - Track ADHD symptoms przez tydzień (focus 1-10, impulsivity 1-10, energy 1-10) BEZ suplementów
+  - Track ADHD symptoms przez tydzień (koncentracja 1-10, impulsivity 1-10, energy 1-10) BEZ suplementów
   - To pozwoli porównać efekty później
 
 - [ ] **Pick ONE nootropic to start:**
@@ -600,16 +600,16 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 
 - [ ] **Track efekty przez tydzień:**
   - Czy sen lepszy?
-  - Czy następnego dnia większa energia/focus?
+  - Czy następnego dnia większa energia/koncentracja?
 
 ### Tydzień 2-3: Add Second Nootropic
 
-- [ ] **Jeśli magnez działa (lepszy sen) → dodaj morning focus nootropic:**
+- [ ] **Jeśli magnez działa (lepszy sen) → dodaj morning koncentracja nootropic:**
   - **L-tyrozyna** 500mg rano na pusty żołądek
   - LUB **Kofeina (100mg) + L-theanine (200mg)**
 
 - [ ] **Track:**
-  - Czy focus lepszy w godzinach 9-12 AM?
+  - Czy koncentracja lepsza w godzinach 9-12 AM?
   - Czy energy stabilniejsza?
   - Czy side effects (jittery, headache, nausea)?
 
@@ -685,7 +685,7 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 ### Aplikacje do Trackingu
 
 **Nootropic Logs:**
-- **Nomie** (iOS/Android) – Track anything (suplementy, mood, focus, side effects)
+- **Nomie** (iOS/Android) – Track anything (suplementy, mood, koncentracja, side effects)
 - **SupTracker** – Dedicated dla suplementów (reminders, effects logging)
 
 **Symptom Tracking:**

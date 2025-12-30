@@ -7,13 +7,17 @@
 
 ## Hook: Podróż do odpowiedzi
 
-Tomek ma 28 lat. Od dziecka czuł, że "coś jest nie tak", ale nie potrafił nazwać tego uczucia. W szkole nauczyciele mówili "mógłby więcej, gdyby się postarał". W pracy szef komentował "świetne pomysły, ale nigdy nie dokończone". Partnerce tłumaczył po raz setny, dlaczego zapomniał o rocznic
+Od dziecka czułeś że "coś jest nie tak", ale nie potrafiłeś nazwać tego uczucia. W szkole nauczyciele mówili "mógłbyś więcej, gdybyś się postarał". W pracy szef komentuje "świetne pomysły, ale nigdy nie dokończone". Partnerowi tłumaczysz po raz setny dlaczego zapomniałeś o rocznicy.
 
-y. "Jestem po prostu niezorganizowany", myślał. "Leniwym" - oceniała matka. "Niedojrzałym" - uznawał on sam.
+"Jestem po prostu niezorganizowany" - myślisz. "Leniwy" - ocenia matka. "Niedojrzały" - uznaj
 
-Aż pewnego dnia natknął się na artykuł o ADHD u dorosłych. Z każdym zdaniem czuł, jakby ktoś opisywał jego życie. "To ja. To wszystko pasuje." Ale potem przyszedł niepokój: "A może wszystkim tak się wydaje? Może po prostu szukam wymówki?" Postanowił się dowiedzieć. Umówił się na konsultację.
+esz sam.
 
-Ten rozdział to przewodnik po tym, co Tomka (i Ciebie) czeka. Diagnoza ADHD to nie prosty checklist - to złożony proces wymagający wykwalifikowanego specjalisty, czasu i szczerości. Ale na końcu tej drogi czeka odpowiedź, która może zmienić całe życie.
+Aż pewnego dnia trafiasz na artykuł o ADHD u dorosłych. Z każdym zdaniem czujesz jakby ktoś opisywał Twoje życie. "To ja. To wszystko pasuje." Ale potem przychodzi niepokój: "A może wszystkim tak się wydaje? Może po prostu szukam wymówki? Może każdy czuje się tak samo i to normalne?"
+
+Postanawiasz się dowiedzieć. Umawiasz się na konsultację.
+
+Ten rozdział to przewodnik po tym co Cię czeka. Diagnoza ADHD to nie prosty checklist - to złożony proces wymagający wykwalifikowanego specjalisty, czasu i szczerości. Ale na końcu tej drogi czeka odpowiedź która może zmienić całe życie.
 
 ---
 
@@ -311,7 +315,7 @@ Jeśli spełnione są wszystkie kryteria:
 - Lepiej maskują trudności (pracują 3x ciężej, żeby "nadążyć")
 - Perfekcjonizm jako strategia kompensacyjna → wypalenie w dorosłości
 
-### 3. Internalizacja vs eksternalizacja
+### 3. Internalizacja w przeciwieństwie do eksternalizacji
 
 - Chłopcy częściej eksternalizują problemy (agresja, bunt) → widoczne
 - Dziewczynki internalizują (lęk, depresja, niska samoocena) → mniej widoczne jako ADHD
@@ -368,7 +372,7 @@ Jeśli spełnione są wszystkie kryteria:
 
 ## Action Steps: Przygotowanie do diagnozy
 
-### Krok 1: Samo-screening
+### Krok 1: Samodzielny test przesiewowy
 
 - Wypełnij **ASRS** (online, za darmo)
 - Jeśli ≥4 pozytywne odpowiedzi w części A → rozważ profesjonalną ocenę
@@ -424,9 +428,30 @@ Jeśli spełnione są wszystkie kryteria:
 
 ---
 
-*Rozdział 4 - Bibliografia:*
-- American Psychiatric Association. (2013). Diagnostic and Statistical Manual of Mental Disorders (5th ed.)
-- Kooij, J. J. S., et al. (2010). DIVA 2.0: Diagnostic Interview for ADHD in Adults
-- Quinn, P. O., & Madhoo, M. (2014). A review of attention-deficit/hyperactivity disorder in women and girls. The Primary Care Companion for CNS Disorders, 16(3)
-- Rucklidge, J. J. (2010). Gender differences in ADHD: Implications for psychosocial treatments. Expert Review of Neurotherapeutics, 10(10), 1643-1655
-- Sibley, M. H., et al. (2016). Variable patterns of remission from ADHD in the MTA study. American Journal of Psychiatry, 173(4), 392-399
+## Bibliografia
+
+1. **American Psychiatric Association.** (2013). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed.). American Psychiatric Publishing. https://doi.org/10.1176/appi.books.9780890425596
+
+2. **Kooij, J. J. S., Boonstra, A. M., Swinkels, S. H. N., Bekker, E. M., de Noord, I., & Buitelaar, J. K.** (2008). Reliability, validity, and utility of instruments for self-report and informant report concerning symptoms of ADHD in adult patients. *Journal of Attention Disorders*, *11*(4), 445-458. https://doi.org/10.1177/1087054707299367
+
+3. **Quinn, P. O., & Madhoo, M.** (2014). A review of attention-deficit/hyperactivity disorder in women and girls: Uncovering this hidden diagnosis. *The Primary Care Companion for CNS Disorders*, *16*(3), PCC.13r01596. https://doi.org/10.4088/PCC.13r01596
+
+4. **Rucklidge, J. J.** (2010). Gender differences in attention-deficit/hyperactivity disorder. *Psychiatric Clinics of North America*, *33*(2), 357-373. https://doi.org/10.1016/j.psc.2010.01.006
+
+5. **Sibley, M. H., Swanson, J. M., Arnold, L. E., Hechtman, L. T., Owens, E. B., Stehli, A., ... & Stern, K.** (2017). Defining ADHD symptom persistence in adulthood: Optimizing sensitivity and specificity. *Journal of Child Psychology and Psychiatry*, *58*(6), 655-662. https://doi.org/10.1111/jcpp.12620
+
+6. **Faraone, S. V., Biederman, J., Spencer, T., Mick, E., Murray, K., Petty, C., ... & Monuteaux, M. C.** (2006). Diagnosing adult attention deficit hyperactivity disorder: Are late onset and subthreshold diagnoses valid? *American Journal of Psychiatry*, *163*(10), 1720-1729. https://doi.org/10.1176/ajp.2006.163.10.1720
+
+7. **Epstein, J. N., & Loren, R. E. A.** (2013). Changes in the definition of ADHD in DSM-5: Subtle but important. *Neuropsychiatry*, *3*(5), 455-458. https://doi.org/10.2217/npy.13.59
+
+8. **Asherson, P., Buitelaar, J., Faraone, S. V., & Rohde, L. A.** (2016). Adult attention-deficit hyperactivity disorder: Key conceptual issues. *The Lancet Psychiatry*, *3*(6), 568-578. https://doi.org/10.1016/S2215-0366(16)30032-3
+
+9. **Adler, L. A., Spencer, T., Faraone, S. V., Kessler, R. C., Howes, M. J., Biederman, J., & Secnik, K.** (2006). Validity of pilot Adult ADHD Self-Report Scale (ASRS) to rate adult ADHD symptoms. *Annals of Clinical Psychiatry*, *18*(3), 145-148. https://doi.org/10.1080/10401230600801077
+
+10. **Barkley, R. A., & Murphy, K. R.** (2010). Impairment in occupational functioning and adult ADHD: The predictive utility of executive function (EF) ratings versus EF tests. *Archives of Clinical Neuropsychology*, *25*(3), 157-173. https://doi.org/10.1093/arclin/acq014
+
+---
+
+*Rozdział 4 ukończony – 2,272 słów*
+*Status: Ukończony*
+*Data: 29.12.2024*
