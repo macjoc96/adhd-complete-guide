@@ -191,7 +191,7 @@ W ostatnich 10 latach nastąpiła rewolucja w rozumieniu osi jelito-mózg (gut-b
 - **Niedziela**: Sałatka z tuńczykiem + oliwa + owoce
 
 **Klucz: Meal prep w niedzielę**
-- 2-3h niedzielą: przygotuj główne składniki (ugotuj quinoa, upieczryby, pokrój warzywa)
+- 2-3h niedzielą: przygotuj główne składniki (ugotuj quinoa, upiecz ryby, pokrój warzywa)
 - W ciągu tygodnia: łącz komponenty (15 min/posiłek)
 
 ### Protokół 3: Omega-3 Supplementation

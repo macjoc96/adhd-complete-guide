@@ -16,9 +16,7 @@ Ma przed sobą listę 47 rzeczy, które "powinien" robić. Wie, że jeśli spró
 2. **Są sustainable** (możesz to robić przez lata, nie tylko tydzień)
 3. **Dają największy ROI** (return on investment) – najmniej wysiłku, najwięcej efektu
 
-Ten rozdział to **synthesis** – jak wziąć 18 rozdziałów wiedzy i zamienić w praktyczny, actionable, personalized plan. Nie "wszystko naraz", ale **strategic layering**: zaczynasz od fundamentów, dodajesz po jednym elemencie, testujesz, iteru
-
-jesz.
+Ten rozdział to **synthesis** – jak wziąć 18 rozdziałów wiedzy i zamienić w praktyczny, actionable, personalized plan. Nie "wszystko naraz", ale **strategic layering**: zaczynasz od fundamentów, dodajesz po jednym elemencie, testujesz, iterujesz.
 
 ## Nauka: Dlaczego „All-In" Nie Działa
 
