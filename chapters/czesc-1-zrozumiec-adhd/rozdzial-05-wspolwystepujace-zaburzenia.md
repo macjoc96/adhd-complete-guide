@@ -34,41 +34,19 @@ To rozdział o czymś czego nie mówią filmy o ADHD i uproszczone artykuły: AD
 
 ### 1. Depresja (Major Depressive Disorder)
 
-**Częstość**: **30-40%** dorosłych z ADHD, **10-30%** dzieci/młodzieży z ADHD
+Depresja współwystępuje u 30-40% dorosłych z ADHD i 10-30% dzieci i młodzieży z tym zaburzeniem. To nie jest przypadek - głębokie powiązanie między tymi dwoma zaburzeniami ma solidne podstawy neurobiologiczne i psychologiczne.
 
-**Dlaczego tak częste?**:
+**Dlaczego depresja i ADHD tak często idą w parze?** Po pierwsze, dzielą wspólną neurobiologię. Zarówno ADHD jak i depresja wiążą się z dysfunkcją systemów dopaminergicznego i noradrenergicznego - tych samych układów neurotransmiterowych, które regulują motywację, nastrój i energię. Genetycznie zaburzenia te nakładają się w około 40% - jeśli masz geny predysponujące do ADHD, często niesiesz także genetyczne ryzyko depresji.
 
-**A. Wspólna neurobiologia**:
-- Dysfunkcja systemów dopaminergicznego i noradrenergicznego w obu zaburzeniach
-- Nakładanie się genetyczne (~40%)
+Ale jest też drugi mechanizm, bardziej psychologiczny i życiowy. ADHD samo w sobie staje się czynnikiem ryzyka rozwoju depresji przez to, co nazwalibyśmy modelem wtórnym. Wyobraź sobie dziesięciolecia chronicznych porażek - w szkole dostajesz gorszych ocen niż wskazywałaby na to Twoja inteligencja, w pracy projekty są spóźnione i niedokończone, w relacjach zapominasz o rocznicach i ważnych wydarzeniach. Te powtarzające się niepowodzenia erodują samoocenę, budują przekonanie "jestem do niczego", "nigdy mi się nie uda". A do tego dochodzi Rejection Sensitivity Dysphoria (RSD) - przeczulica na odrzucenie, charakterystyczna dla ADHD, która sprawia że każda krytyka boli jak cios. Izolacja społeczna, problemy z utrzymaniem przyjaźń i związków - wszystko to tworzy perfekcyjny grunt pod rozwój depresji.
 
-**B. ADHD jako czynnik ryzyka depresji** (model wtórny):
-- Chroniczne porażki (szkoła, praca, relacje) → niska samoocena → depresja
-- Rejection Sensitivity Dysphoria (RSD) nasilona w ADHD → podatność na depresję
-- Izolacja społeczna, problemy z utrzymaniem relacji
+I jakby tego było mało, związek działa w obie strony. Depresja nasila objawy ADHD, tworząc błędne koło. Anhedonia - niezdolność do odczuwania przyjemności, centralna w depresji - nakłada się na i tak już problematyczną motywację w ADHD, sprawiając że wstanie z łóżka staje się heroicznym aktem. Zmęczenie charakterystyczne dla depresji dodatkowo pogarsza i tak już osłabione funkcje wykonawcze. Ruminacja - ciągłe przeżuwanie negatywnych myśli - dodaje kolejną warstwę rozproszenia uwagi do istniejących problemów z koncentracją.
 
-**C. Depresja nasila objawy ADHD**:
-- Anhedonia → brak motywacji (nakłada się na problem motywacji w ADHD)
-- Zmęczenie → gorsze funkcje wykonawcze
-- Ruminacja → rozproszenie uwagi
+Diagnostycznie to komplikuje sprawę, bo wiele objawów się nakłada: trudności z koncentracją, prokrastynacja, zapominanie, zmęczenie występują w obu zaburzeniach. Ale są też kluczowe różnice, które pomagają je rozróżnić. ADHD zaczyna się w dzieciństwie i trwa przewlekle, podczas gdy depresja często pojawia się episodycznie w życiu dorosłym. Nastrój w depresji jest stale obniżony - płaska, szara melancholia - podczas gdy w ADHD widzimy dysregulację emocjonalną z gwałtownymi wahaniami. Anhedonia jest centralna i dominująca w depresji, podczas gdy w czystym ADHD jest mniej wyraźna (chyba że współwystępuje depresja).
 
-**Objawy nakładające się** (wspomniano w Rozdz. 4):
-- Trudności z koncentracją
-- Procrastynacja
-- Zapominanie
-- Zmęczenie
+Terapeutycznie współwystępowanie wymaga zintegrowanego podejścia. Farmakologicznie często potrzebne są dwa leki - stymulujący (methylphenidate, amphetamine) dla ADHD oraz antydepresant (SSRI jak sertralina, lub bupropion który działa na oba zaburzenia) dla depresji. W terapii psychologicznej CBT musi być dostosowana do obu zaburzeń - techniki restrukturyzacji poznawczej dla depresji łączone ze strategiami organizacyjnymi dla ADHD (więcej w Rozdziale 10). Kluczowe pytanie to kolejność: czy najpierw leczyć ADHD czy depresję? Czasem leczenie ADHD automatycznie poprawia depresję, bo redukuje chroniczne porażki i buduje poczucie kompetencji. Ale czasem depresja jest tak ciężka, że trzeba ją najpierw stabilizować zanim osoba będzie w stanie angażować się w strategie zarządzania ADHD.
 
-**Kluczowe różnice**:
-- **Początek**: ADHD od dzieciństwa, depresja często episodyczna w życiu dorosłym
-- **Nastrój**: Depresja = stale obniżony nastrój, ADHD = dysregulacja emocjonalna (wahania)
-- **Anhedonia**: Centralna w depresji, mniej w ADHD (chyba że co-occurring depression)
-
-**Implikacje terapeutyczne**:
-- **Farmakoterapia**: Często potrzebne dwa leki - stymulujące dla ADHD + antydepresant (SSRI, bupropion)
-- **Terapia**: CBT dostosowana do obu zaburzeń (więcej w Rozdz. 10)
-- **Kolejność**: Czasem leczenie ADHD poprawia depresję (bo redukuje chroniczne porażki), czasem trzeba najpierw stabilizować depresję
-
-**Badania**: Kessler et al. (2006) - badanie NCS-R pokazało, że dorosł z ADHD mają 5x wyższe ryzyko Major Depressive Disorder niż populacja ogólna.
+Badanie Kesslera i współpracowników (2006) - duże epidemiologiczne badanie NCS-R - pokazało skalę problemu: dorośli z ADHD mają pięciokrotnie wyższe ryzyko Major Depressive Disorder niż populacja ogólna. To nie marginalna kwestia, ale centralne wyzwanie w leczeniu ADHD.
 
 ---
 
