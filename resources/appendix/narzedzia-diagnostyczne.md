@@ -179,4 +179,75 @@
 
 ---
 
+## Diagnostyka ADHD w Polsce - Praktyczne Informacje
+
+### Gdzie Zrobić Diagnostykę?
+
+**Kompletna lista ośrodków**: Zobacz [Zasoby w Polsce - Diagnostyka](zasoby-polska.md#3-gdzie-zrobić-diagnostykę-adhd-w-polsce)
+
+**Skrótowo**:
+- **NFZ (bezpłatnie)**: Poradnie zdrowia psychicznego, PPP (dla dzieci) - czas oczekiwania 6-18 miesięcy
+- **Prywatnie**: Specjalistyczne ośrodki w dużych miastach (Warszawa, Kraków, Poznań, Wrocław, Gdańsk) - wizyta w ciągu 1-4 tygodni
+
+### Dostępność Narzędzi w Polsce
+
+**Powszechnie używane**:
+- ✅ **ASRS** - Dostępny online w wersji polskiej (darmowy), używany jako pre-screening
+- ✅ **DIVA 2.0** - Używany przez większość polskich specjalistów ADHD, dostępny w języku polskim
+- ✅ **Conners, Brown, BADDS** - Dostępne w większości poradni specjalistycznych
+
+**Rzadziej dostępne**:
+- ⚠️ **QbTest** - Dostępny tylko w wybranych prywatnych ośrodkach (Warszawa, Kraków, Poznań)
+- ⚠️ **TOVA, CPT-3** - Ograniczona dostępność, głównie ośrodki akademickie
+
+### Typowe Koszty Diagnostyki w Polsce (2025)
+
+**NFZ (bezpłatnie)**:
+- Diagnostyka: 0 zł
+- Czas oczekiwania: 6-18 miesięcy
+- Uwaga: Może być trudno znaleźć specjalistę ADHD
+
+**Prywatnie**:
+- **Pierwsza wizyta diagnostyczna** (60-90 min): 300-800 zł
+- **Pełna diagnostyka** (wywiad + testy + ocena): 1,500-3,000 zł
+- **QbTest** (jeśli stosowany): +400-600 zł
+- **Follow-up wizyty**: 200-400 zł
+
+### Proces Diagnostyczny - Polski Kontekst
+
+**1. Pre-screening (można zrobić sam)**:
+- Wypełnij ASRS online (darmowy) - dostępny na adhd.org.pl
+- Jeśli wynik pozytywny → umów wizytę u specjalisty
+
+**2. Wizyta diagnostyczna**:
+- **NFZ**: Skierowanie od lekarza rodzinnego → poradnia zdrowia psychicznego
+- **Prywatnie**: Bezpośredni kontakt z psychiatrą/psychologiem specjalizującym się w ADHD
+
+**3. Typowe narzędzia używane w Polsce**:
+- DIVA 2.0 (wywiad strukturowany)
+- Conners lub Brown Scales (kwestionariusze)
+- Wywiad kliniczny
+- Opcjonalnie: QbTest, badania dodatkowe (tarczyca, niedobory)
+
+**4. Diagnoza i plan leczenia**:
+- Raport diagnostyczny
+- Zalecenia farmakoterapii (jeśli wskazane)
+- Skierowanie na psychoterapię/coaching
+
+### Znaleźć Specjalistę ADHD w Polsce
+
+- **Znanylekarz.pl** - wyszukiwarka + opinie pacjentów
+- **Docplanner.pl** - rezerwacja online
+- **PTADHD** - lista rekomendowanych specjalistów (adhd.org.pl)
+- **Grupy Facebook "ADHD Polska"** - rekomendacje od społeczności
+
+### Przydatne Linki
+
+- [Zasoby w Polsce - Pełna Lista Ośrodków](zasoby-polska.md)
+- [Bibliografia - Polskie Organizacje](../bibliografia.md#polskie-zasoby)
+
+---
+
 *Uwaga: Diagnoza ADHD powinna być zawsze przeprowadzana przez wykwalifikowanego specjalistę (psychiatrę, psychologa klinicznego). Narzędzia przesiewowe służą jedynie do wstępnej oceny.*
+
+*Ostatnia aktualizacja: 2025-12-30*

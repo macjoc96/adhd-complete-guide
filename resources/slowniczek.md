@@ -27,6 +27,9 @@
 **Combined Presentation**
 - Podtyp ADHD charakteryzujący się zarówno objawami nieuwagi, jak i nadpobudliwości/impulsywności.
 
+**Context Switching (Przełączanie Kontekstu)**
+- Przełączanie się między różnymi zadaniami lub aktywnościami. W ADHD szczególnie kosztowne poznawczo, wymaga 15-20 minut "rozpędzania się" po każdym przełączeniu.
+
 ## D
 
 **DAT1 (Dopamine Transporter Gene)**
@@ -34,6 +37,9 @@
 
 **DBT (Dialectical Behavior Therapy)**
 - Terapia dialektyczno-behawioralna. Forma terapii poznawczo-behawioralnej skupiająca się na regulacji emocji i mindfulness.
+
+**Deep Work (Praca Głęboka)**
+- Zadania wymagające wysokiej koncentracji i intensywnego wysiłku poznawczego, wykonywane bez rozpraszaczy. Koncepcja spopularyzowana przez Cala Newporta.
 
 **Default Mode Network (DMN)**
 - Sieć neuronalna aktywna podczas odpoczynku i wędrówek umysłu. U osób z ADHD często wykazuje nietypową aktywność.
@@ -49,6 +55,9 @@
 
 ## E
 
+**Energy Mapping (Mapowanie Energii)**
+- Śledzenie poziomów energii w ciągu dnia (typowo co godzinę na skali 1-10) w celu zidentyfikowania szczytów i dołków energetycznych, a następnie dopasowania zadań do odpowiednich poziomów energii.
+
 **Executive Functions (Funkcje Wykonawcze)**
 - Zestaw procesów poznawczych niezbędnych do kontrolowania i regulowania myśli i działań, w tym pamięć robocza, hamowanie, planowanie i elastyczność poznawcza.
 
@@ -56,6 +65,12 @@
 - Badanie zmian w ekspresji genów, które nie wynikają ze zmian w sekwencji DNA.
 
 ## F
+
+**Fidget Tools (Narzędzia Antystresowe)**
+- Małe przedmioty (kostka fidget, spinner, stress ball, biżuteria antystresowa) pomagające kanalizować nadmiar energii i potrzebę ruchu, co paradoksalnie może pomóc w utrzymaniu koncentracji.
+
+**Flow State (Stan Przepływu)**
+- Stan pełnej absorpcji zadaniem z utratą poczucia czasu, w którym praca przestaje być wysiłkiem a staje się czystą koncentracją. Opisany przez Mihaly'a Csikszentmihalyi'ego jako optymalny stan produktywności i satysfakcji.
 
 **fMRI (Functional Magnetic Resonance Imaging)**
 - Funkcjonalny rezonans magnetyczny. Technika obrazowania mózgu mierząca aktywność mózgu poprzez wykrywanie zmian w przepływie krwi.
@@ -97,6 +112,9 @@
 **Neuroplasticity (Neuroplastyczność)**
 - Zdolność mózgu do zmiany swojej struktury i funkcji w odpowiedzi na doświadczenie.
 
+**NFZ (Narodowy Fundusz Zdrowia)**
+- Polski publiczny system opieki zdrowotnej. Diagnostyka ADHD dostępna bezpłatnie, ale z długimi czasami oczekiwania (6-18 miesięcy).
+
 **Nootropics (Nootropiki)**
 - Substancje mające na celu poprawę funkcji poznawczych.
 
@@ -121,14 +139,46 @@
 **Serotonin (Serotonina)**
 - Neuroprzekaźnik zaangażowany w regulację nastroju, snu i innych funkcji.
 
+**Shallow Work (Praca Płytka)**
+- Zadania rutynowe nie wymagające głębokiej koncentracji (e-maile, telefony, spotkania), które można wykonać "na autopilocie". Kontrast do Deep Work.
+
 **Stimulants (Leki Stymulujące)**
 - Klasa leków zwiększających aktywność układu nerwowego, stosowanych jako leczenie pierwszego rzutu w ADHD (np. methylphenidate, amphetamines).
 
+## T
+
+**Time Blocking (Blokowanie Czasu)**
+- Metoda zarządzania czasem polegająca na przypisywaniu konkretnych zadań do konkretnych godzin w kalendarzu, zamiast trzymania ich jako abstrakcyjnej listy "do zrobienia".
+
+## U
+
+**Ultradian Rhythms (Rytmy Ultradianowe)**
+- Naturalne cykle energii i czuwania trwające 90-120 minut. W ADHD te cykle są bardziej wyraźne z większymi amplitudami wzlotów i upadków.
+
 ## W
+
+**White Noise (Szum Biały) / Pink Noise (Szum Różowy)**
+- Dźwięki maskujące używane do blokowania rozpraszających bodźców słuchowych. White noise zawiera wszystkie częstotliwości w równych proporcjach, pink noise ma więcej niskich częstotliwości (często postrzegany jako bardziej przyjemny).
 
 **Working Memory (Pamięć Robocza)**
 - Zdolność do trzymania i manipulowania informacją w umyśle przez krótki czas. Często upośledzona u osób z ADHD.
 
 ---
 
-*Słowniczek będzie rozbudowywany w trakcie pisania książki*
+## Terminy Specyficzne dla Polski
+
+**PPP (Poradnia Psychologiczno-Pedagogiczna)**
+- Publiczne poradnie oferujące diagnostykę i wsparcie dla dzieci i młodzieży. Dostępne bezpłatnie przez NFZ, ale z długimi czasami oczekiwania.
+
+**PTADHD (Polskie Towarzystwo ADHD)**
+- Polska organizacja non-profit zajmująca się edukacją i wsparciem osób z ADHD oraz ich rodzin.
+
+**Recepta Rp**
+- Recepta zwykła wymagana na leki niestymulujące (atomoksetyna, bupropion).
+
+**Recepta Rpw**
+- Recepta na lek zawierający środki odurzające i substancje psychotropowe. Wymagana na wszystkie preparaty metylfenidatu (Concerta, Medikinet, etc.).
+
+---
+
+*Ostatnia aktualizacja słowniczka: 2025-12-30*

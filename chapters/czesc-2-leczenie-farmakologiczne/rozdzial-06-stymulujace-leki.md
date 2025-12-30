@@ -50,12 +50,12 @@ Ten rozdział to przewodnik po lekach które dla wielu osób z ADHD są kamienie
 
 **Mechanizm**: Blokuje DAT i NET (inhibitor zwrotnego wychwytu)
 
-**Nazwy handlowe** (przykłady):
-- **Krótkodziałające**: Ritalin, Medikinet (3-4h)
-- **Średniodziałające**: Ritalin SR, Medikinet Retard (6-8h)
-- **Długodziałające**: Concerta, Medikinet XL (10-12h)
+**Nazwy handlowe dostępne w Polsce**:
+- **Krótkodziałające**: Ritalin (Novartis), Medikinet (Medice) (3-4h)
+- **Średniodziałające**: Ritalin SR (Novartis), Medikinet Retard (Medice) (6-8h)
+- **Długodziałające**: Concerta (Janssen), Medikinet XL (Medice), Equasym (Shire) (10-12h)
 
-**Dostępność w Polsce**: Tak (recepta, ścisły nadzór)
+**Dostępność w Polsce**: Tak - wszystkie preparaty metylfenidatu są dostępne na receptę Rpw (recepta na lek zawierający środki odurzające i substancje psychotropowe). Wymagany jest specjalistyczny nadzór psychiatryczny.
 
 ### 2. Amphetamines (AMPH)
 
@@ -67,13 +67,16 @@ Ten rozdział to przewodnik po lekach które dla wielu osób z ADHD są kamienie
 - **Dextroamphetamine** (D-AMPH) - czystsza forma, mniej działań niepożądanych
 - **Mixed amphetamine salts** (MAS) - mieszanka D-AMPH i L-AMPH
 
-**Nazwy handlowe** (przykłady międzynarodowe):
-- **Krótkodziałające**: Adderall IR, Dexedrine (4-6h)
-- **Długodziałające**: Adderall XR, Vyvanse (10-14h)
+**Nazwy handlowe międzynarodowe**:
+- **Krótkodziałające**: Adderall IR, Dexedrine (4-6h) - **NIE dostępne w Polsce**
+- **Długodziałające**: Adderall XR (10-12h) - **NIE dostępny w Polsce**
+- **Lisdexamfetamina (prodrug)**: Vyvanse/Elvanse (10-14h)
 
-**Dostępność w Polsce**: **NIE** (większość preparatów amphetaminowych jest niedostępna w Polsce, z wyjątkiem lisdexamfetaminy w niektórych przypadkach)
+**Dostępność w Polsce**:
+- **Lisdexamfetamina (Elvanse)** - może być dostępna na receptę Rpw w ograniczonym zakresie (głównie dla pacjentów nieletnich, gdy metylfenidat był nieskuteczny)
+- **Inne preparaty amphetaminowe (Adderall, Dexedrine)** - **NIE są dostępne** w Polsce
 
-**Implikacja**: W Polsce głównie methylphenidate.
+**Implikacja**: W Polsce podstawowym lekiem stymulującym jest metylfenidat. Lisdexamfetamina jest opcją drugiego rzutu przy nieskuteczności metylfenidatu.
 
 ---
 

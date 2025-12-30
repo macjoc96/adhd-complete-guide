@@ -15,7 +15,7 @@ To jak porównanie dwóch komputerów o tej samej specyfikacji sprzętowej, ale 
 
 ## Anatomia ADHD: Kluczowe struktury mózgu
 
-Zacznijmy od "sprzętu". Badania neuroimagingowe (szczególnie fMRI i PET) zidentyfikowały kilka kluczowych obszarów mózgu, które funkcjonują inaczej u osób z ADHD.
+Zacznijmy od "sprzętu". Badania neuroimagingowe (szczególnie fMRI - funkcjonalny rezonans magnetyczny i PET - pozytonowa tomografia emisyjna) zidentyfikowały kilka kluczowych obszarów mózgu, które funkcjonują inaczej u osób z ADHD.
 
 ### 1. Prefrontal Cortex (Kora Przedczołowa) - Dyrektor Generalny Mózgu
 
@@ -41,7 +41,7 @@ Badania konsystentnie pokazują **zmniejszoną aktywność** kory przedczołowej
 
 ### 2. Basal Ganglia (Zwoje Podstawy) - System Nagrody i Ruchu
 
-**Lokalizacja**: Głęboko w centralnej części mózgu (striatum, nucleus accumbens, globus pallidus)
+**Lokalizacja**: Głęboko w centralnej części mózgu (striatum/prążkowie, nucleus accumbens/jądro półleżące, globus pallidus/gałka blada)
 
 **Funkcje**:
 - Kontrola ruchu i koordynacja
@@ -126,14 +126,14 @@ Jeśli struktury mózgu to "hardware", neurotransmitery to "software" - chemiczn
 - **Uczenie się**
 
 **Kluczowe szlaki dopaminergiczne**:
-- **Mezolimbiczny** (VTA → nucleus accumbens): Nagroda, motywacja
-- **Mezokortykalny** (VTA → prefrontal cortex): Funkcje wykonawcze, uwaga
-- **Nigrostriatalny** (substantia nigra → striatum): Kontrola ruchu
+- **Mezolimbiczny** (VTA/brzuszne pole nakrywki → nucleus accumbens/jądro półleżące): Nagroda, motywacja
+- **Mezokortykalny** (VTA/brzuszne pole nakrywki → prefrontal cortex/kora przedczołowa): Funkcje wykonawcze, uwaga
+- **Nigrostriatalny** (substantia nigra/istota czarna → striatum/prążkowie): Kontrola ruchu
 
 **Problem w ADHD**: Dysfunkcja dopaminergiczna
 
 Główne mechanizmy:
-1. **Nadmiar transporterów dopaminy (DAT)**: Zbyt szybko zabierają dopaminę z synaps, zanim zdąży zadziałać (Volkow et al., 2009)
+1. **Nadmiar transporterów dopaminy (DAT - dopamine transporter)**: Zbyt szybko zabierają dopaminę z synaps, zanim zdąży zadziałać (Volkow et al., 2009)
 2. **Mniej receptorów D2/D3**: Słabszy "odbiór" sygnału dopaminowego
 3. **Zmniejszone uwalnianie dopaminy**: Mniej komunikatu chemicznego trafia do synapsy
 
@@ -154,7 +154,7 @@ Methylphenidate i amphetamines **blokują transporter dopaminy (DAT)** lub **zwi
 - **Reakcja na stres**: walcz lub uciekaj
 - **Modulacja funkcji wykonawczych**
 
-**Szlaki noradrenergiczne**: Z locus coeruleus (pień mózgu) do kory przedczołowej i innych obszarów
+**Szlaki noradrenergiczne**: Z locus coeruleus/miejsca sinawego (pień mózgu) do kory przedczołowej i innych obszarów
 
 **Problem w ADHD**: Dysregulacja noradrenergiczna
 
@@ -164,8 +164,8 @@ Niedobór norepinefryny prowadzi do:
 - **Słabszego filtrowania bodźców**
 
 **Leki**:
-- **Atomoxetine** (Strattera) - selektywny inhibitor zwrotnego wychwytu norepinefryny (SNRI)
-- **Guanfacine** (Intuniv) - agonista receptorów α2A-adrenergicznych, wzmacnia sygnały noradrenergiczne w PFC
+- **Atomoxetine** (Strattera) - selektywny inhibitor zwrotnego wychwytu norepinefryny (SNRI - Selective Norepinephrine Reuptake Inhibitor)
+- **Guanfacine** (Intuniv) - agonista receptorów α2A-adrenergicznych, wzmacnia sygnały noradrenergiczne w PFC (prefrontal cortex/kora przedczołowa)
 
 ### 3. Serotonina - Niedoceniany Gracz
 
@@ -191,7 +191,7 @@ Nowoczesne obrazowanie mózgu przesunęło uwagę z pojedynczych struktur na **s
 
 **Co to jest?**: Sieć aktywna, gdy **NIE** skupiamy się na zewnętrznym zadaniu - podczas odpoczynku, marzenia, wędrówek umysłu.
 
-**Obszary**: Medial prefrontal cortex, posterior cingulate cortex, precuneus
+**Obszary**: Medial prefrontal cortex/przyśrodkowa kora przedczołowa, posterior cingulate cortex/tylna kora zakrętu obręczy, precuneus/przedklin
 
 **Normalna funkcja**: Wędrówki umysłu, myślenie o sobie, planowanie przyszłości, przypominanie przeszłości
 
@@ -218,7 +218,7 @@ Nowoczesne obrazowanie mózgu przesunęło uwagę z pojedynczych struktur na **s
 
 **Co to jest?**: Decyduje, co jest ważne i wymaga uwagi, a co można zignorować
 
-**Obszary**: Anterior cingulate cortex, anterior insula
+**Obszary**: Anterior cingulate cortex/przednia kora zakrętu obręczy, anterior insula/przednia wyspa
 
 **Problem w ADHD**: Dysfunkcja - mózg źle ocenia, co jest "istotne"
 
@@ -261,8 +261,8 @@ Przełomowe badanie Shaw et al. (2007) z NIMH pokazało, że **ADHD można zrozu
 - Trening funkcji wykonawczych może wzmacniać sieci neuronalne
 
 ### 3. Ćwiczenia aerobowe a neuroplastyczność
-- Ćwiczenia aerobowe zwiększają produkcję BDNF (Brain-Derived Neurotrophic Factor) - białka wspierającego wzrost neuronów
-- Mogą zwiększać objętość hipokampa i poprawiać funkcje wykonawcze
+- Ćwiczenia aerobowe zwiększają produkcję BDNF (Brain-Derived Neurotrophic Factor/mózgowy czynnik neurotroficzny) - białka wspierającego wzrost neuronów
+- Mogą zwiększać objętość hipokampa (hipokamp) i poprawiać funkcje wykonawcze
 
 ### 4. Uważność i medytacja
 - Regularna praktyka może zmieniać aktywność i strukturę ACC i PFC
@@ -296,7 +296,7 @@ ADHD wygląda nieco inaczej u kobiet/dziewczynek nie tylko behawioralnie, ale te
 - Ogromna **heterogenność** wewnątrz ADHD - nie ma jednego "wzorca ADHD mózgu"
 - **Nakładanie się** z innymi zaburzeniami (lęk, depresja, autyzm)
 
-**Ale**: Badania jak QbTest (łączy CPT z analizą ruchu) mogą **wspomagać** diagnozę, dostarczając obiektywnych danych - nie zastępują, ale uzupełniają wywiad kliniczny.
+**Ale**: Badania jak QbTest (łączy CPT/Continuous Performance Test - test ciągłego wykonania z analizą ruchu) mogą **wspomagać** diagnozę, dostarczając obiektywnych danych - nie zastępują, ale uzupełniają wywiad kliniczny.
 
 ---
 

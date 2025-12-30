@@ -18,14 +18,14 @@ Ta książka to kompleksowy przewodnik po ADHD (Attention-Deficit/Hyperactivity 
 ## Struktura Książki
 
 ### Część I: Zrozumieć ADHD (Rozdziały 1-5)
-1. [Co to właściwie jest ADHD?](chapters/czesc-1-zrozumiec-adhd/rozdzial-01-co-to-jest-adhd.md)
-2. [Neurobiologia ADHD - Jak Działa Mózg](chapters/czesc-1-zrozumiec-adhd/rozdzial-02-neurobiologia.md)
+1. [Co to właściwie jest ADHD?](chapters/czesc-1-zrozumiec-adhd/rozdzial-01-co-to-wlasciwie-jest-adhd.md)
+2. [Neurobiologia ADHD - Jak Działa Mózg](chapters/czesc-1-zrozumiec-adhd/rozdzial-02-neurobiologia-adhd.md)
 3. [Genetyka i Czynniki Środowiskowe](chapters/czesc-1-zrozumiec-adhd/rozdzial-03-genetyka-i-czynniki-srodowiskowe.md)
-4. [Diagnoza ADHD](chapters/czesc-1-zrozumiec-adhd/rozdzial-04-diagnostyka.md)
-5. [Współwystępujące Zaburzenia](chapters/czesc-1-zrozumiec-adhd/rozdzial-05-komorbiditety.md)
+4. [Diagnoza ADHD](chapters/czesc-1-zrozumiec-adhd/rozdzial-04-diagnoza-adhd.md)
+5. [Współwystępujące Zaburzenia](chapters/czesc-1-zrozumiec-adhd/rozdzial-05-wspolwystepujace-zaburzenia.md)
 
 ### Część II: Leczenie Farmakologiczne (Rozdziały 6-8)
-6. [Stymulujące Leki (Methylphenidate, Amphetamines)](chapters/czesc-2-leczenie-farmakologiczne/rozdzial-06-leki-stymulujace.md)
+6. [Stymulujące Leki (Methylphenidate, Amphetamines)](chapters/czesc-2-leczenie-farmakologiczne/rozdzial-06-stymulujace-leki.md)
 7. [Leki Niestymulujące (Atomoxetine, Guanfacine, Bupropion)](chapters/czesc-2-leczenie-farmakologiczne/rozdzial-07-leki-niestymulujace.md)
 8. [Personalizacja Farmakoterapii](chapters/czesc-2-leczenie-farmakologiczne/rozdzial-08-personalizacja-farmakoterapii.md)
 
@@ -48,6 +48,31 @@ Ta książka to kompleksowy przewodnik po ADHD (Attention-Deficit/Hyperactivity 
 ### Część VI: Całościowe Podejście (Rozdziały 19-20)
 19. [Integracja - Twój Personalny Protokół](chapters/czesc-6-calosciowe-podejscie/rozdzial-19-integracja-personalny-protokol.md)
 20. [ADHD jako SuperPower?](chapters/czesc-6-calosciowe-podejscie/rozdzial-20-adhd-jako-superpower.md)
+
+---
+
+## Dodatki i Zasoby
+
+### Appendixy
+- [Narzędzia Diagnostyczne ADHD](resources/appendix/narzedzia-diagnostyczne.md) - Przegląd testów i kwestionariuszy
+- [Aplikacje, Strony, Community](resources/appendix/resources-aplikacje-strony.md) - Narzędzia i społeczności
+- [⭐ Zasoby w Polsce](resources/appendix/zasoby-polska.md) - **Kompleksowy przewodnik po polskich zasobach ADHD**
+
+### Inne Zasoby
+- [Bibliografia](resources/bibliografia.md) - Źródła naukowe i literatura (w tym polskie zasoby)
+- [Słowniczek](resources/slowniczek.md) - Definicje kluczowych terminów
+
+### 🇵🇱 Polskie Konteksty w Książce
+
+Ta książka zawiera unikalne **polskie konteksty**, których nie znajdziesz w międzynarodowych publikacjach:
+
+- **Rozdział 4 - Diagnostyka**: NFZ vs prywatnie, koszty (300-3,000 zł), czasy oczekiwania (6-18 miesięcy), lista ośrodków
+- **Rozdziały 6-7 - Farmakologia**: Polskie nazwy handlowe leków, dostępność (Concerta, Medikinet, Strattera), recepty Rpw vs Rp
+- **Rozdział 11 - Terapie**: Tabela porównawcza z kosztami w PLN (150-700 zł/sesja), dostępność w Polsce
+- **Rozdział 12 - Narzędzia**: Darmowe alternatywy dla płatnych aplikacji (oszczędność 500+ zł/rok)
+- **Rozdział 13 - Terminologia**: Polskie tłumaczenia kluczowych terminów (deep work, flow state, etc.)
+- **Rozdział 18 - Suplementy**: Legalność w Polsce, gdzie kupić, co jest nielegalne
+- **Appendix**: Kompletny przewodnik po polskich zasobach (14 sekcji)
 
 ## Dla Kogo?
 
@@ -89,9 +114,12 @@ adhd-complete-guide/
 │   ├── czesc-5-biohacking-i-optymalizacja/
 │   └── czesc-6-calosciowe-podejscie/
 ├── resources/             # Materiały dodatkowe
-│   ├── bibliografia.md
-│   ├── slowniczek.md
+│   ├── bibliografia.md    # Źródła (+ polskie zasoby)
+│   ├── slowniczek.md      # Terminy (+ polskie terminy medyczne)
 │   └── appendix/
+│       ├── narzedzia-diagnostyczne.md
+│       ├── resources-aplikacje-strony.md
+│       └── zasoby-polska.md          # ⭐ Polski kontekst!
 ├── README.md              # Ten plik
 └── claude.md              # Instrukcje dla AI
 ```

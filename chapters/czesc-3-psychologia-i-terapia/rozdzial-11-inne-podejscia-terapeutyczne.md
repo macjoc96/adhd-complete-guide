@@ -287,6 +287,42 @@ Magda (ADHD) i Piotr (bez ADHD) byli w związku pięć lat, ale napięcia rosły
 
 ---
 
+## Tabela Porównawcza: Podejścia Terapeutyczne w ADHD
+
+| **Terapia** | **Główny Cel** | **Najlepsze Dla** | **Dowody Naukowe** | **Czas Trwania** | **Koszt** |
+|-------------|---------------|-------------------|-------------------|------------------|-----------|
+| **CBT** (Rozdział 10) | Zmiana wzorców myślenia i zachowania; funkcje wykonawcze | Prokrastynacja, organizacja, negatywne myśli, podstawowe umiejętności ADHD | ⭐⭐⭐⭐⭐ Złoty standard (d=0.4-0.7) | 12-20 sesji (3-6 miesięcy) | €€€ (150-400 zł/sesja) |
+| **DBT** | Regulacja emocji, tolerancja dystresu, umiejętności międzyludzkie | Intensywne emocje, RSD, impulsywne reakcje, problemy w relacjach | ⭐⭐⭐⭐ Silne (d=0.5-0.6) | 6-12 miesięcy (grupa lub indywidualnie) | €€€ (200-500 zł/sesja) |
+| **Praktyki Uważności (Mindfulness)** | Trening uwagi, regulacja emocji, redukcja stresu | Stres, lęk, ruminacje, trudności z "tu i teraz", uzupełnienie leków/CBT | ⭐⭐⭐⭐ Średnie-silne (d=0.43-0.50) | 8 tygodni (MBSR) lub codziennie (praktyka własna) | € do €€€ (Aplikacje: 0-100 zł/m-c; MBSR: 500-1500 zł/kurs) |
+| **Coaching ADHD** | Praktyczne strategie życiowe, organizacja, accountability | Potrzeba systemów (time management, produktywność), brak poważnych problemów psychicznych | ⭐⭐⭐ Średnie (d=0.49-0.57) | Ciągłe (tygodniowe/dwutygodniowe sesje) | €€€ (200-600 zł/sesja) |
+| **Terapia Par/Rodzinna** | Poprawa komunikacji, zrozumienie ADHD w relacjach, systemy wsparcia | Napięcia w związku/rodzinie związane z ADHD, cykle krytyka-defensywność | ⭐⭐⭐ Średnie (badania jakościowe) | 10-20 sesji (3-8 miesięcy) | €€€€ (300-700 zł/sesja para/rodzina) |
+| **Grupy Wsparcia** | Normalizacja, wymiana strategii, wsparcie emocjonalne, społeczność | Izolacja, chęć społeczności, wymiana doświadczeń z innymi z ADHD | ⭐⭐ Ograniczone badania (dowody anegdotyczne silne) | Ciągłe (spotkania co tydzień/miesiąc) | € do €€ (Często bezpłatne lub niskokosztowe: 0-100 zł/m-c) |
+| **Neurofeedback** | Trening modulacji fal mózgowych | Nietolerancja/nieskuteczność leków, uzupełnienie (nie zastępowanie) CBT/leków | ⭐⭐ Mieszane/kontrowersyjne (d=0.59 vs brak efektu w RCT) | 20-40 sesji (3-6 miesięcy, 2-3x/tydz.) | €€€€€ (100-300 zł/sesja = 2000-12000 zł total) |
+
+### Legenda:
+- **Dowody naukowe**: ⭐⭐⭐⭐⭐ Złoty standard → ⭐ Słabe dowody
+- **Koszt**: € (tanie/bezpłatne) → €€€€€ (bardzo drogie)
+- **Wielkość efektu (d)**: d=0.2 (mały), d=0.5 (średni), d=0.8 (duży)
+
+### Jak Wybrać?
+
+**1. Zacznij od fundamentów:**
+- **CBT + leki** (jeśli tolerujesz) to złoty standard – zacznij tutaj
+- Jeśli CBT niedostępne/niewystarczające → coaching dla praktycznych strategii
+
+**2. Dodaj specyficzne interwencje w zależności od potrzeb:**
+- **Intensywne emocje/RSD** → DBT
+- **Stres/lęk/ruminacje** → Praktyki uważności
+- **Problemy w związku** → Terapia par
+- **Izolacja/chęć społeczności** → Grupy wsparcia
+
+**3. Rozważ eksperymentalne podejścia jako uzupełnienie (nie zastępowanie):**
+- **Neurofeedback** – tylko jeśli leki/CBT niewystarczające i masz zasoby (czas + pieniądze)
+
+**Najskuteczniejsza strategia to często kombinacja**: Leki + CBT (fundament) + dodatkowe interwencje w zależności od indywidualnych potrzeb (DBT dla emocji, mindfulness dla stresu, coaching dla produktywności, terapia par dla relacji).
+
+---
+
 ## Kluczowe Wnioski
 
 1. **CBT to złoty standard, ale nie jedyna opcja** – DBT (regulacja emocji), praktyki uważności (świadomość), coaching (strategie praktyczne), terapia par/rodzinna (relacje), grupy wsparcia (społeczność) – każde adresuje inny aspekt ADHD.

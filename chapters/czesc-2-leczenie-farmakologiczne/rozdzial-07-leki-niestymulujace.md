@@ -16,7 +16,7 @@ W tym rozdziale przyjrzymy się bliżej trzem głównym kategoriom leków niesty
 
 ### Atomoxetina – Selektywny Inhibitor Zwrotnego Wychwytu Noradrenaliny
 
-Atomoxetina (nazwa handlowa: Strattera) to pierwszy i jedyny lek niestymulujący oficjalnie zatwierdzony przez FDA i EMA do leczenia ADHD. Jej mechanizm działania różni się fundamentalnie od leków stymulujących:
+Atomoxetina (nazwa handlowa: **Strattera** - Eli Lilly) to pierwszy i jedyny lek niestymulujący oficjalnie zatwierdzony przez FDA i EMA do leczenia ADHD. **Dostępność w Polsce**: Tak, na receptę Rp (recepta zwykła). Jej mechanizm działania różni się fundamentalnie od leków stymulujących:
 
 **Mechanizm molekularny:**
 - Atomoxetina selektywnie hamuje transporter noradrenaliny (NET), zwiększając dostępność noradrenaliny w synapsach
@@ -46,7 +46,11 @@ Atomoxetina (nazwa handlowa: Strattera) to pierwszy i jedyny lek niestymulujący
 
 ### Guanfacyna i Klonidyna – Agoniści Receptorów Alfa-2
 
-Guanfacyna (Intuniv) i klonidyna (Kapvay) to leki pierwotnie stosowane w kardiologii jako leki obniżające ciśnienie, ale znalazły również zastosowanie w ADHD.
+Guanfacyna (nazwa handlowa: **Intuniv** - Shire/Takeda) i klonidyna (nazwa handlowa: **Kapvay** w USA, **Catapresan** w Polsce) to leki pierwotnie stosowane w kardiologii jako leki obniżające ciśnienie, ale znalazły również zastosowanie w ADHD.
+
+**Dostępność w Polsce**:
+- **Guanfacyna (Intuniv)** - ograniczona dostępność, może nie być refundowana
+- **Klonidyna (Catapresan)** - dostępna, ale jako lek kardiologiczny (off-label w ADHD)
 
 **Mechanizm działania:**
 - Działają jako agoniści receptorów alfa-2 adrenergicznych w korze przedczołowej
@@ -73,7 +77,9 @@ Guanfacyna (Intuniv) i klonidyna (Kapvay) to leki pierwotnie stosowane w kardiol
 
 ### Bupropion – Inhibitor Zwrotnego Wychwytu Dopaminy i Noradrenaliny
 
-Bupropion (Wellbutrin, Zyban) to lek antydepresyjny, który znalazł zastosowanie off-label w leczeniu ADHD.
+Bupropion (nazwy handlowe: **Wellbutrin**, **Elontril**, **Zyban**) to lek antydepresyjny, który znalazł zastosowanie off-label w leczeniu ADHD.
+
+**Dostępność w Polsce**: Tak - dostępny jako **Elontril** (GlaxoSmithKline) i **Wellbutrin XL** na receptę Rp. W Polsce jest zarejestrowany do leczenia depresji i wspomagania rzucania palenia (Zyban), stosowanie w ADHD jest off-label.
 
 **Mechanizm działania:**
 - Hamuje zwrotny wychwyt dopaminy (DAT) i noradrenaliny (NET)

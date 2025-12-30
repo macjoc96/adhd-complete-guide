@@ -302,6 +302,108 @@ Piotr, 41-letni pisarz, prokrastynował przy pisaniu książki od roku. Sam w do
 - **Caveday:** caveday.org (grupowe sesje pracy, community)
 - **Study Together:** Discord servers (wirtualne "study halls")
 
+### Darmowe Alternatywy dla Płatnych Narzędzi
+
+**Nie masz budżetu na płatne aplikacje? Oto bezpłatne opcje które działają równie dobrze:**
+
+#### Task Management (Zamiast Todoist Premium/TickTick Premium)
+- **Microsoft To Do:** to-do.microsoft.com - Całkowicie darmowa, integracja z Outlook, przypomnienia, listy
+- **Google Tasks:** Wbudowana w Gmail i Google Calendar, prosta i skuteczna
+- **Any.do (wersja darmowa):** any.do - Prosta, intuicyjna, podstawowe funkcje wystarczające dla większości
+- **Notion (wersja darmowa):** notion.so - Potężna (choć krzywa uczenia), ale free tier wystarcza dla użytku osobistego
+- **Trello (wersja darmowa):** trello.com - Wizualne tablice Kanban, świetne dla osób myślących wizualnie
+
+#### Pomodoro (Zamiast Be Focused Premium/Forest)
+- **Pomofocus:** pomofocus.io - Webowa, najprostsza, całkowicie darmowa
+- **Tomato Timer:** tomato-timer.com - Prosty web timer, zero instalacji
+- **Marinara Timer:** marinaratimer.com - Web Pomodoro z konfigurowalnymi czasami
+- **Focus To-Do (wersja darmowa):** Podstawowe funkcje Pomodoro + task list
+- **Flora (wersja darmowa):** getflora.com - Podobna do Forest (sadzi drzewo), ma darmową wersję
+
+#### Wizualne Timery (Zamiast fizycznego Time Timer za ~200 zł)
+- **Online-Stopwatch.com:** online-stopwatch.com/classroom-timers - Wizualne timery online, różne style
+- **e.ggtimer.com:** Prosty countdown timer z dużym wyświetlaczem
+- **Aplikacja Alarmy (wbudowana w telefon):** Ustaw timer z etykietą, wyświetl na pełnym ekranie
+- **Time Timer Chrome Extension:** Darmowe rozszerzenie do Chrome naśladujące fizyczny Time Timer
+
+#### Body Doubling (Zamiast Caveday ~150 zł/miesiąc)
+- **Focusmate (wersja darmowa):** 3 sesje/tydzień za darmo - wystarczy dla większości ludzi
+- **Study Together (Discord):** Całkowicie darmowe study halls 24/7 - discord.gg/study
+- **Studystream:** studystream.live - Darmowe wirtualne study sessions
+- **ADHD Discord servers:** Szukaj "ADHD study hall" - wiele społeczności oferuje body doubling
+- **Biblioteka/Kawiarnia:** Klasyczna opcja - zero kosztów, realne osoby pracujące obok
+
+#### Blokowanie Rozpraszających Stron (Zamiast Freedom ~$40/rok)
+- **LeechBlock NG:** Darmowe rozszerzenie (Firefox/Chrome), bardzo konfigurowalne
+- **StayFocusd:** Darmowe dla Chrome, blokuje strony po przekroczeniu limitu czasu
+- **Cold Turkey (wersja darmowa):** Podstawowe blokowanie stron, Windows/Mac
+- **FocusMe (wersja darmowa):** Ograniczona, ale funkcjonalna dla podstawowych potrzeb
+- **SelfControl (Mac):** Open source, całkowicie darmowy, bardzo skuteczny
+- **BlockSite:** Darmowa wersja wystarczająca dla większości użytkowników
+
+#### Muzyka/Dźwięk dla Koncentracji (Zamiast brain.fm ~30 zł/m-c, Focus@Will ~40 zł/m-c)
+- **YouTube:**
+  - "Lofi hip hop radio" (ChilledCow) - 24/7 stream, idealny dla pracy
+  - "Classical music for studying" - Dziesiątki darmowych playlistów
+  - "White noise 10 hours" - Darmowy white/pink/brown noise
+- **Spotify (wersja darmowa):**
+  - Playlisty: "Deep Focus", "Peaceful Piano", "Instrumental Study"
+  - Lo-fi, ambient, klasyka - setki opcji za darmo (z reklamami, ale można wyciszyć)
+- **mynoise.net:** Generatory dźwięków (white noise, rain, cafe ambient) - konfigurowalne, w większości darmowe
+- **Noisli.com (wersja darmowa):** Mieszaj różne dźwięki (deszcz, burza, wiatr), prosty interfejs
+- **A Soft Murmur:** asoftmurmur.com - Podobny do Noisli, całkowicie darmowy
+
+#### Cyfrowa Higiena
+- **OneTab:** Darmowe rozszerzenie (Chrome/Firefox) - archiwizuje zakładki jednym kliknięciem
+- **The Great Suspender:** Zamraża nieużywane zakładki (oszczędza RAM i redukuje rozproszenie)
+- **Tryb Skupienia (wbudowany):**
+  - macOS: Focus Mode (wbudowany od macOS Monterey)
+  - Windows: Focus Assist (wbudowany w Windows 10/11)
+  - Android: Digital Wellbeing → Focus Mode (wbudowany)
+  - iOS: Focus (wbudowany od iOS 15)
+
+#### Standing Desk (Zamiast ~1000-3000 zł)
+- **DIY Standing Desk:** Pudełka, sterty książek, stoliczek IKEA na biurku - zero kosztów
+- **Adjustable Laptop Stand (~50-100 zł):** IKEA OBEGRÄNSAD, Amazon Basics - tani sposób na podniesienie laptopa do stania
+- **Sit-Stand Breaks:** Ustaw alarm co 30 min → wstań, pracuj 5 min na stojąco przy parapecie/wysokim blacie
+- **Boxes Method:** Szukaj "DIY cardboard standing desk" - funkcjonalne za ~0 zł
+
+#### Słuchawki z Redukcją Szumów (Zamiast Bose/Sony ~1200-1600 zł)
+- **Zwykłe earbudy/słuchawki (~50-100 zł) + white noise (darmowy):** Efekt podobny za ułamek ceny
+- **Wkładki do uszu (~10-20 zł) + bone conduction headphones:** Blokują dźwięk, słuchasz muzyki przez kości
+- **Białe/różowe szumy z telefonu:** YouTube, mynoise.net - izolują dźwięk za darmo
+
+### Zasada Złota: Najlepsze Narzędzie = To Którego Używasz
+
+**Drogie narzędzia nie są lepsze jeśli leżą nieużywane.** Darmowa aplikacja której używasz codziennie wygrywa nad płatną którą otworzyłeś dwa razy i porzuciłeś. **Zacznij od darmowych opcji**, zobacz co działa dla Twojego mózgu, **dopiero potem** rozważ upgrade do płatnych wersji jeśli potrzebujesz dodatkowych funkcji.
+
+Większość osób z ADHD używa kombinacji:
+- **Microsoft To Do/Google Tasks** (darmowe, wystarczające)
+- **Pomofocus** (darmowy Pomodoro web timer)
+- **Focusmate darmowe 3 sesje/tydzień** + biblioteka/kawiarnia
+- **YouTube lo-fi** + **LeechBlock** (blokowanie rozpraszaczy)
+- **Wbudowany Focus Mode** (telefon/komputer)
+
+**Koszt: 0 zł. Skuteczność: równie wysoka jak premium toolset za 500 zł/rok.**
+
+---
+
+### Powiązane Rozdziały
+
+**Fundamenty organizacji**:
+- **[Rozdział 9: Funkcje Wykonawcze](../../czesc-3-psychologia-i-terapia/rozdzial-09-funkcje-wykonawcze.md)** - Zrozum neurologiczne podstawy trudności organizacyjnych. Dlaczego Twój mózg potrzebuje zewnętrznych systemów.
+
+**Techniki psychologiczne wspierające systemy**:
+- **[Rozdział 10: CBT dla ADHD](../../czesc-3-psychologia-i-terapia/rozdzial-10-cbt-dla-adhd.md)** - Restrukturyzacja myślenia ("Nie muszę być perfekcjonistą") wspiera wdrażanie systemów organizacyjnych.
+
+**Optymalizacja energii i uwagi**:
+- **[Rozdział 13: Zarządzanie Energią i Uwagą](rozdzial-13-zarzadzanie-energia-i-uwaga.md)** - Dopasuj systemy do swoich rytmów ultradianowych. Time blocking działa lepiej gdy uwzględniasz szczyty i dołki energii.
+
+**Całościowa integracja**:
+- **[Rozdział 19: Integracja - Personalny Protokół](../../czesc-6-calosciowe-podejscie/rozdzial-19-integracja-personalny-protokol.md)** - Stwórz kompletny plan łączący systemy organizacyjne z farmakoterapią, dietą, aktywnością i snem.
+
+---
+
 ### Książki
 
 - **"Getting Things Done" (GTD)** – David Allen (kompleksowy system produktywności – użyj uproszczonej wersji dla ADHD)

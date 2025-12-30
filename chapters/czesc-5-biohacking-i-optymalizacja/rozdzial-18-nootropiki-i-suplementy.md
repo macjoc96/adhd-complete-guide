@@ -243,23 +243,80 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 
 ---
 
-### Tier 4: Experimental/Research-Only Compounds ⚠️
+### Tier 4: Experimental/Research-Only Compounds ⚠️ 🛑
 
-**WAŻNE OSTRZEŻENIE:** Substancje poniżej **NIE SĄ suplementami**. To **research chemicals** dostępne wyłącznie jako "not for human consumption". Włączam je tutaj dla kompletności obrazu i edukacji o cutting-edge research, **NIE jako rekomendację do użycia**.
+# **⚠️ KRYTYCZNE OSTRZEŻENIE - PRZECZYTAJ UWAŻNIE ⚠️**
 
-**Dlaczego o nich piszę?**
-- Pojawiają się w dyskusjach community nootropic
-- Niektórzy je eksperymentują (self-experimentation)
-- Ważne, żebyś wiedział o ryzykach jeśli rozważasz
+**SUBSTANCJE W TEJ SEKCJI SĄ POTENCJALNIE NIEBEZPIECZNE I NIE POWINNY BYĆ STOSOWANE PRZEZ OSOBY BEZ SPECJALISTYCZNEJ WIEDZY FARMAKOLOGICZNEJ.**
 
-**Ryzyko:**
-- ❌ Brak długoterminowych badań bezpieczeństwa u ludzi
-- ❌ Brak kontroli jakości (mogą zawierać zanieczyszczenia)
-- ❌ Nieprzewidywalne interakcje z lekami
-- ❌ Legal gray area w większości krajów
-- ❌ Brak established dosing protocols
+---
 
-**Jeśli mimo wszystko rozważasz:** Konsultuj z lekarzem znającym się na farmakologii, rób bloodwork before/after, start z minimalnych dawek, **nigdy nie kombinuj z lekami ADHD bez nadzoru lekarskiego**.
+## **CZYM SĄ TE SUBSTANCJE?**
+
+Substancje poniżej **NIE SĄ suplementami diety**. To **eksperymentalne research chemicals (związki badawcze)**, które:
+- ❌ **NIE SĄ zatwierdzone** przez FDA, EMA ani żaden organ regulacyjny do użycia u ludzi
+- ❌ **NIE PRZESZŁY pełnych badań klinicznych** bezpieczeństwa i skuteczności
+- ❌ Są sprzedawane **wyłącznie jako "nie dla ludzkiej konsumpcji"** (not for human consumption)
+- ❌ **MOGĄ BYĆ NIELEGALNE** w Polsce i innych krajach (patrz: sekcja o legalności poniżej)
+
+---
+
+## **DLACZEGO O NICH PISZĘ?**
+
+Włączam te informacje **wyłącznie w celach edukacyjnych** i aby ostrzec przed ryzykami:
+
+1. **Pojawiają się w społecznościach nootropowych** - niektórzy je eksperymentują na własną odpowiedzialność
+2. **Ważne, żeby znać ryzyko** - jeśli rozważasz lub słyszałeś o tych substancjach, musisz być świadomy konsekwencji
+3. **Transparentność naukowa** - przedstawiam kompletny obraz cutting-edge research, ale **NIE JEST TO REKOMENDACJA**
+
+**JASNO STWIERDZAM: NIE POLECAM STOSOWANIA TYCH SUBSTANCJI. OPISUJĘ JE TYLKO PO TO, ABY OSTRZEC PRZED RYZYKIEM.**
+
+---
+
+## **RYZYKO - CO MOŻE SIĘ STAĆ?**
+
+### **Bezpośrednie zagrożenia zdrowotne:**
+- 🚨 **Brak długoterminowych badań bezpieczeństwa** - nie wiemy jakie są skutki stosowania przez miesiące/lata
+- 🚨 **Uszkodzenie wątroby/nerek** - możliwe przy niektórych research chemicals
+- 🚨 **Toksyczność neurologiczna** - ryzyko nieodwracalnych zmian w mózgu
+- 🚨 **Napady drgawkowe** - niektóre modulatory AMPA mogą obniżać próg drgawkowy
+- 🚨 **Reakcje alergiczne/anafilaksja** - nieznane alergeny w niesprawdzonych substancjach
+- 🚨 **Śmiertelne interakcje z lekami** - szczególnie z lekami ADHD (stymulującymi, atomoxetyną)
+
+### **Brak kontroli jakości:**
+- ❌ **Zanieczyszczenia** - mogą zawierać toksyczne substancje, metale ciężkie, inne chemikalia
+- ❌ **Niewłaściwa dawka** - produkt może zawierać 50% lub 200% deklarowanej ilości substancji
+- ❌ **Fałszywe produkty** - możesz dostać zupełnie inną substancję niż zamówiłeś
+
+### **Ryzyko prawne:**
+- ⚖️ **Nielegalne w Polsce** - wiele research chemicals jest na liście substancji psychotropowych (patrz: Ustawa o przeciwdziałaniu narkomanii)
+- ⚖️ **Konsekwencje karne** - posiadanie może skutkować postępowaniem karnym
+- ⚖️ **Import nielegalny** - zamówienie z zagranicy może być zatrzymane przez celników
+
+### **Ryzyko medyczne przy współwystępowaniu:**
+- ⚠️ **Uzależnienie** - nieznany potencjał uzależniający
+- ⚠️ **Zespół odstawienny** - możliwe objawy po przerwaniu
+- ⚠️ **Tolerancja** - konieczność zwiększania dawek
+
+---
+
+## **JEŚLI MIMO WSZYSTKO ROZWAŻASZ (NIE POLECAM!):**
+
+**Minimum wymagań (wciąż bardzo niebezpieczne):**
+1. ✅ **Konsultacja z lekarzem specjalistą farmakologii** - nie lekarzem rodzinnym, ale kimś z doświadczeniem w research chemicals
+2. ✅ **Pełne badania krwi przed i podczas** (wątroba, nerki, morfologia, elektrolity) co 4-6 tygodni
+3. ✅ **Start z 1/10 planowanej dawki** - test reakcji alergicznej i tolerancji
+4. ✅ **Nigdy nie łącz z lekami ADHD** bez nadzoru medycznego
+5. ✅ **Sprawdź legalność w Polsce** przed zakupem
+6. ✅ **Miej plan awaryjny** - znaj najbliższy SOR, poinformuj bliskich co bierzesz
+
+**Ale najlepiej: NIE RÓB TEGO. Ryzyko przewyższa jakiekolwiek teoretyczne korzyści.**
+
+---
+
+## **SUBSTANCJE OPISANE PONIŻEJ - WYŁĄCZNIE EDUKACYJNIE:**
+
+Poniżej opisuję konkretne substancje **tylko po to, żebyś wiedział o ryzykach, jeśli gdzieś o nich usłyszysz**. To **NIE jest instrukcja stosowania**.
 
 ---
 
@@ -570,6 +627,100 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 
 **Lepiej:** Jeśli masz fatigue → **sprawdź thyroid, vitamin D, iron, sleep quality** (realne przyczyny)
 
+---
+
+## Legalność Suplementów i Nootropików w Polsce
+
+### **Co jest legalne, a co nie?**
+
+#### ✅ **LEGALNE - Suplementy diety (Tier 1-3)**
+
+Wszystkie suplementy opisane w Tier 1, 2 i 3 są **legalne w Polsce** jako suplementy diety, pod warunkiem że:
+- Są zarejestrowane jako suplementy diety w Polsce lub UE
+- Mają etykiety w języku polskim
+- Nie przekraczają maksymalnych dozwoleń dawek składników aktywnych
+
+**Przykłady legalnych suplementów:**
+- L-tyrozyna, L-theanina, Magnez, Omega-3, Witaminy B
+- Rhodiola rosea, Ashwagandha, Bacopa monnieri (jako ekstrakty roślinne)
+- Kofeina (jako część suplementów lub napojów)
+
+**Gdzie kupić:**
+- Apteki (np. Gemini, DOZ, Ziko)
+- Sklepy ze zdrową żywnością (np. Naturala, Be Raw)
+- Sklepy online (np. MyProtein, Bulk Powders, iHerb - legalne dla suplementów)
+
+**Import z zagranicy:**
+- Suplementy z UE: ✅ Legalny import bez ograniczeń
+- Suplementy spoza UE (np. USA, iHerb): ✅ Legalny import dla użytku własnego (do 6 miesięcy zapasu)
+
+---
+
+#### ⚠️ **SZARA STREFA - Nootropiki "quasi-legalne"**
+
+Niektóre nootropiki nie są zarejestrowane jako suplementy w Polsce, ale nie są też zakazane:
+
+**Piracetam i inne racetamy:**
+- W Polsce: **Lek na receptę** (Nootropil - piracetam)
+- Inne racetamy (aniracetam, oxiracetam): **Nie zarejestrowane** w Polsce jako leki ani suplementy
+- Import: Szara strefa - teoretycznie możliwy dla użytku własnego, ale może być zatrzymany przez celników
+- **Rekomendacja**: Nie warto ryzykować - brak solidnych dowodów na skuteczność w ADHD
+
+**Modafinil, Armodafinil:**
+- **Lek na receptę** w Polsce (Provigil - modafinil)
+- Dostępny **tylko na receptę** dla narkolepsji
+- Import bez recepty: **NIELEGALNE**
+- Posiadanie bez recepty: Może skutkować konsekwencjami prawnymi
+
+---
+
+#### ❌ **NIELEGALNE - Research Chemicals (Tier 4)**
+
+**Substancje z Tier 4 (TAK-653, Tropisterom, GB-115, inne research chemicals) są NIELEGALNE w Polsce w większości przypadków.**
+
+**Podstawa prawna:**
+- **Ustawa o przeciwdziałaniu narkomanii** (Dz.U. 2019 poz. 852)
+- **Rozporządzenie Ministra Zdrowia** w sprawie wykazu substancji psychotropowych, środków odurzających oraz nowych substancji psychoaktywnych
+
+**Lista I-P, II-P, III-P, IV-P** (substancje psychotropowe) obejmuje wiele research chemicals, w tym:
+- Wiele modulatorów AMPA
+- Wiele agonistów/antagonistów receptorów serotonowych
+- Pochodne fenyloetyloaminy i tryptaminy
+
+**Konsekwencje posiadania/importu nielegalnych substancji:**
+- ⚖️ **Postępowanie karne** - art. 62 ustawy o przeciwdziałaniu narkomanii
+- ⚖️ **Grzywna lub kara pozbawienia wolności** do 3 lat (w zależności od ilości i intencji)
+- ⚖️ **Zatrzymanie przez celników** - przesyłka z zagranicy może być skonfiskowana
+
+---
+
+### **Jak sprawdzić czy suplement jest legalny w Polsce?**
+
+1. **Sprawdź Główny Inspektorat Sanitarny (GIS)**:
+   - Lista zarejestrowanych suplementów: https://rejestrzp.gis.gov.pl/
+   - Wyszukaj nazwę produktu lub substancji
+
+2. **Sprawdź etykietę:**
+   - Suplementy legalne w Polsce muszą mieć etykietę w języku polskim
+   - Numer powiadomienia GIS lub numer partii
+
+3. **Unikaj "grey market" vendors:**
+   - Jeśli strona sprzedaje "not for human consumption" - to red flag
+   - Jeśli nazwa chemiczna brzmi jak kod (np. "9-ME-BC", "NSI-189") - prawdopodobnie research chemical
+
+---
+
+### **Zalecenia dla bezpiecznego i legalnego stosowania:**
+
+✅ **Trzymaj się Tier 1-3** - wszystkie są legalne i bezpieczne
+✅ **Kupuj od renomowanych sprzedawców** z certyfikatami (GMP, ISO)
+✅ **Sprawdź w GIS** przed zakupem nieznanego produktu
+✅ **Import z UE/USA** dla suplementów dietetycznych jest OK
+❌ **Unikaj research chemicals** - nielegalne, niebezpieczne, niepotrzebne
+❌ **Nie kupuj leków na receptę bez recepty** (modafinil, piracetam w Polsce)
+
+---
+
 ## Kluczowe Wnioski
 
 1. **Nootropiki to NIE zastępstwo dla leków ADHD**, ale mogą być useful jako augmentation (10-30% dodatkowa poprawa) lub dla osób, które nie mogą brać leków.
@@ -585,6 +736,32 @@ Ten rozdział to **evidence-based guide**: co działa (i na ile), co nie działa
 6. **Interakcje z lekami ADHD są realne**: L-tyrozyna, kofeina, rhodiola mogą wzmacniać stymulanty → ryzyko over-stimulation. Zawsze konsultuj z lekarzem, start low.
 
 7. **Unikaj "proprietary blends" i snake oil**: Ginkgo (nie działa dla ADHD), "brain pills" (overpriced, underdosed), "adrenal support" (pseudoscience). Kupuj single ingredients, sam kontroluj.
+
+---
+
+## ⚠️ WAŻNE: Integracja z Innymi Podejściami
+
+**Suplementy NIE zastępują leczenia podstawowego**:
+
+- **[Rozdziały 6-7: Farmakoterapia](../../czesc-2-leczenie-farmakologiczne/)** - **NIE zastępuj** leków przepisanych przez lekarza suplementami bez konsultacji. Leki stymulujące i niestymulujące mają najsilniejsze dowody naukowe (wielkość efektu d=0.7-1.0 vs d=0.2-0.4 dla suplementów).
+
+- **[Rozdział 10: CBT dla ADHD](../../czesc-3-psychologia-i-terapia/rozdzial-10-cbt-dla-adhd.md)** - Psychoterapia adresuje fundamenty funkcjonowania (prokrastynacja, organizacja, negatywne myśli). Suplementy mogą wspierać, ale nie zastąpią terapii.
+
+**Łącz z całościowym podejściem**:
+
+- **[Rozdział 15: Dieta](rozdzial-15-dieta-i-odzywianie.md)** - Omega-3, magnez, żelazo działają najlepiej gdy całościowa dieta jest zoptymalizowana (redukcja cukru, wystarczające białko, antyoksydanty).
+
+- **[Rozdział 16: Aktywność Fizyczna](rozdzial-16-aktywnosc-fizyczna.md)** - Ćwiczenia aerobowe mają wielkość efektu porównywalną z suplementami (d=0.3-0.5) i są bezpłatne. Priorytetyzuj ruch.
+
+- **[Rozdział 17: Sen](rozdzial-17-sen-i-rytmy-dobowe.md)** - Magnez i L-teanina wspierają sen, ale higien snu (ciemność, chłód, regularne godziny) jest fundamentem.
+
+**Stwórz personalny protokół**:
+
+- **[Rozdział 19: Integracja](../../czesc-6-calosciowe-podejscie/rozdzial-19-integracja-personalny-protokol.md)** - Zintegruj suplementy z farmakoterapią, CBT, dietą, aktywnością i snem w spójny, zindywidualizowany plan.
+
+**Najskuteczniejsza strategia**: Leki (jeśli tolerujesz) + CBT/terapia + optymalna dieta + aktywność fizyczna + dobry sen → **WTEDY** rozważ suplementy jako wsparcie, nie zastępstwo.
+
+---
 
 ## Kroki do Działania
 

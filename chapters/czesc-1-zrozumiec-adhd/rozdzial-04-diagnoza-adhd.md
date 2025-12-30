@@ -387,17 +387,134 @@ Jeśli spełnione są wszystkie kryteria:
 
 ### Krok 3: Znajdź specjalistę
 
-**Gdzie szukać** (Polska):
-- Polskie Towarzystwo ADHD - lista specjalistów
-- Grupy wsparcia (Facebook: ADHD Polska) - rekomendacje
-- Kliniki specjalizujące się w ADHD
+**Gdzie szukać w Polsce**:
 
-**Pytania do specjalisty**:
-- Ile osób dorosłych z ADHD diagnozował/a?
-- Jakie narzędzia używa? (DIVA, CAARS?)
-- Czy współpracuje z psychologiem/psychiatrą? (jeśli jeden nie zapewnia pełnej diagnozy + leczenia)
+#### A. Narodowy Fundusz Zdrowia (NFZ)
 
-### Krok 4: Bądź szczery na wizycie
+**Zalety**:
+- Bezpłatne (refund owane z NFZ)
+- Pełne postępowanie diagnostyczne
+
+**Wady**:
+- **Długie kolejki**: 6-18 miesięcy oczekiwania na wizytę psychiatryczną (zależnie od województwa)
+- Ograniczona dostępność specjalistów ADHD (szczególnie dorosłych)
+- Często brak kompleksowej diagnostyki neuropsychologicznej (testy jak QbTest, DIVA mogą nie być dostępne)
+
+**Jak się dostać**:
+1. Skierowanie od lekarza rodzinnego do psychiatry
+2. Rejestracja w poradni psychiatrycznej (można sprawdzić kolejki na stronie NFZ: https://kolejki.nfz.gov.pl)
+3. Oczekiwanie na wizytę
+
+**Rekomendowane ośrodki NFZ z doświadczeniem w ADHD** (przykłady):
+- Poradnie zdrowia psychicznego dla dzieci i młodzieży (jeśli <18 lat)
+- Poradnie psychiatryczne dla dorosłych (pytać o doświadczenie w ADHD dorosłych)
+
+#### B. Prywatne poradnie i specjaliści
+
+**Zalety**:
+- **Szybki dostęp**: wizyta w ciągu 1-4 tygodni
+- Specjaliści z doświadczeniem w ADHD
+- Kompleksowa diagnostyka (w tym testy neuropsychologiczne)
+
+**Wady**:
+- **Koszt**: 300-800 zł za pierwszą wizytę diagnostyczną (1-2h)
+- Pełna diagnostyka z testami: **1,500-3,000 zł** (w zależności od zakresu)
+- Brak refundacji
+
+**Gdzie szukać**:
+- **Polskie Towarzystwo ADHD** (ptadhd.pl) - lista certyfikowanych specjalistów
+- **Grupy wsparcia** (Facebook: "ADHD Polska", "ADHD Dorośli") - rekomendacje społeczności
+- **Kliniki specjalizujące się w ADHD** (np. Centrum ADHD w Warszawie, Krakowskie Centrum ADHD)
+- **Platformy online**: Znanylekarz.pl, Docplanner - szukaj psychiatrów ze specjalizacją ADHD
+
+**Pytania do specjalisty przed umówieniem wizyty**:
+- Ile osób dorosłych z ADHD diagnozował/a? (powinno być >50, najlepiej >100)
+- Jakie narzędzia diagnostyczne używa? (DIVA 2.0, CAARS, QbTest to złote standardy)
+- Czy oferuje kompleksową diagnostykę (wywiad + testy + diagnoza różnicowa)?
+- Czy może przepisywać leki? (jeśli psychiatra - tak, psycholog - nie)
+- Ile wizyt wymaga diagnoza? (zwykle 1-2 wizyty po 1-2h każda)
+
+#### C. Ośrodki specjalistyczne (kompleksowa diagnostyka)
+
+Niektóre ośrodki oferują **pakiety diagnostyczne** (psycholog + psychiatra + testy):
+
+**Zawartość pakietu** (przykład):
+1. Wywiad kliniczny (psychiatra, 1-2h): 400-600 zł
+2. Testy neuropsychologiczne (psycholog, 2-3h): 800-1,200 zł (QbTest, DIVA, CAARS, CPT)
+3. Wizyta podsumowująca + raport (1h): 300-400 zł
+
+**Całkowity koszt pakietu**: 1,500-2,200 zł
+
+**Czas realizacji**: 2-4 tygodnie od pierwszej wizyty do diagnozy
+
+**Zalety**:
+- Kompleksowe podejście
+- Szczegółowy raport pisemny (przydatny do pracy, szkoły, ZUS)
+- Pewność że diagnoza jest rzetelna
+
+#### D. Diagnoza online/telemedyczna
+
+**Dostępność**: Część specjalistów oferuje diagnozy online (szczególnie podczas pandemii i po niej)
+
+**Proces**:
+- Wywiad przez videocall (Zoom, Skype)
+- Kwestionariusze wypełniane online
+- Testy neuropsychologiczne (jeśli dostępne online, np. QbTest@Home)
+
+**Zalety**: Dostępność z całej Polski, brak konieczności podróży
+
+**Wady**: Niektóre testy wymagają osobistej obecności, może być trudniej z oceną behawioralną
+
+**Koszt**: Podobny do wizyt stacjonarnych (300-800 zł za pierwszą wizytę)
+
+### Krok 4: Zrozum koszty leczenia w Polsce
+
+**Po diagnozie: Koszty farmakoterapii**
+
+#### A. Leki refundowane (NFZ)
+
+**Metylfenidat (leki stymulujące)**:
+- **Concerta 18mg/27mg/36mg/54mg**: Refundacja ~70% dla dzieci i młodzieży <18 lat
+- **Medikinet 5mg/10mg/20mg/30mg**: Refundacja ~70% dla dzieci i młodzieży
+- **Koszt po refundacji**: 30-80 zł/miesiąc (zależnie od dawki)
+- **Koszt bez refundacji (dorośli)**: 150-400 zł/miesiąc
+
+**WAŻNE**: Refundacja leków stymulujących dla **dorosłych** (>18 lat) jest **ograniczona** lub **niedostępna** w większości przypadków. Dorośli płacą pełną cenę.
+
+**Atomoxetina (Strattera - lek niestymulujący)**:
+- Refundacja dla dzieci i młodzieży: ~70%
+- **Koszt po refundacji**: 50-100 zł/miesiąc
+- **Koszt bez refundacji (dorośli)**: 200-350 zł/miesiąc
+
+#### B. Programy lekowe i wnioski refundacyjne
+
+**Program lekowy dla ADHD** (NFZ):
+- Dostępny dla dzieci i młodzieży (<18 lat)
+- Wymaga zgłoszenia przez psychiatrę prowadzącego
+- Pokrywa koszty leków stymulujących i atomoxetyny
+
+**Dla dorosłych**:
+- **Brak programu lekowego** - pełna odpłatność
+- Niektóre osoby mogą starać się o **refundację indywidualną** (trudne do uzyskania)
+
+#### C. Średnie koszty miesięczne leczenia
+
+**Scenariusz 1: Dziecko/młodzież <18 lat (z refundacją)**:
+- Leki: 50-100 zł/miesiąc
+- Wizyty kontrolne (NFZ): Bezpłatne
+- **Łącznie**: ~50-100 zł/miesiąc
+
+**Scenariusz 2: Dorosły (prywatnie)**:
+- Leki: 150-400 zł/miesiąc
+- Wizyty kontrolne (prywatnie, co 2-3 miesiące): 200-400 zł/wizyta
+- **Łącznie**: ~200-500 zł/miesiąc + wizyty
+
+**Scenariusz 3: Dorosły + terapia CBT**:
+- Leki + wizyty: 200-500 zł/miesiąc
+- Terapia CBT (prywatnie, 2x/miesiąc): 300-500 zł/miesiąc
+- **Łącznie**: ~500-1,000 zł/miesiąc
+
+### Krok 5: Bądź szczery na wizycie
 
 - Nie minimalizuj objawów ("wszyscy tak mają")
 - Nie wyolbrzymiaj ("chcę dostać leki")
