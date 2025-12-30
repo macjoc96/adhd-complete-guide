@@ -18,14 +18,14 @@ Ta książka to kompleksowy przewodnik po ADHD (Attention-Deficit/Hyperactivity 
 ## Struktura Książki
 
 ### Część I: Zrozumieć ADHD (Rozdziały 1-5)
-1. [Co to właściwie jest ADHD?](chapters/czesc-1-zrozumiec-adhd/rozdzial-01-co-to-jest-adhd.md)
-2. [Neurobiologia ADHD - Jak Działa Mózg](chapters/czesc-1-zrozumiec-adhd/rozdzial-02-neurobiologia.md)
+1. [Co to właściwie jest ADHD?](chapters/czesc-1-zrozumiec-adhd/rozdzial-01-co-to-wlasciwie-jest-adhd.md)
+2. [Neurobiologia ADHD - Jak Działa Mózg](chapters/czesc-1-zrozumiec-adhd/rozdzial-02-neurobiologia-adhd.md)
 3. [Genetyka i Czynniki Środowiskowe](chapters/czesc-1-zrozumiec-adhd/rozdzial-03-genetyka-i-czynniki-srodowiskowe.md)
-4. [Diagnoza ADHD](chapters/czesc-1-zrozumiec-adhd/rozdzial-04-diagnostyka.md)
-5. [Współwystępujące Zaburzenia](chapters/czesc-1-zrozumiec-adhd/rozdzial-05-komorbiditety.md)
+4. [Diagnoza ADHD](chapters/czesc-1-zrozumiec-adhd/rozdzial-04-diagnoza-adhd.md)
+5. [Współwystępujące Zaburzenia](chapters/czesc-1-zrozumiec-adhd/rozdzial-05-wspolwystepujace-zaburzenia.md)
 
 ### Część II: Leczenie Farmakologiczne (Rozdziały 6-8)
-6. [Stymulujące Leki (Methylphenidate, Amphetamines)](chapters/czesc-2-leczenie-farmakologiczne/rozdzial-06-leki-stymulujace.md)
+6. [Stymulujące Leki (Methylphenidate, Amphetamines)](chapters/czesc-2-leczenie-farmakologiczne/rozdzial-06-stymulujace-leki.md)
 7. [Leki Niestymulujące (Atomoxetine, Guanfacine, Bupropion)](chapters/czesc-2-leczenie-farmakologiczne/rozdzial-07-leki-niestymulujace.md)
 8. [Personalizacja Farmakoterapii](chapters/czesc-2-leczenie-farmakologiczne/rozdzial-08-personalizacja-farmakoterapii.md)
 
