@@ -32,9 +32,9 @@ Dlaczego tak jest? **Dopamina** - neurotransmiter kluczowy dla uwagi i motywacji
 
 Paradoks jest jasny: to nie brak uwagi. To **brak kontroli nad uwagą**. Mózg z ADHD ma uwagę typu "wszystko albo nic" - albo totalne wciągnięcie, albo kompletne rozproszenie. Nie ma pośrodku, nie ma regulacji.
 
-### Ultradian Rhythms – Naturalny Rytm Energii (90-120 min Cykle)
+### Ultradian Rhythms (Rytmy Ultradianowe) – Naturalny Rytm Energii (90-120 min Cykle)
 
-Badania snu i czuwania, zapoczątkowane przez Nathana Kleitmana w latach sześćdziesiątych, odkryły coś fascynującego: ludzie nie funkcjonują na stałym poziomie energii przez cały dzień. Działamy w **ultradianowych cyklach energii** trwających mniej więcej dziewięćdziesiąt do sto dwadzieścia minut.
+Badania snu i czuwania, zapoczątkowane przez Nathana Kleitmana w latach sześćdziesiątych, odkryły coś fascynującego: ludzie nie funkcjonują na stałym poziomie energii przez cały dzień. Działamy w **ultradianowych cyklach energii** (ultradian rhythms) trwających mniej więcej dziewięćdziesiąt do sto dwadzieścia minut.
 
 Każdy cykl ma dwie fazy. **Faza wzrostu** to pierwsze sześćdziesiąt do dziewięćdziesięciu minut, kiedy energia i czuwanie rosną - to moment najlepszej koncentracji, najwyższej wydajności poznawczej, największej siły woli. **Faza spadku** to następne dwadzieścia do trzydziestu minut, kiedy energia naturalnie opada - koncentracja słabnie, myślenie zwalnia, ciało sygnalizuje potrzebę przerwy.
 
@@ -52,7 +52,7 @@ Mechanizm neurologiczny jest precyzyjnie zidentyfikowany: mózg z ADHD ma trudno
 
 ## Praktyka: Strategie Zarządzania Energią i Uwagą
 
-### 1. Poznaj Swój Rytm Energii – Energy Mapping
+### 1. Poznaj Swój Rytm Energii – Energy Mapping (Mapowanie Energii)
 
 Pierwszym krokiem do pracy z Twoim naturalnym rytmem jest poznanie tego rytmu. Przez jeden do dwóch tygodni prowadź prosty dziennik energii. Co godzinę - dziewiąta, dziesiąta, jedenasta - oceń swoją energię na skali od jeden do dziesięć. Notuj też co robiłeś w tym czasie i jak się czułeś. Nie musisz być precyzyjny, nie musisz pisać esejów. Tylko liczba i krótka notatka.
 
@@ -73,9 +73,9 @@ Po jednym do dwóch tygodni śledzenia przyjdź czas na analizę wzorców. Przej
 
 Teraz kluczowa część: **dopasuj zadania do poziomu energii**. To nie teoria, to praktyczna strategia która radykalnie zmienia produktywność.
 
-Gdy energia jest na szczycie - osiem do dziesięciu punktów - to czas na **deep work**. Zadania wymagające koncentracji: pisanie, kodowanie, analiza, kreatywność, rozwiązywanie problemów. Trudne decyzje które wymagają jasnego myślenia: planowanie strategii, priorytetyzacja projektów, ważne rozmowy. Nie marnuj tego czasu na banały.
+Gdy energia jest na szczycie - osiem do dziesięciu punktów - to czas na **deep work (pracę głęboką)**. Zadania wymagające koncentracji: pisanie, kodowanie, analiza, kreatywność, rozwiązywanie problemów. Trudne decyzje które wymagają jasnego myślenia: planowanie strategii, priorytetyzacja projektów, ważne rozmowy. Nie marnuj tego czasu na banały.
 
-Gdy energia jest średnia - pięć do siedmiu punktów - to dobry moment na **shallow work**. E-maile które nie wymagają głębokiego myślenia. Telefony i spotkania gdzie nie musisz tworzyć, tylko reagować. Rutynowe zadania które znasz na pamięć i możesz wykonać na autopilocie.
+Gdy energia jest średnia - pięć do siedmiu punktów - to dobry moment na **shallow work (pracę płytką)**. E-maile które nie wymagają głębokiego myślenia. Telefony i spotkania gdzie nie musisz tworzyć, tylko reagować. Rutynowe zadania które znasz na pamięć i możesz wykonać na autopilocie.
 
 Gdy energia spada do dołka - jeden do czterech punktów - nie próbuj walczyć. **Zrób przerwę**: spacer, jedzenie, odpoczynek, drzemka. Praca w dołku energii jest nieefektywna i frustrująca. Jeśli absolutnie musisz coś robić, wybierz najprostsze możliwe zadania: porządki na biurku, archiwizowanie plików, bardzo prosty research który nie wymaga myślenia.
 
@@ -105,9 +105,9 @@ Ekrany dostarczają ciągłej stymulacji która prowadzi do zmęczenia umysłowe
 
 W przerwie zostaw telefon i laptop. Wyjdź na spacer bez urządzeń - niech mózg doświadczy rzeczywistości bez ekranu. Trzy minuty medytacji czy przestrzeni oddechowej uważności gdzie tylko oddychasz i obserwujesz. Albo rozgadaj się z kimś twarzą w twarz - bezpośrednia więź społeczna stymuluje dopaminę i daje regenerację której ekrany nie dadzą.
 
-### 3. Context Switching – Największy Wróg Produktywności w ADHD
+### 3. Context Switching (Przełączanie Kontekstu) – Największy Wróg Produktywności w ADHD
 
-Context switching - przełączanie się między zadaniami - to zabójca produktywności, szczególnie w ADHD. Badania Glorii Mark z UC Irvine pokazują że każde przełączenie między zadaniami kosztuje około piętnastu do dwudziestu minut "rozpędzania się" zanim osiągniesz pełną koncentrację. To samo przełączenie. Dwadzieścia minut stracone za każdym razem.
+Context switching (przełączanie się między zadaniami) to zabójca produktywności, szczególnie w ADHD. Badania Glorii Mark z UC Irvine pokazują że każde przełączenie między zadaniami kosztuje około piętnastu do dwudziestu minut "rozpędzania się" zanim osiągniesz pełną koncentrację. To samo przełączenie. Dwadzieścia minut stracone za każdym razem.
 
 W ADHD problem jest dramatycznie gorszy. Osoby z ADHD przełączają się średnio co pięć do dziesięciu minut, podczas gdy neurotypowi robią to co dwadzieścia do trzydziestu minut. Efekt? **Cały dzień to nieustanne "rozpędzanie się"**. Nigdy nie osiągasz głębokiej koncentracji bo zanim tam dotrzesz, już przeskakujesz na coś innego.
 
@@ -139,7 +139,7 @@ Strategia jest prosta w teorii, trudna w praktyce: **kontroluj środowisko zanim
 
 Problem z dźwiękiem w ADHD jest paradoksalny. Hałas Cię rozprasza - rozmowy, muzyka, ruch uliczny - ale całkowita cisza może być równie problematyczna, bo wewnętrzne myśli i głosy w głowie rozpraszają tak samo skutecznie jak zewnętrzne dźwięki.
 
-Rozwiązanie wymaga eksperymentowania. **Noise-cancelling headphones** - Bose QC, Sony WH-1000XM, AirPods Pro - fizycznie blokują zewnętrzne dźwięki. **White noise albo pink noise** z Noisli czy myNoise maskuje przerywan hałas bez rozpraszania - to jak akustyczny zasłona zasłaniająca chaos. **Muzyka bez słów** - lo-fi hip-hop, klasyka, ambient z brain.fm czy Focus@Will - może pomóc, ale uwaga: jeśli łapiesz się na słuchaniu tekstu albo melodii zamiast pracy, to już zbyt rozpraszające, zmień.
+Rozwiązanie wymaga eksperymentowania. **Noise-cancelling headphones (słuchawki z redukcją szumów)** - Bose QC, Sony WH-1000XM, AirPods Pro - fizycznie blokują zewnętrzne dźwięki. **White noise (szum biały) albo pink noise (szum różowy)** z Noisli czy myNoise maskuje przerywan hałas bez rozpraszania - to jak akustyczny zasłona zasłaniająca chaos. **Muzyka bez słów** - lo-fi hip-hop, klasyka, ambient z brain.fm czy Focus@Will - może pomóc, ale uwaga: jeśli łapiesz się na słuchaniu tekstu albo melodii zamiast pracy, to już zbyt rozpraszające, zmień.
 
 Ciekawy fakt: niektórzy ludzie z ADHD pracują lepiej w kawiarni gdzie jest ambient noise niż w całkowitej ciszy. Testuj różne opcje. Twój mózg może potrzebować innego dźwiękowego tła niż myślisz.
 
@@ -155,13 +155,13 @@ W ADHD dyskomfort fizyczny nie jest denerwujący - jest niemożliwy do ignorowan
 
 **Temperatura** ma bezpośredni wpływ na koncentrację. Zbyt ciepło - senność, letarg, niemożliwość myślenia. Zbyt zimno - napięcie mięśni, rozproszenie, myślenie tylko o tym żeby się ogrzać. Sweet spot dla większości ludzi to dwadzieścia do dwudziestu dwóch stopni Celsjusza. Znajdź swoją preferencję i walcz o nią - termometr na biurku, wentylator, ogrzewanie pod kontrolą.
 
-**Ubrania** to też nie detal estetyczny, tylko narzędzie pracy. Etykietki które drapią, sweter który uwiera, skarpetki które się zwijają - to wszystko zabija koncentrację. Wybieraj ubrania wygodne, miękkie, bez irytujących elementów. Niektórzy ludzie potrzebują **fidget jewelry** - pierścionki które można kręcić, bransoletki które można przesuwać - żeby kanalizować potrzebę ruchu bez rozpraszania się czymś większym.
+**Ubrania** to też nie detal estetyczny, tylko narzędzie pracy. Etykietki które drapią, sweter który uwiera, skarpetki które się zwijają - to wszystko zabija koncentrację. Wybieraj ubrania wygodne, miękkie, bez irytujących elementów. Niektórzy ludzie potrzebują **fidget jewelry (biżuterii antystresowej)** - pierścionki które można kręcić, bransoletki które można przesuwać - żeby kanalizować potrzebę ruchu bez rozpraszania się czymś większym.
 
-Dla osób z hiperaktywnością fizyczną **fidget tools** mogą być zbawienne. Kostka fidget, spinner, stress ball - to narzędzia które pozwalają rękom się ruszać podczas gdy mózg próbuje się skupić. Paradoksalnie, mały ruch rąk pomaga utrzymać koncentrację - gdy ciało ma gdzieś "wyładować" nadmiar energii, łatwiej siedzieć przy zadaniu.
+Dla osób z hiperaktywnością fizyczną **fidget tools (narzędzia antystresowe)** mogą być zbawienne. Kostka fidget, spinner, stress ball - to narzędzia które pozwalają rękom się ruszać podczas gdy mózg próbuje się skupić. Paradoksalnie, mały ruch rąk pomaga utrzymać koncentrację - gdy ciało ma gdzieś "wyładować" nadmiar energii, łatwiej siedzieć przy zadaniu.
 
-### 5. Znajdowanie Flow State – Warunki Dla Głębokiej Koncentracji
+### 5. Znajdowanie Flow State (Stanu Przepływu) – Warunki Dla Głębokiej Koncentracji
 
-Mihaly Csikszentmihalyi, psycholog który spędził dziesięciolecia badając szczęście i produktywność, nazwał to **flow** - stan pełnej absorpcji zadaniem, gdzie tracisz poczucie czasu, gdzie praca przestaje być wysiłkiem a staje się czystą koncentracją. W flow doświadczasz maksymalnej produktywności i głębokiej satysfakcji jednocześnie. Brzmi idealnie, prawda? Problem w ADHD jest taki że flow jest trudny do osiągnięcia celowo - albo wpadasz w hyperfocus przypadkowo, albo nie masz go wcale.
+Mihaly Csikszentmihalyi, psycholog który spędził dziesięciolecia badając szczęście i produktywność, nazwał to **flow (stan przepływu)** - stan pełnej absorpcji zadaniem, gdzie tracisz poczucie czasu, gdzie praca przestaje być wysiłkiem a staje się czystą koncentracją. W flow doświadczasz maksymalnej produktywności i głębokiej satysfakcji jednocześnie. Brzmi idealnie, prawda? Problem w ADHD jest taki że flow jest trudny do osiągnięcia celowo - albo wpadasz w hyperfocus przypadkowo, albo nie masz go wcale.
 
 Ale flow nie jest całkowicie przypadkowy. Badania Csikszentmihalyiego i innych zidentyfikowały precyzyjne warunki które sprzyjają flow. Gdy te warunki są spełnione, szansa na wejście w flow dramatycznie rośnie.
 
