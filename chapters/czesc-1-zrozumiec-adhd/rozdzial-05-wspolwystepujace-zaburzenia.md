@@ -52,48 +52,19 @@ Badanie Kesslera i współpracowników (2006) - duże epidemiologiczne badanie N
 
 ### 2. Zaburzenia lękowe (Anxiety Disorders)
 
-**Częstość**: **40-50%** osób z ADHD
+Zaburzenia lękowe dotykają niemal połowę osób z ADHD - częstość współwystępowania wynosi 40-50%. Najczęściej spotykamy GAD (Generalized Anxiety Disorder, uogólnione zaburzenie lękowe), ale osoby z ADHD zmagają się także z lękiem społecznym, napadami paniki i specyficznymi fobiami.
 
-**Typy**:
-- **GAD (Generalized Anxiety Disorder)** - najbardziej częste
-- **Social Anxiety Disorder**
-- **Panic Disorder**
-- **Specific Phobias**
+Dlaczego to współwystępowanie jest tak powszechne? Po części z powodu wspólnej neurobiologii. Zarówno ADHD jak i zaburzenia lękowe wiążą się z dysregulacją norepinefryny oraz dysfunkcją przedniego zakrętu obręczy (ACC) - obszaru mózgu odpowiedzialnego za wykrywanie zagrożeń. Gdy ACC pracuje nieprawidłowo, mózg może albo nie dostrzegać rzeczywistych problemów (ADHD), albo widzieć zagrożenia wszędzie (lęk) - czasem jedno i drugie jednocześnie.
 
-**Dlaczego tak częste?**:
+Ale ADHD samo w sobie staje się także czynnikiem ryzyka rozwoju lęku. Nieprzewidywalność życia z ADHD - zapominanie o ważnych sprawach, przegapione deadline'y, ciągłe naprawianie błędów - tworzy chroniczny stres, który z czasem przekształca się w lęk. "Co jeśli znowu zapomnę?", "Co jeśli znowu spieszę się?", "Co jeśli znowu kogoś zawiodę?" - te pytania stają się mantrą. Trudności społeczne, takie jak przerywanie innym czy impulsywne zachowania, prowadzą do lęku społecznego - obawy przed oceną, przed byciem postrzeganym jako "dziwny" czy "niewychowany". A Rejection Sensitivity Dysphoria (przeczulica na odrzucenie), charakterystyczna dla ADHD, sprawia że każda ocena czy krytyka wywołuje intensywny lęk.
 
-**A. Wspólna neurobiologia**:
-- Dysregulacja norepinefryny (zaangażowana w obu)
-- ACC (anterior cingulate cortex) dysfunkcja - wykrywanie zagrożeń
+Ten związek działa w obie strony - lęk nasila objawy ADHD, tworząc frustrujące błędne koło. Gdy Twój umysł jest zajęty lękowymi myślami ("co jeśli zrobię błąd?", "co pomyślą inni?"), zostaje mniej zasobów uwagi na samo zadanie - koncentracja jeszcze bardziej cierpi. Unikanie zadań ze strachu przed porażką nakłada się na i tak już problematyczną prokrastynację charakterystyczną dla ADHD - nie robisz tego projektu nie tylko dlatego że nie możesz się zmusić, ale też dlatego że paraliżuje Cię strach. Chroniczne nadmierne pobudzenie (overarousal) związane z lękiem dodatkowo zaburza i tak już problematyczną regulację uwagi.
 
-**B. ADHD jako czynnik ryzyka lęku**:
-- Nieprzewidywalność (zapominanie, missed deadlines) → przewlekły stres → lęk
-- Trudności społeczne (impulsywność, przerywanie) → social anxiety
-- Rejection Sensitivity Dysphoria → lęk przed oceną
+Diagnostycznie wiele objawów się nakłada: niepokój i wewnętrzny restlessness występują w obu zaburzeniach, podobnie trudności z koncentracją i unikanie zadań. Ale są kluczowe różnice. **Typ myśli** jest inny: w lęku to konkretne, katastroficzne obawy ("co jeśli zrobię błąd i wszyscy zobaczą?"), podczas gdy w ADHD umysł po prostu wędruje bez konkretnego lęku ("hmm, co będzie na obiad?", "ciekawe czy ta piosenka..."). **Reakcja na zadania** różni się: lęk prowadzi do unikania zadań ze strachu przed porażką, ADHD powoduje trudności z inicjacją ale bez towarzyszącego lęku. **Symptomy fizyczne** lęku - napięcie mięśniowe, przyspieszone bicie serca, potliwość - są obecne w zaburzeniach lękowych, podczas gdy w czystym ADHD widzimy wewnętrzny niepokój bez tych fizjologicznych objawów.
 
-**C. Lęk nasila objawy ADHD**:
-- Umysł zajęty lękowymi myślami = mniej zasobów na zadanie → gorsze skupienie
-- Unikanie zadań ze strachu przed porażką → prokrastynacja (nakłada się na ADHD procrastination)
-- Overarousal → trudności z regulacją uwagi
+Terapeutycznie współwystępowanie wymaga ostrożności i dostosowania. W farmakoterapii pojawia się problem: leki stymulujące, skuteczne dla ADHD, mogą nasilać lęk u niektórych osób. Dlatego przy współwystępującym lęku często lepszy jest atomoxetine (niestymulujący lek na ADHD) w połączeniu z SSRI lub buspirone dla samego lęku. W terapii psychologicznej CBT musi adresować oba zaburzenia - techniki ekspozycji i restrukturyzacji poznawczej dla lęku łączone ze strategiami organizacyjnymi i zarządzania czasem dla ADHD. Praktyki uważności (mindfulness) mogą być szczególnie pomocne, adresując zarówno błądzenie umysłu w ADHD jak i ruminację lękową (więcej w Rozdziale 11).
 
-**Nakładanie objawów**:
-- Niepokój / restlessness (w obu)
-- Trudności z koncentracją
-- Unikanie zadań
-
-**Kluczowe różnice**:
-- **Typ myśli**: Lęk = konkretne obawy ("co jeśli zrobię błąd?"), ADHD = mind wandering ("co na obiad?")
-- **Reakcja na zadania**: Lęk = unikanie ze strachu, ADHD = trudności z inicjacją bez lęku
-- **Symptomy fizyczne**: Lęk = napięcie mięśniowe, tachykardia, potliwość; ADHD = wewnętrzny restlessness bez fizycznych symptomów lęku
-
-**Implikacje terapeutyczne**:
-- **Farmakoterapia**:
-  - Stymulujące mogą **nasilać lęk** u niektórych (ostrożność!)
-  - Atomoxetine (niestymulujący) może być lepszy przy współwystępującym lęku
-  - SSRI lub buspirone dla lęku
-- **Terapia**: CBT dla lęku + strategie ADHD, praktyki uważności (Rozdz. 11)
-
-**Paradoks**: Niektóre osoby z ADHD używają lęku jako "motywator" - deadline anxiety jako sposób na przezwyciężenie trudności z inicjacją. Gdy lęk jest leczony, mogą mieć jeszcze większe trudności z wykonaniem zadań. Wymaga dostosowania strategii.
+Jest też intrygujący paradoks, o którym rzadko się mówi: niektóre osoby z ADHD nieświadomie używają lęku jako "motywatora". Deadline anxiety - panika tuż przed terminem - staje się sposobem na przezwyciężenie trudności z inicjacją zadań charakterystycznej dla ADHD. "Pracuję najlepiej pod presją" często oznacza "potrzebuję adrenaliny strachu żeby w ogóle zacząć". Gdy lęk jest skutecznie leczony, te osoby mogą nagle odkryć że mają jeszcze większe trudności z wykonywaniem zadań - zniknął ich jedyny (choć patologiczny) system motywacyjny. To wymaga dostosowania strategii i znalezienia zdrowszych źródeł motywacji.
 
 ---
 
