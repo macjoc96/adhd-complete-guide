@@ -107,29 +107,15 @@ Jest też intrygujący paradoks, o którym rzadko się mówi: niektóre osoby z 
 
 ### 4. Zaburzenie afektywne dwubiegunowe (Bipolar Disorder)
 
-**Częstość**: **10-20%** osób z ADHD (wyższa niż w populacji ogólnej: ~2%)
+Zaburzenie afektywne dwubiegunowe występuje u **10-20% osób z ADHD** - znacznie więcej niż w populacji ogólnej gdzie spotyka około 2% ludzi. To jest jedna z najbardziej wymagających diagnoz różnicowych w psychiatrii, bo objawy nakładają się w sposób który może zmylić nawet doświadczonych klinicystów (szczegółowa diagnoza różnicowa w Rozdziale 4).
 
-**Dlaczego trudna diagnoza różnicowa?** (więcej w Rozdz. 4)
+Zarówno bipolar jak i ADHD manifestują się impulsywnością - nieprzemyślane zakupy, pochopne decyzje, mówienie bez zastanowienia. Obydwa powodują nadpobudliwość lub niepokój - niemożność usiedzenia w miejscu, wewnętrzny "motor". Obydwa prowadzą do rozproszonej uwagi - trudności ze skupieniem, przeskakiwanie między myślami. Obydwa mogą objawiać się gadatliwością - szybką, chaotyczną mową "pod presją".
 
-Objawy nakładające się:
-- Impulsywność
-- Nadpobudliwość / niepokój
-- Rozproszona uwaga
-- Gadatliwość
+Ale kluczowe różnice pomagają rozróżnić te zaburzenia. Pierwsza to **epizodyczność**: zaburzenie dwubiegunowe to zaburzenie epizodyczne - osoba przechodzi wyraźne epizody: manię lub hipomanię (podwyższony nastrój, energia), potem depresję (obniżony nastrój, brak energii), następnie eutymię (normalny nastrój). ADHD to zaburzenie z ciągłymi objawami - trudności są obecne każdego dnia, od dzieciństwa. Druga różnica to **zmniejszona potrzeba snu w manii** - osoba w epizodzie manii czuje się wypoczęta po 2-3 godzinach snu, pełna energii. To nie występuje w ADHD - osoby z ADHD mogą mieć trudności z zasypianiem, ale potrzebują normalnej ilości snu. Trzecia to **wielkościowe złudzenia** (grandosity) - w manii pojawia się zawyżona samoocena, poczucie że wszystko jest możliwe; w ADHD samoocena jest zazwyczaj niska z powodu chronicznych porażek.
 
-**Kluczowe różnice**:
-- **Epizodyczność**: Bipolar = wyraźne epizody (mania/hypomania → depresja → euthymia), ADHD = ciągłe objawy
-- **Zmniejszona potrzeba snu**: Typowa dla manii (czuje się wypoczęty po 2-3h snu), NIE dla ADHD
-- **Grandosity**: Zawyżona samoocena w manii, w ADHD często niska (chroniczne porażki)
+Dodatkowa komplikacja: część osób diagnozowanych z zaburzeniem dwubiegunowym to faktycznie osoby z ADHD z intensywną dysregulacją emocjonalną - gwałtowne wahania nastroju są interpretowane jako "epizody", choć nie spełniają kryteriów czasowych i jakościowych manii. Ale prawdziwe współwystępowanie także istnieje - około 10-20% osób ma obydwa zaburzenia jednocześnie.
 
-**Współwystępowanie w przeciwieństwie do błędnej diagnozy**:
-- Część osób diagnozowanych z bipolar to faktycznie ADHD z dysregulacją emocjonalną
-- Ale **prawdziwe współwystępowanie istnieje** (około dziesięć do dwadzieścia procent)
-
-**Implikacje terapeutyczne**:
-- **Ostrożność ze stymulującymi**: Mogą wywołać manię/hipomanię!
-- **Stabilizatory nastroju** (lithium, valproate, lamotrigine) + niestymulujące leki ADHD (atomoxetine)
-- **Wymaga psychiatry** z doświadczeniem w obu zaburzeniach
+To ma krytyczne implikacje terapeutyczne. Leki stymulujące, standardowe w ADHD, mogą wywołać lub nasilić epizod manii u osoby z bipolarem - to jest niebezpieczne i wymaga ostrożności. Leczenie często wymaga stabilizatorów nastroju (lithium, valproate, lamotrigine) w kombinacji z niestymulującymi lekami ADHD (atomoxetine). To wymaga psychiatry z doświadczeniem w obu zaburzeniach.
 
 ---
 
@@ -172,21 +158,13 @@ Objawy nakładające się:
 4. **Kokaína** i inne stymulujące
 5. **Opioids**
 
-**Dlaczego ADHD to czynnik ryzyka?**:
+Dlaczego ADHD jest takim silnym czynnikiem ryzyka uzależnień? Mechanizm jest wielotorowy i fascynujący.
 
-**A. Samomedykacja**:
-- **Nikotyna**: Stymuluje receptory nikotynowe → tymczasowa poprawa uwagi (krótkotrwałe, szkodliwe długoterm)
-- **Alkohol**: "Wyłącza" racing mind, zmniejsza restlessness
-- **Marihuana**: Redukuje niepokój (u niektórych), pomaga w snem
-- **Kokaina/amphetamines**: "Korygują" niedobór dopaminy (bardzo uzależniające!)
+Pierwszy mechanizm to **samomedykacja** - nieświadome używanie substancji do radzenia sobie z objawami ADHD. Nikotyna stymuluje receptory nikotynowe w mózgu i tymczasowo poprawia uwagę - dlatego osoby z ADHD palą znacznie częściej niż populacja ogólna (około 40%). To działa krótkoterminowo, ale jest szkodliwe długoterminowo i uzależniające. Alkohol "wyłącza" racing mind - ciągły potok myśli w ADHD - i zmniejsza wewnętrzny niepokój (restlessness). Marihuana u niektórych osób redukuje lęk i pomaga w zasypianiu. Kokaina i amfetamina "korygują" niedobór dopaminy w mózgu ADHD - działają podobnie do leków stymulujących, ale są bardzo uzależniające i destrukcyjne. Osoby nie myślą "będę się samomedykować" - po prostu zauważają że po nikotynie / alkoholu / marihuanie "czują się lepiej", "łatwiej im myśleć", "są spokojniejsi".
 
-**B. Impulsywność i poszukiwanie nowości**:
-- Trudności z oceną konsekwencji → eksperymentowanie z substancjami
-- DRD4-7R (gen związany z ADHD) także związany z novelty seeking
+Drugi mechanizm to **impulsywność i poszukiwanie nowości**. Osoby z ADHD mają trudności z oceną długoterminowych konsekwencji - "spróbuję raz" łatwo staje się "spróbuję kolejny raz". Gen DRD4-7R, związany z ADHD, jest także związany z novelty seeking - poszukiwaniem nowych, intensywnych doświadczeń. Substancje psychoaktywne są "nowością", "ekscytacją" - idealne dla mózgu szukającego stymulacji.
 
-**C. Środowisko**:
-- Trudności w szkole → peer pressure
-- Niska samoocena → uciekanie w substancje
+Trzeci mechanizm to **środowisko społeczne i psychologiczne**. Trudności w szkole prowadzą do peer pressure - przyłączenie się do "złej paczki", gdzie substancje są normą. Chroniczna niska samoocena (lata porażek, krytyki, poczucia "nie pasowania") prowadzi do uciekania w substancje jako sposób na zagłuszenie bólu emocjonalnego.
 
 **Implikacje terapeutyczne**:
 - **Leczenie ADHD może redukować ryzyko SUD**: Badania pokazują, że farmakoterapia ADHD w dzieciństwie zmniejsza ryzyko uzależnień w dorosłości
