@@ -36,13 +36,7 @@ Atomoxetina (nazwa handlowa: **Strattera** - Eli Lilly) to pierwszy i jedyny lek
 - Mniej skuteczna niż leki stymulujące (d=0.78), ale wciąż klinicznie istotna
 - 40-70% pacjentów osiąga znaczącą poprawę (≥25% redukcja objawów na skalach ADHD)
 
-**Gdy atomoxetina może być pierwszym wyborem:**
-- Współwystępujące zaburzenia lękowe (atomoxetina może je zmniejszać)
-- Historia nadużywania substancji lub ryzyko uzależnienia
-- Tiki – atomoxetina nie nasila tików, może nawet je redukować
-- Problemy ze snem – działa całą dobę, nie zakłóca snu
-- Nieskuteczność lub nietolerancja stymulantów
-- Wyraźna preferencja pacjenta dla leku niestymulującego
+Atomoxetina staje się pierwszym wyborem w kilku kluczowych scenariuszach. Jeśli współwystępują zaburzenia lękowe, atomoxetina często je zmniejsza - to podwójna korzyść. Przy historii nadużywania substancji lub ryzyku uzależnienia, brak potencjału uzależniającego atomoxetiny jest decydujący. Gdy pacjent ma tiki, atomoxetina nie tylko ich nie nasila, ale może nawet je redukować - w przeciwieństwie do stymulantów. Problemy ze snem? Atomoxetina działa całą dobę równomiernie i nie zakłóca architektury snu. Jeśli stymulujące były nieskuteczne lub nietolerowane, atomoxetina to logiczny następny krok. I wreszcie, jeśli pacjent wyraźnie preferuje lek niestymulujący - z powodu obaw, przekonań, czy osobistych doświadczeń - jego autonomia powinna być respektowana.
 
 ### Guanfacyna i Klonidyna – Agoniści Receptorów Alfa-2
 
@@ -68,12 +62,7 @@ Guanfacyna (nazwa handlowa: **Intuniv** - Shire/Takeda) i klonidyna (nazwa handl
 - Szczególnie skuteczne w redukcji hiperaktywności i impulsywności
 - Mniej skuteczne w poprawie uwagi niż atomoxetina czy stymulujące
 
-**Kiedy rozważać agoniści alfa-2:**
-- ADHD z wyraźną hiperaktywnością, impulsywnością, agresją
-- Współwystępujące tiki (często stosowane razem z lekami stymulującymi)
-- Problemy ze snem – sedatywne działanie może być korzystne
-- ADHD + zaburzenia opozycyjno-buntownicze (ODD) – redukują wybuchowość
-- Jako terapia dodatkowa do stymulantów (zwiększa skuteczność)
+Agoniści alfa-2 znajdują swoje miejsce w specyficznych scenariuszach klinicznych. Gdy dominującym problemem jest hiperaktywność, impulsywność lub agresja - nie tyle nieuwaga - guanfacyna i klonidyna są szczególnie skuteczne. Przy współwystępujących tikach są często stosowane razem z lekami stymulującymi, kompensując potencjalne nasilenie tików przez stymulujące. Problemy ze snem? Sedatywne działanie, które w innych kontekstach byłoby wadą, tu staje się zaletą. W ADHD z zaburzeniami opozycyjno-buntowniczymi (ODD) agoniści alfa-2 redukują wybuchowość i reaktywność emocjonalną. I wreszcie, często są używane jako terapia dodatkowa do stymulantów - kombinacja może zwiększać skuteczność i łagodzić działania niepożądane.
 
 ### Bupropion – Inhibitor Zwrotnego Wychwytu Dopaminy i Noradrenaliny
 

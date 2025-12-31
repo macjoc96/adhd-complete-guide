@@ -34,88 +34,37 @@ To rozdział o czymś czego nie mówią filmy o ADHD i uproszczone artykuły: AD
 
 ### 1. Depresja (Major Depressive Disorder)
 
-**Częstość**: **30-40%** dorosłych z ADHD, **10-30%** dzieci/młodzieży z ADHD
+Depresja współwystępuje u 30-40% dorosłych z ADHD i 10-30% dzieci i młodzieży z tym zaburzeniem. To nie jest przypadek - głębokie powiązanie między tymi dwoma zaburzeniami ma solidne podstawy neurobiologiczne i psychologiczne.
 
-**Dlaczego tak częste?**:
+**Dlaczego depresja i ADHD tak często idą w parze?** Po pierwsze, dzielą wspólną neurobiologię. Zarówno ADHD jak i depresja wiążą się z dysfunkcją systemów dopaminergicznego i noradrenergicznego - tych samych układów neurotransmiterowych, które regulują motywację, nastrój i energię. Genetycznie zaburzenia te nakładają się w około 40% - jeśli masz geny predysponujące do ADHD, często niesiesz także genetyczne ryzyko depresji.
 
-**A. Wspólna neurobiologia**:
-- Dysfunkcja systemów dopaminergicznego i noradrenergicznego w obu zaburzeniach
-- Nakładanie się genetyczne (~40%)
+Ale jest też drugi mechanizm, bardziej psychologiczny i życiowy. ADHD samo w sobie staje się czynnikiem ryzyka rozwoju depresji przez to, co nazwalibyśmy modelem wtórnym. Wyobraź sobie dziesięciolecia chronicznych porażek - w szkole dostajesz gorszych ocen niż wskazywałaby na to Twoja inteligencja, w pracy projekty są spóźnione i niedokończone, w relacjach zapominasz o rocznicach i ważnych wydarzeniach. Te powtarzające się niepowodzenia erodują samoocenę, budują przekonanie "jestem do niczego", "nigdy mi się nie uda". A do tego dochodzi Rejection Sensitivity Dysphoria (RSD) - przeczulica na odrzucenie, charakterystyczna dla ADHD, która sprawia że każda krytyka boli jak cios. Izolacja społeczna, problemy z utrzymaniem przyjaźń i związków - wszystko to tworzy perfekcyjny grunt pod rozwój depresji.
 
-**B. ADHD jako czynnik ryzyka depresji** (model wtórny):
-- Chroniczne porażki (szkoła, praca, relacje) → niska samoocena → depresja
-- Rejection Sensitivity Dysphoria (RSD) nasilona w ADHD → podatność na depresję
-- Izolacja społeczna, problemy z utrzymaniem relacji
+I jakby tego było mało, związek działa w obie strony. Depresja nasila objawy ADHD, tworząc błędne koło. Anhedonia - niezdolność do odczuwania przyjemności, centralna w depresji - nakłada się na i tak już problematyczną motywację w ADHD, sprawiając że wstanie z łóżka staje się heroicznym aktem. Zmęczenie charakterystyczne dla depresji dodatkowo pogarsza i tak już osłabione funkcje wykonawcze. Ruminacja - ciągłe przeżuwanie negatywnych myśli - dodaje kolejną warstwę rozproszenia uwagi do istniejących problemów z koncentracją.
 
-**C. Depresja nasila objawy ADHD**:
-- Anhedonia → brak motywacji (nakłada się na problem motywacji w ADHD)
-- Zmęczenie → gorsze funkcje wykonawcze
-- Ruminacja → rozproszenie uwagi
+Diagnostycznie to komplikuje sprawę, bo wiele objawów się nakłada: trudności z koncentracją, prokrastynacja, zapominanie, zmęczenie występują w obu zaburzeniach. Ale są też kluczowe różnice, które pomagają je rozróżnić. ADHD zaczyna się w dzieciństwie i trwa przewlekle, podczas gdy depresja często pojawia się episodycznie w życiu dorosłym. Nastrój w depresji jest stale obniżony - płaska, szara melancholia - podczas gdy w ADHD widzimy dysregulację emocjonalną z gwałtownymi wahaniami. Anhedonia jest centralna i dominująca w depresji, podczas gdy w czystym ADHD jest mniej wyraźna (chyba że współwystępuje depresja).
 
-**Objawy nakładające się** (wspomniano w Rozdz. 4):
-- Trudności z koncentracją
-- Procrastynacja
-- Zapominanie
-- Zmęczenie
+Terapeutycznie współwystępowanie wymaga zintegrowanego podejścia. Farmakologicznie często potrzebne są dwa leki - stymulujący (methylphenidate, amphetamine) dla ADHD oraz antydepresant (SSRI jak sertralina, lub bupropion który działa na oba zaburzenia) dla depresji. W terapii psychologicznej CBT musi być dostosowana do obu zaburzeń - techniki restrukturyzacji poznawczej dla depresji łączone ze strategiami organizacyjnymi dla ADHD (więcej w Rozdziale 10). Kluczowe pytanie to kolejność: czy najpierw leczyć ADHD czy depresję? Czasem leczenie ADHD automatycznie poprawia depresję, bo redukuje chroniczne porażki i buduje poczucie kompetencji. Ale czasem depresja jest tak ciężka, że trzeba ją najpierw stabilizować zanim osoba będzie w stanie angażować się w strategie zarządzania ADHD.
 
-**Kluczowe różnice**:
-- **Początek**: ADHD od dzieciństwa, depresja często episodyczna w życiu dorosłym
-- **Nastrój**: Depresja = stale obniżony nastrój, ADHD = dysregulacja emocjonalna (wahania)
-- **Anhedonia**: Centralna w depresji, mniej w ADHD (chyba że co-occurring depression)
-
-**Implikacje terapeutyczne**:
-- **Farmakoterapia**: Często potrzebne dwa leki - stymulujące dla ADHD + antydepresant (SSRI, bupropion)
-- **Terapia**: CBT dostosowana do obu zaburzeń (więcej w Rozdz. 10)
-- **Kolejność**: Czasem leczenie ADHD poprawia depresję (bo redukuje chroniczne porażki), czasem trzeba najpierw stabilizować depresję
-
-**Badania**: Kessler et al. (2006) - badanie NCS-R pokazało, że dorosł z ADHD mają 5x wyższe ryzyko Major Depressive Disorder niż populacja ogólna.
+Badanie Kesslera i współpracowników (2006) - duże epidemiologiczne badanie NCS-R - pokazało skalę problemu: dorośli z ADHD mają pięciokrotnie wyższe ryzyko Major Depressive Disorder niż populacja ogólna. To nie marginalna kwestia, ale centralne wyzwanie w leczeniu ADHD.
 
 ---
 
 ### 2. Zaburzenia lękowe (Anxiety Disorders)
 
-**Częstość**: **40-50%** osób z ADHD
+Zaburzenia lękowe dotykają niemal połowę osób z ADHD - częstość współwystępowania wynosi 40-50%. Najczęściej spotykamy GAD (Generalized Anxiety Disorder, uogólnione zaburzenie lękowe), ale osoby z ADHD zmagają się także z lękiem społecznym, napadami paniki i specyficznymi fobiami.
 
-**Typy**:
-- **GAD (Generalized Anxiety Disorder)** - najbardziej częste
-- **Social Anxiety Disorder**
-- **Panic Disorder**
-- **Specific Phobias**
+Dlaczego to współwystępowanie jest tak powszechne? Po części z powodu wspólnej neurobiologii. Zarówno ADHD jak i zaburzenia lękowe wiążą się z dysregulacją norepinefryny oraz dysfunkcją przedniego zakrętu obręczy (ACC) - obszaru mózgu odpowiedzialnego za wykrywanie zagrożeń. Gdy ACC pracuje nieprawidłowo, mózg może albo nie dostrzegać rzeczywistych problemów (ADHD), albo widzieć zagrożenia wszędzie (lęk) - czasem jedno i drugie jednocześnie.
 
-**Dlaczego tak częste?**:
+Ale ADHD samo w sobie staje się także czynnikiem ryzyka rozwoju lęku. Nieprzewidywalność życia z ADHD - zapominanie o ważnych sprawach, przegapione deadline'y, ciągłe naprawianie błędów - tworzy chroniczny stres, który z czasem przekształca się w lęk. "Co jeśli znowu zapomnę?", "Co jeśli znowu spieszę się?", "Co jeśli znowu kogoś zawiodę?" - te pytania stają się mantrą. Trudności społeczne, takie jak przerywanie innym czy impulsywne zachowania, prowadzą do lęku społecznego - obawy przed oceną, przed byciem postrzeganym jako "dziwny" czy "niewychowany". A Rejection Sensitivity Dysphoria (przeczulica na odrzucenie), charakterystyczna dla ADHD, sprawia że każda ocena czy krytyka wywołuje intensywny lęk.
 
-**A. Wspólna neurobiologia**:
-- Dysregulacja norepinefryny (zaangażowana w obu)
-- ACC (anterior cingulate cortex) dysfunkcja - wykrywanie zagrożeń
+Ten związek działa w obie strony - lęk nasila objawy ADHD, tworząc frustrujące błędne koło. Gdy Twój umysł jest zajęty lękowymi myślami ("co jeśli zrobię błąd?", "co pomyślą inni?"), zostaje mniej zasobów uwagi na samo zadanie - koncentracja jeszcze bardziej cierpi. Unikanie zadań ze strachu przed porażką nakłada się na i tak już problematyczną prokrastynację charakterystyczną dla ADHD - nie robisz tego projektu nie tylko dlatego że nie możesz się zmusić, ale też dlatego że paraliżuje Cię strach. Chroniczne nadmierne pobudzenie (overarousal) związane z lękiem dodatkowo zaburza i tak już problematyczną regulację uwagi.
 
-**B. ADHD jako czynnik ryzyka lęku**:
-- Nieprzewidywalność (zapominanie, missed deadlines) → przewlekły stres → lęk
-- Trudności społeczne (impulsywność, przerywanie) → social anxiety
-- Rejection Sensitivity Dysphoria → lęk przed oceną
+Diagnostycznie wiele objawów się nakłada: niepokój i wewnętrzny restlessness występują w obu zaburzeniach, podobnie trudności z koncentracją i unikanie zadań. Ale są kluczowe różnice. **Typ myśli** jest inny: w lęku to konkretne, katastroficzne obawy ("co jeśli zrobię błąd i wszyscy zobaczą?"), podczas gdy w ADHD umysł po prostu wędruje bez konkretnego lęku ("hmm, co będzie na obiad?", "ciekawe czy ta piosenka..."). **Reakcja na zadania** różni się: lęk prowadzi do unikania zadań ze strachu przed porażką, ADHD powoduje trudności z inicjacją ale bez towarzyszącego lęku. **Symptomy fizyczne** lęku - napięcie mięśniowe, przyspieszone bicie serca, potliwość - są obecne w zaburzeniach lękowych, podczas gdy w czystym ADHD widzimy wewnętrzny niepokój bez tych fizjologicznych objawów.
 
-**C. Lęk nasila objawy ADHD**:
-- Umysł zajęty lękowymi myślami = mniej zasobów na zadanie → gorsze skupienie
-- Unikanie zadań ze strachu przed porażką → prokrastynacja (nakłada się na ADHD procrastination)
-- Overarousal → trudności z regulacją uwagi
+Terapeutycznie współwystępowanie wymaga ostrożności i dostosowania. W farmakoterapii pojawia się problem: leki stymulujące, skuteczne dla ADHD, mogą nasilać lęk u niektórych osób. Dlatego przy współwystępującym lęku często lepszy jest atomoxetine (niestymulujący lek na ADHD) w połączeniu z SSRI lub buspirone dla samego lęku. W terapii psychologicznej CBT musi adresować oba zaburzenia - techniki ekspozycji i restrukturyzacji poznawczej dla lęku łączone ze strategiami organizacyjnymi i zarządzania czasem dla ADHD. Praktyki uważności (mindfulness) mogą być szczególnie pomocne, adresując zarówno błądzenie umysłu w ADHD jak i ruminację lękową (więcej w Rozdziale 11).
 
-**Nakładanie objawów**:
-- Niepokój / restlessness (w obu)
-- Trudności z koncentracją
-- Unikanie zadań
-
-**Kluczowe różnice**:
-- **Typ myśli**: Lęk = konkretne obawy ("co jeśli zrobię błąd?"), ADHD = mind wandering ("co na obiad?")
-- **Reakcja na zadania**: Lęk = unikanie ze strachu, ADHD = trudności z inicjacją bez lęku
-- **Symptomy fizyczne**: Lęk = napięcie mięśniowe, tachykardia, potliwość; ADHD = wewnętrzny restlessness bez fizycznych symptomów lęku
-
-**Implikacje terapeutyczne**:
-- **Farmakoterapia**:
-  - Stymulujące mogą **nasilać lęk** u niektórych (ostrożność!)
-  - Atomoxetine (niestymulujący) może być lepszy przy współwystępującym lęku
-  - SSRI lub buspirone dla lęku
-- **Terapia**: CBT dla lęku + strategie ADHD, praktyki uważności (Rozdz. 11)
-
-**Paradoks**: Niektóre osoby z ADHD używają lęku jako "motywator" - deadline anxiety jako sposób na przezwyciężenie trudności z inicjacją. Gdy lęk jest leczony, mogą mieć jeszcze większe trudności z wykonaniem zadań. Wymaga dostosowania strategii.
+Jest też intrygujący paradoks, o którym rzadko się mówi: niektóre osoby z ADHD nieświadomie używają lęku jako "motywatora". Deadline anxiety - panika tuż przed terminem - staje się sposobem na przezwyciężenie trudności z inicjacją zadań charakterystycznej dla ADHD. "Pracuję najlepiej pod presją" często oznacza "potrzebuję adrenaliny strachu żeby w ogóle zacząć". Gdy lęk jest skutecznie leczony, te osoby mogą nagle odkryć że mają jeszcze większe trudności z wykonywaniem zadań - zniknął ich jedyny (choć patologiczny) system motywacyjny. To wymaga dostosowania strategii i znalezienia zdrowszych źródeł motywacji.
 
 ---
 
@@ -158,29 +107,15 @@ To rozdział o czymś czego nie mówią filmy o ADHD i uproszczone artykuły: AD
 
 ### 4. Zaburzenie afektywne dwubiegunowe (Bipolar Disorder)
 
-**Częstość**: **10-20%** osób z ADHD (wyższa niż w populacji ogólnej: ~2%)
+Zaburzenie afektywne dwubiegunowe występuje u **10-20% osób z ADHD** - znacznie więcej niż w populacji ogólnej gdzie spotyka około 2% ludzi. To jest jedna z najbardziej wymagających diagnoz różnicowych w psychiatrii, bo objawy nakładają się w sposób który może zmylić nawet doświadczonych klinicystów (szczegółowa diagnoza różnicowa w Rozdziale 4).
 
-**Dlaczego trudna diagnoza różnicowa?** (więcej w Rozdz. 4)
+Zarówno bipolar jak i ADHD manifestują się impulsywnością - nieprzemyślane zakupy, pochopne decyzje, mówienie bez zastanowienia. Obydwa powodują nadpobudliwość lub niepokój - niemożność usiedzenia w miejscu, wewnętrzny "motor". Obydwa prowadzą do rozproszonej uwagi - trudności ze skupieniem, przeskakiwanie między myślami. Obydwa mogą objawiać się gadatliwością - szybką, chaotyczną mową "pod presją".
 
-Objawy nakładające się:
-- Impulsywność
-- Nadpobudliwość / niepokój
-- Rozproszona uwaga
-- Gadatliwość
+Ale kluczowe różnice pomagają rozróżnić te zaburzenia. Pierwsza to **epizodyczność**: zaburzenie dwubiegunowe to zaburzenie epizodyczne - osoba przechodzi wyraźne epizody: manię lub hipomanię (podwyższony nastrój, energia), potem depresję (obniżony nastrój, brak energii), następnie eutymię (normalny nastrój). ADHD to zaburzenie z ciągłymi objawami - trudności są obecne każdego dnia, od dzieciństwa. Druga różnica to **zmniejszona potrzeba snu w manii** - osoba w epizodzie manii czuje się wypoczęta po 2-3 godzinach snu, pełna energii. To nie występuje w ADHD - osoby z ADHD mogą mieć trudności z zasypianiem, ale potrzebują normalnej ilości snu. Trzecia to **wielkościowe złudzenia** (grandosity) - w manii pojawia się zawyżona samoocena, poczucie że wszystko jest możliwe; w ADHD samoocena jest zazwyczaj niska z powodu chronicznych porażek.
 
-**Kluczowe różnice**:
-- **Epizodyczność**: Bipolar = wyraźne epizody (mania/hypomania → depresja → euthymia), ADHD = ciągłe objawy
-- **Zmniejszona potrzeba snu**: Typowa dla manii (czuje się wypoczęty po 2-3h snu), NIE dla ADHD
-- **Grandosity**: Zawyżona samoocena w manii, w ADHD często niska (chroniczne porażki)
+Dodatkowa komplikacja: część osób diagnozowanych z zaburzeniem dwubiegunowym to faktycznie osoby z ADHD z intensywną dysregulacją emocjonalną - gwałtowne wahania nastroju są interpretowane jako "epizody", choć nie spełniają kryteriów czasowych i jakościowych manii. Ale prawdziwe współwystępowanie także istnieje - około 10-20% osób ma obydwa zaburzenia jednocześnie.
 
-**Współwystępowanie w przeciwieństwie do błędnej diagnozy**:
-- Część osób diagnozowanych z bipolar to faktycznie ADHD z dysregulacją emocjonalną
-- Ale **prawdziwe współwystępowanie istnieje** (około dziesięć do dwadzieścia procent)
-
-**Implikacje terapeutyczne**:
-- **Ostrożność ze stymulującymi**: Mogą wywołać manię/hipomanię!
-- **Stabilizatory nastroju** (lithium, valproate, lamotrigine) + niestymulujące leki ADHD (atomoxetine)
-- **Wymaga psychiatry** z doświadczeniem w obu zaburzeniach
+To ma krytyczne implikacje terapeutyczne. Leki stymulujące, standardowe w ADHD, mogą wywołać lub nasilić epizod manii u osoby z bipolarem - to jest niebezpieczne i wymaga ostrożności. Leczenie często wymaga stabilizatorów nastroju (lithium, valproate, lamotrigine) w kombinacji z niestymulującymi lekami ADHD (atomoxetine). To wymaga psychiatry z doświadczeniem w obu zaburzeniach.
 
 ---
 
@@ -223,21 +158,13 @@ Objawy nakładające się:
 4. **Kokaína** i inne stymulujące
 5. **Opioids**
 
-**Dlaczego ADHD to czynnik ryzyka?**:
+Dlaczego ADHD jest takim silnym czynnikiem ryzyka uzależnień? Mechanizm jest wielotorowy i fascynujący.
 
-**A. Samomedykacja**:
-- **Nikotyna**: Stymuluje receptory nikotynowe → tymczasowa poprawa uwagi (krótkotrwałe, szkodliwe długoterm)
-- **Alkohol**: "Wyłącza" racing mind, zmniejsza restlessness
-- **Marihuana**: Redukuje niepokój (u niektórych), pomaga w snem
-- **Kokaina/amphetamines**: "Korygują" niedobór dopaminy (bardzo uzależniające!)
+Pierwszy mechanizm to **samomedykacja** - nieświadome używanie substancji do radzenia sobie z objawami ADHD. Nikotyna stymuluje receptory nikotynowe w mózgu i tymczasowo poprawia uwagę - dlatego osoby z ADHD palą znacznie częściej niż populacja ogólna (około 40%). To działa krótkoterminowo, ale jest szkodliwe długoterminowo i uzależniające. Alkohol "wyłącza" racing mind - ciągły potok myśli w ADHD - i zmniejsza wewnętrzny niepokój (restlessness). Marihuana u niektórych osób redukuje lęk i pomaga w zasypianiu. Kokaina i amfetamina "korygują" niedobór dopaminy w mózgu ADHD - działają podobnie do leków stymulujących, ale są bardzo uzależniające i destrukcyjne. Osoby nie myślą "będę się samomedykować" - po prostu zauważają że po nikotynie / alkoholu / marihuanie "czują się lepiej", "łatwiej im myśleć", "są spokojniejsi".
 
-**B. Impulsywność i poszukiwanie nowości**:
-- Trudności z oceną konsekwencji → eksperymentowanie z substancjami
-- DRD4-7R (gen związany z ADHD) także związany z novelty seeking
+Drugi mechanizm to **impulsywność i poszukiwanie nowości**. Osoby z ADHD mają trudności z oceną długoterminowych konsekwencji - "spróbuję raz" łatwo staje się "spróbuję kolejny raz". Gen DRD4-7R, związany z ADHD, jest także związany z novelty seeking - poszukiwaniem nowych, intensywnych doświadczeń. Substancje psychoaktywne są "nowością", "ekscytacją" - idealne dla mózgu szukającego stymulacji.
 
-**C. Środowisko**:
-- Trudności w szkole → peer pressure
-- Niska samoocena → uciekanie w substancje
+Trzeci mechanizm to **środowisko społeczne i psychologiczne**. Trudności w szkole prowadzą do peer pressure - przyłączenie się do "złej paczki", gdzie substancje są normą. Chroniczna niska samoocena (lata porażek, krytyki, poczucia "nie pasowania") prowadzi do uciekania w substancje jako sposób na zagłuszenie bólu emocjonalnego.
 
 **Implikacje terapeutyczne**:
 - **Leczenie ADHD może redukować ryzyko SUD**: Badania pokazują, że farmakoterapia ADHD w dzieciństwie zmniejsza ryzyko uzależnień w dorosłości

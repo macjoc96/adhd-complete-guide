@@ -131,15 +131,15 @@ ADHD opiera się na trzech głównych obszarach dysfunkcji:
 
 ### 1. Nieuwaga (Inattention)
 
-To nie tylko "łatwe rozpraszanie się". Nieuwaga w ADHD obejmuje:
+Kiedy myślisz o nieuwadze, prawdopodobnie wyobrażasz sobie osobę która łatwo się rozprasza - i to prawda, ale to tylko wierzchołek góry lodowej. Nieuwaga w ADHD to złożony zespół problemów z różnymi typami uwagi.
 
-**Trudności z uwagą selektywną**: Niemożność odfiltrowania nieistotnych bodźców. Wszystko przyciąga uwagę jednakowo - tykający zegar, rozmowa w tle, myśl o kolacji. Brak hierarchii ważności.
+Pierwszym problemem jest **uwaga selektywna** - zdolność do odfiltrowania nieistotnych bodźców i skupienia się na tym, co ważne. W ADHD ten filtr nie działa prawidłowo. Wszystko przyciąga uwagę jednakowo - tykający zegar jest równie "głośny" jak wykład profesora, rozmowa w tle równie intruzywna jak zadanie które próbujesz wykonać, a myśl o tym co będzie na kolację równie paląca jak raport który piszesz. Mózg nie potrafi stworzyć hierarchii ważności bodźców.
 
-**Problemy z uwagą podzielną**: Robienie dwóch rzeczy jednocześnie (słuchanie wykładu i notowanie) jest wyjątkowo trudne.
+Kolejny problem to **uwaga podzielna** - robienie dwóch rzeczy jednocześnie. Neurotypowe osoby mogą jednocześnie słuchać wykładu i notować, prowadzić samochód i rozmawiać z pasażerem, gotować obiad i kontrolować dzieci. Dla osoby z ADHD każde takie zadanie wymaga oddzielnego, pełnego zaangażowania uwagi - multitasking jest wyczerpujący i nieefektywny.
 
-**Deficyty uwagi trwałej**: Utrzymanie koncentracji przez dłuższy czas wymaga ogromnego wysiłku i jest szybko wyczerpujące.
+**Uwaga trwała** - zdolność do utrzymania koncentracji przez dłuższy czas - jest szczególnie problematyczna. Wyobraź sobie, że Twoja bateria uwagi rozładowuje się trzy razy szybciej niż u innych ludzi. Po piętnastu minutach czytania czujesz się jakbyś przeczytał godzinę - wyczerpany, rozproszony, z pustą głową. Utrzymanie koncentracji wymaga ogromnego wysiłku wolicjonalnego i jest szybko wyczerpujące.
 
-**Wewnętrzna rozpraszalność**: Nie tylko bodźce zewnętrzne - własne myśli też rozpraszają. "Mind wandering" jest częstsze i intensywniejsze.
+Wreszcie, jest **wewnętrzna rozpraszalność** - i to jest coś, czego zewnętrzni obserwatorzy nie widzą. Nie tylko bodźce zewnętrzne rozpraszają. Własne myśli także. W ADHD "mind wandering" - spontaniczne wędrowanie umysłu między tematami - jest częstsze, intensywniejsze i trudniejsze do kontrolowania. Możesz siedzieć w idealnie cichym pokoju, bez żadnych rozpraszaczy, a Twój własny umysł produkuje ciągły strumień myśli, skojarzeń, wspomnień, planów. To jak próba skupienia się podczas gdy ktoś nieustannie pokazuje Ci różne obrazki i opowiada różne historie.
 
 ### 2. Nadpobudliwość (Hyperactivity)
 
@@ -149,11 +149,13 @@ Nadpobudliwość wygląda radykalnie inaczej w różnych fazach życia. **U dzie
 
 ### 3. Impulsywność (Impulsivity)
 
-**Poznawcza**: Wyrzucanie odpowiedzi, podejmowanie decyzji bez namysłu, przeskakiwanie do wniosków.
+Impulsywność to może najbardziej widoczny na zewnątrz objaw ADHD - i przejawia się na trzech różnych poziomach.
 
-**Behawioralna**: Przerywanie innym, trudności z czekaniem, działanie bez rozważenia konsekwencji.
+**Impulsywność poznawcza** dotyka Twoich myśli i procesów decyzyjnych. Wyrzucasz odpowiedź zanim pytanie zostało dokończone - nie dlatego, że znasz odpowiedź, ale dlatego, że nie możesz zatrzymać myśli która przyszła Ci do głowy. Podejmujesz decyzje bez namysłu, bazując na pierwszej informacji która się pojawia, bez rozważenia alternatyw. Przeskakujesz do wniosków, wypełniając luki w informacjach własnymi założeniami. Twój umysł działa w trybie "strzał-odpowiedź", bez pauzy na deliberację.
 
-**Emocjonalna**: Gwałtowne reakcje emocjonalne, trudności z regulacją uczuć, niska tolerancja frustracji.
+**Impulsywność behawioralna** to Twoje działania i zachowania. Przerywasz innym w połowie zdania, bo myśl która przyszła Ci do głowy wydaje się zbyt ważna żeby czekać. Nie potrafisz czekać w kolejce - każda sekunda czekania to męczarnia, prowokująca niecierpliwość i frustrację. Działasz bez rozważenia konsekwencji - kupujesz rzecz bo wygląda fajnie teraz, nie myśląc o rachunkach za tydzień; wysyłasz maila w przypływie emocji, żałując tego pięć minut później; podejmujesz ryzykowne decyzje bo wydają się ekscytujące w tej chwili.
+
+**Impulsywność emocjonalna** jest najtrudniejsza do zniesienia - dla Ciebie i dla otaczających Cię ludzi. Twoje reakcje emocjonalne są gwałtowne, intensywne i natychmiastowe. Drobne irytacje wywołują nieproporcjonalną frustrację. Krytyka, która neurotypowa osoba zignorowałaby lub racjonalnie przetworzyła, boli Cię jak cios. Trudności z regulacją uczuć sprawiają, że przechodzisz od radości do smutku, od entuzjazmu do apatii w ciągu minut. Niska tolerancja frustracji oznacza, że gdy rzeczy nie idą zgodnie z planem, emocjonalny wybuch jest bliski i trudny do powstrzymania.
 
 ---
 

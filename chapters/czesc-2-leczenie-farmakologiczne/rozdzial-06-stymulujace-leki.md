@@ -88,19 +88,11 @@ Ten rozdział to przewodnik po lekach które dla wielu osób z ADHD są kamienie
 
 **Dawkowanie**: 2-3x dziennie
 
-**Zalety**:
-- Elastyczność - można dostosować dawkę do potrzeb dnia
-- Szybki początek działania (~20-30 min)
-- Krótsza ekspozycja (jeśli działania niepożądane)
-- Tańsze
+Preparaty krótkodziałające mają swoje mocne i słabe strony. Z jednej strony oferują **elastyczność** - możesz dostosować dawkę do potrzeb konkretnego dnia, zwiększyć ją kiedy potrzebujesz więcej wsparcia, pominąć kiedy nie. Mają **szybki początek działania** (około 20-30 minut), co jest pomocne kiedy potrzebujesz natychmiastowego efektu. Oferują także **krótszą ekspozycję** - jeśli pojawią się działania niepożądane, wiesz że lek przestanie działać za kilka godzin. I są **tańsze** niż długodziałające wersje.
 
-**Wady**:
-- Konieczność pamiętania o kolejnych dawkach (ironiczne przy ADHD!)
-- "Peaks and valleys" - wahania poziomu leku, możliwy efekt odbicia (pogorszenie objawów gdy lek przestaje działać)
-- Większe ryzyko nadużycia (gwałtowny spike = większy potencjał)
-- Stygmat (branie leku w szkole/pracy)
+Z drugiej strony mają frustrujące wady. Pierwsza to **konieczność pamiętania o kolejnych dawkach** - co jest ironiczne przy ADHD, gdzie zapominanie jest codziennością. Druga to **"peaks and valleys"** - wahania poziomu leku we krwi, które prowadzą do zmiennej skuteczności i możliwego efektu odbicia (rebound) - pogorszenia objawów gdy lek przestaje działać, czasem nawet gorzej niż przed dawką. Trzecia to **większe ryzyko nadużycia** - gwałtowny spike stężenia we krwi ma większy potencjał uzależniający niż powolne narastanie. Czwarta to **stygmat** - branie leku w szkole lub w pracy jest widoczne, może budzić pytania i osądy.
 
-**Dla kogo**: Osoby potrzebujące pokrycia tylko części dnia (np. tylko rano), dzieci zaczynające leczenie (łatwiejsza titracja).
+Preparaty krótkodziałające są najlepsze dla osób potrzebujących pokrycia tylko części dnia (np. tylko poranne godziny nauki) lub dla dzieci zaczynających leczenie, gdzie łatwiejsza titracja małymi dawkami jest zaletą.
 
 ### Long-acting (LA) / Extended-release (XR) - Długodziałające
 
@@ -113,20 +105,9 @@ Ten rozdział to przewodnik po lekach które dla wielu osób z ADHD są kamienie
 - **Beaded** (Medikinet XL): Mikrogranulki - część natychmiastowa, część opóźniona
 - **Prodrug** (Vyvanse/lisdexamfetamina): Nieaktywna forma przekształcana w organizmie
 
-**Zalety**:
-- Wygoda - jedna dawka rano
-- Stabilniejsze poziomy leku (mniej wahań)
-- Pokrycie całego dnia szkolnego/roboczego
-- Mniejsze ryzyko nadużycia (brak spike'u)
-- Mniej stygmatyzujące
+Preparaty długodziałające są dla większości osób lepszym wyborem, szczególnie dla dorosłych, uczniów i osób pracujących. Ich główna zaleta to **wygoda** - jedna dawka rano i jesteś zabezpieczony na cały dzień. To eliminuje problem zapominania o kolejnych dawkach. Zapewniają **stabilniejsze poziomy leku** we krwi - mniej wahań, mniej efektu odbicia, bardziej płynne działanie. Oferują **pokrycie całego dnia** szkolnego lub roboczego - od rana do wieczora, bez przerw w działaniu w kluczowych momentach. Mają **mniejsze ryzyko nadużycia** - brak gwałtownego spike'u oznacza mniejszy potencjał uzależniający. I są **mniej stygmatyzujące** - nikt nie widzi jak bierzesz lek w ciągu dnia.
 
-**Wady**:
-- Mniejsza elastyczność
-- Trudności ze snem jeśli brane za późno
-- Droższe (szczególnie oryginały)
-- Trudniejsza titracja (większe skoki dawek)
-
-**Dla kogo**: Większość osób - szczególnie dorosłych, uczniów, pracujących.
+Ale mają też wady. Pierwsza to **mniejsza elastyczność** - jeśli potrzebujesz pokrycia tylko na kilka godzin, długodziałający preparat to za dużo. Druga to **trudności ze snem** jeśli lek jest brany zbyt późno - długi czas działania oznacza że może interferować z zasypianiem. Trzecia to **wyższy koszt** - długodziałające preparaty, szczególnie oryginały, są znacznie droższe niż generyki krótkodziałające. Czwarta to **trudniejsza titracja** - dawki są dostępne w większych skokach (np. 18mg, 27mg, 36mg dla Concerty), co utrudnia precyzyjne dostosowanie.
 
 ### Hybrydy i strategie
 
